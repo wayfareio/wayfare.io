@@ -1,0 +1,26 @@
+{
+  "name": "wayfare.io",
+  "authors": [
+    "Brandon Arbini <b@wayfare.io>"
+  ],
+  "description": "Wayfare",
+  "main": "",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "homepage": "wayfare.io",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "_assets/components/",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "v4.0.0-alpha.3",
+    "font-awesome": "^4.6.3"
+  }
+}
