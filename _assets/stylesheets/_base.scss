@@ -2,16 +2,18 @@
 
 $enable-flex: true;
 $enable-transitions: true;
-$brand-primary: #108B6F;
+$brand-primary: #108b6f;
+$link-color: $brand-primary;
+$link-hover-color: $link-color;
+$link-hover-decoration: none;
+$border-radius: 2px;
+$border-radius-lg: 2px;
+$border-radius-sm: 2px;
 @import "bootstrap/scss/bootstrap";
 
 $fa-font-path: "/assets/fonts";
 @import "font-awesome/css/font-awesome";
 
 @import "helpers";
-
-h1, h2, h3, h4, h5, h6 { color: $brand-primary; }
-a {
-  color: $link-color; border-bottom: 2px dotted rgba(0,0,0,0.2); text-decoration: none; cursor: pointer;
-  &.active, &:hover { color: $link-color; border-bottom: 2px solid gold; text-decoration: none; }
-}
+@import "links";
+@import "typography";
