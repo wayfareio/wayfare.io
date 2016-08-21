@@ -1,7 +1,8 @@
 ---
 title: Home
 position: 0
-hidden: true
+nav:
+  hide: true
 ---
 
 ## Lorem ipsum dolor sit amet
