@@ -1,6 +1,6 @@
 ---
 title: Events
-position: 6
+position: 5
 nav:
   id: events
   active: events

@@ -1,6 +1,6 @@
 ---
 title: Startups
-position: 5
+position: 6
 nav:
   id: startups
   active: startups
