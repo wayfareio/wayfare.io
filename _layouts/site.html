@@ -2,13 +2,9 @@
 layout: base
 ---
 
-<div id="page" class="page big-slide-push clearfix">
-  <header class="page clearfix">
-    {% include header.html %}
-  </header>
+<div class="page big-slide-push">
+  {% include header.html %}
   {{ content }}
 </div>
-<footer class="page big-slide-push clearfix">
-  {% include footer.html %}
-</footer>
+{% include footer.html %}
 {% include nav-mobile.html %}

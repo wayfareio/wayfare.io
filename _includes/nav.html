@@ -1,14 +1,17 @@
-<nav role="navigation">
-  <ul class="list-unstyled list-inline">
+<nav class="navbar navbar-light" role="navigation">
+  <a class="navbar-brand _no-underline" href="{{page.logo_link | default:'/'}}">
+    <img src="/assets/images/wayfare-logo.png" alt="{{ site.title }}" width="{{ page.logo_width | default:'120' }}">
+  </a>
+  <ul class="nav navbar-nav">
     {% assign site_pages = site.pages | sort:'position' %}
     {% for site_page in site_pages %}
-      {% unless site_page.nav.hide %}
-        <li>
-          <a href="{{ site_page.url | prepend: site.baseurl }}"{% if site_page.nav.id == page.nav.active %} class="active"{% endif %}>
-            {{ site_page.nav.title | default:site_page.title }}
+      {% if site_page.nav.site.show %}
+        <li class="nav-item{% if site_page.nav.id == page.nav.site.highlight %} active{% endif %}">
+          <a href="{{ site_page.url | prepend: site.baseurl }}" class="nav-link">
+            {{ site_page.nav.site.title | default:site_page.title }}
           </a>
         </li>
-      {% endunless %}
+      {% endif %}
     {% endfor %}
   </ul>
 </nav>
