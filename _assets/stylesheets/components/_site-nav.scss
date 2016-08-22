@@ -1,0 +1,12 @@
+.site-nav {
+  > .navbar-nav { position: relative; top: 40px; }
+  > .navbar-nav .nav-link {
+    font-family: "brandon-grotesque";
+    @include media-breakpoint-up(lg) {
+      font-size: 1.2rem;
+    }
+    @include media-breakpoint-up(xl) {
+      font-size: 1.3rem;
+    }
+  }
+}
