@@ -1,4 +1,4 @@
-<nav class="site-nav navbar navbar-light" role="navigation">
+<nav class="nav-site navbar navbar-light" role="navigation">
   <a class="navbar-brand _no-underline" href="{{page.logo_link | default:'/'}}">
     <img src="/assets/images/wayfare-logo.png" alt="{{ site.title }}">
   </a>
@@ -14,4 +14,7 @@
       {% endif %}
     {% endfor %}
   </ul>
+  <button type="button" class="navbar-toggler hidden-md-up pull-right">
+    &#9776;
+  </button>
 </nav>
