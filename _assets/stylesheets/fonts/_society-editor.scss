@@ -22,3 +22,4 @@
 /* @import must be at top of file, otherwise CSS will not work */
 @import url("//hello.myfonts.net/count/31f3b6");
 @font-face {font-family: 'SocietyEditor';src: url('/assets/fonts/society-editor.eot');src: url('/assets/fonts/society-editor.eot?#iefix') format('embedded-opentype'),url('/assets/fonts/society-editor.woff2') format('woff2'),url('/assets/fonts/society-editor.woff') format('woff'),url('/assets/fonts/society-editor.ttf') format('truetype');}
+.society-editor { font-family: 'SocietyEditor'; }
