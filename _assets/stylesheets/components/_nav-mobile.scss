@@ -1,0 +1,7 @@
+.nav-mobile {
+  position: fixed; right: -15.625rem; width: 15.625rem; background: #eee;
+  .nav-item {
+    padding: 5px 10px; border-bottom: 1px solid #e5e5e5;
+    &:first-child { border-top: 1px solid #e5e5e5; }
+  }
+}
