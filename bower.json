@@ -21,6 +21,7 @@
   ],
   "devDependencies": {
     "bootstrap": "v4.0.0-alpha.3",
-    "font-awesome": "^4.6.3"
+    "font-awesome": "^4.6.3",
+    "bigSlide": "^0.12.0"
   }
 }

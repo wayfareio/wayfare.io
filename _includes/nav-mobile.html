@@ -1,16 +1,14 @@
-<div id="big-slide-panel" class="mobile-nav big-slide-panel">
-  <nav role="navigation">
-    <ul class="list-unstyled list-inline">
-      {% assign site_pages = site.pages | sort:'position' %}
-      {% for site_page in site_pages %}
-        {% if site_page.nav.site.show %}
-          <li class="list-inline-item {% if site_page.nav.id == page.nav.site.highlight %}active{% endif %}">
-            <a href="{{ site_page.url | prepend: site.baseurl }}">
-              {{ site_page.nav.site.title | default:site_page.title }}
-            </a>
-          </li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-  </nav>
-</div>
+<nav class="nav nav-mobile" role="navigation">
+  <ul class="list-unstyled">
+    {% assign site_pages = site.pages | sort:'position' %}
+    {% for site_page in site_pages %}
+      {% if site_page.nav.site.show %}
+        <li class="nav-item {% if site_page.nav.id == page.nav.site.highlight %}active{% endif %}">
+          <a class="nav-link" href="{{ site_page.url | prepend: site.baseurl }}">
+            {{ site_page.nav.site.title | default:site_page.title }}
+          </a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav>

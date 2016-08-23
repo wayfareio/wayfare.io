@@ -20,6 +20,14 @@ guard :copy, from: '_assets/images',
   watch(%r{^_assets/images/.+$})
 end
 
+guard :copy, from: '_assets/fonts',
+             to: 'assets/fonts',
+             mkpath: true,
+             delete: true,
+             run_at_start: true do
+  watch(%r{^_assets/fonts/.+$})
+end
+
 guard :copy, from: '_assets/components/font-awesome/fonts',
              to: 'assets/fonts',
              mkpath: true,
