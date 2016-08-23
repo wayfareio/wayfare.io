@@ -1,37 +1,71 @@
 .site-nav {
+  margin-bottom: 20px;
   > .navbar-brand img {
-    width: 120px;
-    @include media-breakpoint-up(xl) {
-      width: 200px;
+    position: relative; top: 10px;
+    @include media-breakpoint-only(xs) {
+      width: 100px; height: 63px;
+    }
+    @include media-breakpoint-only(sm) {
+      width: 120px; height: 76px;
+    }
+    @include media-breakpoint-only(md) {
+      width: 120px; height: 76px;
+    }
+    @include media-breakpoint-only(lg) {
+      width: 160px; height: 101px;
+    }
+    @include media-breakpoint-only(xl) {
+      width: 200px; height: 127px;
     }
   }
   > .navbar-nav {
-    position: relative; top: 40px;
+    position: relative;
+    @include media-breakpoint-only(xs) {
+      display: none;
+    }
+    @include media-breakpoint-only(sm) {
+      display: none;
+    }
+    @include media-breakpoint-only(md) {
+      top: 50px;
+    }
+    @include media-breakpoint-only(lg) {
+      top: 65px;
+    }
+    @include media-breakpoint-only(xl) {
+      top: 80px;
+    }
   }
   > .navbar-nav .nav-item {
     margin-left: 0;
-    @include media-breakpoint-up(xl) {
+    @include media-breakpoint-only(xl) {
       margin-left: 2rem;
     }
   }
   > .navbar-nav .nav-item+.nav-item {
     margin-left: 1rem;
-    @include media-breakpoint-up(xl) {
-      margin-left: 3rem;
+    @include media-breakpoint-only(md) {
+      margin-left: 1.25rem;
+    }
+    @include media-breakpoint-only(lg) {
+      margin-left: 1.5rem;
+    }
+    @include media-breakpoint-only(xl) {
+      margin-left: 2rem;
     }
   }
   > .navbar-nav .nav-link {
     font-family: "brandon-grotesque";
-    @include media-breakpoint-up(sm) {
+    @include media-breakpoint-only(sm) {
       font-size: 0.6rem;
     }
-    @include media-breakpoint-up(md) {
+    @include media-breakpoint-only(md) {
       font-size: 0.9rem;
     }
-    @include media-breakpoint-up(lg) {
+    @include media-breakpoint-only(lg) {
       font-size: 1.2rem;
     }
-    @include media-breakpoint-up(xl) {
+    @include media-breakpoint-only(xl) {
       font-size: 1.3rem;
     }
   }
