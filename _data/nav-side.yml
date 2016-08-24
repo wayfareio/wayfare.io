@@ -1,0 +1,10 @@
+about:
+  - id: about
+    title: About Wayfare
+    url: /about
+  - id: our-community
+    title: Our Community
+    url: /about/our-community
+  - id: our-values
+    title: Our Values
+    url: /about/our-values

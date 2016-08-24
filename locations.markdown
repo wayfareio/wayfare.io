@@ -4,7 +4,6 @@ position: 3
 nav:
   id: locations
   site:
-    show: true
     highlight: locations
 ---
 

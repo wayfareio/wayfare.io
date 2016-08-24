@@ -4,7 +4,6 @@ position: 4
 nav:
   id: pricing
   site:
-    show: true
     highlight: pricing
 ---
 

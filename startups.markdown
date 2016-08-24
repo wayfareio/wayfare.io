@@ -4,7 +4,6 @@ position: 5
 nav:
   id: startups
   site:
-    show: true
     highlight: startups
 ---
 

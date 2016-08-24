@@ -1,0 +1,11 @@
+<nav class="nav-side" role="navigation">
+  <ul class="nav">
+    {% for side_page in site.data.nav-side[page.nav.side.id] %}
+      <li class="nav-item{% if side_page.id == page.nav.side.highlight %} active{% endif %}">
+        <a href="{{ side_page.url | prepend: site.baseurl }}" class="nav-link">
+          {{ side_page.title }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>

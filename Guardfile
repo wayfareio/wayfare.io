@@ -37,17 +37,5 @@ guard :copy, from: '_assets/components/font-awesome/fonts',
 end
 
 guard :livereload do
-  extensions = {
-    css: :css,
-    scss: :css,
-    sass: :css,
-    js: :js,
-    coffee: :js,
-    html: :html,
-    png: :png,
-    gif: :gif,
-    jpg: :jpg,
-    jpeg: :jpeg
-  }
-  watch(%r{_site/.+\.(#{extensions.values.uniq * '|'})})
+  watch /_site\/.*/
 end

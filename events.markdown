@@ -4,7 +4,6 @@ position: 6
 nav:
   id: events
   site:
-    show: true
     highlight: events
 ---
 

@@ -4,8 +4,17 @@ layout: site
 
 <div class="content container">
   <div class="row">
-    <div class="col-xs-12">
-      {{ content }}
-    </div>
+    {% if page.nav.side %}
+      <div class="col-xs-3">
+        {% include nav-side.html %}
+      </div>
+      <div class="col-xs-9">
+        {{ content }}
+      </div>
+    {% else %}
+      <div class="col-xs-12">
+        {{ content }}
+      </div>
+    {% endif %}
   </div>
 </div>

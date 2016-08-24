@@ -4,7 +4,6 @@ position: 2
 nav:
   id: membership
   site:
-    show: true
     highlight: membership
 ---
 
