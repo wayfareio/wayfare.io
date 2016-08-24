@@ -1,6 +1,7 @@
 ---
 title: Our Community
 date: 2016-08-21 16:16:00 Z
+position: 0
 nav:
   id: our-community
   site:
