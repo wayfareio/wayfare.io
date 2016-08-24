@@ -10,6 +10,7 @@ $border-radius: 2px;
 $border-radius-lg: 2px;
 $border-radius-sm: 2px;
 $headings-font-family: "brandon-grotesque";
+$font-family-sans-serif: "brandon-grotesque";
 @import "bootstrap/scss/bootstrap";
 
 $fa-font-path: "/assets/fonts";
@@ -19,3 +20,4 @@ $fa-font-path: "/assets/fonts";
 @import "links";
 @import "fonts";
 @import "typography";
+@import "card";
