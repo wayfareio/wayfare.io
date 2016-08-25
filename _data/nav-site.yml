@@ -7,9 +7,6 @@
 - id: locations
   title: Locations
   url: /locations
-- id: pricing
-  title: Pricing
-  url: /pricing
 - id: startups
   title: Startups
   url: /startups
