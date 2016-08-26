@@ -4,7 +4,7 @@ module Jekyll
       super
       split_opts = options.split(" ")
       @icon_name = split_opts[0]
-      @icon_classes = ["icon"]
+      @icon_classes = ["icon", "icon-#{@icon_name}"]
       @icon_classes += split_opts[1..-1].map{|icon_class| "icon-#{icon_class}"}
     end
 

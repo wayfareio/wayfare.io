@@ -15,4 +15,6 @@
   [data-fill-color='1'] { fill: $gray-light; }
   [data-stroke-color='2'] { stroke: $brand-primary; }
   [data-fill-color='2'] { fill: $brand-primary; }
+
+  &.icon-xl.icon-computer-desk { position: relative; top: -9px; }
 }
