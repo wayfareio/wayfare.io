@@ -2,4 +2,8 @@
   cursor: pointer;
   border-bottom: 2px dotted rgba(0,0,0,0.2);
   &.active, &:hover { border-bottom: 2px solid gold; }
+  &.btn {
+    border-bottom: 0;
+    &.active, &:hover { border-bottom: 0; }
+  }
 }
