@@ -1,0 +1,36 @@
+.home-hero {
+  position: relative;
+
+  > h2 { position: absolute; width: calc(100% - 30px); top: 33%; color: white; text-transform: uppercase; font-size: 1.5rem; font-weight: 900; }
+  > h2 > .script { text-transform: none; font-size: 2.2rem; font-weight: normal; }
+  @include media-breakpoint-only(xl) {
+    > h2 { font-size: 3.5rem; top: 30%; }
+    > h2 > .script { font-size: 5rem; }
+  }
+  @include media-breakpoint-only(lg) {
+    > h2 { font-size: 3.5rem; top: 30%; }
+    > h2 > .script { font-size: 5rem; }
+  }
+  @include media-breakpoint-only(md) {
+    > h2 { font-size: 2.5rem; top: 25%; }
+    > h2 > .script { font-size: 3.5rem; }
+  }
+  @include media-breakpoint-only(xs) {
+    > h2 { font-size: 1.8rem; top: 35%; }
+    > h2 > .script { font-size: 2.5rem; }
+  }
+
+  .actions {
+    @include make-row(); position: absolute; text-transform: uppercase;
+    @include media-breakpoint-up(lg) {
+      top: 66%; width: 60%; left: calc(20% + 15px);
+    }
+    @include media-breakpoint-down(md) {
+      top: 66%; width: 80%; left: calc(10% + 15px);
+      .btn-lg { font-size: 0.8rem; padding: .5rem 1rem; }
+    }
+    @include media-breakpoint-only(xs) {
+      display: none;
+    }
+  }
+}
