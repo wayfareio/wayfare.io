@@ -8,3 +8,12 @@ about:
   - id: our-values
     title: Our Values
     url: /about/our-values
+  - id: our-model
+    title: Our Model
+    url: /about/our-model
+  - id: our-staff
+    title: Our Staff
+    url: /about/our-staff
+  - id: common-good
+    title: The Common Good
+    url: /about/common-good
