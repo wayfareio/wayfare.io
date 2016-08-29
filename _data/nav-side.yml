@@ -20,7 +20,6 @@ about:
 membership:
   - id: membership
     title: Membership
-    url: /membership
   - id: connect-and-share
     title: Connect &amp; Share
     url: /membership/connect-and-share
