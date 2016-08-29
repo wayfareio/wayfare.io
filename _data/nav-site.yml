@@ -1,6 +1,3 @@
-- id: about
-  title: About
-  url: /about
 - id: membership
   title: Membership
   url: /membership
@@ -13,3 +10,6 @@
 - id: events
   title: Events
   url: /events
+- id: about
+  title: About
+  url: /about
