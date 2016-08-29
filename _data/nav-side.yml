@@ -8,3 +8,27 @@ about:
   - id: our-values
     title: Our Values
     url: /about/our-values
+costa-mesa:
+  - id: whq-title
+    title: Costa Mesa
+  - id: whq-about
+    title: About this Space
+    url: /locations/costa-mesa
+  - id: whq-space-features
+    title: Space Features
+    url: /locations/costa-mesa/space-features
+  - id: whq-price-plans
+    title: Price Plans
+    url: /locations/costa-mesa/price-plans
+  - id: whq-tours-drop-ins
+    title: Tours &amp; Drop-ins
+    url: /locations/costa-mesa/tours-and-drop-ins
+  - id: whq-meeting-rooms
+    title: Meeting Rooms
+    url: /locations/costa-mesa/meeting-rooms
+  - id: whq-events
+    title: Events
+    url: /locations/costa-mesa/events
+  - id: whq-contact
+    title: Contact
+    url: /locations/costa-mesa/contact

@@ -2,9 +2,6 @@
 title: Wayfare
 timezone: UTC
 collections:
-  locations:
-    title: Locations
-    output: true
   posts:
     title: Posts
     output: true

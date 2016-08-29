@@ -1,0 +1,39 @@
+---
+title: Locations
+position: 3
+nav:
+  id: locations
+  site:
+    highlight: locations
+map: true
+---
+
+<div class="mapbox-map m-y-3"></div>
+<script>
+  var map = L.mapbox.map($(".mapbox-map").get(0), 'wayfare.18b0d2ll', {
+    scrollWheelZoom: false,
+    closePopupOnClick: false
+  });
+  map.featureLayer.on('ready', function(e) {
+    map.featureLayer.eachLayer(function(layer) {
+      layer.openPopup();
+      map.panTo(layer.getLatLng());
+    });
+    map.featureLayer.on('click', function(e) {
+      map.panTo(e.layer.getLatLng());
+    });
+  });
+</script>
+
+<div class="row m-b-3">
+  <div class="col-xs-12">
+    {% for location in site.data.locations %}
+      <h2>{{ location.name }}</h2>
+      <address>
+        {{ location.address.street1 }}{% if location.address.street2 %}, {{ location.address.street2 }}{% endif %}<br>
+        {{ location.address.city }}, {{ location.address.state }} {{ location.address.postal_code }}
+      </address>
+      <a href="/locations/{{ location.id }}" class="btn btn-primary">View more</a>
+    {% endfor %}
+  </div>
+</div>
