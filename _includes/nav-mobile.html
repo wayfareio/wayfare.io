@@ -3,7 +3,7 @@
     {% for site_page in site.data.nav-site %}
       <li class="nav-item{% if site_page.id == page.nav.site.highlight %} active{% endif %}">
         <a href="{{ site_page.url | prepend: site.baseurl }}" class="nav-link">
-          {{ site_page.title }}
+          {{ site_page.title | upcase }}
         </a>
       </li>
     {% endfor %}
