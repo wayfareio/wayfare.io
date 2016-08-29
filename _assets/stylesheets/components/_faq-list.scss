@@ -1,0 +1,11 @@
+$faq-list-indent: 1.25rem;
+
+.faq-list {
+  padding-left: $faq-list-indent;
+  > .faq-item { padding: 0.25rem 0; }
+  > .faq-item > .faq-question a {
+    display: inline-block; margin-bottom: 0.5rem;
+    &:before { content: "\25be"; display: inline-block; margin-left: -$faq-list-indent; width: $faq-list-indent; }
+    &.collapsed:before { content: "\25b8"; }
+  }
+}

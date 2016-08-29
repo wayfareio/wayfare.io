@@ -8,6 +8,37 @@ about:
   - id: our-values
     title: Our Values
     url: /about/our-values
+  - id: our-model
+    title: Our Model
+    url: /about/our-model
+  - id: our-staff
+    title: Our Staff
+    url: /about/our-staff
+  - id: common-good
+    title: The Common Good
+    url: /about/common-good
+membership:
+  - id: membership
+    title: Membership
+    url: /membership
+  - id: connect-and-share
+    title: Connect &amp; Share
+    url: /membership/connect-and-share
+  - id: access-to-workspaces
+    title: Access to Workspaces
+    url: /membership/access-to-workspaces
+  - id: gifts-every-month
+    title: Gifts Curated Every Month
+    url: /membership/gifts-every-month
+  - id: big-savings
+    title: Big Savings
+    url: /membership/big-savings
+  - id: learn-from-others
+    title: Learn from Others
+    url: /membership/learn-from-others
+  - id: be-challenged-and-inspired
+    title: Challenge &amp; Inspiration
+    url: /membership/be-challenged-and-inspired
 costa-mesa:
   - id: whq-title
     title: Costa Mesa
