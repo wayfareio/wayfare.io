@@ -15,10 +15,6 @@ map: true
     closePopupOnClick: false
   });
   map.featureLayer.on('ready', function(e) {
-    map.featureLayer.eachLayer(function(layer) {
-      layer.openPopup();
-      map.panTo(layer.getLatLng());
-    });
     map.featureLayer.on('click', function(e) {
       map.panTo(e.layer.getLatLng());
     });
@@ -28,12 +24,22 @@ map: true
 <div class="row m-y-2">
   {% for location in site.data.locations %}
     <div class="col-xs">
-      <h2 class="m-b-1"><a href="/locations/{{ location.id }}">{{ location.name }}</a></h2>
+      <h2 class="m-b-1">
+        {% if location.status == 'open' %}
+          <a href="/locations/{{ location.id }}">{{ location.name }}</a>
+        {% else %}
+          {{ location.name }}
+        {% endif %}
+      </h2>
       <address>
         {{ location.address.street1 }}{% if location.address.street2 %}, {{ location.address.street2 }}{% endif %}<br>
         {{ location.address.city }}, {{ location.address.state }} {{ location.address.postal_code }}
       </address>
-      <a href="/locations/{{ location.id }}" class="btn btn-primary">View more</a>
+      {% if location.status == 'open' %}
+        <a href="/locations/{{ location.id }}" class="btn btn-primary">Learn more</a>
+      {% else %}
+        <button type="button" name="button" class="btn btn-primary" disabled>Coming soon</button>
+      {% endif %}
     </div>
   {% endfor %}
 </div>
