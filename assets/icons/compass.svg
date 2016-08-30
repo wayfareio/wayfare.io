@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <title>compass</title>
+  <g>
+    <circle cx="12" cy="12" r="11.5" fill="none" stroke="#000" stroke-linejoin="round"/>
+    <polyline points="10.49 9.49 12 0.5 13.51 9.49" fill="none" stroke="#000" stroke-linejoin="round"/>
+    <polyline points="14.51 10.49 23.5 12 14.51 13.51" fill="none" stroke="#000" stroke-linejoin="round"/>
+    <polyline points="13.51 14.51 12 23.5 10.49 14.51" fill="none" stroke="#000" stroke-linejoin="round"/>
+    <polyline points="9.49 13.51 0.5 12 9.49 10.49" fill="none" stroke="#000" stroke-linejoin="round"/>
+    <polygon points="7.5 16.5 12 13.5 16.5 16.5 13.5 12 16.5 7.5 12 10.5 7.5 7.5 10.5 12 7.5 16.5" fill="none" stroke="#555" stroke-linejoin="round"/>
+  </g>
+  <rect width="24" height="24" fill="none"/>
+</svg>
