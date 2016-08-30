@@ -50,9 +50,9 @@ costa-mesa:
   - id: whq-price-plans
     title: Price Plans
     url: /locations/costa-mesa/price-plans
-  - id: whq-tours-drop-ins
-    title: Tours &amp; Drop-ins
-    url: /locations/costa-mesa/tours-and-drop-ins
+  - id: whq-drop-ins
+    title: Drop-ins
+    url: /locations/costa-mesa/drop-ins
   - id: whq-meeting-rooms
     title: Meeting Rooms
     url: /locations/costa-mesa/meeting-rooms
