@@ -8,6 +8,10 @@ nav:
   side:
     id: costa-mesa
     highlight: whq-tours-drop-ins
+banner:
+  image: /assets/images/topo-banner-bg.jpg
+  title: Costa Mesa HQ
+  subtitle: 270 Baker St E, Ste 200, Costa Mesa, CA
 ---
 
 ## Tours &amp; Drop-ins
