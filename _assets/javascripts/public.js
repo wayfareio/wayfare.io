@@ -6,4 +6,5 @@
 //= require bigSlide/dist/bigSlide
 //= require select2/dist/js/select2
 //= require wayfare/bigslide
+//= require wayfare/nav-side
 //= require wayfare/select
