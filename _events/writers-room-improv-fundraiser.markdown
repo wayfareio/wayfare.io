@@ -1,6 +1,7 @@
 ---
 title: Writer's Room Improv Fundraiser
 date: 2016-08-31 19:33:00 Z
+position: 1
 images:
   splash_image: "/assets/images/locations/costa-mesa/upcoming-events/2016-09-16-writers-room-event-hero.jpg"
   thumb_image: "/assets/images/locations/costa-mesa/upcoming-events/2016-09-16-writers-room-event-thumbnail.jpg"

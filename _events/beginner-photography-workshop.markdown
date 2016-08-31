@@ -1,6 +1,7 @@
 ---
 title: Beginner Photography Workshop
 date: 2016-08-31 20:50:00 Z
+position: 0
 images:
   splash_image: 
   thumb_image: 
