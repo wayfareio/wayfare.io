@@ -12,6 +12,7 @@ urls:
   details_url: 
   ticket_url: 
   rvsp_url: 
+location: 
 ---
 
 Event description.
