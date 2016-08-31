@@ -27,6 +27,7 @@ defaults:
     path: ''
     type: events
   values:
+    headline:
     images:
       splash_image:
       thumb_image:
