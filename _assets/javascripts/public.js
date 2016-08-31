@@ -5,3 +5,5 @@
 //= require holderjs/holder
 //= require bigSlide/dist/bigSlide
 //= require bigslide
+//= require select2/dist/js/select2
+//= require select2

@@ -15,4 +15,55 @@ banner:
 ---
 
 <p><a href="/locations/costa-mesa/price-plans">&lsaquo; Price Plans</a></p>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+<h2>All Rates</h2>
+<div class="card-group">
+  <div class="card">
+    <div class="card-block">
+      <h4 class="card-title m-a-0 p-a-0">Full Rates</h4>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-block dropdown">
+      <select class="plan-selector m-a-0 p-a-0" style="width: 100%;">
+        <option></option>
+        <option value="wayfarer">Wayfarer</option>
+        <option value="wanderer">Wanderer</option>
+        <option value="explorer">Explorer</option>
+        <option value="trailblazer">Trailblazer</option>
+        <option value="pioneer">Pioneer</option>
+      </select>
+    </div>
+  </div>
+</div>
+
+<div class="card-group">
+  <div class="card">
+    <div class="card-block text-xs-center">
+      <strong>Standard Hourly Rates</strong>
+    </div>
+    <table class="table">
+      {% for resource in site.data.rates.costa_mesa.resources %}
+        <tr>
+          <th>{{ resource.name }}</th>
+          <td class="text-xs-right">{{ site.data.rates.costa_mesa.plans.full[resource.id] }}</td>
+        </tr>
+      {% endfor %}
+    </table>
+  </div>
+  <div class="card">
+    <div class="card-block text-xs-center">
+      <strong>Member Hourly Rates</strong>
+    </div>
+    {% for plan in site.data.plans %}
+      <table id="plan-rates-{{ plan.id }}" class="table">
+        {% for resource in site.data.rates.costa_mesa.resources %}
+          <tr>
+            <th>{{ resource.name }}</th>
+            <td class="text-xs-right">{{ site.data.rates.costa_mesa.plans[plan.id][resource.id] }}</td>
+          </tr>
+        {% endfor %}
+      </table>
+    {% endfor %}
+  </div>
+</div>
