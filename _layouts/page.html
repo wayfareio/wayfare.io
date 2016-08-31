@@ -2,8 +2,22 @@
 layout: site
 ---
 
-{% if page.nav.side %}
-  <div class="container">
+<div class="container">
+  {% if page.hero %}
+    <div class="row">
+      <div class="col-xs-12">
+        {% include page-hero.html %}
+      </div>
+    </div>
+  {% endif %}
+  {% if page.banner %}
+    <div class="row">
+      <div class="col-xs-12">
+        {% include page-banner.html %}
+      </div>
+    </div>
+  {% endif %}
+  {% if page.nav.side %}
     <div class="row">
       <div class="col-xs-3">
         {% include nav-side.html %}
@@ -12,15 +26,11 @@ layout: site
         {{ content }}
       </div>
     </div>
-  </div>
-{% elsif page.full_width %}
-  {{ content }}
-{% else %}
-  <div class="container">
+  {% else %}
     <div class="row">
       <div class="col-xs-12">
         {{ content }}
       </div>
     </div>
-  </div>
-{% endif %}
+  {% endif %}
+</div>

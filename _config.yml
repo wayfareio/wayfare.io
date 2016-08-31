@@ -5,9 +5,6 @@ collections:
   events:
     title: Events
     output: false
-  locations:
-    title: Locations
-    output: true
   posts:
     title: Posts
     output: true

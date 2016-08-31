@@ -20,7 +20,6 @@ about:
 membership:
   - id: membership
     title: Membership
-    url: /membership
   - id: connect-and-share
     title: Connect &amp; Share
     url: /membership/connect-and-share
@@ -39,3 +38,27 @@ membership:
   - id: be-challenged-and-inspired
     title: Challenge &amp; Inspiration
     url: /membership/be-challenged-and-inspired
+costa-mesa:
+  - id: whq-title
+    title: Costa Mesa
+  - id: whq-about
+    title: About this Space
+    url: /locations/costa-mesa
+  - id: whq-space-features
+    title: Space Features
+    url: /locations/costa-mesa/space-features
+  - id: whq-price-plans
+    title: Price Plans
+    url: /locations/costa-mesa/price-plans
+  - id: whq-drop-ins
+    title: Drop-ins
+    url: /locations/costa-mesa/drop-ins
+  - id: whq-meeting-rooms
+    title: Meeting Rooms
+    url: /locations/costa-mesa/meeting-rooms
+  - id: whq-events
+    title: Events
+    url: /locations/costa-mesa/events
+  - id: whq-contact
+    title: Contact
+    url: /locations/costa-mesa/contact

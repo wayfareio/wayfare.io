@@ -1,7 +1,10 @@
 .nav-side {
-  font-family: "brandon grotesque"; line-height: 1;
+  font-family: "brandon grotesque"; line-height: 1.5;
   > .nav {
-    > .nav-item { margin: 1rem 0; }
+    > .nav-item {
+      margin: 0.5rem 0;
+      &:first-child { margin-top: 0; }
+    }
     > .nav-item > .nav-link { margin: 0; padding: 0; }
   }
 }

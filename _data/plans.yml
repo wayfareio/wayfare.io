@@ -1,0 +1,10 @@
+- id: wayfarer
+  name: Wayfarer
+- id: wanderer
+  name: Wanderer
+- id: explorer
+  name: Explorer
+- id: trailblazer
+  name: Trailblazer
+- id: pioneer
+  name: Pioneer

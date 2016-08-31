@@ -1,0 +1,34 @@
+- id: costa-mesa
+  name: Costa Mesa
+  status: open
+  address:
+    street1: 270 Baker St E
+    street2: Ste 200
+    city: Costa Mesa
+    state: CA
+    postal_code: "92626"
+  geography:
+    latitude: "33.67888983861642"
+    longitude: "-117.87555456161499"
+    degrees: "33°40'44\"N 117°52'32\"W"
+  contact:
+    phone: "(714) 598-3888"
+    sms: "(714) 262-4326"
+    email: hi@wayfare.io
+- id: fullerton
+  name: Fullerton
+  status: pending
+  address:
+    street1: 110 E Wilshire Ave
+    street2: Ste 102
+    city: Fullerton
+    state: CA
+    postal_code: "92832"
+  geography:
+    latitude: "33.872235"
+    longitude: "-117.923976"
+    degrees: "33°52'20\"N 117°55'27\"W"
+  contact:
+    phone: "(714) 598-3888"
+    sms: "(714) 262-4326"
+    email: hi@wayfare.io

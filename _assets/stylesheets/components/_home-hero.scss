@@ -1,7 +1,7 @@
 .home-hero {
   position: relative;
 
-  > h2 { position: absolute; width: calc(100% - 30px); top: 33%; color: white; text-transform: uppercase; font-size: 1.5rem; font-weight: 900; }
+  > h2 { position: absolute; width: calc(100% - 30px); top: 33%; color: #fff; text-transform: uppercase; font-size: 1.5rem; font-weight: 900; }
   > h2 > .script { text-transform: none; font-size: 2.2rem; font-weight: normal; }
   @include media-breakpoint-only(xl) {
     > h2 { font-size: 3.5rem; top: 30%; }

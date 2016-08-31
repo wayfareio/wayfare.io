@@ -11,10 +11,10 @@
   &.icon-lg svg { width: 3rem; height: 3rem; }
   &.icon-xl svg { width: 4rem; height: 4rem; }
 
-  [data-stroke-color='1'] { stroke: $gray-light; }
-  [data-fill-color='1'] { fill: $gray-light; }
-  [data-stroke-color='2'] { stroke: $brand-primary; }
-  [data-fill-color='2'] { fill: $brand-primary; }
+  [stroke='#000'] { stroke: $gray-light; }
+  [fill='#000'] { fill: $gray-light; }
+  [stroke='#555'] { stroke: $brand-primary; }
+  [fill='#555'] { fill: $brand-primary; }
 
   &.icon-xl.icon-computer-desk { position: relative; top: -9px; }
 }
