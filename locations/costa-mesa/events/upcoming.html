@@ -1,0 +1,30 @@
+---
+title: 'Costa Mesa: Upcoming Events'
+position: 0
+nav:
+  id: whq-upcoming-events
+  site:
+    highlight: locations
+  side:
+    id: costa-mesa
+    highlight: whq-events
+banner:
+  image: "/assets/images/topo-banner-bg.jpg"
+  title: Costa Mesa HQ
+  subtitle: 270 Baker St E, Ste 200, Costa Mesa, CA
+---
+
+<h2>Upcoming Events</h2>
+<div class="card-columns">
+  {% for event in site.events %}
+    <div class="card">
+      <img src="{{ event.images.thumb_image }}" class="card-img-top img-fluid">
+      <div class="card-block">
+        <h3 class="card-title">{{ event.title }}</h3>
+        {{ event.content | markdown }}
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<p class="m-t-2"><a href="/locations/costa-mesa/events" class="btn btn-primary">&lsaquo; Events</a></p>
