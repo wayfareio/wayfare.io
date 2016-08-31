@@ -23,4 +23,17 @@ defaults:
     type: pages
   values:
     layout: page
+- scope:
+    path: ''
+    type: events
+  values:
+    images:
+      splash_image:
+      thumb_image:
+    dates:
+      start_date:
+      end_date:
+    urls:
+      ticket_url:
+    location:
 permalink: pretty
