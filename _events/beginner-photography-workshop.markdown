@@ -4,8 +4,8 @@ date: 2016-08-31 20:50:00 Z
 position: 0
 headline: Beginner Photography Workshop
 images:
-  splash_image:
-  thumb_image:
+  splash_image: 
+  thumb_image: 
 dates:
   start_date: 2016-09-24 09:30:00 Z
   end_date: 2016-09-24 11:30:00 Z
