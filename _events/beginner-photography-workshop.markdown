@@ -1,7 +1,7 @@
 ---
 title: 2016-09-24 Beginner Photography Workshop
 date: 2016-08-31 20:50:00 Z
-position: 1
+position: 2
 headline: Beginner Photography Workshop
 images:
   splash_image: 
