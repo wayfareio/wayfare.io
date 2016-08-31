@@ -4,7 +4,7 @@ timezone: UTC
 collections:
   events:
     title: Events
-    output: true
+    output: false
   locations:
     title: Locations
     output: true
