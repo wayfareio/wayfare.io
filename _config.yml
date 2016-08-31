@@ -29,12 +29,12 @@ defaults:
   values:
     headline:
     images:
-      splash_image:
-      thumb_image:
+      splash_image: 
+      thumb_image: 
     dates:
-      start_date:
-      end_date:
+      start_date: 
+      end_date: 
     urls:
-      ticket_url:
-    location:
+      ticket_url: 
+    location: 
 permalink: pretty
