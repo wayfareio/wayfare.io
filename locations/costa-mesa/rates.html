@@ -14,5 +14,64 @@ banner:
   subtitle: 270 Baker St E, Ste 200, Costa Mesa, CA
 ---
 
-<p><a href="/locations/costa-mesa/price-plans">&lsaquo; Price Plans</a></p>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h2>All Rates</h2>
+<p>Rates vary by price plan. Select a plan below to see how it compares to the full rates.</p>
+
+<div class="card-group">
+  <div class="card">
+    <div class="card-block">
+      <h4 class="card-title m-a-0 p-a-0">Full Rates</h4>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-block dropdown">
+      <select class="plan-selector m-a-0 p-a-0" style="width: 100%;">
+        <option></option>
+        {% for plan in site.data.plans %}
+          <option value="{{ plan.id }}">{{ plan.name }}</option>
+        {% endfor %}
+      </select>
+    </div>
+  </div>
+</div>
+
+<div class="card-group">
+  <div class="card">
+    <div class="card-block text-xs-center">
+      <strong>Standard Hourly Rates</strong>
+    </div>
+    <table class="table">
+      {% for resource in site.data.rates.costa_mesa.resources %}
+        <tr>
+          <th>{{ resource.name }}</th>
+          <td class="text-xs-right">{{ site.data.rates.costa_mesa.plans.full[resource.id] }}</td>
+        </tr>
+      {% endfor %}
+    </table>
+  </div>
+  <div class="card">
+    <div class="card-block text-xs-center">
+      <strong>Member Hourly Rates</strong>
+    </div>
+    <table class="table plan-rates plan-rates-empty">
+      {% for resource in site.data.rates.costa_mesa.resources %}
+        <tr>
+          <th>{{ resource.name }}</th>
+          <td class="text-xs-right text-muted">$-.--</td>
+        </tr>
+      {% endfor %}
+    </table>
+    {% for plan in site.data.plans %}
+      <table class="table plan-rates plan-rates-{{ plan.id }}" style="display: none;">
+        {% for resource in site.data.rates.costa_mesa.resources %}
+          <tr>
+            <th>{{ resource.name }}</th>
+            <td class="text-xs-right">{{ site.data.rates.costa_mesa.plans[plan.id][resource.id] }}</td>
+          </tr>
+        {% endfor %}
+      </table>
+    {% endfor %}
+  </div>
+</div>
+
+<p class="m-t-2"><a href="/locations/costa-mesa/price-plans" class="btn btn-primary">&lsaquo; Price Plans</a></p>

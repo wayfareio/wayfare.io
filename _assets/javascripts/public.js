@@ -4,4 +4,6 @@
 //= require bootstrap/dist/js/bootstrap
 //= require holderjs/holder
 //= require bigSlide/dist/bigSlide
-//= require bigslide
+//= require select2/dist/js/select2
+//= require wayfare/bigslide
+//= require wayfare/select
