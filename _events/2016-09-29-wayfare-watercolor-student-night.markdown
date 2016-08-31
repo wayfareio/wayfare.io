@@ -1,7 +1,7 @@
 ---
 title: '2016-09-29 Wayfare Watercolor: Student Night'
 date: 2016-08-31 21:06:00 Z
-position: 1
+position: 2
 headline: 'Wayfare Watercolor: Student Night'
 images:
   splash_image: "/uploads/event-splash.jpg"
