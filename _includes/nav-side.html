@@ -1,4 +1,4 @@
-<nav class="nav-side" role="navigation">
+<nav class="nav-side collapsed" role="navigation">
   <ul class="nav">
     {% for side_page in site.data.nav-side[page.nav.side.id] %}
       <li class="nav-item{% if side_page.id == page.nav.side.highlight %} active{% endif %}">
@@ -12,4 +12,5 @@
       </li>
     {% endfor %}
   </ul>
+  <button type="button" class="btn btn-link nav-side-toggler">&#x25be;</button>
 </nav>
