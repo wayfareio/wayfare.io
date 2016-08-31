@@ -12,7 +12,7 @@ costa_mesa:
       name: Lounge Meetings
   plans:
     full:
-      coworking: $7.00
+      coworking: $8.00
       large_conference_room: $80.00
       small_meeting_room: $50.00
       semi_private_alcoves: $30.00

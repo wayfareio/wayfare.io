@@ -14,9 +14,9 @@ banner:
   subtitle: 270 Baker St E, Ste 200, Costa Mesa, CA
 ---
 
-<p><a href="/locations/costa-mesa/price-plans">&lsaquo; Price Plans</a></p>
-
 <h2>All Rates</h2>
+<p>Rates vary by price plan. Select a plan below to see how it compares to the full rates.</p>
+
 <div class="card-group">
   <div class="card">
     <div class="card-block">
@@ -27,11 +27,9 @@ banner:
     <div class="card-block dropdown">
       <select class="plan-selector m-a-0 p-a-0" style="width: 100%;">
         <option></option>
-        <option value="wayfarer">Wayfarer</option>
-        <option value="wanderer">Wanderer</option>
-        <option value="explorer">Explorer</option>
-        <option value="trailblazer">Trailblazer</option>
-        <option value="pioneer">Pioneer</option>
+        {% for plan in site.data.plans %}
+          <option value="{{ plan.id }}">{{ plan.name }}</option>
+        {% endfor %}
       </select>
     </div>
   </div>
@@ -55,8 +53,16 @@ banner:
     <div class="card-block text-xs-center">
       <strong>Member Hourly Rates</strong>
     </div>
+    <table class="table plan-rates plan-rates-empty">
+      {% for resource in site.data.rates.costa_mesa.resources %}
+        <tr>
+          <th>{{ resource.name }}</th>
+          <td class="text-xs-right text-muted">$-.--</td>
+        </tr>
+      {% endfor %}
+    </table>
     {% for plan in site.data.plans %}
-      <table id="plan-rates-{{ plan.id }}" class="table">
+      <table class="table plan-rates plan-rates-{{ plan.id }}" style="display: none;">
         {% for resource in site.data.rates.costa_mesa.resources %}
           <tr>
             <th>{{ resource.name }}</th>
@@ -67,3 +73,5 @@ banner:
     {% endfor %}
   </div>
 </div>
+
+<p class="m-t-2"><a href="/locations/costa-mesa/price-plans" class="btn btn-primary">&lsaquo; Price Plans</a></p>
