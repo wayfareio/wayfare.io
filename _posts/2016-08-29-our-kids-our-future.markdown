@@ -1,14 +1,14 @@
 ---
 title: Our Kids, Our Future
 date: 2016-08-29 00:00:00 Z
-author: Jill Arbini
 categories:
-  - Commmon Good
+- Commmon Good
 tags:
-  - costa-mesa
-  - education
-  - common-good
-redirect_from: /2016/08/29/our-kids-our-future/
+- costa-mesa
+- education
+- common-good
+author: Jill Arbini
+redirect_from: "/2016/08/29/our-kids-our-future/"
 ---
 
 The 2016-2017 school year is upon us and while Back to School is top of mind, we're featuring various action steps that can be taken to support the kids, teachers, parents, and schools in our community.
