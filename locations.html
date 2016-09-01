@@ -8,6 +8,19 @@ nav:
 map: true
 ---
 
+<div class="row">
+  <div class="col-xs-12 col-lg-8 offset-lg-2">
+    <div class="card-deck">
+      {% for location in site.data.locations %}
+        <div class="card">
+          <a href="/locations/{{ location.id }}" class="_no-underline d-block"><img src="/assets/images/location-{{ location.id }}.jpg" alt="{{ location.name }}" class="card-img-top img-fluid"></a>
+          <a href="/locations/{{ location.id }}" class="btn btn-primary btn-lg btn-block text-uppercase">View this Location</a>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
 <div class="mapbox-map m-t-1 m-b-2"></div>
 <script>
   var map = L.mapbox.map($(".mapbox-map").get(0), 'wayfare.18b0d2ll', {
@@ -20,18 +33,3 @@ map: true
     });
   });
 </script>
-
-<div class="row m-y-2">
-  {% for location in site.data.locations %}
-    <div class="col-xs">
-      <h2 class="m-b-1">
-        <a href="/locations/{{ location.id }}">{{ location.name }}</a>
-      </h2>
-      <address>
-        {{ location.address.street1 }}{% if location.address.street2 %}, {{ location.address.street2 }}{% endif %}<br>
-        {{ location.address.city }}, {{ location.address.state }} {{ location.address.postal_code }}
-      </address>
-      <a href="/locations/{{ location.id }}" class="btn btn-primary">Learn more</a>
-    </div>
-  {% endfor %}
-</div>
