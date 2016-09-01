@@ -1,0 +1,32 @@
+.card.card-home-hero {
+  > .card-img-overlay {
+    > .card-block {
+      padding: 1.5rem;
+      > .card-title, > .card-subtitle { color: $brand-primary; }
+      > .card-subtitle { font-size: 2.5rem; font-weight: normal; font-family: 'SocietyEditor'; text-transform: lowercase; }
+      .btn { background: white; color: $brand-primary; border: 1px solid $brand-primary; }
+      @include media-breakpoint-only(xl) {
+        > .card-title { font-size: 3.5rem; }
+        > .card-subtitle { font-size: 4.25rem; }
+        .btn { font-size: 1.5rem; }
+      }
+      @include media-breakpoint-only(lg) {
+        > .card-title { font-size: 3rem; }
+        > .card-subtitle { font-size: 3.75rem; }
+        .btn { font-size: 1.25rem; }
+      }
+      @include media-breakpoint-only(md) {
+        > .card-subtitle { font-size: 3.25rem; }
+      }
+      @include media-breakpoint-only(sm) {
+        min-width: 80%;
+        > .card-subtitle { font-size: 2.75rem; }
+      }
+      @include media-breakpoint-only(xs) {
+        min-width: 80%;
+        > .card-title { font-size: 1.6rem; }
+        > .card-subtitle { font-size: 2rem; }
+      }
+    }
+  }
+}
