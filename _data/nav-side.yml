@@ -38,6 +38,15 @@ membership:
   - id: be-challenged-and-inspired
     title: Challenge &amp; Inspiration
     url: /membership/be-challenged-and-inspired
+startups:
+  - id: startups-title
+    title: Startups
+  - id: startups-pilot
+    title: Pilot Program
+    url: /startups/pilot-program
+  - id: startups-launch
+    title: Launch Program
+    url: /startups/launch-program
 stories:
   - id: stories-title
     title: Stories
