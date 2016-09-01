@@ -1,6 +1,10 @@
 ---
 title: Stories
 position: 7
+lead:
+  line1: BLOG STORIES
+  line2: are **FUN TO READ**
+  content: You are dreamers, artisans, and difference-makers. You are creatives, entrepreneurs, and adventurers. You are believers in the world's best future. Welcome to our community blog.
 nav:
   id: stories
   site:
@@ -11,10 +15,9 @@ nav:
     categories: true
 ---
 
-<h2>Stories</h2>
 {% for post in site.posts %}
   <div class="card" style="border: 0; background-color: #fafafa;">
-    <img src="/assets/images/locations/costa-mesa/features/good-coffee.jpg" class="card-img-top img-fluid">
+    {{!-- <img src="#" class="card-img-top img-fluid"> --}}
     <div class="card-block">
       <h3 class="card-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
       <p class="card-text">{{ post.excerpt | strip_html | newline_to_br }}</p>
