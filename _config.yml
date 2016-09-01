@@ -38,24 +38,24 @@ defaults:
     path: ''
     type: events
   values:
-    headline:
+    headline: 
     images:
-      splash_image:
-      thumb_image:
+      splash_image: 
+      thumb_image: 
     dates:
-      start_date:
-      end_date:
+      start_date: 
+      end_date: 
     urls:
-      ticket_url:
-    location:
+      ticket_url: 
+    location: 
 - scope:
     path: ''
     type: authors
   values:
-    company_name:
-    job_title:
-    bio_image:
-    is_guest:
+    company_name: 
+    job_title: 
+    bio_image: 
+    is_guest: 
 permalink: pretty
 gems:
 - jekyll-redirect-from
