@@ -2,6 +2,9 @@
 title: Wayfare
 timezone: UTC
 collections:
+  authors:
+    title: Authors
+    output: true
   events:
     title: Events
     output: false
