@@ -1,11 +1,12 @@
 ---
 title: Our Kids, Our Future
-author: Jill Arbini
+date: 2016-08-29 00:00:00 Z
 categories:
-  - Foster Care
-  - Costa Mesa
-  - Common Good
-redirect_from: /2016/08/29/our-kids-our-future/
+- Foster Care
+- Costa Mesa
+- Common Good
+author: Jill Arbini
+redirect_from: "/2016/08/29/our-kids-our-future/"
 ---
 
 The 2016-2017 school year is upon us and while Back to School is top of mind, we're featuring various action steps that can be taken to support the kids, teachers, parents, and schools in our community.
