@@ -1,0 +1,16 @@
+<div class="row m-y-2">
+  <div class="col-xs-12">
+    <h1 class="display text-xs-center">
+      {{ page.lead.line1 | markdownify | remove:'<p>' | remove:'</p>' }}<br>
+      {{ page.lead.line2 | markdownify | remove:'<p>' | remove:'</p>' }}
+    </h1>
+    <p class="lead">{{ page.lead.content | markdownify | remove:'<p>' | remove:'</p>' }}</p>
+    {% if page.lead.buttons %}
+      <p class="text-xs-center">
+        {% for button in page.lead.buttons %}
+          <a href="{{ button.url }}" class="btn btn-primary btn-lg">{{ button.title }}</a>
+        {% endfor %}
+      </p>
+    {% endif %}
+  </div>
+</div>

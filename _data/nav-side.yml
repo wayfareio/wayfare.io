@@ -1,0 +1,82 @@
+about:
+  - id: about
+    title: About Wayfare
+    url: /about
+  - id: our-community
+    title: Our Community
+    url: /about/our-community
+  - id: our-values
+    title: Our Values
+    url: /about/our-values
+  - id: our-model
+    title: Our Model
+    url: /about/our-model
+  - id: our-staff
+    title: Our Staff
+    url: /about/our-staff
+  - id: common-good
+    title: The Common Good
+    url: /about/common-good
+membership:
+  - id: membership
+    title: Membership
+  - id: connect-and-share
+    title: Connect &amp; Share
+    url: /membership/connect-and-share
+  - id: access-to-workspaces
+    title: Access to Workspaces
+    url: /membership/access-to-workspaces
+  - id: gifts-every-month
+    title: Gifts Curated Every Month
+    url: /membership/gifts-every-month
+  - id: big-savings
+    title: Big Savings
+    url: /membership/big-savings
+  - id: learn-from-others
+    title: Learn from Others
+    url: /membership/learn-from-others
+  - id: be-challenged-and-inspired
+    title: Challenge &amp; Inspiration
+    url: /membership/be-challenged-and-inspired
+startups:
+  - id: startups-title
+    title: Startups
+  - id: startups-pilot
+    title: Pilot Program
+    url: /startups/pilot-program
+  - id: startups-launch
+    title: Launch Program
+    url: /startups/launch-program
+stories:
+  - id: stories-title
+    title: Stories
+  - id: stories-recents
+    title: Recent Stories
+    url: /stories
+costa-mesa:
+  - id: whq-title
+    title: Costa Mesa
+  - id: whq-about
+    title: About this Space
+    url: /locations/costa-mesa
+  - id: whq-upcoming-events
+    title: Upcoming Events
+    url: /locations/costa-mesa/upcoming-events
+  - id: whq-space-features
+    title: Space Features
+    url: /locations/costa-mesa/space-features
+  - id: whq-price-plans
+    title: Price Plans
+    url: /locations/costa-mesa/price-plans
+  - id: whq-drop-ins
+    title: Drop-ins
+    url: /locations/costa-mesa/drop-ins
+  - id: whq-meeting-rooms
+    title: Meeting Rooms
+    url: /locations/costa-mesa/meeting-rooms
+  - id: whq-host-an-event
+    title: Host an Event
+    url: /locations/costa-mesa/host-an-event
+  - id: whq-contact
+    title: Contact
+    url: /locations/costa-mesa/contact

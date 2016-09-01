@@ -22,6 +22,11 @@
   "devDependencies": {
     "bootstrap": "v4.0.0-alpha.3",
     "font-awesome": "^4.6.3",
-    "bigSlide": "^0.12.0"
+    "bigSlide": "^0.12.0",
+    "holderjs": "^2.9.4",
+    "select2": "^4.0.3",
+    "moment": "^2.14.1",
+    "lodash": "^4.15.0",
+    "cloudinary": "^2.1.2"
   }
 }

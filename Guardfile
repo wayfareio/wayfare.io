@@ -12,6 +12,14 @@ guard :sprockets, destination: 'assets/javascripts',
   watch(%r{^_assets/javascripts/(.*)\.js$})
 end
 
+guard :copy, from: '_assets/icons',
+             to: 'assets/icons',
+             mkpath: true,
+             delete: true,
+             run_at_start: true do
+  watch(%r{^_assets/icons/.+$})
+end
+
 guard :copy, from: '_assets/images',
              to: 'assets/images',
              mkpath: true,
@@ -37,17 +45,5 @@ guard :copy, from: '_assets/components/font-awesome/fonts',
 end
 
 guard :livereload do
-  extensions = {
-    css: :css,
-    scss: :css,
-    sass: :css,
-    js: :js,
-    coffee: :js,
-    html: :html,
-    png: :png,
-    gif: :gif,
-    jpg: :jpg,
-    jpeg: :jpeg
-  }
-  watch(%r{_site/.+\.(#{extensions.values.uniq * '|'})})
+  watch /_site\/.*/
 end

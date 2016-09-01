@@ -3,4 +3,13 @@
 //= require vendor/retina.min
 //= require bootstrap/dist/js/bootstrap
 //= require bigSlide/dist/bigSlide
-//= require bigslide
+//= require select2/dist/js/select2
+//= require moment/moment
+//= require lodash/lodash
+//= require cloudinary/js/jquery.cloudinary
+//= require wayfare
+//= require wayfare/bigslide
+//= require wayfare/cloudinary
+//= require wayfare/nav-side
+//= require wayfare/select
+//= require wayfare/ticketleap

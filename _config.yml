@@ -2,6 +2,12 @@
 title: Wayfare
 timezone: UTC
 collections:
+  authors:
+    title: Authors
+    output: true
+  events:
+    title: Events
+    output: false
   posts:
     title: Posts
     output: true
@@ -14,10 +20,45 @@ defaults:
     type: posts
   values:
     layout: post
-    permalink: "/posts/:title/"
+    permalink: "/stories/:year/:month/:day/:title/"
+    excerpt_separator: "<!-- more -->"
+    nav:
+      id: post
+      site:
+        highlight: stories
+      side:
+        id: stories
+        categories: true
 - scope:
     path: ''
     type: pages
   values:
     layout: page
+- scope:
+    path: ''
+    type: events
+  values:
+    headline: 
+    images:
+      splash_image: 
+      thumb_image: 
+    dates:
+      start_date: 
+      end_date: 
+    urls:
+      ticket_url: 
+    location: 
+- scope:
+    path: ''
+    type: authors
+  values:
+    layout: page
+    company_name: 
+    job_title: 
+    bio_image: 
+    is_guest: 
 permalink: pretty
+gems:
+- jekyll-redirect-from
+whitelist:
+- jekyll-redirect-from

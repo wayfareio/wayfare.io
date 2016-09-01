@@ -2,10 +2,34 @@
 layout: site
 ---
 
-<div class="content container">
+<div class="container">
   <div class="row">
     <div class="col-xs-12">
-      {{ content }}
+      {% if page.lead %}
+        {% include page-lead.html %}
+      {% endif %}
+      {% if page.hero %}
+        {% include page-hero.html %}
+      {% endif %}
+      {% if page.banner %}
+        {% include page-banner.html %}
+      {% endif %}
     </div>
   </div>
+  {% if page.nav.side %}
+    <div class="row">
+      <div class="col-xs-12 col-md-3">
+        {% include nav-side.html %}
+      </div>
+      <div class="col-xs-12 col-md-9">
+        {{ content }}
+      </div>
+    </div>
+  {% else %}
+    <div class="row">
+      <div class="col-xs-12">
+        {{ content }}
+      </div>
+    </div>
+  {% endif %}
 </div>

@@ -1,14 +1,17 @@
 <nav class="nav nav-mobile" role="navigation">
+  <a href="/" class="text-xs-center">
+    <img src="/assets/images/wayfare-logo.png" alt="{{ site.title }}" class="nav-mobile-logo">
+  </a>
   <ul class="list-unstyled">
-    {% assign site_pages = site.pages | sort:'position' %}
-    {% for site_page in site_pages %}
-      {% if site_page.nav.site.show %}
-        <li class="nav-item {% if site_page.nav.id == page.nav.site.highlight %}active{% endif %}">
-          <a class="nav-link" href="{{ site_page.url | prepend: site.baseurl }}">
-            {{ site_page.nav.site.title | default:site_page.title }}
-          </a>
-        </li>
-      {% endif %}
+    <li class="nav-item">
+      <a href="/" class="nav-link">HOME</a>
+    </li>
+    {% for site_page in site.data.nav-site %}
+      <li class="nav-item{% if site_page.id == page.nav.site.highlight %} active{% endif %}">
+        <a href="{{ site_page.url | prepend: site.baseurl }}" class="nav-link">
+          {{ site_page.title | upcase }}
+        </a>
+      </li>
     {% endfor %}
   </ul>
 </nav>

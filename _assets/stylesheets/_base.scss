@@ -15,7 +15,11 @@ $headings-font-family: "brandon-grotesque";
 $fa-font-path: "/assets/fonts";
 @import "font-awesome/css/font-awesome";
 
-@import "helpers";
-@import "links";
+@import "select2/dist/css/select2";
+
+@import "buttons";
 @import "fonts";
+@import "helpers";
+@import "icons";
+@import "links";
 @import "typography";

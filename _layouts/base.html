@@ -14,9 +14,17 @@
     </title>
     <script src="/assets/javascripts/public.js" type="text/javascript" charset="utf-8"></script>
     <link rel="stylesheet" type="text/css" href="/assets/stylesheets/public.css">
+    {% if page.map %}
+      <script src='https://api.mapbox.com/mapbox.js/v2.4.0/mapbox.js'></script>
+      <link href='https://api.mapbox.com/mapbox.js/v2.4.0/mapbox.css' rel='stylesheet'>
+      <script type="text/javascript">
+        L.mapbox.accessToken = 'pk.eyJ1Ijoid2F5ZmFyZSIsImEiOiJQVG5NQS0wIn0.fgKjbGJFALHxSY9AQTztEw';
+      </script>
+    {% endif %}
   </head>
   <body>
     <a id="top"></a>
     {{ content }}
+    {% include clicky.html %}
   </body>
 </html>
