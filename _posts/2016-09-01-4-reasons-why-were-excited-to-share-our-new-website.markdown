@@ -1,7 +1,6 @@
 ---
 title: 4 Reasons Why We're Excited to Share Our New Website
 date: 2016-09-01 22:14:00 Z
-author: Caitlin Kraina
 categories:
 - Work
 tags:
@@ -10,6 +9,7 @@ tags:
 - rebrand
 - brand
 - logo
+author: Caitlin Kraina
 ---
 
 After a two month labor of love, we couldn't be more excited to share the new Wayfare website with you today. Here are four reasons why...<!-- more --> 
