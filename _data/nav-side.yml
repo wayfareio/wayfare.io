@@ -44,6 +44,9 @@ costa-mesa:
   - id: whq-about
     title: About this Space
     url: /locations/costa-mesa
+  - id: whq-upcoming-events
+    title: Upcoming Events
+    url: /locations/costa-mesa/upcoming-events
   - id: whq-space-features
     title: Space Features
     url: /locations/costa-mesa/space-features
@@ -56,9 +59,9 @@ costa-mesa:
   - id: whq-meeting-rooms
     title: Meeting Rooms
     url: /locations/costa-mesa/meeting-rooms
-  - id: whq-events
-    title: Events
-    url: /locations/costa-mesa/events
+  - id: whq-host-an-event
+    title: Host an Event
+    url: /locations/costa-mesa/host-an-event
   - id: whq-contact
     title: Contact
     url: /locations/costa-mesa/contact
