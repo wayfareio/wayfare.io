@@ -3,6 +3,6 @@
 </li>
 {% for category in site.categories %}
   <li class="nav-item{% if page.categories[0] == category[0] %} active{% endif %}">
-    <a href="#" class="nav-link{% if page.categories[0] == category[0] %} active{% endif %}">{{ category[0] }}</a>
+    <a href="/stories/{{ category[0] | slugify }}" class="nav-link{% if page.categories[0] == category[0] %} active{% endif %}">{{ category[0] }}</a>
   </li>
 {% endfor %}

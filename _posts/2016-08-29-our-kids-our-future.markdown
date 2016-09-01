@@ -2,7 +2,7 @@
 title: Our Kids, Our Future
 date: 2016-08-29 00:00:00 Z
 categories:
-- Commmon Good
+- Common Good
 tags:
 - costa-mesa
 - education
