@@ -10,6 +10,9 @@
 - id: events
   title: Events
   url: /events
+- id: stories
+  title: Stories
+  url: /stories
 - id: about
   title: About
   url: /about

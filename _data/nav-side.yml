@@ -38,6 +38,12 @@ membership:
   - id: be-challenged-and-inspired
     title: Challenge &amp; Inspiration
     url: /membership/be-challenged-and-inspired
+stories:
+  - id: stories-title
+    title: Stories
+  - id: stories-recents
+    title: Recent Stories
+    url: /stories
 costa-mesa:
   - id: whq-title
     title: Costa Mesa

@@ -1,0 +1,8 @@
+<li class="nav-item m-t-2">
+  CATEGORIES
+</li>
+{% for category in site.categories %}
+  <li class="nav-item">
+    <a href="#" class="nav-link">{{ category[0] }}</a>
+  </li>
+{% endfor %}

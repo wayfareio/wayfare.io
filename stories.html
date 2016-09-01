@@ -1,0 +1,22 @@
+---
+title: Stories
+position: 7
+nav:
+  id: stories
+  site:
+    highlight: stories
+  side:
+    id: stories
+    highlight: stories-recents
+    categories: true
+---
+
+<h2>Stories</h2>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <p>{{ post.excerpt | strip_html | newline_to_br }}</p>
+    </li>
+  {% endfor %}
+</ul>

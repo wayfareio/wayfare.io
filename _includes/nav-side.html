@@ -11,6 +11,9 @@
         {% endif %}
       </li>
     {% endfor %}
+    {% if page.nav.side.categories %}
+      {% include nav-categories.html %}
+    {% endif %}
   </ul>
   <button type="button" class="btn btn-link nav-side-toggler">&#x25be;</button>
 </nav>
