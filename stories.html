@@ -12,11 +12,12 @@ nav:
 ---
 
 <h2>Stories</h2>
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <p>{{ post.excerpt | strip_html | newline_to_br }}</p>
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+  <div class="card" style="border: 0; background-color: #fafafa;">
+    <img src="/assets/images/locations/costa-mesa/features/good-coffee.jpg" class="card-img-top img-fluid">
+    <div class="card-block">
+      <h3 class="card-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <p class="card-text">{{ post.excerpt | strip_html | newline_to_br }}</p>
+    </div>
+  </div>
+{% endfor %}
