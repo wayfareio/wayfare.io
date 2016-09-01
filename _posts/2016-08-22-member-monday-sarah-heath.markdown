@@ -1,5 +1,5 @@
 ---
-title: "Member Monday: Sarah Heath"
+title: 'Member Monday: Sarah Heath'
 date: 2016-08-22 00:00:00 Z
 categories:
 - Community
@@ -7,7 +7,9 @@ tags:
 - costa-mesa
 - member-monday
 author: Caitlin Kraina
-excerpt: "My Ideal day off would probably include one or all of the following: going on a run or to the gym, going on a road trip, taking my dog to the beach, dinner with friends with great food and conversation. Is it the weekend yet?"
+excerpt: 'My Ideal day off would probably include one or all of the following: going
+  on a run or to the gym, going on a road trip, taking my dog to the beach, dinner
+  with friends with great food and conversation. Is it the weekend yet?'
 redirect_from: "/2016/08/22/member-monday-sarah-heath/"
 ---
 
