@@ -2,13 +2,14 @@
 layout: page
 ---
 
-<h2>{{ page.title }}</h2>
+<h2 class="m-b-2">{{ page.title }}</h2>
 
 {{ content }}
 
 <div class="row">
   <div class="col-xs-12">
     <hr>
-    <h3>{{ page.author }}</h3>
+    <h4>{{ page.author }}</h4>
+    <p>by {{ page.date | date:"%B %e, %Y" }}</p>
   </div>
 </div>
