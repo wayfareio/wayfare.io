@@ -6,6 +6,7 @@
     street2: Ste 200
     city: Costa Mesa
     state: CA
+    full_state: California
     postal_code: "92626"
   geography:
     latitude: "33.67888983861642"
@@ -23,6 +24,7 @@
     street2: Ste 102
     city: Fullerton
     state: CA
+    full_state: California
     postal_code: "92832"
   geography:
     latitude: "33.872235"
