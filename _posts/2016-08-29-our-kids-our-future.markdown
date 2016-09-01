@@ -13,9 +13,7 @@ redirect_from: "/2016/08/29/our-kids-our-future/"
 
 The 2016-2017 school year is upon us and while Back to School is top of mind, we're featuring various action steps that can be taken to support the kids, teachers, parents, and schools in our community.
 
-There are so many ways that any person can use what they have to contribute to the flourishing of our kids.  Today we are focusing on several ways to support kids in our area where **we each can play a role in raising up the next generation of leaders, creators, innovators, and world-changers.**
-
-<!-- more -->
+There are so many ways that any person can use what they have to contribute to the flourishing of our kids.  Today we are focusing on several ways to support kids in our area where **we each can play a role in raising up the next generation of leaders, creators, innovators, and world-changers.**<!-- more -->
 
 ### [Project Hope Alliance](www.projecthopealliance.org), Costa Mesa
 
