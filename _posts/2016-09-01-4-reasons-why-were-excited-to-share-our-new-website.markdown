@@ -10,9 +10,16 @@ tags:
 - brand
 - logo
 author: Caitlin Kraina
+excerpt: After a two month labor of love, we couldn't be more excited to share the
+  new Wayfare website with you today. Somewhere in the midst of two years of growth,
+  building products and systems, refining Wayfare's business model, serving our members,
+  and consuming copious amounts of coffee, our website and branding took the back
+  seat. As our staff and membership has grown, it has become a top priority for us
+  to create a new website that represents the dynamic, dimensional identity of our
+  community today.
 ---
 
-After a two month labor of love, we couldn't be more excited to share the new Wayfare website with you today. Here are four reasons why...<!-- more --> 
+After a two month labor of love, we couldn't be more excited to share the new Wayfare website with you today. Here are four reasons why...
 
 ### 1. It represents two years of growth - and our community today
 
@@ -46,4 +53,4 @@ We've never been the type to shy away from a challenge and are always seeking wa
 
 **We thoughtfully decided that the best way to achieve our mission and maximum impact was to launch a [new membership model](/membership) and expand to more [locations](/locations)**. This was a straightforward yet powerful next step for growth, a timely response to current demand, and a solution that is already proven in the marketplace. Our [new membership](/membership) now allows us to be more inclusive of our global market, provide practical and relational resources for those who don't necessarily need workspace, and provide more flexibility (and locations) for those that do. To support this growth, we needed a website and platform that could handle multiple locations and streamline our services, as well as make the critical shift from a local coworking space to a global community that enables us to welcome more world changers.
 
-We hope you enjoy the new site & that it inspires and drives you towards a life of greater impact. [Looking for community](/membership)? [Need a workspace](/locations)? [Have an idea you'd like to turn into reality](/startups)? We'd love to learn more about you, and we openly welcome any website [feedback and suggestions]()!
+We hope you enjoy the new site & that it inspires and drives you towards a life of greater impact. [Looking for community](/membership)? [Need a workspace](/locations)? [Have an idea you'd like to turn into reality](/startups)? We'd love to learn more about you, and we openly welcome any website [feedback and suggestions](https://wayfare.typeform.com/to/vn3h2H)!
