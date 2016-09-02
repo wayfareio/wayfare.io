@@ -11,9 +11,9 @@
       padding: 0;
       > .card-block {
         @include border-radius($border-radius); padding: 2.3rem 0.5rem; width: 100%;
-        > .card-title { font-size: 1.2rem; margin-bottom: 0.75rem; }
+        > .card-title { font-size: 1.5rem; margin-bottom: 0.75rem; }
         > .card-subtitle { font-size: 1rem; margin-bottom: 0.5rem; }
-        .btn { font-size: 0.75rem; padding: 0.25rem 0.5rem; }
+        .btn { font-size: 0.85rem; padding: 0.25rem 0.5rem; }
       }
     }
   }
