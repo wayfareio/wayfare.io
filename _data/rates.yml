@@ -8,42 +8,34 @@ costa_mesa:
       name: Small Meeting Room
     - id: semi_private_alcoves
       name: Semi-Private Alcoves
-    - id: lounge_meetings
-      name: Lounge Meetings
   plans:
     full:
       coworking: $8.00
       large_conference_room: $80.00
       small_meeting_room: $50.00
       semi_private_alcoves: $30.00
-      lounge_meetings: $30.00
     wayfarer:
       coworking: $5.00
       large_conference_room: $72.00
       small_meeting_room: $45.00
       semi_private_alcoves: $27.00
-      lounge_meetings: $27.00
     wanderer:
       coworking: $3.75
       large_conference_room: $66.00
       small_meeting_room: $41.00
       semi_private_alcoves: $25.00
-      lounge_meetings: $25.00
     explorer:
       coworking: $3.25
       large_conference_room: $60.00
       small_meeting_room: $38.00
       semi_private_alcoves: $23.00
-      lounge_meetings: $23.00
     trailblazer:
       coworking: $3.00
       large_conference_room: $55.00
       small_meeting_room: $35.00
       semi_private_alcoves: $21.00
-      lounge_meetings: $21.00
     pioneer:
       coworking: $2.40
       large_conference_room: $48.00
       small_meeting_room: $30.00
       semi_private_alcoves: $18.00
-      lounge_meetings: $18.00
