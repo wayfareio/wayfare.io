@@ -6,5 +6,11 @@ gem 'guard-livereload'
 gem 'guard-sass'
 gem 'guard-sprockets'
 gem 'jekyll'
-gem 'jekyll-redirect-from'
 gem 'uglifier'
+
+group :jekyll_plugins do
+  gem 'jekyll-compose'
+  gem 'jekyll-feed'
+  gem 'jekyll-redirect-from'
+  gem 'jekyll-sitemap'
+end

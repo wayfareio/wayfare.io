@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    addressable (2.4.0)
     coderay (1.1.1)
     colorator (1.1.0)
     em-websocket (0.5.1)
@@ -47,10 +48,15 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
+    jekyll-compose (0.4.1)
+      jekyll (>= 2.5.0)
+    jekyll-feed (0.6.0)
     jekyll-redirect-from (0.11.0)
       jekyll (>= 2.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
+    jekyll-sitemap (0.11.0)
+      addressable (~> 2.4.0)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.12.0)
@@ -101,7 +107,10 @@ DEPENDENCIES
   guard-sass
   guard-sprockets
   jekyll
+  jekyll-compose
+  jekyll-feed
   jekyll-redirect-from
+  jekyll-sitemap
   uglifier
 
 BUNDLED WITH

@@ -15,6 +15,7 @@
 
     <meta name="description" content="Wayfare">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Wayfare" />
     <title>
       
         Costa Mesa: Upcoming Events | Wayfare
@@ -189,11 +190,22 @@
       </div>
       <div class="col-xs-12 col-md-9">
         <h2>Upcoming Events</h2>
-<div class="card-columns"></div>
+<div class="upcoming-events card-columns"></div>
 
 <script type="text/javascript">
   var promise = Wayfare.Ticketleap.getEvents();
   var customEvents = [
+    
+      {
+        headline: "Q-Commons Costa Mesa",
+        description: "<p>Join 10,000 participants in 80+ cities as we gather to learn and consider how to advance good in our local communities. You’ll have the ability to join a local conversation about one of the most pressing and challenging topics to think well about - Division. Our nation is divided across culture and politics, but that doesn’t mean we can’t start talking about how to foster unity. You won’t want to miss this event!</p><br />",
+        html_description: "<p>Join 10,000 participants in 80+ cities as we gather to learn and consider how to advance good in our local communities. You’ll have the ability to join a local conversation about one of the most pressing and challenging topics to think well about - Division. Our nation is divided across culture and politics, but that doesn’t mean we can’t start talking about how to foster unity. You won’t want to miss this event!</p>",
+        start_date: "2016-10-13 19:00:00 UTC",
+        end_date: "2016-10-13 21:00:00 UTC",
+        splash_image: "/uploads/event-splash.jpg",
+        thumb_image: "/uploads/event-thumb.jpg",
+        ticket_url: "http://qcommons.com/costamesa"
+      },
     
   ];
   promise.done(function() {
@@ -201,8 +213,10 @@
       _.concat(customEvents, Wayfare.Ticketleap.events),
       function(event) {
         if (event.earliest_start_local) {
+          console.log(moment(event.earliest_start_local).format("YYYY-MM-DD H:mm"))
           return moment(event.earliest_start_local).format("YYYY-MM-DD H:mm");
         } else {
+          console.log(event.start_date)
           return event.start_date;
         }
       }
@@ -215,13 +229,17 @@
       } else {
         var imageTag = '';
       }
-      $(".card-columns").append(
+      $(".upcoming-events").append(
         '<div class="card">'+
-          imageTag+
+          '<a href="'+(event.url || event.ticket_url)+'" class="_no-underline">'+
+            imageTag+
+          '</a>'+
           '<div class="card-block">'+
-            '<h3 class="card-title">'+(event.name || event.headline)+'</h3>'+
-            '<p><strong>'+moment(event.earliest_start_local || event.start_date).format('MMM D, h:mma')+'&mdash;'+moment(event.earliest_end_local || event.end_date).format('h:mma')+'</strong></p>'+
-            event.description.substring(0, [200, 225, 250, 275, 300][Math.floor(Math.random() * 5)])+'...'+
+            '<h3 class="card-title">'+
+            (event.name || event.headline)+'</h3>'+
+            '<p class="card-text"><strong>'+moment(event.earliest_start_local || event.start_date).format('MMM D, h:mma')+'&mdash;'+moment(event.earliest_end_local || event.end_date).format('h:mma')+'</strong></p>'+
+            '<p class="card-text">'+event.description.substring(0, [200, 225, 250, 275, 300][Math.floor(Math.random() * 5)])+'...</p>'+
+            '<p class="card-text"><a href="'+(event.url || event.ticket_url)+'" class="btn btn-sm btn-primary">Details &amp; Tickets</a></p>'+
           '</div>'+
         '</div>'
       );
