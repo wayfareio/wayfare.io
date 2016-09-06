@@ -7,8 +7,6 @@
       <meta name="description" content="{{ page.meta.description }}">
     {% elsif page.excerpt %}
       <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}">
-    {% else %}
-      <meta name="description" content="{{ page.custom_title | default:page.title }}">
     {% endif %}
     {% if page.meta.keywords %}
       <meta name="keywords" content="{{ page.meta.keywords }}">
