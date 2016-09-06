@@ -1,16 +1,20 @@
 ---
 title: Home
+custom_title: "Wayfare | Workspaces, Startup Programs, and Events"
 position: 0
 layout: site
 hero:
   image: "/assets/images/locations/costa-mesa/hero-bg.jpg"
   title: Join a Community of
-  subtitle: world changers
+  subtitle: World Changers
   buttons:
   - url: "/membership"
     title: Become a Member
   - url: "/locations"
     title: Find a Workspace
+meta:
+  description: Workspaces, startup programs, and events with spaces in Costa Mesa and Fullerton, Orange County, CA.
+  keywords: coworking, costa mesa, fullerton, orange county, california, social entrepreneurship, common good, social good, startups, incubator, collaborative workspace, co-working, social enterprise, mission, missional enterprise, kingdom, impact
 ---
 
 <div class="container">
@@ -21,7 +25,7 @@ hero:
         <div class="card-img-overlay flex-items-xs-middle flex-items-xs-center">
           <div class="card-block">
             <h4 class="card-title">{{ page.hero.title }}</h4>
-            <h5 class="card-subtitle">{{ page.hero.subtitle }}</h5>
+            <h5 class="card-subtitle">{{ page.hero.subtitle | lowercase }}</h5>
             {% for button in page.hero.buttons %}
               <a href="{{ button.url }}" class="btn btn-primary">{{ button.title }}</a>
             {% endfor %}

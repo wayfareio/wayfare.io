@@ -3,11 +3,22 @@
   <head>
     <meta charset="utf-8">
     {% include typekit.html %}
-    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }}{% endif %}">
+    {% if page.meta.description %}
+      <meta name="description" content="{{ page.meta.description }}">
+    {% elsif page.excerpt %}
+      <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}">
+    {% else %}
+      <meta name="description" content="{{ page.custom_title | default:page.title }}">
+    {% endif %}
+    {% if page.meta.keywords %}
+      <meta name="keywords" content="{{ page.meta.keywords }}">
+    {% endif %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {% feed_meta %}
     <title>
-      {% if page.title %}
+      {% if page.custom_title %}
+        {{ page.custom_title }}
+      {% elsif page.title %}
         {{ page.title }} | {{ site.title }}
       {% else %}
         {{ site.title }}
