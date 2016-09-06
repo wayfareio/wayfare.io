@@ -1,0 +1,5 @@
+.pagination {
+  > .page-item {
+    > .page-link { border-bottom: $pagination-border-width solid $pagination-border-color; }
+  }
+}

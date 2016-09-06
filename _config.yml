@@ -1,6 +1,18 @@
 ---
 title: Wayfare
 timezone: UTC
+twitter:
+  username: wayfarehq
+facebook:
+  publisher: https://www.facebook.com/WayfareHQ/
+logo: /assets/images/wayfare-logo@2x.png
+social:
+  name: Wayfare
+  links:
+  - https://www.facebook.com/WayfareHQ/
+  - https://www.instagram.com/wayfarehq/
+  - https://twitter.com/wayfarehq
+  - https://www.linkedin.com/company/wayfare-hq
 collections:
   authors:
     title: Authors
@@ -35,9 +47,7 @@ defaults:
     type: pages
   values:
     layout: page
-    meta:
-      description:
-      keywords:
+    description:
 - scope:
     path: ''
     type: events
@@ -62,11 +72,17 @@ defaults:
     bio_image:
     is_guest:
 permalink: pretty
+paginate: 2
+paginate_path: "/stories/archive/page:num"
 gems:
 - jekyll-feed
 - jekyll-redirect-from
 - jekyll-sitemap
+- jekyll-paginate
+- jekyll-seo-tag
 whitelist:
 - jekyll-feed
 - jekyll-redirect-from
 - jekyll-sitemap
+- jekyll-paginate
+- jekyll-seo-tag

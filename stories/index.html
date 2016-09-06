@@ -1,0 +1,70 @@
+---
+title: Stories
+position: 7
+lead:
+  line1: STORIES
+  line2: for **THE JOURNEY**
+  content: You are dreamers, artisans, and difference-makers. You are creatives, entrepreneurs,
+    and adventurers. You are believers in the world's best future. Welcome to our
+    community blog.
+nav:
+  id: stories
+  site:
+    highlight: stories
+  side:
+    id: stories
+    highlight: stories-recents
+    categories: true
+---
+
+{% for post in paginator.posts %}
+  <div class="card card-story-excerpt">
+    <div class="card-block">
+      <h3 class="card-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <p class="card-text">{{ post.excerpt | markdownify | strip_html | strip | newline_to_br }}</p>
+      <p class="pull-sm-right"><small class="text-uppercase"><a href="{{ post.url }}">Read on &rarr;</a></small></p>
+      {% assign author = site.authors | where:"title",post.author | sample %}
+      <p class="card-text text-muted">
+        <em><small>
+          by <strong>{{ author.title }}</strong>
+          on <strong>{{ post.date | date:"%B %e, %Y" }}</strong>
+        </small></em>
+      </p>
+    </div>
+  </div>
+{% endfor %}
+
+<nav class="text-xs-center" aria-label="Page navigation">
+  <ul class="pagination">
+    {% if paginator.next_page %}
+      <li class="page-item">
+        <a class="page-link" href="{{ paginator.next_page_path }}" aria-label="Older">
+          <span aria-hidden="true">&lsaquo; Older</span>
+          <span class="sr-only">Older</span>
+        </a>
+      </li>
+    {% else %}
+      <li class="page-item disabled">
+        <span class="page-link" aria-label="Older">
+          <span aria-hidden="true">&lsaquo; Older</span>
+          <span class="sr-only">Older</span>
+        </span>
+      </li>
+    {% endif %}
+    {% if paginator.previous_page %}
+      <li class="page-item">
+        <a class="page-link" href="{{ paginator.previous_page_path }}" aria-label="Newer">
+          <span aria-hidden="true">Newer &rsaquo;</span>
+          <span class="sr-only">Newer</span>
+        </a>
+      </li>
+    {% else %}
+      <li class="page-item disabled">
+        <span class="page-link" aria-label="Newer">
+          <span aria-hidden="true">Newer &rsaquo;</span>
+          <span class="sr-only">Newer</span>
+        </span>
+      </li>
+    {% endif %}
+  </ul>
+</nav>
