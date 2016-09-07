@@ -9,6 +9,7 @@ tags:
 - common-good
 author: Jill Arbini
 redirect_from: "/2016/08/29/our-kids-our-future/"
+image: https://res.cloudinary.com/wayfare/image/upload/c_fill,g_auto:faces,h_600,w_1200/v1473227980/backpacks_thouib.jpg
 ---
 
 The 2016-2017 school year is upon us and while Back to School is top of mind, we're featuring various action steps that can be taken to support the kids, teachers, parents, and schools in our community.

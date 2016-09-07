@@ -20,19 +20,20 @@ nav:
 <div class="card-stories">
   {% for post in paginator.posts %}
     <div class="card card-story-excerpt">
-      <div class="card-header">
-        <h3 class="card-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      </div>
       <div class="card-block">
+        <h3 class="card-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
         <p class="card-text">{{ post.excerpt | markdownify | strip_html | strip | newline_to_br }}</p>
-        <p class="card-text text-xs-right"><small class="text-uppercase"><a href="{{ post.url }}">Read on &rarr;</a></small></p>
+        <div class="pull-sm-right">
+          <small class="text-uppercase"><a href="{{ post.url }}">Read on &rarr;</a></small>
+          <div class="hidden-sm-up m-b-1"></div>
+        </div>
         {% assign author = site.authors | where:"title",post.author | sample %}
-      </div>
-      <div class="card-footer text-muted">
-        <em><small>
-          by <strong>{{ author.title }}</strong>
-          on <strong>{{ post.date | date:"%B %e, %Y" }}</strong>
-        </small></em>
+        <div class="text-muted">
+          <em><small>
+            by <strong>{{ author.title }}</strong>
+            on <strong>{{ post.date | date:"%B %e, %Y" }}</strong>
+          </small></em>
+        </div>
       </div>
     </div>
   {% endfor %}

@@ -2,6 +2,12 @@
 layout: page
 ---
 
+{% if page.image contains "cloudinary" %}
+  <img src="{{ page.image }}" class="img-fluid img-rounded m-b-2">
+{% elsif page.image %}
+  <img src="{{ page.image }}" class="img-fluid img-rounded fetch-image m-b-2" data-width="1200" data-height="600" data-crop="fill" data-gravity="auto:faces">
+{% endif %}
+
 <h2 class="m-b-2">{{ page.title }}</h2>
 
 {{ content }}

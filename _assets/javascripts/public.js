@@ -6,7 +6,7 @@
 //= require select2/dist/js/select2
 //= require moment/moment
 //= require lodash/lodash
-//= require cloudinary/js/jquery.cloudinary
+//= require cloudinary-jquery/cloudinary-jquery
 //= require wayfare
 //= require wayfare/bigslide
 //= require wayfare/cloudinary
