@@ -20,11 +20,11 @@ Spring 2017
 
 **What is Wayfare?**
 
-Wayfare is a co-working, gathering & event space, and startup incubator for people & organizations pursuing the world's best future.
+Wayfare is a coworking, gathering & event space, and startup incubator for people & organizations pursuing the world's best future.
 
 **What is the mission of Wayfare?**
 
-Wayfare exists to unite and propel creators, founders, and adventurers for the common good (the most good for all people). Our co-working community consists of people who actively pursue the common good through their work and lives, and desire to work together and support each other in their various endeavors. This consists primarily of social enterprises, non-profits, or those have a give back model built into their business. We are focused and committed to growing  a community and culture of people who are committed to the world's best future.
+Wayfare exists to unite and propel creators, founders, and adventurers for the common good (the most good for all people). Our community consists of people who actively pursue the common good through their work and lives, and desire to work together and support each other in their various endeavors. This consists primarily of social enterprises, non-profits, or those have a give back model built into their business. We are focused and committed to growing  a community and culture of people who are committed to the world's best future.
 
 ## Interning at Wayfare
 
