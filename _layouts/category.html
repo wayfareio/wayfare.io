@@ -4,16 +4,23 @@ layout: page
 
 {% for post in site.categories[page.category] %}
   <div class="card card-story-excerpt">
+    {% if post.image %}
+      <a href="{{ post.url }}" class="_no-underline"><img data-src="/wayfareio{{ post.image }}" class="card-img img-fluid cloudinary-image" data-width="800" data-height="300" data-crop="fill" data-gravity="{{ post.image_transformations.gravity | default:'faces:center'}}"></a>
+    {% endif %}
     <div class="card-block">
       <h3 class="card-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
       <p class="card-text">{{ post.excerpt | markdownify | strip_html | strip | newline_to_br }}</p>
+      <div class="pull-sm-right">
+        <small class="text-uppercase"><a href="{{ post.url }}">Read on &rarr;</a></small>
+        <div class="hidden-sm-up m-b-1"></div>
+      </div>
       {% assign author = site.authors | where:"title",post.author | sample %}
-      <p class="card-text text-muted">
+      <div class="text-muted">
         <em><small>
           by <strong>{{ author.title }}</strong>
           on <strong>{{ post.date | date:"%B %e, %Y" }}</strong>
         </small></em>
-      </p>
+      </div>
     </div>
   </div>
 {% endfor %}
