@@ -1,6 +1,6 @@
 //= require jquery/dist/jquery
 //= require tether/dist/js/tether
-//= require vendor/retina.min
+//= require vendor/retina.fix
 //= require bootstrap/dist/js/bootstrap
 //= require bigSlide/dist/bigSlide
 //= require select2/dist/js/select2
@@ -11,5 +11,6 @@
 //= require wayfare/bigslide
 //= require wayfare/cloudinary
 //= require wayfare/nav-side
+//= require wayfare/retina
 //= require wayfare/select
 //= require wayfare/ticketleap
