@@ -2,17 +2,13 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    {% include typekit.html %}
-    {% if page.meta.description %}
-      <meta name="description" content="{{ page.meta.description }}">
-    {% elsif page.excerpt %}
-      <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}">
-    {% endif %}
-    {% if page.meta.keywords %}
-      <meta name="keywords" content="{{ page.meta.keywords }}">
-    {% endif %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% include typekit.html %}
     {% feed_meta %}
+    {% seo title=false %}
+    {% if page.keywords %}
+      <meta name="keywords" content="{{ page.keywords }}">
+    {% endif %}
     <title>
       {% if page.custom_title %}
         {{ page.custom_title }}
