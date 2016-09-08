@@ -21,7 +21,7 @@ nav:
   {% for post in paginator.posts %}
     <div class="card card-story-excerpt">
       {% if post.image %}
-        <a href="{{ post.url }}" class="_no-underline"><img data-src="/wayfareio{{ post.image }}" class="card-img img-fluid cloudinary-image" data-width="900" data-height="300" data-crop="fill" data-gravity="{{ post.image_transformations.gravity | default:'faces:center'}}"></a>
+        <a href="{{ post.url }}" class="_no-underline"><img data-src="/wayfareio{{ post.image }}" class="card-img img-fluid img-cloud" data-width="900" data-height="300" data-crop="fill" data-gravity="{{ post.image_transformations.gravity | default:'faces:center'}}"></a>
       {% endif %}
       <div class="card-block">
         <h3 class="card-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
