@@ -11,6 +11,7 @@ excerpt: I could have worked from home but being surrounded by change makers was
   a goal for us. I think anytime we can partner with people who are doing things to
   help change the world we are amplifying the difference we can make in the world.
 redirect_from: "/2016/08/22/member-monday-sarah-heath/"
+image: /uploads/member-monday-sarah-heath.jpg
 ---
 
 **Who are you?**
