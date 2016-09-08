@@ -20,6 +20,9 @@ nav:
 <div class="card-stories">
   {% for post in paginator.posts %}
     <div class="card card-story-excerpt">
+      {% if post.image %}
+        <img data-src="/wayfareio{{ post.image }}" class="card-img img-fluid cloudinary-image" data-width="800" data-height="300" data-crop="fill" data-gravity="faces:center">
+      {% endif %}
       <div class="card-block">
         <h3 class="card-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
         <p class="card-text">{{ post.excerpt | markdownify | strip_html | strip | newline_to_br }}</p>
