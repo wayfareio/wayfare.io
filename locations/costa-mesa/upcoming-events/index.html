@@ -249,7 +249,7 @@
     );
     _.each(allEvents, function(event) {
       if (event.hero_small_image_url) {
-        var imageTag = '<img data-src="'+event.hero_small_image_url+'" class="fetch-image card-img-top img-fluid" data-width="400" data-height="400" data-crop="fill" data-gravity="auto:faces">';
+        var imageTag = '<img data-src="'+event.hero_small_image_url+'" class="img-fetch card-img-top img-fluid" data-width="400" data-height="400" data-crop="fill" data-gravity="auto:faces">';
       } else if (event.thumb_image) {
         var imageTag = '<img src="'+event.thumb_image+'" class="card-img-top img-fluid">';
       } else {
@@ -270,7 +270,7 @@
         '</div>'
       );
     });
-    $(".fetch-image").fetchify();
+    $(".img-fetch").fetchify();
   });
 </script>
 
