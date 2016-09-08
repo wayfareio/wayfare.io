@@ -65,6 +65,9 @@
 <loc>/</loc>
 </url>
 <url>
+<loc>/stories/</loc>
+</url>
+<url>
 <loc>/internships/</loc>
 </url>
 <url>
@@ -111,9 +114,6 @@
 </url>
 <url>
 <loc>/startups/</loc>
-</url>
-<url>
-<loc>/stories/</loc>
 </url>
 <url>
 <loc>/locations/costa-mesa/upcoming-events/</loc>
