@@ -72,7 +72,7 @@ defaults:
     bio_image:
     is_guest:
 permalink: pretty
-paginate: 2
+paginate: 10
 paginate_path: "/stories/archive/page:num"
 gems:
 - jekyll-feed
