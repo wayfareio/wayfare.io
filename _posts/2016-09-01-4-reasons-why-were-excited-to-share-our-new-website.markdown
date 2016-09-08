@@ -17,7 +17,7 @@ excerpt: After a two month labor of love, we couldn't be more excited to share t
   seat. As our staff and membership has grown, it has become a top priority for us
   to create a new website that represents the dynamic, dimensional identity of our
   community today.
-image: /uploads/4-reasons-why-were-excited-to-share-our-new-website.png
+image: "/uploads/4-reasons-why-were-excited-to-share-our-new-website.png"
 image_transformations:
   gravity: north_west
 ---

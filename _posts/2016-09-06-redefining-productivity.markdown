@@ -15,7 +15,7 @@ tags:
 - disconnect
 - health
 author: Adrianne Verheyen
-image: /uploads/redefining-productivity.jpg
+image: "/uploads/redefining-productivity.jpg"
 ---
 
 At Wayfare, we believe in the world’s best future. We also believe the world’s best future involves books. Real, smell-good books with covers and pages, marked with a heavy amount of highlighter ink. However, we recognize that finding the time to sit down and read often requires more time, energy, and commitment than you can afford.<!-- more --> A study done by Time Magazine found that the average American spends a paltry 19 minutes per day reading. If you’re anything like the next person, you set some lofty reading goals for yourself at the beginning of the year, and now you’ve found yourself somewhere in the middle of seven different titles. You may pick one up at night before bed, determined to make progress, and find yourself cashed out three paragraphs in. It’s ok, we forgive you.
