@@ -7,8 +7,15 @@ tags:
 - costa-mesa
 - member-monday
 author: Caitlin Kraina
-excerpt: I am currently developing the business model for The Integrated which essentially supports emerging adults, age 18-26, transition into adulthood. I am writing the curriculum and developing the website as well as doing everything, except social media (because I have an awesome intern team and intern director!). The Integrated started about 2 years ago when I decided I wanted to mentor a few college students because it is such a vital and crucial developmental time for them. Gandolf, aka Jeff Tanner (co-founder of Wayfare), planted the seed that my ideas could turn into a non-profit... so here I am today.
-redirect_from: "2016/08/15/member-monday-jonathan-trigg/"
+excerpt: I am currently developing the business model for The Integrated which essentially
+  supports emerging adults, age 18-26, transition into adulthood. I am writing the
+  curriculum and developing the website as well as doing everything, except social
+  media (because I have an awesome intern team and intern director!). The Integrated
+  started about 2 years ago when I decided I wanted to mentor a few college students
+  because it is such a vital and crucial developmental time for them. Gandolf, aka
+  Jeff Tanner (co-founder of Wayfare), planted the seed that my ideas could turn into
+  a non-profit... so here I am today.
+redirect_from: 2016/08/15/member-monday-jonathan-trigg/
 image: "/uploads/member-monday-jonathan-trigg.jpg"
 ---
 
