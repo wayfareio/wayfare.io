@@ -38,7 +38,7 @@ We are inspired every day by this [community](/about), the work created here, an
 
 Don't get us wrong here. We love coworking, workshops, gatherings, and startups… but it's the common mission and thread that binds them all together that really drives what we do. We're not just in this for the ergonomic chairs or the leftover eucalyptus garlands… we're in this to advance [the common good](/about/common-good), to make the world a better place, to empower others, and to pursue the world's best future… together. We're excited to share this mission with you- and invite you to be a part of it.
 
-While the design aspect of the  website was important, the  website rebrand was less centered on the aesthetics as it was about communicating Wayfare's unique mission and [community values](/about/values). We put pen to paper, defined and refined who we are, and invited our members, friends, and clients to be a part of it… because they truly are the reason this community is what it is today. We're excited for you to [read what they had to say](/about/our-model).
+While the design aspect of the  website was important, the  website rebrand was less centered on the aesthetics as it was about communicating Wayfare's unique mission and [community values](/about/our-values). We put pen to paper, defined and refined who we are, and invited our members, friends, and clients to be a part of it… because they truly are the reason this community is what it is today. We're excited for you to [read what they had to say](/about/our-model).
 
 ### 3. It's visual and fun (like our community)
 
