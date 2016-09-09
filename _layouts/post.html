@@ -3,7 +3,7 @@ layout: page
 ---
 
 <section class="story">
-  <img data-src="/wayfareio{{ page.image }}" class="story-img img-fluid img-rounded img-cloud" data-width="1200" data-height="600" data-crop="fill" data-gravity="{{ page.image_transformations.gravity | default:'faces:center'}}">
+  <img data-src="/wayfareio{{ page.image }}" class="story-img img-fluid img-rounded img-cloud" data-width="1200" data-height="{{ page.image_transformations.height | default:'600' }}" data-crop="fill" data-gravity="{{ page.image_transformations.gravity | default:'faces:center'}}">
   <h2 class="story-title">{{ page.title }}</h2>
   <div class="story-text">
     {{ content }}

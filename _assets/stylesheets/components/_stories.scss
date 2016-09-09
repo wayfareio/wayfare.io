@@ -1,4 +1,7 @@
 .story {
   > .story-title { margin-top: 2rem; margin-bottom: 1.5rem; }
+  > .story-text {
+    img { @include img-fluid(); @include border-radius($border-radius-lg); margin-top: 1rem; margin-bottom: 1rem; }
+  }
   > .story-footer { border-top: 1px solid $gray-lighter; padding-top: 1rem; margin-top: 2rem; }
 }

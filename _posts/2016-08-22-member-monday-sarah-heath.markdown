@@ -12,6 +12,8 @@ excerpt: I could have worked from home but being surrounded by change makers was
   help change the world we are amplifying the difference we can make in the world.
 redirect_from: "/2016/08/22/member-monday-sarah-heath/"
 image: "/uploads/member-monday-sarah-heath.jpg"
+image_transformations:
+  height: 800
 ---
 
 **Who are you?**
@@ -50,7 +52,7 @@ The fact that I always have a looming deadline whether it be a writing deadline,
 
 I love getting to be with people in their biggest moments and I love creating things like art, talks, sermons, and studies that connect people to the divine.
 
-![](/content/images/2016/08/756ff61dc2bb-Sarah1-1.jpg)
+![Sarah Heath](/uploads/member-monday-sarah-heath-2.jpg)
 
 **What are some of the biggest challenges of your work and what advice would you give to someone experiencing similar challenges?**
 
