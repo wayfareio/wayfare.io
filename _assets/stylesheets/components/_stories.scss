@@ -1,0 +1,4 @@
+.story {
+  > .story-title { margin-top: 2rem; margin-bottom: 1.5rem; }
+  > .story-footer { border-top: 1px solid $gray-lighter; padding-top: 1rem; margin-top: 2rem; }
+}
