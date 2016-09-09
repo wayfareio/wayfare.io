@@ -1,6 +1,5 @@
 ---
 title: Wayfare
-url: http://wayfare.io
 timezone: UTC
 collections:
   authors:
@@ -22,7 +21,7 @@ defaults:
   values:
     layout: post
     permalink: "/stories/:year/:month/:day/:title/"
-    author:
+    author: 
     nav:
       id: post
       site:
@@ -36,30 +35,31 @@ defaults:
     type: pages
   values:
     layout: page
-    description:
+    description: 
 - scope:
     path: ''
     type: events
   values:
-    headline:
+    headline: 
     images:
-      splash_image:
-      thumb_image:
+      splash_image: 
+      thumb_image: 
     dates:
-      start_date:
-      end_date:
+      start_date: 
+      end_date: 
     urls:
-      ticket_url:
-    location:
+      ticket_url: 
+    location: 
 - scope:
     path: ''
     type: authors
   values:
     layout: page
-    company_name:
-    job_title:
-    bio_image:
-    is_guest:
+    company_name: 
+    job_title: 
+    bio_image: 
+    is_guest: 
+url: http://wayfare.io
 twitter:
   username: wayfarehq
 facebook:
