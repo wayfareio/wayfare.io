@@ -1,5 +1,5 @@
 ---
-title: "Writer's Room Productions: Keeping the Arts in Education"
+title: 'Writer''s Room Productions: Keeping the Arts in Education'
 date: 2016-08-15 05:29:00 Z
 categories:
 - Common Good
@@ -8,8 +8,15 @@ tags:
 - education
 - arts
 author: Jill Arbini
-excerpt: When I was in 2nd grade I was tested and diagnosed with dyslexia. For many months I felt like I couldn’t keep up with the rest of my class, and finally my parents had some answers. Because of this, I qualified for the RSP program at my school and three times a week I had to leave my regular class to do my school work in another room with a Special Ed aid. As a seven year old, I didn’t fully understand why I was being asked to work differently, but it definitely made me feel isolated. I learned very early on how to joke with my friends at school and be self deprecating about my situation.
-redirect_from: /2016/08/15/writers-room-productions-keeping-the-arts-in-education/
+excerpt: When I was in 2nd grade I was tested and diagnosed with dyslexia. For many
+  months I felt like I couldn’t keep up with the rest of my class, and finally my
+  parents had some answers. Because of this, I qualified for the RSP program at my
+  school and three times a week I had to leave my regular class to do my school work
+  in another room with a Special Ed aid. As a seven year old, I didn’t fully understand
+  why I was being asked to work differently, but it definitely made me feel isolated.
+  I learned very early on how to joke with my friends at school and be self deprecating
+  about my situation.
+redirect_from: "/2016/08/15/writers-room-productions-keeping-the-arts-in-education/"
 image: "/uploads/writers-room-productions-keeping-the-arts-in-education.jpg"
 ---
 
