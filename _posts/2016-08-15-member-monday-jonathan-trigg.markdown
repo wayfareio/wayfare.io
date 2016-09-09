@@ -15,7 +15,7 @@ excerpt: I am currently developing the business model for The Integrated which e
   because it is such a vital and crucial developmental time for them. Gandolf, aka
   Jeff Tanner (co-founder of Wayfare), planted the seed that my ideas could turn into
   a non-profit... so here I am today.
-redirect_from: 2016/08/15/member-monday-jonathan-trigg/
+redirect_from: /2016/08/15/member-monday-jonathan-trigg/
 image: "/uploads/member-monday-jonathan-trigg.jpg"
 ---
 
