@@ -1,5 +1,6 @@
 ---
 title: Interships
+redirect_from: /interns
 position: 99
 ---
 
