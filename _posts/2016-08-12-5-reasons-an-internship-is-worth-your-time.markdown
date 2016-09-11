@@ -1,5 +1,5 @@
 ---
-title: "5 Reasons an Internship is Worth Your Time"
+title: 5 Reasons an Internship is Worth Your Time
 date: 2016-08-12 23:26:00 Z
 categories:
 - Work
