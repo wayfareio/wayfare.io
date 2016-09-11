@@ -19,9 +19,9 @@ excerpt: Day to day, you can mostly find me slinging lattes, running errands, cr
   eventually having a full team, a better work/life balance and a larger shop that
   serves excellent coffee and provides a healthy space for the community.
 redirect_from: 2016/08/08/member-monday-ally-garvin-of-neat-coffee/
-image: "/uploads/member-monday-ally-garvin-of-neat-coffee.jpg"
+image: "/uploads/member-monday-ally-garvin-of-neat-coffee-3.jpg"
 image_transformations:
-  gravity: west
+  gravity: north_west
 ---
 
 **Who are you?**
