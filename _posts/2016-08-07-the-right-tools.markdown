@@ -9,8 +9,6 @@ author: Jill Arbini
 image: "/uploads/the-right-tools.jpg"
 ---
 
-## The Right Tools for the Job
-
 Have you ever tried to do a job without the right tools?Recently, my son locked himself out of his room. I couldn’t find the "key" that came with the doorknobs which is the tool that I usually use for the job. Without the right tool, I tried to improvise with a bobby pin. Then I tried a screwdriver. I ended up attempting to take the doorknob apart and find a way to unlock the door. It still didn’t unlock. I ended up putting the doorknob back together with the screwdriver and decided to keep looking for the right tool. My son finally remembered where he saw it last. Once I had the right tool, I unlocked the door on my first attempt and it took me 2 seconds. However, I had spent 30 minutes prior to that trying to do it without the tool. I left me frustrated in the moment and finally relieved when I had the right tool for the job.<!-- more -->
 
 School is just around the corner and parents, students and teachers are getting ready and gathering school supplies; the “tools” for the months ahead. I remember the feelings I had around this time of year as a child as I shopped with my mom for the items on my school supply list. The thrill of new pencils, markers full of ink, perfectly sharpened crayons, and a binder filled with paper signaled the start of something new. These school supplies not only prepared me for another year of learning on a practical level, but an emotional one. I felt well-equipped and excited. I knew I would create and learn. I was ready and confident in what the year would hold. I had the right tools and felt equipped for the job I was tasked with: learning. 
