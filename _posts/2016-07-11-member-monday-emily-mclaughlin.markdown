@@ -9,7 +9,7 @@ tags:
 - common-good
 - poverty
 author: Caitlin Kraina
-image: "/uploads/member-monday-emily-mclaughlin-2.jpg"
+image: "/uploads/member-monday-emily-mclaughlin.jpg"
 excerpt: Nuru's mission is to end extreme poverty in remote, rural areas. Right now
   we have community development projects in Kenya, Ethiopia, and we're expanding to
   a third country next year. I am constantly inspired by my brilliant colleagues,
