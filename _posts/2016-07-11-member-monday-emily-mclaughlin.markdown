@@ -10,6 +10,14 @@ tags:
 - poverty
 author: Caitlin Kraina
 image: "/uploads/member-monday-emily-mclaughlin.jpg"
+excerpt: Nuru's mission is to end extreme poverty in remote, rural areas. Right now
+  we have community development projects in Kenya, Ethiopia, and we're expanding to
+  a third country next year. I am constantly inspired by my brilliant colleagues,
+  our incredible local teams and farmers, and everyone's tireless efforts in achieving
+  Nuru's mission. With a mission like this it isn't difficult to stay productive.
+  Practically though with two kids at home, I have to utilize every minute of kid-free
+  work-time to its fullest (well besides the important time I spend exploring the
+  amazing Skype Mojis to ensure I start off my Skype meetings in style).
 ---
 
 **Who are you?**
