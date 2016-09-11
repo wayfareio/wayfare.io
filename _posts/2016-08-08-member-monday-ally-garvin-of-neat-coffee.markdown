@@ -20,6 +20,8 @@ excerpt: Day to day, you can mostly find me slinging lattes, running errands, cr
   serves excellent coffee and provides a healthy space for the community.
 redirect_from: 2016/08/08/member-monday-ally-garvin-of-neat-coffee/
 image: "/uploads/member-monday-ally-garvin-of-neat-coffee.jpg"
+image_transformations:
+  gravity: north_west
 ---
 
 **Who are you?**
