@@ -1,16 +1,6 @@
-.card-event {
-  padding: 1rem;
-  display: block;
-  background: #ffffff;
-  // border: $card-border-width solid $card-border-color;
-  // border-radius: 0px;
-  :hover {
-      background: #f6f6f6;
-    }
-  img {
-    padding: 0;
-    border-radius: 0px;
-  }
+.card.card-event {
+  padding: 1rem; display: block; background: #fafafa; border: 0;
+  &:hover { background: #f6f6f6; }
 }
 a:link {
   p.card-text { color: #000000; }
