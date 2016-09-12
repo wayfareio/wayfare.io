@@ -9,13 +9,14 @@ tags:
 - common-good
 author: Jill Arbini
 redirect_from: "/2016/08/29/our-kids-our-future/"
+image: "/uploads/our-kids-our-future.jpg"
 ---
 
 The 2016-2017 school year is upon us and while Back to School is top of mind, we're featuring various action steps that can be taken to support the kids, teachers, parents, and schools in our community.
 
 There are so many ways that any person can use what they have to contribute to the flourishing of our kids.  Today we are focusing on several ways to support kids in our area where **we each can play a role in raising up the next generation of leaders, creators, innovators, and world-changers.**<!-- more -->
 
-### [Project Hope Alliance](www.projecthopealliance.org), Costa Mesa
+### [Project Hope Alliance](http://www.projecthopealliance.org), Costa Mesa
 
 According to their website, "Childhood homelessness is Orange County’s best-kept secret. Under its veil of affluence are the faces of more than 26,000 children experiencing homelessness and 126,000 children living in poverty. They say goodnight from motels, shelters, and couches."
 
@@ -68,4 +69,4 @@ Phone: 949.630.6071
 
 ### [Back to School Improv Night Fundraiser](https://wayfare.ticketleap.com/writers-room-improv-fundraiser/), Writer's Room Productions
 
-Also, we'd love for you to join [Writer's Room Productions](www.writersroomproductions.org) at [Wayfare](wayfare.io/events) on **Friday, September 16th** to help support this non-profit in their mission to ignite confidence and creatitvity in the next generation through creative writing and performances. [Get your tickets](https://wayfare.ticketleap.com/writers-room-improv-fundraiser/) and [visit their website](www.writersroomproductions) to learn more about this amazing non-profit organization and the ways you can support their efforts.
+Also, we'd love for you to join [Writer's Room Productions](http://www.writersroomproductions.org) at [Wayfare](http://wayfare.io/events) on **Friday, September 16th** to help support this non-profit in their mission to ignite confidence and creatitvity in the next generation through creative writing and performances. [Get your tickets](https://wayfare.ticketleap.com/writers-room-improv-fundraiser/) and [visit their website](http://www.writersroomproductions) to learn more about this amazing non-profit organization and the ways you can support their efforts.
