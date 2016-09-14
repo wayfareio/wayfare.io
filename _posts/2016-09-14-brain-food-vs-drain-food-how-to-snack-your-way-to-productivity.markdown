@@ -28,10 +28,12 @@ Here are quick tips + easy snacks to feed your brain strategically. Be intention
 3. Make your eating decisions before you get hungry! (Plan your meals out daily or weekly). If you wait until your body is craving fuel, you’re craving quick energy which means you’ll choose options with high carbs and lots of sugar, and probably spend a lot more money by eating out.
 4. Eat smaller, lighter meals about every three hours so that you avoid food induced comas.
 5. Eat slower - it takes 15 minutes for your brain to let you know your body is full, so try to stretch your meal out to at least 20 minutes. Plus, digesting takes A LOT of your energy. This habit allows your body to phase in its digestion.
-4 pm on a Wednesday and find yourself fading? Keep some trail mix handy for instant brain food.
+6. 4 pm on a Wednesday and find yourself fading? Keep some trail mix handy for instant brain food.
 
 **Quick Snacks:**
 
 **Sliced banana + Sunflower butter**: One banana contains that 25 grams of glucose it needs to function at its best capacity + Sun flower seeds have a huge impact on your mental processing ability and overall mood. Packed with B vitamins and thiamine, they also improve your memory!
 
-**Hummus with raw carrots**: Raw carrots give you that steady level of blood sugar your brain needs to functionHummus is made out of garbanzo beans, commonly known as chick peas. Chick peas are also high in antioxidants, and one of the most heart-healthy snacks that you can eat.
+**Hummus with raw carrots**: Raw carrots give you that steady level of blood sugar your brain needs to function. Hummus is made out of garbanzo beans, commonly known as chick peas. Chick peas are also high in antioxidants, and one of the most heart-healthy snacks that you can eat.
+
+What's your favorite snack to fuel your workday? 
