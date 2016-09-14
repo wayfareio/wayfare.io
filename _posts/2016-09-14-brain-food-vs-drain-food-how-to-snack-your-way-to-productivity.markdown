@@ -13,6 +13,7 @@ tags:
 - wellness
 - eating
 author: Adrianne Verheyen
+image: "/uploads/Brain%20Food%20Vs%20Drain%20Food.jpeg"
 ---
 
 At Wayfare, our vision for the common good doesn’t end with providing coworking space and great coffee. We believe in living out of your full self. This concept of your full self is one that encourages the idea that our work, soul, and physical bodies should ideally be in this symbiotic dance: each one actively working towards the fullness of the other. In a quest to learn more about bridging this relationship, I thought, "What better place to start than in the fridge?"<!-- more -->
