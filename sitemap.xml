@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://wayfare.io/stories/2016/09/14/brain-food-vs-drain-food-how-to-snack-your-way-to-productivity/</loc>
+<lastmod>2016-09-14T17:33:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://wayfare.io/stories/2016/09/06/redefining-productivity/</loc>
 <lastmod>2016-09-06T22:55:00+00:00</lastmod>
 </url>
@@ -144,6 +148,9 @@
 </url>
 <url>
 <loc>http://wayfare.io/stories/work/</loc>
+</url>
+<url>
+<loc>http://wayfare.io/stories/archive/page2/</loc>
 </url>
 <url>
 <loc>http://wayfare.io/authors/caitlin-kraina/</loc>
