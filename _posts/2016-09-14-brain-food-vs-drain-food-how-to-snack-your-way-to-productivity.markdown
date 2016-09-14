@@ -15,7 +15,7 @@ tags:
 author: Adrianne Verheyen
 ---
 
-At Wayfare, our vision for the common good doesn’t end with providing coworking space and great coffee. We believe in living out of your full self. This concept of your full self is one that encourages the idea that our work, soul, and physical bodies should ideally be in this symbiotic dance: each one actively working towards the fullness of the other. In a quest to learn more about bridging this relationship, I thought, "What better place to start than in the fridge?"
+At Wayfare, our vision for the common good doesn’t end with providing coworking space and great coffee. We believe in living out of your full self. This concept of your full self is one that encourages the idea that our work, soul, and physical bodies should ideally be in this symbiotic dance: each one actively working towards the fullness of the other. In a quest to learn more about bridging this relationship, I thought, "What better place to start than in the fridge?"<!-- more -->
 
 Our brains work most effectively with about 25 grams of glucose in our blood stream - this is about the amount in a banana, or a 16 ounce glass of cold pressed juice. Even though your brain makes up only 2-3% of your total body mass, it’s responsible for burning 20% of the calories you eat daily, which is why it’s so critical to fuel it appropriately.
 
