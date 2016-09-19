@@ -49,9 +49,9 @@ banner:
     );
     _.each(allEvents, function(event) {
       if (event.hero_small_image_url) {
-        var imageTag = '<img data-src="'+event.hero_small_image_url+'" class="img-fetch w-100" data-width="300" data-height="225" data-crop="fill" data-gravity="auto:faces">';
+        var imageTag = '<img data-src="'+event.hero_small_image_url+'" class="img-fetch img-fluid m-b-1" data-width="600" data-height="425" data-crop="fill" data-gravity="auto:faces">';
       } else if (event.thumb_image) {
-        var imageTag = '<img data-src="/wayfareio'+event.thumb_image+'" class="img-cloud w-100" data-width="300" data-height="225" data-crop="fill" data-gravity="auto:faces">';
+        var imageTag = '<img data-src="/wayfareio'+event.thumb_image+'" class="img-cloud img-fluid m-b-1" data-width="600" data-height="425" data-crop="fill" data-gravity="auto:faces">';
       } else {
         var imageTag = '';
       }
