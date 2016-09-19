@@ -9,6 +9,7 @@
 //= require cloudinary-jquery/cloudinary-jquery
 //= require wayfare
 //= require wayfare/bigslide
+//= require wayfare/clickable-elements
 //= require wayfare/cloudinary
 //= require wayfare/nav-side
 //= require wayfare/retina

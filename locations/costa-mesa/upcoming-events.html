@@ -14,8 +14,9 @@ banner:
   subtitle: 270 Baker St E, Ste 200, Costa Mesa, CA
 ---
 
-<h2>Upcoming Events</h2>
-<div class="upcoming-events card-columns"></div>
+<h2 class="underline">Upcoming Events</h2>
+
+<div class="upcoming-events"></div>
 
 <script type="text/javascript">
   var promise = Wayfare.Ticketleap.getEvents();
@@ -23,7 +24,7 @@ banner:
     {% for event in site.events %}
       {
         headline: "{{ event.headline | escape }}",
-        description: "{{ event.content | newline_to_br | strip_newlines }}",
+        description: "{{ event.content | strip_html | strip_newlines }}",
         html_description: "{{ event.content | markdown | strip_newlines }}",
         start_date: "{{ event.dates.start_date }}",
         end_date: "{{ event.dates.end_date }}",
@@ -48,27 +49,29 @@ banner:
     );
     _.each(allEvents, function(event) {
       if (event.hero_small_image_url) {
-        var imageTag = '<img data-src="'+event.hero_small_image_url+'" class="img-fetch card-img-top img-fluid" data-width="400" data-height="400" data-crop="fill" data-gravity="auto:faces">';
+        var imageTag = '<img data-src="'+event.hero_small_image_url+'" class="img-fetch img-fluid m-b-1" data-width="600" data-height="425" data-crop="fill" data-gravity="auto:faces">';
       } else if (event.thumb_image) {
-        var imageTag = '<img src="'+event.thumb_image+'" class="card-img-top img-fluid">';
+        var imageTag = '<img data-src="/wayfareio'+event.thumb_image+'" class="img-cloud img-fluid m-b-1" data-width="600" data-height="425" data-crop="fill" data-gravity="auto:faces">';
       } else {
         var imageTag = '';
       }
       $(".upcoming-events").append(
-        '<div class="card">'+
-          '<a href="'+(event.url || event.ticket_url)+'" class="_no-underline">'+
-            imageTag+
-          '</a>'+
-          '<div class="card-block">'+
-            '<h3 class="card-title">'+
-            (event.name || event.headline)+'</h3>'+
-            '<p class="card-text"><strong>'+moment(event.earliest_start_local || event.start_date).format('MMM D, h:mma')+'&mdash;'+moment(event.earliest_end_local || event.end_date).format('h:mma')+'</strong></p>'+
-            '<p class="card-text">'+event.description.substring(0, [200, 225, 250, 275, 300][Math.floor(Math.random() * 5)])+'...</p>'+
-            '<p class="card-text"><a href="'+(event.url || event.ticket_url)+'" class="btn btn-sm btn-primary">Details &amp; Tickets</a></p>'+
+        '<div data-href="'+(event.url || event.ticket_url)+'" class="card card-event">'+
+          '<div class="row">'+
+            '<div class="col-xs-12 col-lg-5">'+
+              imageTag+
+            '</div>'+
+            '<div class="col-xs-12 col-lg-7">'+
+              '<h3 class="card-title">'+(event.name || event.headline)+'</h3>'+
+              '<p class="card-text m-b-0"><strong>'+moment(event.earliest_start_local || event.start_date).format('MMM D, h:mma')+'&mdash;'+moment(event.earliest_end_local || event.end_date).format('h:mma')+'</strong></p>'+
+              '<p class="card-text">'+event.description.substring(0, 200)+'...</p>'+
+              '<a href="'+(event.url || event.ticket_url)+'" class="btn btn-md btn-primary">Details &amp; Tickets</a>'+
+            '</div>'+
           '</div>'+
         '</div>'
       );
     });
     $(".img-fetch").fetchify();
+    $(".img-cloud").cloudinary();
   });
 </script>
