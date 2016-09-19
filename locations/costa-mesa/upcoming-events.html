@@ -15,6 +15,21 @@ banner:
 ---
 
 <h2 class="underline">Upcoming Events</h2>
+
+<div data-href="#" class="card card-event">
+  <div class="row">
+    <div class="col-xs-12 col-lg-5">
+      <img src="http://localhost:4000/assets/images/-temp.jpg" alt="Event image" class="w-100 m-b-1">
+    </div>
+    <div class="col-xs-12 col-lg-7">
+      <h3 class="card-title">TITLE: Writer's Room Improv Fundraiser</h3>
+      <p class="card-text m-b-0"><strong>Date: Sep 16, 7:00pm—9:00pm</strong></p>
+      <p class="card-text">Enjoy an evening with the Writer's Room team of professional improv actors, musicians and artists! The Back to School: Improv Night is all about the local schools in your neighborhood. We are rallying the troops to brings the Authors Showcase program to the underfunded schools in SoCal. With your he...</p>
+      <a href="#" class="btn btn-md btn-primary">Details &amp; Tickets</a>
+    </div>
+  </div>
+</div>
+
 <div class="upcoming-events"></div>
 
 <script type="text/javascript">
@@ -48,23 +63,25 @@ banner:
     );
     _.each(allEvents, function(event) {
       if (event.hero_small_image_url) {
-        var imageTag = '<img data-src="'+event.hero_small_image_url+'" class="img-fetch card-img-top img-fluid" data-width="300" data-height="225" data-crop="fill" data-gravity="auto:faces">';
+        var imageTag = '<img data-src="'+event.hero_small_image_url+'" class="img-fetch w-100 m-b-1" data-width="300" data-height="225" data-crop="fill" data-gravity="auto:faces">';
       } else if (event.thumb_image) {
-        var imageTag = '<img src="'+event.thumb_image+'" class="img-fluid">';
+        var imageTag = '<img src="'+event.thumb_image+'" class="w-100">';
       } else {
         var imageTag = '';
       }
       $(".upcoming-events").append(
-        '<div class="card">'+
-          '<a href="'+(event.url || event.ticket_url)+'" class="_no-underline col-sm-4">'+
-            imageTag+
-          '</a>'+
-          '<div class="card-block col-sm-8">'+
-            '<h3 class="card-title">'+
-            (event.name || event.headline)+'</h3>'+
-            '<p class="card-text"><strong>'+moment(event.earliest_start_local || event.start_date).format('MMM D, h:mma')+'&mdash;'+moment(event.earliest_end_local || event.end_date).format('h:mma')+'</strong></p>'+
-            '<p class="card-text">'+event.description.substring(0, [200, 225, 250, 275, 300][Math.floor(Math.random() * 5)])+'...</p>'+
-            '<p class="card-text"><a href="'+(event.url || event.ticket_url)+'" class="btn btn-sm btn-primary">Details &amp; Tickets</a></p>'+
+        '<div data-href="'+(event.url || event.ticket_url)+'" class="card card-event">'+
+          '<div class="row">'+
+            '<div class="col-xs-12 col-lg-5">'+
+              '<img class="img-fluid m-b-1">'+
+              imageTag+
+            '</div>'+
+            '<div class="col-xs-12 col-lg-7">'+
+              '<h3 class="card-title">'+(event.name || event.headline)+'</h3>'+
+              '<p class="card-text m-b-0"><strong>'+moment(event.earliest_start_local || event.start_date).format('MMM D, h:mma')+'&mdash;'+moment(event.earliest_end_local || event.end_date).format('h:mma')+'</strong></p>'+
+              '<p class="card-text">'+event.description.substring(0, [200, 225, 250, 275, 300][Math.floor(Math.random() * 5)])+'...</p>'+
+              '<a href="'+(event.url || event.ticket_url)+'" class="btn btn-md btn-primary">Details &amp; Tickets</a>'+
+            '</div>'+
           '</div>'+
         '</div>'
       );
