@@ -2,7 +2,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   color: $brand-primary;
   &.underline {
     border-bottom: 1px solid $brand-primary;
-    padding-bottom: 12px;
+    padding-bottom: .75rem;
   }
 }
 .script { font-family: 'SocietyEditor'; }
