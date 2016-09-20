@@ -10,7 +10,7 @@ tags:
 - brand
 - logo
 author: Caitlin Kraina
-image: "/uploads/4-reasons-why-were-excited-to-share-our-new-website-9023ea.jpg"
+image: "/uploads/4-reasons-why-were-excited-to-share-our-new-website-0700d8.jpg"
 excerpt: After a two month labor of love, we couldn't be more excited to share the
   new Wayfare website with you today. Somewhere in the midst of two years of growth,
   building products and systems, refining Wayfare's business model, serving our members,
