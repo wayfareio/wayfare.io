@@ -11,6 +11,7 @@ tags:
 - design
 - fashion
 - purpose
+author: Jeff Tanner
 image: "/uploads/novelty-isn't-creativity.jpeg"
 ---
 
