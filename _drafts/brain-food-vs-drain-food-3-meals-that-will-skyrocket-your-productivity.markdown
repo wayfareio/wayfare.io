@@ -17,7 +17,7 @@ tags:
 - food
 - lunch
 author: Adrianne Verheyen
-Image: "/uploads/Meals%20for%20Productivity.jpeg"
+Image: "/uploads/IMG_5449%202.JPG"
 ---
 
 It’s obviously no new concept that the way we eat has incredible implications on the way we perform and feel, but fueling our body with foods that increase our overall mental and physical health can often seem expensive or inconvenient.
