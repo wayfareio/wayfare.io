@@ -13,6 +13,7 @@ tags:
 - purpose
 author: Jeff Tanner
 image: "/uploads/novelty-isn't-creativity.jpeg"
+redirect_from: "/2015/01/14/novelty-isnt-creativity/"
 ---
 
 My wife and I are big fans of Project Runway. Not only do we like design and fashion, but it's also a fascinating inspection of culture. And we like to predict the winners and losers.
