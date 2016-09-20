@@ -1,6 +1,6 @@
 ---
 title: Novelty isn't Creativity... at Least not all of it
-date: 2015-01-14 20:56:00 Z
+date: 2016-10-04 09:00:00 Z
 categories:
 - life
 tags:
