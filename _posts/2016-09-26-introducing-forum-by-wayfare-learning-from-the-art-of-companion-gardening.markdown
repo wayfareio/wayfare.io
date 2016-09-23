@@ -32,12 +32,12 @@ Forum is a free for Global members! Bring your own lunch and be a part of a cult
 
 October's topics + speakers are listed below, so you can save the date. Also - great news! Our first Forum is open to EVERYONE - not just Wayfare members! So bring a friend and learn together over lunch.
 
-October 3 | Joel Beukelman, "Do Something: The Power of Personal Branding" 
+October 3: Joel Beukelman, "Do Something: The Power of Personal Branding" 
 
-October 10 | Jeff Tanner, “Redeeming Work: Exploring the Future of Work as a Tool for Creating the World’s Best Future"
+October 10: Jeff Tanner, “Redeeming Work: Exploring the Future of Work as a Tool for Creating the World’s Best Future"
 
-October 17 | Jonathan Menkes + Thomas Yee, "10 IP Pitfalls Every Startup Should Avoid"
+October 17: Jonathan Menkes + Thomas Yee, "10 IP Pitfalls Every Startup Should Avoid"
 
-October 24 | Steven + Amber Cowell, "Dropping' Mics on Open Adoption"
+October 24: Steven + Amber Cowell, "Dropping' Mics on Open Adoption"
 
-October 31 | Emily McLaughlin, "How to Improve Your Company Culture Without Spending a Dime"
+October 31: Emily McLaughlin, "How to Improve Your Company Culture Without Spending a Dime"
