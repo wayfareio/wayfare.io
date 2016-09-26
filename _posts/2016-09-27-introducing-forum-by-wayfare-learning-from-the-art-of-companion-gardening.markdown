@@ -17,11 +17,11 @@ tags:
 - community
 - gardening
 - novelty
-author: Adrianne Verheyen
 image: "/uploads/B1.png"
+author: Adrianne Verheyen
 ---
 
-My dad is a man whose hands were perpetually rough with calluses and deep cracks, whose fingernails were cut dangerously short,left with barely enough room to be lined with dirt. He spent his evenings after work and his weekend mornings in our garden, wrist deep in the familiar warmth of soil that was nourished by our friendly hens and the roots of our thriving plot of vegetables. <!-- more --> I inherited my dad's deep love for the earth and some small part of his green thumb, which instinctively drove me to write my senior thesis on the dynamics of sustainable agriculture in Orange County. From that research arose one of my lifetime heroes: Dan Barber, co-owner of Blue Hill Farm and a leader in the world of food culture and sustainability. 
+My dad is a man whose hands were perpetually rough with calluses and deep cracks, whose fingernails were cut dangerously short,left with barely enough room to be lined with dirt. He spent his evenings after work and his weekend mornings in our garden, wrist deep in the familiar warmth of soil that was nourished by our friendly hens and the roots of our thriving plot of vegetables. I inherited my dad's deep love for the earth and some small part of his green thumb, which instinctively drove me to write my senior thesis on the dynamics of sustainable agriculture in Orange County. From that research arose one of my lifetime heroes: Dan Barber, co-owner of Blue Hill Farm and a leader in the world of food culture and sustainability. 
 
 In his riveting ethnography titled 'The Third Plate: Field Notes on the Future of Food', Barber comments boldly on the current state of our agricultural system. “In the rush to industrialize farming, we’ve lost the understanding, implicit since the beginning of agriculture, that food is a process, a web of relationships, not an individual ingredient or commodity.” 
 
