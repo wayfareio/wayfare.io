@@ -1,0 +1,5 @@
+.social-green > li { display: inline-block; margin-right:.2rem; &:last-child { margin-right: 0;}}
+
+.social-green > li > a { font-size:1.35rem; line-height:2.17rem; text-align:center; color:#FFFFFF; background-color:$brand-primary; border-radius:2px; width:2.17rem; height:2.17rem; margin-bottom:.5rem; &:hover { background-color: darken($brand-primary,8%); } }
+
+.social-clear > li > a { font-size:1.35rem; line-height:2.17rem; text-align:center; color:#FFFFFF; background-color: none; border-radius:2px; width:2.17rem; height:2.17rem; margin-bottom:.5rem; &:hover { background-color: $brand-primary; } }
