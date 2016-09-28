@@ -18,6 +18,7 @@ excerpt: Nuru's mission is to end extreme poverty in remote, rural areas. Right 
   Practically though with two kids at home, I have to utilize every minute of kid-free
   work-time to its fullest (well besides the important time I spend exploring the
   amazing Skype Mojis to ensure I start off my Skype meetings in style).
+redirect_from: "/2016/07/11/member-monday-emily-mclaughlin/"
 ---
 
 **Who are you?**
@@ -48,7 +49,7 @@ New Zealand, so I can retrace the steps of my ancestors, the Hobbits.
 
 **What do you do for work? Tell us a little bit about how you got to where you are today.**
 
-I handle all things HR (human resources) at [Nuru](http://www.nuruinternational.org). My role exists to serve our staff and I strive to make working at Nuru awesome. 
+I handle all things HR (human resources) at [Nuru](http://www.nuruinternational.org). My role exists to serve our staff and I strive to make working at Nuru awesome.
 
 I graduated from Concordia University (go Eagles!) and taught high school English locally and abroad. I then heard Jake (Nuru Founder/CEO) speak at Redemption Church and walked up to him joking that he should give me a job. I started with Nuru a few weeks later and have now been with them for 5 years.
 
@@ -74,6 +75,6 @@ The people! The location! The coffee! (Huge shout-out to [Neat Coffee](http://ne
 
 **What are some ways (if any) we can support you and get involved with your work?**
 
-Come say hi! Visit our [website](http://www.nuruinternational.org). Join our team. Follow our Social Media pages. Watch our [videos](https://www.youtube.com/user/nuruinternational). Read our [blogs](http://www.nuruinternational.org/blog/). [Donate](http://www.nuruinternational.org/donate/). Spread the word. Join our Tri 4 Nuru Team (we'll be raising $ for Nuru by running the Oct. Newport Triathlon!). 
+Come say hi! Visit our [website](http://www.nuruinternational.org). Join our team. Follow our Social Media pages. Watch our [videos](https://www.youtube.com/user/nuruinternational). Read our [blogs](http://www.nuruinternational.org/blog/). [Donate](http://www.nuruinternational.org/donate/). Spread the word. Join our Tri 4 Nuru Team (we'll be raising $ for Nuru by running the Oct. Newport Triathlon!).
 
 **Visit Nuru International [online](http://www.nuruinternational.org) or on [Facebook](http://www.facebook.com/nuruinternational), [Twitter](http://www.twitter.com/iamnuru), [Linkedin](https://www.linkedin.com/company/nuru-international), & [Youtube](https://www.youtube.com/user/nuruinternational)!**

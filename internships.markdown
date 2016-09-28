@@ -1,7 +1,7 @@
 ---
 title: Interships
 position: 99
-redirect_from: "/interns"
+redirect_from: "/interns/index.html"
 ---
 
 <img src="/assets/images/wayfare-interns.jpg" class="img-fluid">
