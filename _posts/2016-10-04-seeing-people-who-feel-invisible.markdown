@@ -15,6 +15,7 @@ tags:
 - homelessness
 - stories
 author: Adrianne Verheyen
+image: "/uploads/Matt%20Faris.jpg"
 ---
 
 “His scream was ear-splitting. The stairwell in our apartment building acted as an amplifier, his cry blatantly bouncing of our building’s walls. My wife and I shamelessly named him “the screaming homeless man.
