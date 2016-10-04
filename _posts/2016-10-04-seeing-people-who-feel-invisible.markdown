@@ -20,7 +20,7 @@ author: Adrianne Verheyen
 > “His scream was ear-splitting. The stairwell in our apartment building acted as an amplifier, his cry blatantly bouncing of our building’s walls. My wife and I shamelessly named him “the screaming homeless man.
 There was one afternoon when his scream travelled upstairs and found its home in our living room as I was sitting on my couch reading this book about love - Love Does. The book was talking about loving your neighbor, and it hit me: he was my neighbor. <!-- more -->
 The next day I went down to talk to him for the first time. His name was Matt. In that moment of speaking with him I had this overwhelming sense that I needed to paint his portrait. He had such an interesting face. This big beard. You could see the struggle on Matt’s face, and I saw beauty in it. 
-I hadn’t painted in eight years, but I envisioned his story coming alive on the canvas in cool blues and deep yellows. From Matt’s story of ambition, failure, and isolation, The Faces of Santa Ana was born. I call it a family before anything, because that’s what it’s become. I meet them, I build trust, I paint them, and they become family. We have imperfect relationships, there are hard moments. There are easy moments. There are great moments.”
+I hadn’t painted in eight years, but I envisioned his story coming alive on the canvas in cool blues and deep yellows. From Matt’s story of ambition, failure, and isolation, **The Faces of Santa Ana** was born. I call it a family before anything, because that’s what it’s become. I meet them, I build trust, I paint them, and they become family. We have imperfect relationships, there are hard moments. There are easy moments. There are great moments.”
 
 Brian Peterson, founder of the Faces of Santa Ana, studied car design at the Cleveland Institute of Art, and currently works at KIA design center. As I listened to Brian relay Matt’s story, I can tell he’s living out of an unbridled passion to make the invisible seen. In Brian’s case, his medium of choice is oil on canvas, and his process is unlike any other. 
 
@@ -36,4 +36,4 @@ Before the Faces of Santa Ana, Brian had never sold a painting. His art was alwa
 
 We’re all born with the capacity to love someone. What’s your medium? 
 
-Come hear Brian Peterson first hand, as he speaks at Q-Commons on, “Seeing People Who Feel Invisible.”  To Register for Q-Commons, visit qcommons.com/costamesa
+Come hear Brian Peterson first hand, as he speaks at Q-Commons on, **“Seeing People Who Feel Invisible.”**  To Register for Q-Commons, visit qcommons.com/costamesa
