@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://wayfare.io/stories/2016/10/04/novelty-isnt-creativity-dot-dot-dot-at-least-not-all-of-it/</loc>
+<lastmod>2016-10-04T09:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://wayfare.io/stories/2016/09/27/introducing-forum-by-wayfare-learning-from-the-art-of-companion-gardening/</loc>
 <lastmod>2016-09-27T09:00:00+00:00</lastmod>
 </url>
@@ -98,10 +102,10 @@
 <loc>http://wayfare.io/locations/costa-mesa/host-an-event/</loc>
 </url>
 <url>
-<loc>http://wayfare.io/stories/</loc>
+<loc>http://wayfare.io/</loc>
 </url>
 <url>
-<loc>http://wayfare.io/</loc>
+<loc>http://wayfare.io/stories/</loc>
 </url>
 <url>
 <loc>http://wayfare.io/internships/</loc>
