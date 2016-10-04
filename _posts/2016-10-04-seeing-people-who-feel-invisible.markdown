@@ -35,6 +35,6 @@ Before the Faces of Santa Ana, Brian had never sold a painting. His art was alwa
 
 “I gave a piece of art to the financial director at my college, and I gave a bunch of my paintings in college to my friends. I never thought of it as a way to make money, so this is new for me. If you go to my father’s house… his house is all full of my paintings. If I love someone, I give them a painting. I think we all have a unique way to show people love, we all have that capacity.” 
 
-We’re all born with the capacity to love someone. What’s your medium? 
+**We’re all born with the capacity to love someone. What’s your medium?** 
 
 Come hear Brian Peterson first hand, as he speaks at Q-Commons on, **“Seeing People Who Feel Invisible.”**  To Register for Q-Commons, visit qcommons.com/costamesa
