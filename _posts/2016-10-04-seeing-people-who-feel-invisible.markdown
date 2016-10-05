@@ -1,7 +1,6 @@
 ---
 title: Seeing People Who Feel Invisible
 date: 2016-10-04 16:00:00 Z
-published: false
 categories:
 - art
 - Common Good
@@ -18,7 +17,7 @@ author: Adrianne Verheyen
 image: "/uploads/Matt%20Faris.jpg"
 ---
 
-“His scream was ear-splitting. The stairwell in our apartment building acted as an amplifier, his cry blatantly bouncing of our building’s walls. My wife and I shamelessly named him “the screaming homeless man.
+“His scream was ear-splitting. The stairwell in our apartment building acted as an amplifier, his cry blatantly bouncing of our building’s walls. My wife and I shamelessly named him “the screaming homeless man".
 There was one afternoon when his scream travelled upstairs and found its home in our living room as I was sitting on my couch reading this book about love - Love Does. The book was talking about loving your neighbor, and it hit me: he was my neighbor. <!-- more -->
 
 The next day I went down to talk to him for the first time. His name was Matt. In that moment of speaking with him I had this overwhelming sense that I needed to paint his portrait. He had such an interesting face. This big beard. You could see the struggle on Matt’s face, and I saw beauty in it. 
@@ -38,4 +37,4 @@ Before the Faces of Santa Ana, Brian had never sold a painting. His art was alwa
 
 **We’re all born with the capacity to love someone. What’s your medium?** 
 
-Come hear Brian Peterson first hand, as he speaks at Q-Commons on, **“Seeing People Who Feel Invisible.”**  To Register for Q-Commons, visit qcommons.com/costamesa
+Come hear Brian Peterson first hand, as he speaks at Q-Commons on, **“Seeing People Who Feel Invisible.”**  To Register for Q-Commons, visit qcommons.com/costamesa.
