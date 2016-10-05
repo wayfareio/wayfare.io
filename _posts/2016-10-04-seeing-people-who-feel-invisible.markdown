@@ -37,4 +37,4 @@ Before the Faces of Santa Ana, Brian had never sold a painting. His art was alwa
 
 **We’re all born with the capacity to love someone. What’s your medium?** 
 
-Come hear Brian Peterson first hand, as he speaks at Q-Commons on, **“Seeing People Who Feel Invisible.”**  To Register for Q-Commons, visit qcommons.com/costamesa.
+Come hear Brian Peterson first hand as he speaks at Q-Commons on, **“Seeing People Who Feel Invisible.”**  To Register for Q-Commons, visit the [Q-Commons Costa Mesa website](http://www.qcommons.com/costamesa). Discounted [tickets](http://www.qcommons.com/costamesa) are available for Wayfare members, students, couples and groups of 8 or more.
