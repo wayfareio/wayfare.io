@@ -1,8 +1,0 @@
-.social-green {
-  > li {display: inline-block; margin-right:.2rem; &:last-child { margin-right: 0;}
-    > a {font-size:1.35rem; line-height:2.17rem; text-align:center; color:#FFFFFF; background-color:$brand-primary; border-radius:2px; width:2.17rem; height:2.17rem; margin-bottom:.5rem; &:hover { background-color: darken($brand-primary,8%); } }
-    }
-}
-.social-clear {border:2px dotted rgba(0,0,0,0.2); border-radius:2px; padding:1rem .4rem .3rem; margin-top:-1.4rem;}
-.social-clear > li {display:inline-block; margin:0;}
-.social-clear > li > a {font-size:1.35rem;line-height:2.17rem; text-align:center; color:#9B9B9B; background-color:none; width:2rem; margin-right:0; &:hover {color:$brand-primary;}}

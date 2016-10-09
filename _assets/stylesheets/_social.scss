@@ -1,0 +1,29 @@
+.social {
+  font-size: 1.25rem; line-height: 2rem; display: inline-block; text-align: center; background-color: none; width: 1.25rem; height: 2rem;
+}
+.social-link {
+  color:#B3B3B3; margin: .125rem;
+  &:hover {
+    color: $brand-primary;
+  }
+}
+.social-btn {
+  color: #FFFFFF; background-color: $brand-primary; width: 2rem; height: 2rem; border-radius: 2px; margin: 2px 0px;
+  &:hover {
+    color: #FFFFFF; background-color: darken($brand-primary,8%);
+  }
+  &:visited {
+    color: #FFFFFF;
+  }
+}
+.social-link-block {
+  border: 1.5px dotted rgba(0,0,0,0.2); border-radius: 2px; padding: .95rem .5rem .15rem; margin-top: -1.4rem; margin-bottom: .145rem; margin-right: 1rem;
+}
+.social-btn-block {
+  > li.list-inline-item {
+    margin-right: .125rem;
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+}
