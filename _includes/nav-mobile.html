@@ -1,11 +1,8 @@
 <nav class="nav nav-mobile" role="navigation">
-  <a href="/" class="text-xs-center">
-    <img src="/assets/images/wayfare-logo.png" alt="{{ site.title }}" class="nav-mobile-logo">
+  <a href="/" class="m-x-auto">
+    <img src="/assets/images/wayfare-logo.svg" alt="{{ site.title }}" class="nav-mobile-logo m-x-auto">
   </a>
   <ul class="list-unstyled">
-    <li class="nav-item">
-      <a href="/" class="nav-link">HOME</a>
-    </li>
     {% for site_page in site.data.nav-site %}
       <li class="nav-item{% if site_page.id == page.nav.site.highlight %} active{% endif %}">
         <a href="{{ site_page.url | prepend: site.baseurl }}" class="nav-link">
@@ -13,20 +10,19 @@
         </a>
       </li>
     {% endfor %}
-    <li class="nav-item list-inline-item m-r-0">
-      <a href="https://www.facebook.com/WayfareHQ/" target="_blank" class="nav-link"><i class="fa fa-facebook fa-lg"></i></a>
+  </ul>
+  <ul class="list-inline nav-mobile-social">
+    <li class="list-inline-item">
+      <a href="https://www.facebook.com/WayfareHQ/" target="_blank" class="social social-link-primary"><i class="fa fa-facebook fa-lg"></i></a>
     </li>
-    <li class="nav-item list-inline-item m-r-0">
-      <a href="https://www.instagram.com/wayfarehq/" target="_blank" class="nav-link"><i class="fa fa-instagram fa-lg"></i></a>
+    <li class="list-inline-item">
+      <a href="https://www.instagram.com/wayfarehq/" target="_blank" class="social social-link-primary"><i class="fa fa-instagram fa-lg"></i></a>
     </li>
-    <li class="nav-item list-inline-item m-r-0">
-      <a href="https://twitter.com/wayfarehq" target="_blank" class="nav-link"><i class="fa fa-twitter fa-lg"></i></a>
+    <li class="list-inline-item">
+      <a href="https://twitter.com/wayfarehq" target="_blank" class="social social-link-primary"><i class="fa fa-twitter fa-lg"></i></a>
     </li>
-    <li class="nav-item list-inline-item m-r-0">
-      <a href="https://www.pinterest.com/wayfarehq/" target="_blank" class="nav-link"><i class="fa fa-pinterest fa-lg"></i></a>
-    </li>
-    <li class="nav-item list-inline-item m-r-0">
-      <a href="https://www.linkedin.com/company/wayfare-hq" target="_blank" class="nav-link"><i class="fa fa-linkedin fa-lg"></i></a>
+    <li class="list-inline-item">
+      <a href="https://www.linkedin.com/company/wayfare-hq" target="_blank" class="social social-link-primary"><i class="fa fa-linkedin fa-lg"></i></a>
     </li>
   </ul>
 </nav>
