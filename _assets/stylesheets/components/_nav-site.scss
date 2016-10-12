@@ -3,6 +3,15 @@
   @include media-breakpoint-down(sm) {
     padding-left: 0;
   }
+  > .social-block {
+    border: 1.5px dotted rgba(0,0,0,0.2); border-radius: 2px; padding: .95rem .5rem .2rem; margin-top: -1rem; margin-right: 1rem;
+    > .list-inline {
+      margin-bottom: 0;
+      > .social svg {
+        fill: #B3B3B3;
+      }
+    }
+  }
   > .navbar-brand img {
     position: relative; top: 10px;
     @include media-breakpoint-only(xs) {

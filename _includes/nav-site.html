@@ -2,23 +2,30 @@
   <a class="navbar-brand _no-underline" href="{{page.logo_link | default:'/'}}">
     <img src="/assets/images/wayfare-logo.svg" alt="{{ site.title }}">
   </a>
-  <ul class="list-inline social-link-block pull-sm-right hidden-sm-down">
-    <li class="list-inline-item">
-      <a href="https://www.facebook.com/WayfareHQ/" target="_blank" class="social social-link"><i class="fa fa-facebook"></i></a>
-    </li>
-    <li class="list-inline-item">
-      <a href="https://www.instagram.com/wayfarehq/" target="_blank" class="social social-link">
-        <!-- <i class="fa fa-instagram"></i> -->
-        {% include icon.html name="social-instagram" classes="icon-xs" %}
-      </a>
-    </li>
-    <li class="list-inline-item">
-      <a href="https://twitter.com/wayfarehq" target="_blank" class="social social-link"><i class="fa fa-twitter"></i></a>
-    </li>
-    <li class="list-inline-item">
-      <a href="https://www.linkedin.com/company/wayfare-hq" target="_blank" class="social social-link"><i class="fa fa-linkedin"></i></a>
-    </li>
-  </ul>
+  <div class="social-block pull-sm-right hidden-sm-down">
+    <ul class="list-inline ">
+      <li class="list-inline-item">
+        <a href="https://www.facebook.com/WayfareHQ/" target="_blank" class="">
+          {% include icon.html name="social-facebook" classes="icon-xs social social-link" %}
+        </a>
+      </li>
+      <li class="list-inline-item">
+        <a href="https://www.instagram.com/wayfarehq/" target="_blank" class="social social-link">
+          {% include icon.html name="social-instagram" classes="icon-xs" %}
+        </a>
+      </li>
+      <li class="list-inline-item">
+        <a href="https://twitter.com/wayfarehq" target="_blank" class="social social-link">
+          {% include icon.html name="social-twitter" classes="icon-xs" %}
+        </a>
+      </li>
+      <li class="list-inline-item">
+        <a href="https://www.linkedin.com/company/wayfare-hq" target="_blank" class="social social-link">
+          {% include icon.html name="social-linkedin" classes="icon-xs" %}
+        </a>
+      </li>
+    </ul>
+  </div>
   <ul class="nav navbar-nav pull-sm-right m-r-1">
     {% for site_page in site.data.nav-site %}
       <li class="nav-item{% if site_page.id == page.nav.site.highlight %} active{% endif %}">
