@@ -17,6 +17,7 @@ tags:
 - women
 - freedom
 author: Caitlin Kraina
+image: "/uploads/buy-jewelry-change-lives.JPG"
 ---
 
 Modern-day slavery exists in every country in some form or another. Sweatshops, prostitute rings, and domestic work are a few examples of the enslavement of men, women and even children. According to the [International Labour Organization](http://www.ilo.org/global/lang--en/index.htm), around 21 million individuals are forced into slavery each year around the world, and the impact of slavery is evident in nearly every aspect of our lives. <!-- more -->
