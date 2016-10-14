@@ -54,7 +54,7 @@ To regain independence, it is crucial that the survivors of modern-day slavery h
 
 Stability and routine is very important to a woman overcoming the trauma of modern-day slavery, and employment provides this stability. Through working for [Purpose Jewelry](http://www.purposejewelry.org), these survivors receive job training and paychecks. As a result, they don’t have to worry about job searches or finances, and they can focus on their healing.
 
-You're invited to join us for a first look at the new PURPOSE Signature Collection tonight at the [Purpose Signature Collection Launch Party](https://wayfare.ticketleap.com/purpose-signature-collection/) here at Wayfare Costa Mesa. This special collection of five pieces stands for FREEDOM, and we're encouraging you all to make a fashion statement: wear PURPOSE, wear freedom.
+You're invited to join us for a first look at the NEW Purpose Signature Collection tonight at the [Purpose Signature Collection Launch Party](https://wayfare.ticketleap.com/purpose-signature-collection/) here at Wayfare Costa Mesa. This special collection of five pieces stands for FREEDOM, and we're encouraging you all to make a fashion statement: wear PURPOSE, wear freedom.
 
 You'll get a chance to shop the Autumn & Signature collection in person, enjoy delicious food from the Waffle-icious food truck, hear live music by Megan Tibbits, and participate in a raffle with sweet prizes. They’ll also be showing an exclusive first viewing of their PURPOSE brand video.
 
