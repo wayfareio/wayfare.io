@@ -1,6 +1,8 @@
 ---
 title: Buy Jewelry, Change Lives
 date: 2016-10-13 21:31:00 Z
+categories:
+- Common Good
 tags:
 - common-good
 - social-enterprise
