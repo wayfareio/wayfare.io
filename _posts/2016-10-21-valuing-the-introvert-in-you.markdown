@@ -13,6 +13,7 @@ tags:
 - shy
 - western
 - culture
+image: "/uploads/valuing-the-introvert-in-you.jpg"
 ---
 
 Let’s take a quiz! Answer yes or no to the following questions: 
@@ -29,7 +30,7 @@ Let’s take a quiz! Answer yes or no to the following questions:
 10. I do my best work on my own.
 11. I tend to think before I speak.
 12. I feel drained after being out and about, even if I’ve enjoyed myself.
-13. If I had to choose, I’d prefer a weekend with less to do rather than too much. 
+13. If I had to choose, I’d prefer a weekend with less to do rather than too much. <!-- more -->
 
 If you were like me and were shaking your head vigorously yes to most of these questions, then congratulations! You are an introvert! 
 
