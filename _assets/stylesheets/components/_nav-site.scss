@@ -8,7 +8,7 @@
     padding: .95rem .5rem .2rem;
     margin-top: -1rem; margin-right: 1rem;
     > .list-social-item {
-      margin-bottom: 0;
+      margin-bottom: 0; padding-right: 3px;
       .list-social-link {
         [fill='#000'] { fill: #B3B3B3; }
         &:hover [fill='#000'] { fill: $brand-primary; }
@@ -42,13 +42,13 @@
       display: none;
     }
     @include media-breakpoint-only(md) {
-      top: 10px;
+      top: 6px;
     }
     @include media-breakpoint-only(lg) {
-      top: 25px;
+      top: 16px;
     }
     @include media-breakpoint-only(xl) {
-      top: 40px;
+      top: 26px;
     }
   }
   > .navbar-nav .nav-item {
