@@ -13,6 +13,7 @@ tags:
 - shy
 - western
 - culture
+author: Emily Liu
 image: "/uploads/valuing-the-introvert-in-you.jpg"
 ---
 
