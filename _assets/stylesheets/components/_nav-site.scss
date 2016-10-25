@@ -3,16 +3,18 @@
   @include media-breakpoint-down(sm) {
     padding-left: 0;
   }
-  // > .social-block {
-  //   border: 1.5px dotted rgba(0,0,0,0.2); border-radius: 2px; padding: .95rem .5rem .2rem; margin-top: -1rem; margin-right: 1rem;
-  //   > ul {
-  //     margin-bottom: 0;
-  //     .icon {
-  //       svg { width: 1.3rem; height: 1.3rem; }
-  //       [fill='#000'] { fill: #B3B3B3; }
-  //     }
-  //   }
-  // }
+  > .list-social {
+    border: 1.5px dotted rgba(0,0,0,0.2); border-radius: 2px;
+    padding: .95rem .5rem .2rem;
+    margin-top: -1rem; margin-right: 1rem;
+    > .list-social-item {
+      margin-bottom: 0;
+      .list-social-link {
+        [fill='#000'] { fill: #B3B3B3; }
+        &:hover [fill='#000'] { fill: $brand-primary; }
+      }
+    }
+  }
   > .navbar-brand img {
     position: relative; top: 10px;
     @include media-breakpoint-only(xs) {

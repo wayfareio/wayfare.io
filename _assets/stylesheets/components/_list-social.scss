@@ -6,7 +6,7 @@
       margin-right: $list-inline-padding;
     }
     > .list-social-link {
-      border-bottom: 0;
+      width: 1.5rem; border-bottom: 0;
       &:hover [fill='#000'] { fill: $brand-primary; }
     }
   }
@@ -14,8 +14,10 @@
   &.list-social-buttons {
     > .list-social-item {
       > .list-social-link {
-        background: $brand-primary;
+        background: $brand-primary; width: 2.5rem; height: 2.5rem; border-radius: $border-radius;
+        display: flex; justify-content: center; align-items: center;
         [fill='#000'] { fill: #fff; }
+        &:hover { background: darken($brand-primary,8%); }
       }
     }
   }
@@ -33,11 +35,8 @@
   //   }
   //   &.social-btn {
   //     background-color: $brand-primary; width: 3rem; height: 3rem; border-radius: 2px; margin: 1rem 0px;
-  //     &:hover { background-color: darken($brand-primary,8%); }
   //     .icon {
-  //       margin: 0;
   //       svg { width: 1.75rem; height: 1.75rem; margin: auto; }
-  //       [fill='#000'] { fill: #FFFFFF; }
   //     }
   //   }
   // }

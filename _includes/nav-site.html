@@ -2,7 +2,7 @@
   <a class="navbar-brand _no-underline" href="{{page.logo_link | default:'/'}}">
     <img src="/assets/images/wayfare-logo.svg" alt="{{ site.title }}">
   </a>
-  {% include list-social.html %}
+  {% include list-social.html style="hidden-sm-down pull-right" %}
   <ul class="nav navbar-nav pull-sm-right m-r-1">
     {% for site_page in site.data.nav-site %}
       <li class="nav-item{% if site_page.id == page.nav.site.highlight %} active{% endif %}">
