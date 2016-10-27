@@ -81,10 +81,10 @@
 <loc>http://wayfare.io/membership/big-savings/</loc>
 </url>
 <url>
-<loc>http://wayfare.io/about/common-good/</loc>
+<loc>http://wayfare.io/stories/common-good/</loc>
 </url>
 <url>
-<loc>http://wayfare.io/stories/common-good/</loc>
+<loc>http://wayfare.io/about/common-good/</loc>
 </url>
 <url>
 <loc>http://wayfare.io/stories/community/</loc>
@@ -160,6 +160,9 @@
 </url>
 <url>
 <loc>http://wayfare.io/locations/costa-mesa/rates/</loc>
+</url>
+<url>
+<loc>http://wayfare.io/locations/fullerton/sneak-peek/</loc>
 </url>
 <url>
 <loc>http://wayfare.io/locations/costa-mesa/space-features/</loc>
