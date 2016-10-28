@@ -1,5 +1,5 @@
 ---
-title: 'Brain Food Vs. Drain Food: How to Snack Your Way to Productivity'
+title: 'Brain Food vs. Drain Food: How to Snack Your Way to Productivity'
 date: 2016-09-14 17:33:00 Z
 categories:
 - Work
@@ -13,7 +13,7 @@ tags:
 - wellness
 - eating
 author: Adrianne Verheyen
-image: "/uploads/Brain%20Food%20Vs%20Drain%20Food.jpeg"
+image: "/uploads/brain-food-vs-drain-food-how-to-snack-your-way-to-productivity.jpg"
 ---
 
 At Wayfare, our vision for the common good doesn’t end with providing coworking space and great coffee. We believe in living out of your full self. This concept of your full self is one that encourages the idea that our work, soul, and physical bodies should ideally be in this symbiotic dance: each one actively working towards the fullness of the other. In a quest to learn more about bridging this relationship, I thought, "What better place to start than in the fridge?"<!-- more -->
@@ -37,4 +37,4 @@ Here are quick tips + easy snacks to feed your brain strategically. Be intention
 
 **Hummus with raw carrots**: Raw carrots give you that steady level of blood sugar your brain needs to function. Hummus is made out of garbanzo beans, commonly known as chick peas. Chick peas are also high in antioxidants, and one of the most heart-healthy snacks that you can eat.
 
-What's your favorite snack to fuel your workday? 
+What's your favorite snack to fuel your workday?

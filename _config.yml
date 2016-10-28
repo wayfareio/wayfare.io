@@ -22,6 +22,7 @@ defaults:
     layout: post
     permalink: "/stories/:year/:month/:day/:title/"
     author: 
+    image: 
     nav:
       id: post
       site:

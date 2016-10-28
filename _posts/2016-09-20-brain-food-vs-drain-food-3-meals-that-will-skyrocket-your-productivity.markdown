@@ -1,5 +1,5 @@
 ---
-title: 'Brain Food Vs. Drain Food: 3 Meals That Will Skyrocket Your Productivity'
+title: 'Brain Food vs. Drain Food: 3 Meals That Will Skyrocket Your Productivity'
 date: 2016-09-20 09:45:00 Z
 categories:
 - Work
@@ -17,7 +17,7 @@ tags:
 - food
 - lunch
 author: Adrianne Verheyen
-Image: "/uploads/Meals%20for%20Productivity.jpeg"
+image: "/uploads/brain-food-vs-drain-food-3-meals-that-will-skyrocket-your-productivity.jpg"
 ---
 
 It’s obviously no new concept that the way we eat has incredible implications on the way we perform and feel, but fueling our body with foods that increase our overall mental and physical health can often seem expensive or inconvenient.
@@ -45,6 +45,6 @@ Your quest for the ideal workday meal ends here! I've curated a menu specificall
 
 * 6 oz **fresh salmon, topped with dill, olive oil, and lemon juice** and baked at 400 for 20 minutes: Salmon is packed with omega 3s, essential proteins, and tons of B vitamins. Each of these help you gain optimum memory and focus.
 * **1 Sweet potato**, sliced, drizzled in olive oil and sea salt, and baked at 400 for 30 minutes: Sweet potatoes have endless health benefits, but since you’re winding down for the night it’s important to note that they are an incredible source of magnesium. Magnesium is the mineral that allows our bodies to relax and de-stress.
-* **Steamed kale**: Dark leafy greens are loaded with vitamins, minerals and phytonutrients like Iron. Iron transports oxygen to your brain and improves your cognitive control. 
+* **Steamed kale**: Dark leafy greens are loaded with vitamins, minerals and phytonutrients like Iron. Iron transports oxygen to your brain and improves your cognitive control.
 
 Missed the first Brain Food post? Read our [Snack Plan for a Productive Workday](http://wayfare.io/stories/2016/09/14/brain-food-vs-drain-food-how-to-snack-your-way-to-productivity/) and [6 Quick Health Tips for improving brain function at work](http://wayfare.io/stories/2016/09/14/brain-food-vs-drain-food-how-to-snack-your-way-to-productivity/).  
