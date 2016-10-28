@@ -77,3 +77,30 @@ costa-mesa:
   - id: whq-contact
     title: Contact
     url: /locations/costa-mesa/contact
+fullerton:
+  - id: ful-title
+    title: Fullerton
+  - id: ful-about
+    title: About this Space
+    url: /locations/fullerton
+  - id: ful-upcoming-events
+    title: Upcoming Events
+    url: /locations/fullerton/upcoming-events
+  # - id: ful-space-features
+  #   title: Space Features
+  #   url: /locations/fullerton/space-features
+  # - id: ful-price-plans
+  #   title: Price Plans
+  #   url: /locations/fullerton/price-plans
+  # - id: ful-drop-ins
+  #   title: Drop-ins
+  #   url: /locations/fullerton/drop-ins
+  # - id: ful-meeting-rooms
+  #   title: Meeting Rooms
+  #   url: /locations/fullerton/meeting-rooms
+  - id: ful-host-an-event
+    title: Host an Event
+    url: /locations/fullerton/host-an-event
+  - id: ful-contact
+    title: Contact
+    url: /locations/fullerton/contact
