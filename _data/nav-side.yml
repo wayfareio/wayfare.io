@@ -39,11 +39,17 @@ startups:
   - id: startups-title
     title: Startups
   - id: startups-pilot
-    title: Pilot Program
-    url: /startups/pilot-program
+    title: Pilot Conference
+    url: /startups/pilot-conference
   - id: startups-launch
     title: Launch Program
     url: /startups/launch-program
+  - id: startups-growth
+    title: Growth Program
+    url: /startups/growth-program
+  - id: startups-impact
+    title: Impact Program
+    url: /startups/impact-program
 stories:
   - id: stories-title
     title: Stories
@@ -96,8 +102,8 @@ fullerton:
     title: Drop-ins
     url: /locations/fullerton/drop-ins
   - id: ful-meeting-rooms
-    title: Meeting Rooms
-    url: /locations/fullerton/meeting-rooms
+    title: Meeting Room
+    url: /locations/fullerton/meeting-room
   - id: ful-host-an-event
     title: Host an Event
     url: /locations/fullerton/host-an-event
