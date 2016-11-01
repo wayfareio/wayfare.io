@@ -39,4 +39,5 @@ A lot of organizations exist to serve vulnerable groups and individuals through 
 
 They are committed to building a strong foundation for the future and sustaining long term impact. Their vision for the future, as a direct result of their mission, is that by June 2017 they will further their impact by working in relationship with 500 individuals/families providing place for connection, support, and empowerment to build into healthy family units. 
 
-Join them in empowering the vulnerable by visiting [OCUnited.org](https://ocunited.org) & by attending [Pitch Night](https://wayfare.ticketleap.com/wayfare-labs-pitch-night/) on Thursday, November 10th from 7-9pm at Wayfare’s new location in Fullerton, CA. [RSVP here](https://wayfare.ticketleap.com/wayfare-labs-pitch-night/) to hear Jay & Amy share their mission & vision and opportunities for partnership. Hope to see you there!
+Join them in empowering the vulnerable by visiting [OCUnited.org](https://ocunited.org) & by attending [Pitch Night](https://wayfare.ticketleap.com/wayfare-labs-pitch-night/) on Thursday, November 10th from 7-9pm at Wayfare’s new location in Fullerton, CA. **[RSVP here](https://wayfare.ticketleap.com/wayfare-labs-pitch-night/) to hear Jay & Amy share their mission & vision and opportunities for partnership.** Hope to see you there!
+
