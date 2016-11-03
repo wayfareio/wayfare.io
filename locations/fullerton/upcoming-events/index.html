@@ -16,9 +16,9 @@
 
     <link type="application/atom+xml" rel="alternate" href="http://wayfare.io/feed.xml" title="Wayfare" />
     <!-- Begin Jekyll SEO tag v2.1.0 -->
-<meta property="og:title" content="Stories: Life" />
-<link rel="canonical" href="http://wayfare.io/stories/life/" />
-<meta property="og:url" content="http://wayfare.io/stories/life/" />
+<meta property="og:title" content="Fullerton: Upcoming Events" />
+<link rel="canonical" href="http://wayfare.io/locations/fullerton/upcoming-events/" />
+<meta property="og:url" content="http://wayfare.io/locations/fullerton/upcoming-events/" />
 <meta property="og:site_name" content="Wayfare" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@wayfarehq" />
@@ -26,17 +26,17 @@
 <script type="application/ld+json">
 {"@context": "http://schema.org",
 "@type": "WebPage",
-"headline": "Stories: Life",
+"headline": "Fullerton: Upcoming Events",
 "publisher": {"@type": "Organization",
 "logo": {"@type": "ImageObject",
 "url": "http://wayfare.io/assets/images/wayfare-logo@2x.png"}},
-"url": "http://wayfare.io/stories/life/"}</script>
+"url": "http://wayfare.io/locations/fullerton/upcoming-events/"}</script>
 <!-- End Jekyll SEO tag -->
 
     
     <title>
       
-        Stories: Life | Wayfare
+        Fullerton: Upcoming Events | Wayfare
       
     </title>
     <script>
@@ -111,7 +111,7 @@
         </a>
       </li>
     
-      <li class="nav-item">
+      <li class="nav-item active">
         <a href="/locations" class="nav-link">
           Locations
         </a>
@@ -129,7 +129,7 @@
         </a>
       </li>
     
-      <li class="nav-item active">
+      <li class="nav-item">
         <a href="/stories" class="nav-link">
           Stories
         </a>
@@ -157,22 +157,20 @@
   <div class="row">
     <div class="col-xs-12">
       
-        <div class="row m-y-2">
-  <div class="col-xs-12 col-md-8 offset-md-2">
-    <h1 class="display text-xs-center">
-      STORIES
-<br>
-      for <strong>THE JOURNEY</strong>
-
-    </h1>
-    <p class="lead text-xs-center">You are dreamers, artisans, and difference-makers. You are creatives, entrepreneurs, and adventurers. You are believers in the world’s best future. Welcome to our community blog.
-</p>
-    
+      
+      
+        <div class="card card-inverse card-banner">
+  <img class="card-img img-fluid" src="/assets/images/topo-banner-bg.jpg">
+  <div class="card-img-overlay flex-items-xs-middle flex-items-xs-left">
+    <div class="card-block">
+      <h4 class="card-title">Fullerton</h4>
+      
+        <h5 class="card-subtitle">110 E Wilshire Ave, Ste 101, Fullerton, CA</h5>
+      
+    </div>
   </div>
 </div>
 
-      
-      
       
     </div>
   </div>
@@ -184,52 +182,74 @@
     
       <li class="nav-item">
         
-          STORIES
+          FULLERTON
         
       </li>
     
       <li class="nav-item">
         
-          <a href="/stories" class="nav-link">
-            Recent Stories
+          <a href="/locations/fullerton" class="nav-link">
+            About this Space
           </a>
         
       </li>
     
+      <li class="nav-item active">
+        
+          <a href="/locations/fullerton/upcoming-events" class="nav-link active">
+            Upcoming Events
+          </a>
+        
+      </li>
     
-      <li class="nav-item m-t-2">
-  CATEGORIES
-</li>
-
-  <li class="nav-item">
-    <a href="/stories/community" class="nav-link">Community</a>
-  </li>
-
-  <li class="nav-item">
-    <a href="/stories/common-good" class="nav-link">Common Good</a>
-  </li>
-
-  <li class="nav-item">
-    <a href="/stories/work" class="nav-link">Work</a>
-  </li>
-
-  <li class="nav-item">
-    <a href="/stories/life" class="nav-link">life</a>
-  </li>
-
-  <li class="nav-item">
-    <a href="/stories/forum" class="nav-link">Forum</a>
-  </li>
-
-  <li class="nav-item">
-    <a href="/stories/art" class="nav-link">art</a>
-  </li>
-
-  <li class="nav-item">
-    <a href="/stories/stories" class="nav-link">stories</a>
-  </li>
-
-
+      <li class="nav-item">
+        
+          <a href="/locations/fullerton/space-features" class="nav-link">
+            Space Features
+          </a>
+        
+      </li>
+    
+      <li class="nav-item">
+        
+          <a href="/locations/fullerton/price-plans" class="nav-link">
+            Price Plans
+          </a>
+        
+      </li>
+    
+      <li class="nav-item">
+        
+          <a href="/locations/fullerton/drop-ins" class="nav-link">
+            Drop-ins
+          </a>
+        
+      </li>
+    
+      <li class="nav-item">
+        
+          <a href="/locations/fullerton/meeting-room" class="nav-link">
+            Meeting Room
+          </a>
+        
+      </li>
+    
+      <li class="nav-item">
+        
+          <a href="/locations/fullerton/host-an-event" class="nav-link">
+            Host an Event
+          </a>
+        
+      </li>
+    
+      <li class="nav-item">
+        
+          <a href="/locations/fullerton/contact" class="nav-link">
+            Contact
+          </a>
+        
+      </li>
+    
     
   </ul>
   <button type="button" class="btn btn-link nav-side-toggler">&#x25be;</button>
@@ -237,7 +257,58 @@
 
       </div>
       <div class="col-xs-12 col-md-9">
+        <h2 class="underline">Upcoming Events</h2>
+
+<div class="upcoming-events"></div>
+
+<script type="text/javascript">
+  var promise = Wayfare.Ticketleap.getEvents();
+  var customEvents = [
+    
+      
         
+  ];
+  promise.done(function() {
+    var allEvents = _.sortBy(
+      _.concat(customEvents, Wayfare.Ticketleap.events),
+      function(event) {
+        if (event.earliest_start_local) {
+          console.log(moment(event.earliest_start_local).format("YYYY-MM-DD H:mm"))
+          return moment(event.earliest_start_local).format("YYYY-MM-DD H:mm");
+        } else {
+          console.log(event.start_date)
+          return event.start_date;
+        }
+      }
+    );
+    _.each(allEvents, function(event) {
+      if (event.hero_small_image_url) {
+        var imageTag = '<img data-src="'+event.hero_small_image_url+'" class="img-fetch img-fluid m-b-1" data-width="600" data-height="425" data-crop="fill" data-gravity="auto:faces">';
+      } else if (event.thumb_image) {
+        var imageTag = '<img data-src="/wayfareio'+event.thumb_image+'" class="img-cloud img-fluid m-b-1" data-width="600" data-height="425" data-crop="fill" data-gravity="auto:faces">';
+      } else {
+        var imageTag = '';
+      }
+      $(".upcoming-events").append(
+        '<div data-href="'+(event.url || event.ticket_url)+'" class="card card-event">'+
+          '<div class="row">'+
+            '<div class="col-xs-12 col-lg-5">'+
+              imageTag+
+            '</div>'+
+            '<div class="col-xs-12 col-lg-7">'+
+              '<h3 class="card-title">'+(event.name || event.headline)+'</h3>'+
+              '<p class="card-text m-b-0"><strong>'+moment(event.earliest_start_local || event.start_date).format('MMM D, h:mma')+'&mdash;'+moment(event.earliest_end_local || event.end_date).format('h:mma')+'</strong></p>'+
+              '<p class="card-text">'+event.description.substring(0, 200)+'...</p>'+
+              '<a href="'+(event.url || event.ticket_url)+'" class="btn btn-md btn-primary">Details &amp; Tickets</a>'+
+            '</div>'+
+          '</div>'+
+        '</div>'
+      );
+    });
+    $(".img-fetch").fetchify();
+    $(".img-cloud").cloudinary();
+  });
+</script>
 
       </div>
     </div>
@@ -341,7 +412,7 @@
         </a>
       </li>
     
-      <li class="nav-item">
+      <li class="nav-item active">
         <a href="/locations" class="nav-link">
           LOCATIONS
         </a>
@@ -359,7 +430,7 @@
         </a>
       </li>
     
-      <li class="nav-item active">
+      <li class="nav-item">
         <a href="/stories" class="nav-link">
           STORIES
         </a>
