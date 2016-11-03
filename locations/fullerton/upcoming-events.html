@@ -22,6 +22,9 @@ banner:
   var promise = Wayfare.Ticketleap.getEvents();
   var customEvents = [
     {% for event in site.events %}
+      {% if event.published == false %}
+        {% continue %}
+      {% endif %}
       {
         headline: "{{ event.headline | escape }}",
         description: "{{ event.content | strip_html | strip_newlines }}",
