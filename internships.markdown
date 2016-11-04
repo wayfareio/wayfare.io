@@ -64,8 +64,9 @@ This internship is unpaid, however, all interns will receive the following Wayfa
 
 ### MARKETING + SOCIAL MEDIA INTERNSHIP
 
-Open positions: 2
-Supervisors: Caitlin Kraina, Marketing Manger & Adrianne Verheyen, Growth Coordinator
+**Open positions:** 2
+**Supervisors:**
+Caitlin Kraina, Marketing Manger & Adrianne Verheyen, Growth Coordinator
 
 **What you will learn:**
 
