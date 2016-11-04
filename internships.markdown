@@ -1,5 +1,5 @@
 ---
-title: Interships
+title: Internships
 position: 99
 redirect_from: "/interns/index.html"
 ---
