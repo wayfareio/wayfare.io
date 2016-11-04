@@ -1,20 +1,20 @@
 ---
-title: Interships
+title: Internships
 position: 99
 redirect_from: "/interns/index.html"
 ---
 
 <img src="/assets/images/wayfare-interns.jpg" class="img-fluid">
 
-## Official Program Details + Dates
+## Official program details & dates
 
-**Next Term:**
-Spring 2017
+**Next term:**
+Spring Semester 2017
 
-**Length of Internship:**
-2-3 Months
+**Length of internship:**
+3 Months
 
-**Weekly Schedule:**
+**Weekly schedule:**
 5-10 hours/week
 
 ## About Wayfare
@@ -25,7 +25,7 @@ Wayfare is a coworking, gathering & event space, and startup incubator for peopl
 
 **What is the mission of Wayfare?**
 
-Wayfare exists to unite and propel creators, founders, and adventurers for the common good (the most good for all people). Our community consists of people who actively pursue the common good through their work and lives, and desire to work together and support each other in their various endeavors. This consists primarily of social enterprises, non-profits, or those have a give back model built into their business. We are focused and committed to growing  a community and culture of people who are committed to the world's best future.
+Wayfare exists to unite and propel creators, founders and adventurers for the common good (the most good for all people). Our community consists of people who actively pursue the common good through their work and lives, and desire to work together and support each other in their various endeavors. This consists primarily of social enterprises, non-profits, or those have a give back model built into their business. We are focused and committed to growing  a community and culture of people who are committed to the world's best future.
 
 ## Interning at Wayfare
 
@@ -53,7 +53,7 @@ We value our interns and go the extra mile to make sure they are involved in our
 
 **What is the compensation and are there any perks?**
 
-This internship is unpaid, however all interns will receive the following Wayfare benefits:
+This internship is unpaid, however, all interns will receive the following Wayfare benefits:
 
 * Access to Wayfare Member Perks & Discounts, including our professional member directory
 * A Wayfare membership during their internship (up to 10 hours/week)
@@ -65,9 +65,9 @@ This internship is unpaid, however all interns will receive the following Wayfar
 ### MARKETING + SOCIAL MEDIA INTERNSHIP
 
 Open positions: 2
-Supervisors: Caitlin Kraina, Marketing Manger / Allison Miller, Community Manager
+Supervisors: Caitlin Kraina, Marketing Manger & Adrianne Verheyen, Growth Coordinator
 
-**What You Will Learn:**
+**What you will learn:**
 
 * How to maintain a brand and brand voice on social media
 * How to build and maintain a relationship with our online community and provide value to our readers and followers
@@ -82,10 +82,10 @@ Supervisors: Caitlin Kraina, Marketing Manger / Allison Miller, Community Manage
 * How to create highly valuable content
 * How to create an editorial calendar
 
-**What You Will Do:**
+**What you will do:**
 
 * Build and refine the Wayfare social media strategy
-* Update Facebook, Twitter, and Instagram account on a regular basis & in a timely manner
+* Update Facebook, Twitter and Instagram account on a regular basis & in a timely manner
 * Respond to posts or comments to bring value to user's interactions with Wayfare
 * Schedule and execute posts in online marketing software
 * Perform research to find articles, stories, resources, or other content that is relevant to our clearly defined follower base
@@ -110,107 +110,8 @@ Supervisors: Caitlin Kraina, Marketing Manger / Allison Miller, Community Manage
 * Basic understanding of design and different types of content
 * Well organized, can schedule and execute a calendar of planned content
 
-### GRAPHIC DESIGN INTERNSHIP
-
-Open Position(s): 1
-Supervisor: Brandon Arbini, CEO / Caitlin Kraina, Marketing Manager
-
-**What You Will Learn:**
-
-* The process of taking a design to production (web or print)
-* How to translate business requirements into visual design
-* How to design the presentation of data
-* How to maintain brand cohesion across multiple medias
-* How to receive constructive feedback and critique
-
-**What You Will Do:**
-
-* Create social media graphics
-* Produce event promotion (print and digital) collateral
-* Assist and create assets for the redesign of our website
-* Create microsites and landing pages
-* Product and print material design
-
-**Necessary skills:**
-
-* At least a basic knowledge of Sketch and/or Adobe Creative Suite
-* Knowledge of typeface selection, customization, and color theory
-* Basic understanding of printing/press requirements
-* Basic experience creating product or design mockups
-
-### WEB DEVELOPMENT: FRONT END
-
-Open Position(s): 1
-Supervisor: Brandon Arbini, CEO
-
-**What You Will Learn:**
-
-* How to translate design into production-ready web pages
-* How to build performant, scalable front-ends
-* How to balance business requirements and technical proficiency
-* Industry standard software development practices
-
-**What You Will Do:**
-
-* Assist in building Wayfare’s main website
-* Assist in building the front-end to Wayfare’s membership platform
-* Create landing pages for marketing campaigns
-* Opportunity to script front-end interactivity
-
-**Necessary Skills:**
-
-* Basic knowledge of HTML, CSS, Javascript, and GIT
-* Basic knowledge of Twitter Bootstrap
-* An eye for decent design
-
-### WEB DEVELOPMENT: BACK END
-
-Open Position: 1
-Supervisor: Brandon Arbini, CEO
-
-**What You Will Learn:**
-
-* Development and deployment of a highly used platform
-* How to balance business requirements and technical proficiency
-* Industry standard software development practices
-
-**What You Will Do:**
-
-* Build and extend Wayfare’s membership platform
-* Build custom reports to increase Wayfare’s operational visibility and efficiency
-* Integrate with third-party APIs
-* Write solid automated test cases
-
-**Necessary Skills:**
-
-* Basic knowledge of Ruby, Ruby on Rails, GIT, CLI, PostgreSQL, and RSpec
-
-
-### ACCOUNTING INTERNSHIP
-
-Open Position: 1
-Supervisor: Brandon Arbini, CEO / Marc Fernandez, Director of Growth
-
-**What you will learn:**
-
-* How to tell a story with numbers
-* How dashboards are used to drive a business forward
-* How to build and refine projections and proformas
-
-**What you will do:**
-
-* Report generation
-* Updating dashboards
-* Set up systems for reporting
-* Translate raw numbers of a business into readable and actionable data
-
-**Necessary Skills:**
-
-* Familiarity with the necessity of expense and income tracking
-* Competent in the use and design of spreadsheets
-
 ## Apply
 
 Ready to join the team at Wayfare and work toward the world's best future?
 
-<p><a href="https://wayfare.typeform.com/to/xPJDH2" class="btn btn-primary btn-lg">Apply Now</a></p>
+<p><a href="https://wayfare.typeform.com/to/xPJDH2" class="btn btn-primary btn-lg">Apply now</a></p>
