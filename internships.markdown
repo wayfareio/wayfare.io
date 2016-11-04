@@ -8,13 +8,13 @@ redirect_from: "/interns/index.html"
 
 ## Official program details & dates
 
-**Next Term:**
+**Next term:**
 Spring Semester 2017
 
-**Length of Internship:**
+**Length of internship:**
 3 Months
 
-**Weekly Schedule:**
+**Weekly schedule:**
 5-10 hours/week
 
 ## About Wayfare
