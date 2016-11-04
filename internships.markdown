@@ -8,7 +8,6 @@ redirect_from: "/interns/index.html"
 
 ## Official program details & dates
 
-
 **Next Term:**
 Spring Semester 2017
 
