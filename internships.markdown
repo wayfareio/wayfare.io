@@ -114,4 +114,4 @@ Supervisors: Caitlin Kraina, Marketing Manger & Adrianne Verheyen, Growth Coordi
 
 Ready to join the team at Wayfare and work toward the world's best future?
 
-<p><a href="https://wayfare.typeform.com/to/xPJDH2" class="btn btn-primary btn-lg">Apply Now</a></p>
+<p><a href="https://wayfare.typeform.com/to/xPJDH2" class="btn btn-primary btn-lg">Apply now</a></p>
