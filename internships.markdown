@@ -53,7 +53,7 @@ We value our interns and go the extra mile to make sure they are involved in our
 
 **What is the compensation and are there any perks?**
 
-This internship is unpaid, however all interns will receive the following Wayfare benefits:
+This internship is unpaid, however, all interns will receive the following Wayfare benefits:
 
 * Access to Wayfare Member Perks & Discounts, including our professional member directory
 * A Wayfare membership during their internship (up to 10 hours/week)
