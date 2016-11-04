@@ -1,17 +1,17 @@
 ---
-title: 'Costa Mesa: Rates'
+title: 'Fullerton: Rates'
 position: 99
 nav:
-  id: whq-rates
+  id: ful-rates
   site:
     highlight: locations
   side:
-    id: costa-mesa
-    highlight: whq-price-plans
+    id: fullerton
+    highlight: ful-price-plans
 banner:
   image: "/assets/images/topo-banner-bg.jpg"
-  title: Costa Mesa
-  subtitle: 270 Baker St E, Ste 200, Costa Mesa, CA
+  title: Fullerton
+  subtitle: 110 E Wilshire Ave, Ste 101, Fullerton, CA
 ---
 
 <h2>All Rates</h2>
@@ -41,10 +41,10 @@ banner:
       <strong>Standard Hourly Rates</strong>
     </div>
     <table class="table">
-      {% for resource in site.data.rates.costa_mesa.resources %}
+      {% for resource in site.data.rates.fullerton.resources %}
         <tr>
           <th>{{ resource.name }}</th>
-          <td class="text-xs-right">{{ site.data.rates.costa_mesa.plans.full[resource.id] }}</td>
+          <td class="text-xs-right">{{ site.data.rates.fullerton.plans.full[resource.id] }}</td>
         </tr>
       {% endfor %}
     </table>
@@ -54,7 +54,7 @@ banner:
       <strong>Member Hourly Rates</strong>
     </div>
     <table class="table plan-rates plan-rates-empty">
-      {% for resource in site.data.rates.costa_mesa.resources %}
+      {% for resource in site.data.rates.fullerton.resources %}
         <tr>
           <th>{{ resource.name }}</th>
           <td class="text-xs-right text-muted">$-.--</td>
@@ -63,10 +63,10 @@ banner:
     </table>
     {% for plan in site.data.plans %}
       <table class="table plan-rates plan-rates-{{ plan.id }}" style="display: none;">
-        {% for resource in site.data.rates.costa_mesa.resources %}
+        {% for resource in site.data.rates.fullerton.resources %}
           <tr>
             <th>{{ resource.name }}</th>
-            <td class="text-xs-right">{{ site.data.rates.costa_mesa.plans[plan.id][resource.id] }}</td>
+            <td class="text-xs-right">{{ site.data.rates.fullerton.plans[plan.id][resource.id] }}</td>
           </tr>
         {% endfor %}
       </table>
@@ -74,4 +74,4 @@ banner:
   </div>
 </div>
 
-<p class="m-t-2"><a href="/locations/costa-mesa/price-plans" class="btn btn-primary">&lsaquo; Price Plans</a></p>
+<p class="m-t-2"><a href="/locations/fullerton/price-plans" class="btn btn-primary">&lsaquo; Price Plans</a></p>

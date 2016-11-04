@@ -39,3 +39,28 @@ costa_mesa:
       large_conference_room: $48.00
       small_meeting_room: $30.00
       semi_private_alcoves: $18.00
+fullerton:
+  resources:
+    - id: coworking
+      name: Coworking
+    - id: large_conference_room
+      name: Large Conference Room
+  plans:
+    full:
+      coworking: $8.00
+      large_conference_room: $80.00
+    wayfarer:
+      coworking: $5.00
+      large_conference_room: $72.00
+    wanderer:
+      coworking: $3.75
+      large_conference_room: $66.00
+    explorer:
+      coworking: $3.25
+      large_conference_room: $60.00
+    trailblazer:
+      coworking: $3.00
+      large_conference_room: $55.00
+    pioneer:
+      coworking: $2.40
+      large_conference_room: $48.00

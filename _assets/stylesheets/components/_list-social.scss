@@ -1,0 +1,24 @@
+.list-social {
+  @include list-unstyled;
+  > .list-social-item {
+    display: inline-block;
+    &:not(:last-child) {
+      margin-right: $list-inline-padding;
+    }
+    > .list-social-link {
+      width: 1.5rem; border-bottom: 0;
+      &:hover [fill='#000'] { fill: $brand-primary; }
+    }
+  }
+
+  &.list-social-buttons {
+    > .list-social-item {
+      > .list-social-link {
+        background: $brand-primary; width: 2.5rem; height: 2.5rem; border-radius: $border-radius;
+        display: flex; justify-content: center; align-items: center;
+        [fill='#000'] { fill: #fff; }
+        &:hover { background: darken($brand-primary,8%); }
+      }
+    }
+  }
+}
