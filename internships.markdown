@@ -6,7 +6,7 @@ redirect_from: "/interns/index.html"
 
 <img src="/assets/images/wayfare-interns.jpg" class="img-fluid">
 
-## Official Program Details + Dates
+## Official program details & dates
 
 **Next Term:**
 Spring Semester 2017
@@ -67,7 +67,7 @@ This internship is unpaid, however, all interns will receive the following Wayfa
 Open positions: 2
 Supervisors: Caitlin Kraina, Marketing Manger & Adrianne Verheyen, Growth Coordinator
 
-**What You Will Learn:**
+**What you will learn:**
 
 * How to maintain a brand and brand voice on social media
 * How to build and maintain a relationship with our online community and provide value to our readers and followers
@@ -82,7 +82,7 @@ Supervisors: Caitlin Kraina, Marketing Manger & Adrianne Verheyen, Growth Coordi
 * How to create highly valuable content
 * How to create an editorial calendar
 
-**What You Will Do:**
+**What you will do:**
 
 * Build and refine the Wayfare social media strategy
 * Update Facebook, Twitter and Instagram account on a regular basis & in a timely manner
