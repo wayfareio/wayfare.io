@@ -64,7 +64,7 @@ This internship is unpaid, however, all interns will receive the following Wayfa
 
 ### MARKETING + SOCIAL MEDIA INTERNSHIP
 
-**Open positions:** 
+**Open positions:**
 2
 
 **Supervisors:**
