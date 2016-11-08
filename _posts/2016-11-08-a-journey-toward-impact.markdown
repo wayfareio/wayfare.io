@@ -18,6 +18,8 @@ image: "/uploads/a-journey-toward-impact.jpg"
 Within minutes of my conversation with Kalee, I recognize an immense amount of experience, depth, and passion. After graduating from Southern Methodist University as a communications and PR major, Kalee dove right into a career in marketing at a sports entertainment firm. With clients like Puma, ATNT, and other big name companies, Kalee was balancing a lot of responsibility, traveling constantly, and often working 60-80 hour weeks. 
 “When you’re working that much and you’re traveling that much, it can also be really lonely and isolating. So I came to this place… if I’m going to be working this much, I should at least be doing something I really care about.”
 
+<!-- more -->
+
 Seeking more meaning and purpose in her work meant living through a nine month journey of asking hard questions to find out what her best contribution to the world could be.  
 “What are my skills? What are my gifts? What do I like? I didn’t even know, to be honest, and it was really disorienting.” 
 Through asking hard questions, allowing people to speak into her life, and a pivotal conversation with her mom, Kalee came to realize she wanted to be a therapist. She didn’t even know what a marriage and family therapist was at the time, but Kalee knew she had experienced a lot of healing in her life, so she wanted to be able to offer that to people.What Kalee was stepping into didn’t make sense at first, and she didn’t have a complete picture of what she was walking into, but isn’t that where the adventure is? 
