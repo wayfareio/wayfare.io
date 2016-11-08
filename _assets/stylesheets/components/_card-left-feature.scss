@@ -1,5 +1,5 @@
 .card-left-features {
-  @include make-container();
+  @include make-container(); padding: 0rem; margin: 0rem;
   .card.card-left-feature {
     @include make-row(); padding: 0.5rem; margin-left: 0.125rem; margin-right: 0.125rem;
     .card-block { padding: 0.75rem 0.75rem 0.75rem 1.25rem; }
