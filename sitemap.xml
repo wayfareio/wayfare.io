@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://wayfare.io/stories/2016/11/08/a-journey-toward-impact/</loc>
+<lastmod>2016-11-08T22:53:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://wayfare.io/stories/2016/11/04/that-marriages-would-thrive-from-crashing-to-connecting/</loc>
 <lastmod>2016-11-04T10:00:00+00:00</lastmod>
 </url>
@@ -89,10 +93,10 @@
 <loc>http://wayfare.io/membership/big-savings/</loc>
 </url>
 <url>
-<loc>http://wayfare.io/about/common-good/</loc>
+<loc>http://wayfare.io/stories/common-good/</loc>
 </url>
 <url>
-<loc>http://wayfare.io/stories/common-good/</loc>
+<loc>http://wayfare.io/about/common-good/</loc>
 </url>
 <url>
 <loc>http://wayfare.io/stories/community/</loc>
@@ -110,10 +114,10 @@
 <loc>http://wayfare.io/locations/costa-mesa/</loc>
 </url>
 <url>
-<loc>http://wayfare.io/locations/fullerton/drop-ins/</loc>
+<loc>http://wayfare.io/locations/costa-mesa/drop-ins/</loc>
 </url>
 <url>
-<loc>http://wayfare.io/locations/costa-mesa/drop-ins/</loc>
+<loc>http://wayfare.io/locations/fullerton/drop-ins/</loc>
 </url>
 <url>
 <loc>http://wayfare.io/events/</loc>
@@ -128,19 +132,19 @@
 <loc>http://wayfare.io/startups/growth-program/</loc>
 </url>
 <url>
-<loc>http://wayfare.io/locations/costa-mesa/host-an-event/</loc>
+<loc>http://wayfare.io/locations/fullerton/host-an-event/</loc>
 </url>
 <url>
-<loc>http://wayfare.io/locations/fullerton/host-an-event/</loc>
+<loc>http://wayfare.io/locations/costa-mesa/host-an-event/</loc>
 </url>
 <url>
 <loc>http://wayfare.io/startups/impact-program/</loc>
 </url>
 <url>
-<loc>http://wayfare.io/</loc>
+<loc>http://wayfare.io/stories/</loc>
 </url>
 <url>
-<loc>http://wayfare.io/stories/</loc>
+<loc>http://wayfare.io/</loc>
 </url>
 <url>
 <loc>http://wayfare.io/internships/</loc>
@@ -182,10 +186,10 @@
 <loc>http://wayfare.io/stories/places/</loc>
 </url>
 <url>
-<loc>http://wayfare.io/locations/fullerton/price-plans/</loc>
+<loc>http://wayfare.io/locations/costa-mesa/price-plans/</loc>
 </url>
 <url>
-<loc>http://wayfare.io/locations/costa-mesa/price-plans/</loc>
+<loc>http://wayfare.io/locations/fullerton/price-plans/</loc>
 </url>
 <url>
 <loc>http://wayfare.io/locations/costa-mesa/rates/</loc>
@@ -197,10 +201,10 @@
 <loc>http://wayfare.io/locations/fullerton/sneak-peek/</loc>
 </url>
 <url>
-<loc>http://wayfare.io/locations/fullerton/space-features/</loc>
+<loc>http://wayfare.io/locations/costa-mesa/space-features/</loc>
 </url>
 <url>
-<loc>http://wayfare.io/locations/costa-mesa/space-features/</loc>
+<loc>http://wayfare.io/locations/fullerton/space-features/</loc>
 </url>
 <url>
 <loc>http://wayfare.io/startups/</loc>
