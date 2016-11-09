@@ -26,9 +26,9 @@ membership:
   - id: gifts-every-month
     title: Gifts Curated Every Month
     url: /membership/gifts-every-month
-  - id: big-savings
-    title: Big Savings
-    url: /membership/big-savings
+  - id: major-perks
+    title: Major Perks
+    url: /membership/major-perks
   - id: learn-from-others
     title: Learn from Others
     url: /membership/learn-from-others
