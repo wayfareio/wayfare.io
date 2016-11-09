@@ -35,6 +35,9 @@ membership:
   - id: be-challenged-and-inspired
     title: Challenge &amp; Inspiration
     url: /membership/be-challenged-and-inspired
+  - id: faq
+    title: Membership FAQ
+    url: /membership/faq
 startups:
   - id: startups-title
     title: Startups
