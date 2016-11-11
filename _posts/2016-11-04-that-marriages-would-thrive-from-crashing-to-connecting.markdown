@@ -2,9 +2,7 @@
 title: 'That Marriages Would Thrive: From Crashing to Connecting'
 date: 2016-11-04 10:00:00 Z
 categories:
-- life
-- common good
-- work
+- Common Good
 tags:
 - life
 - common good
