@@ -3,6 +3,9 @@ title: 5 Reasons an Internship is Worth Your Time
 date: 2016-08-31 18:12:00 Z
 categories:
 - Work
+tags:
+- intern
+- internship
 ---
 
 If you're on the fence about interning this semester, we say: go for it! Here's why:
