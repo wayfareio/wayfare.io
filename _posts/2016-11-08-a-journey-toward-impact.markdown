@@ -2,13 +2,12 @@
 title: A Journey Toward Impact
 date: 2016-11-08 22:53:00 Z
 categories:
-- work
-- life
-- startups
+- Common Good
 tags:
 - work
 - life
 - startups
+- impact
 author: Adrianne Verheyen
 image: "/uploads/a-journey-toward-impact.jpg"
 ---
