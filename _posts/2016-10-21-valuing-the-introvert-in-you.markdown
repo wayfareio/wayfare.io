@@ -2,7 +2,7 @@
 title: Valuing the Introvert in you
 date: 2016-10-21 23:37:00 Z
 categories:
-- life
+- Life
 tags:
 - introversion
 - introvert
