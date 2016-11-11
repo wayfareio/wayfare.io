@@ -17,7 +17,7 @@ image: "/uploads/on-becoming-mom.jpg"
 When I was engaged, I once had a woman tell me that I would never understand what being a mom meant until I birthed my own child. That I would never understand the true depths of the heart of a mother, the very heartbeat of motherhood, until my body carried, delivered, and nursed a baby of my very flesh-made in love and intention. 
 
 
-I didn’t know how to respond. I had just lost two precious children as a foster mom. They were my biological half brothers and my foster sons at the same time, and they were reunified with our birth mom, a devastating decision by the Orange County Juvenile Courts, for me and for them. <!-- more-->
+I didn’t know how to respond. I had just lost two precious children as a foster mom. They were my biological half brothers and my foster sons at the same time, and they were reunified with our birth mom, a devastating decision by the Orange County Juvenile Courts, for me and for them. <!-- more -->
 
 
 They were mine to love for two years. I bottle weaned, potty trained, and endured the storm of tantrums for one. I laid on the ground soiled with the tears of meltdowns and helped with math and reading, and sat in parent teacher conferences with another. My body was exhausted all the time. The bags under my eyes felt beyond just an expression of tiredness-I felt them physically weighing me down. My body did not deliver these boys, but my body felt motherhood deeply. 
