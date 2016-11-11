@@ -2,7 +2,7 @@
 title: Novelty isn't Creativity... at Least not all of it
 date: 2016-10-04 09:00:00 Z
 categories:
-- life
+- Life
 tags:
 - novelty
 - creativity
