@@ -10,6 +10,7 @@ tags:
 - children
 - birth
 - foster-care
+author: Sally Kim
 image: "/uploads/on-becoming-mom.jpg"
 ---
 
