@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://wayfare.io/stories/2016/11/11/on-becoming-mom-sally-kims-journey-toward-adoption/</loc>
+<lastmod>2016-11-11T09:38:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://wayfare.io/stories/2016/11/08/a-journey-toward-impact/</loc>
 <lastmod>2016-11-08T22:53:00+00:00</lastmod>
 </url>
@@ -220,6 +224,9 @@
 </url>
 <url>
 <loc>http://wayfare.io/stories/archive/page2/</loc>
+</url>
+<url>
+<loc>http://wayfare.io/stories/archive/page3/</loc>
 </url>
 <url>
 <loc>http://wayfare.io/authors/caitlin-kraina/</loc>
