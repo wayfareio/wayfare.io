@@ -26,15 +26,18 @@ membership:
   - id: gifts-every-month
     title: Gifts Curated Every Month
     url: /membership/gifts-every-month
-  - id: big-savings
-    title: Big Savings
-    url: /membership/big-savings
+  - id: major-perks
+    title: Major Perks
+    url: /membership/major-perks
   - id: learn-from-others
     title: Learn from Others
     url: /membership/learn-from-others
   - id: be-challenged-and-inspired
     title: Challenge &amp; Inspiration
     url: /membership/be-challenged-and-inspired
+  - id: faq
+    title: Membership FAQ
+    url: /membership/faq
 startups:
   - id: startups-title
     title: Startups
