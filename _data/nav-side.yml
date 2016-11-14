@@ -83,6 +83,9 @@ costa-mesa:
   - id: whq-host-an-event
     title: Host an Event
     url: /locations/costa-mesa/host-an-event
+  - id: whq-faq
+    title: FAQ
+    url: /locations/costa-mesa/faq
   - id: whq-contact
     title: Contact
     url: /locations/costa-mesa/contact
@@ -110,6 +113,9 @@ fullerton:
   - id: ful-host-an-event
     title: Host an Event
     url: /locations/fullerton/host-an-event
+  - id: ful-faq
+    title: FAQ
+    url: /locations/fullerton/faq
   - id: ful-contact
     title: Contact
     url: /locations/fullerton/contact
