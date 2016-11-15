@@ -25,4 +25,4 @@ With running a social enterprise comes an immense amount of reward, but also its
 
 As one of our featured brands this season at Spread Joy Market, we invite you to take part in the bigger impact that this company is having! Love Light Paper wants to provide you with ways to shine light and spread love to others who share our deepest needs. 
 
-In the spirit of spreading joy and gift-giving this holiday season, Love Light Paper Co. is giving away packets of Christmas gift tags at Spread Joy Market for anyone that follow @lovelightpaper. Join us at WayfareHQ from 11-4 on December 3rd to shop goods that give back and spread joy, and head [here (https://wayfare.ticketleap.com/spread-joy/) to enter our doorprize giveaway! 
+In the spirit of spreading joy and gift-giving this holiday season, Love Light Paper Co. is giving away packets of Christmas gift tags at Spread Joy Market for anyone that follow @lovelightpaper. Join us at WayfareHQ from 11-4 on December 3rd to shop goods that give back and spread joy, and head [here](https://wayfare.ticketleap.com/spread-joy/) to enter our doorprize giveaway! 
