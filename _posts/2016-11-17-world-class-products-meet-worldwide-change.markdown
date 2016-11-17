@@ -1,5 +1,5 @@
 ---
-title: World Class Products Meet Worldwide Change
+title: World-Class Products Meet Worldwide Change
 date: 2016-11-17 19:25:00 Z
 published: false
 author: Adrianne Verheyen
@@ -18,6 +18,7 @@ Once they were on the ground in Ethiopia, they quickly learned that Addis Ababa�
 Ian + Brittany began partnering with Women at Risk, an organization that helps with rehabilitation and job placement opportunities across Ethiopia, so that they could work firsthand with vulnerable women caught up in the commercial sex industry. 
 
 They met Zewditu, who became one of the first women to join the Parker Clay team. Zewditu is in her early 20’s and comes from a farming family just outside of Ethiopia’s capital city, Addis Ababa. When Zewditu was a young girl, her mother passed away and a lot of pressure was placed on her older sister to provide for the family. Her older sister was forced to go to an Arab country to look for work so she could send money back to her family. Afraid that she might have to make a similar choice, Zewditu came to Parker Clay where she was trained to sew and offered a job. She now dreams of getting married and having kids of her own. 
+
 Zewditu’s story is one of empowerment and change, where her value and dignity was restored through Parker Clay’s unique mission. While they love sharing the story of individuals behind their products, Parker Clay believes that the story of community is just as significant. Parker Clay has cultivated a unique community of farmers, tanneries, and artisans who are involved at every step of the process until the product ends up in the consumer’s hands. Through the purchase of their unique products, the consumer becomes part of a global community and a larger impact. 
 
 Ultimately, Parker Clay is about showing these women that they see them, they care about them, and they support them. Their advise for aspiring social enterprises?
