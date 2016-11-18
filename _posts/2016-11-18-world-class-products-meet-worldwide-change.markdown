@@ -1,6 +1,6 @@
 ---
 title: World-Class Products Meet Worldwide Change
-date: 2016-11-18 21:00:00 Z
+date: 2016-11-18 09:00:00 Z
 author: Adrianne Verheyen
 image: "/uploads/low_res.jpg.png"
 ---
