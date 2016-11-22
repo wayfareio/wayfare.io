@@ -1,5 +1,5 @@
 ---
-title: The Role of Gratitude in a Broken yet Beautiful World
+title: The Role of Gratitude in a Broken Yet Beautiful World
 date: 2016-11-21 17:29:00 Z
 categories:
 - Life
