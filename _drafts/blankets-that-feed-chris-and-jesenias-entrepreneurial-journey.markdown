@@ -1,6 +1,6 @@
 ---
 title: 'Blankets that Feed: Chris & Jesenia''s Entrepreneurial Journey'
-date: 2016-11-17 20:05:00 Z
+date: 2016-11-23 11:05:00 Z
 categories:
 - Common Good
 tags:
