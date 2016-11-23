@@ -4,13 +4,13 @@
     padding-left: 0;
   }
   > .list-social {
-    border: 1.5px dotted rgba(0,0,0,0.2); border-radius: 2px;
+    border: 1.5px dotted $gray-light; border-radius: 2px;
     padding: .95rem .5rem .2rem;
     margin-top: -1rem; margin-right: 1rem;
     > .list-social-item {
       margin-bottom: 0; padding-right: 3px;
       .list-social-link {
-        [fill='#000'] { fill: #B3B3B3; }
+        [fill='#000'] { fill: darken($gray-light, 10%); }
         &:hover [fill='#000'] { fill: $brand-primary; }
       }
     }
@@ -92,7 +92,7 @@
   }
   > .navbar-toggler {
     padding: 0; outline: 0 !important;
-    &:active { color: #999; }
+    &:active { color: $gray-dark; }
     @include media-breakpoint-only(xs) {
       margin-top: 30px;
     }
