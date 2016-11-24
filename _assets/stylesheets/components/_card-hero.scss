@@ -3,7 +3,7 @@
   > .card-img-overlay {
     display: flex;
     > .card-block {
-      background-color: transparentize(#fff, 0.25); text-align: center; min-width: 70%;
+      background-color: transparentize(#fff, 0.10); text-align: center; min-width: 70%;
       > .card-title { font-size: 2rem; color: #333; font-weight: 900; text-transform: uppercase; margin-bottom: 1rem; }
       > .card-subtitle { color: #333; font-weight: 300; text-transform: uppercase; margin-bottom: 1rem; }
     }
