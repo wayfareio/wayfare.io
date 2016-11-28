@@ -35,8 +35,8 @@ membership:
   - id: be-challenged-and-inspired
     title: Challenge &amp; Inspiration
     url: /membership/be-challenged-and-inspired
-  - id: faq
-    title: Membership FAQ
+  - id: membership-faq
+    title: FAQ
     url: /membership/faq
 startups:
   - id: startups-title
@@ -122,7 +122,15 @@ fullerton:
 faq:
   - id: faq
     title: FAQ
-    url: /faq
   - id: faq-membership
     title: Membership
     url: /faq/membership
+  - id: faq-coworking
+    title: Coworking
+    url: /faq/coworking
+  - id: faq-startup-programs
+    title: Startup Programs
+    url: /faq/startup-programs
+  - id: faq-events
+    title: Events
+    url: /faq/events
