@@ -1,6 +1,12 @@
 ---
 title: 'Learning and Cultivating your Strengths: Insights from a Wayfare Intern'
 date: 2016-11-29 10:00:00 Z
+categories:
+- Work
+tags:
+- internship
+- work
+- strengths
 author: Emily Liu
 image: "/uploads/nfta8pdaq9a-bench-accounting.jpg"
 ---
