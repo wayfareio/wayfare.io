@@ -9,6 +9,8 @@ The light streaming into the beautiful shared space was the first thing I notice
 
 What even is an internship? A part time job before an actual job? An internship is not about showing off your strengths, it’s about learning and cultivating them. 
 
+<!-- more -->
+
 One of the very first things the interns did together was take a strengths finder test and discuss our results as a group. Totally clueless going into the test, I was so surprised by the results. Not only did I learn the nuances of my strengths, I learned how diverse the other interns and staff were. The beauty of this exercise was that no two people were the same and together we could complement each other to accomplish amazing goals. 
 
 The three of us could not be any more different. Alandra was a recent college grad with a photography degree, nervous about how far her new art degree could take her. Desiree worked a full time job,and I was still in college, intimidated about being the youngest one. 
