@@ -18,6 +18,8 @@ On a Sunday morning in February of 2013, I began a journey that has been transfo
 
 As I began the transition out of my job and into an unknown adventure where I would begin challenging my previously held understanding of work, a cultural transition was happening in the entertainment industry, which was also challenging my understanding of leisure. 
 
+<!-- more -->
+
 For context, I was born in the 70s, so my most formative early memories of television were in the 1980s. I would wait in eager anticipation of Sunday nights when the A-team would pull of their next miraculous feat and their fearless leader, Hannibal Smith, would deliver my favorite line: “I love it when a plan comes together." In fact, I was so captivated by their work that I learned to play their theme song on the piano. It's actually ringing in my ears right now and giving me energy as I write. But I digress. In the 90s, my curiosity and desire for adventure was catalyzed on Wednesday nights through agents Mulder and Scully of the X-files.
 
 And while we would occasionally and haphazardly tape shows on our VCR, for the most part, we were still eager for the event--not the escape from, but the entrance into a new story, a new adventure, a new possibility. And in the words of modern day prophets, Arcade Fire, “We used to wait for it.”
