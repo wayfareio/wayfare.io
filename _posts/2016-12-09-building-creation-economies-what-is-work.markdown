@@ -17,6 +17,8 @@ In the book of Genesis, we're introduced to God as he performs his initial acts 
 So God created humankind in his image, in the image of God he created them; male and female he created them. 
 28 God blessed them, and said to them, “Be fruitful and multiply, and fill the earth and subdue it; and have dominion over it. I have given you everything. And he said, It is very good.
 
+<!-- more -->
+
 So we see that Adama, the earth creature...the first human, was considered different than the rest of creation and was given dominion over it. More than that, Adama was given creation responsibilities. Being created in God’s image, in his likeness, meant that he was to also be a creator. A first creation task in chapter 2:19-20 was naming the animals, giving them identity. Adama began participating with God in his creation of the world.
 
 But something changed. If you know the creation story, Adam and Eve disobeyed in the first act of self-interest. And this is important to note, because this original sin--self centeredness--was the act then and continues to be that act today that demotes work from creation to toil. The reason I believe this is so important is that we have to ground ourselves in God’s original intent for humanity and his identity for us if we are to understand how to participate with him today in his renewal of all things. 
