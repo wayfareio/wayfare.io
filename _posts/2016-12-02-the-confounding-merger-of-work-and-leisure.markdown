@@ -1,6 +1,6 @@
 ---
-title: The Confounding Merger of Work and Leisure
-date: 2016-11-30 18:20:00 Z
+title: 'Building Creation Economies: The Confounding Merger of Work and Leisure'
+date: 2016-12-02 18:20:00 Z
 categories:
 - Work
 tags:
