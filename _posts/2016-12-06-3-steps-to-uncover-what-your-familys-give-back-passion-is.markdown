@@ -11,6 +11,8 @@ This season certainly is a great time to highlight how meaningful it is to give 
  
 This year if you want to break the cycle (or at least the sugar high) and are considering volunteering with the family, but don’t know where to start, I have a great little guide for you that breaks down what fits your family best. The more personal to the values of your family the better. I recommend getting kids involved and asking them what they think really matters. You’ll have to do the Googling once you uncover your passion, but this will get you where you need to be in terms of how and where you want to give.
  
+<!-- more -->
+
 Once you’ve gone out and volunteered, be sure to recap with the family. Ask them what they liked and didn’t like, if they want to do it again, and how they feel helping others.
  
 With these three steps, uncover your family’s give back passion. Circle which option makes sense to you and then create your list of what to look for.
