@@ -13,6 +13,7 @@ tags:
 - artistry
 - meaning
 author: Jeff Tanner
+image: "/uploads/0jw6_7hy-rm-samuel-zeller.jpg"
 ---
 
 So let’s look at what it means to be a creator.
