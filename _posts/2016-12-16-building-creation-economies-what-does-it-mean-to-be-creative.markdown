@@ -25,7 +25,7 @@ Know your unique strengths, skills, and abilities
 Know your intrinsic value and worth to God, others, and to this world.
 Identity is never found in individualism, isolation, and self-centeredness. It is always found in relationship.
 The question we need to constantly ask is this: What is my best contribution to the world? If you don’t know the answer to that question, you’re not alone. To redeem work, we must ask it.
-
+<!-- more -->
 **Creators display artistry**
 Artistry is creative skill
 Artistry is creating beauty, and not just visually, but in all realms. 
