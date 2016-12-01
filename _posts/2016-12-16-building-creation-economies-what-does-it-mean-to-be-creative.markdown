@@ -19,13 +19,14 @@ image: "/uploads/0jw6_7hy-rm-samuel-zeller.jpg"
 So let’s look at what it means to be a creator.
 
 What does it mean to be a creator? I propose three components:
-Creators are rooted in their identity
-Deep self awareness
-Know your unique strengths, skills, and abilities
-Know your intrinsic value and worth to God, others, and to this world.
+1. Creators are rooted in their identity.
+2. They have deep self awareness
+3. They know their unique strengths, skills, and abilities
+
 Identity is never found in individualism, isolation, and self-centeredness. It is always found in relationship.
 The question we need to constantly ask is this: What is my best contribution to the world? If you don’t know the answer to that question, you’re not alone. To redeem work, we must ask it.
 <!-- more -->
+
 **Creators display artistry**
 Artistry is creative skill
 Artistry is creating beauty, and not just visually, but in all realms. 
