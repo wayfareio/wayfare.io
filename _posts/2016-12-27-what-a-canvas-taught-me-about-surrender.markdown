@@ -17,6 +17,7 @@ This year has been one of chaos, of change, of newness. I graduated college. Got
 
 With the beauty and the gift that change is, I’m never prepared for the grief that it’s paired with. Transition melts you and reforms you to where you feel like a piece of playdough that a 3-year old pancake-smashed, mixed with other colors, and stuck on the bottom of a desk. I almost don’t recognize myself. 
 
+<!-- more -->
 Recently, a friend said a picture of me came to her mind--She saw me running as a young girl through the streets of the town where I grew up. I wasn’t running from anything, just running simply because I could run. She said I was marked by a free spirit, uninhibited by the rules of perfection and performance. 
 
 She said I’ve lost that, and I miss myself...I’ve forgotten what it feels like to be full, to not limit myself to the mold that I’m expected to fit into, or limit myself to the words that I’ve begun to describe myself by: **Wife. Employee. Machine. Tired. Incapable. Not. Good. Enough.**
