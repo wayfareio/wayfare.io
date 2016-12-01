@@ -10,6 +10,7 @@ tags:
 - transition
 - life
 author: Adrianne Verheyen
+image: "/uploads/IMG_9056.JPG"
 ---
 
 This year has been one of chaos, of change, of newness. I graduated college. Got engaged. New Job. Moved. Marriage. Bliss. Chaos. 
