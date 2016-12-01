@@ -17,6 +17,8 @@ He’s our sensitive one. He often hears things differently than they are intend
 
 But there’s something true about our boy’s observation. There is this tendency to skip the dark and jump straight to the lights, the coco, the loud and bright and happy...forgetting that the silent night was what started it all-the calm, bright, quiet evening that preludes all the celebrations begin. 
 
+<!-- more -->
+
 Because, the truth is, the tension that exists between the quiet and the dark and the loud and the light is thick and hard to sit in. But, this thick tension is exactly where we are needed. 
 
 It’s cliche to say that this is a hurting world in need of healing hands, I know. But it is a statement that renders truth...We live in a time of uncertainty and fear, where people are lacking security in their lives. I can’t go one day without hearing a story of a woman losing a baby after trying to get pregnant for years, or someone losing their job right before Christmas, or someone shaken by some inconceivable act of violence. This is the reality of our world right now. People we know, people we work with and family members and those we love, and those we don’t, are hurting, right now. So how can you respond? 
