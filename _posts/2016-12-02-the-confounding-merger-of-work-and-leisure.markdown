@@ -11,7 +11,7 @@ tags:
 - common good
 - leisure
 author: Jeff Tanner
-image: "/uploads/88as5zw7itm-frank-mckenna.jpg"
+image: "/uploads/s3d29ihiuqa-ryan-jacobs.jpg"
 ---
 
 On a Sunday morning in February of 2013, I began a journey that has been transforming the way I understand my life and work. In a profound spiritual encounter, I was called out of an 8 year career in banking that had brought comfort and control to me and my family, and God gave me two objectives: 1. Have my identity rooted in him, and 2. Live a life of adventure.
