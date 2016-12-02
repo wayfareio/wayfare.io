@@ -1,6 +1,8 @@
 ---
 title: 'Meet the Founders in Wayfare''s Launch Program: Batch 2'
 date: 2016-01-12 22:42:00 Z
+categories:
+- Work
 author: Jay Sherer
 redirect_from: "/2016/01/12/meet-the-founders-and-startups-in-wayfare-labs-batch-2/"
 ---
