@@ -1,5 +1,5 @@
 ---
-title: Finding Silence in the Chas
+title: Finding Silence in the Chaos
 date: 2016-01-15 20:25:00 Z
 author: Caitlin Kraina
 image: "/uploads/chaos.jpg"
