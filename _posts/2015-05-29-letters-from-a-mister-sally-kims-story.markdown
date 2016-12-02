@@ -1,6 +1,8 @@
 ---
 title: 'Letters from a Mister: Sally Kim''s Story'
 date: 2015-05-29 22:28:00 Z
+categories:
+- Community
 author: Caitlin Kraina
 image: "/uploads/IMG_2778-1.JPG"
 redirect_from: "/2015/05/29/letters-from-a-mister-the-story-of-sally-kim/"
