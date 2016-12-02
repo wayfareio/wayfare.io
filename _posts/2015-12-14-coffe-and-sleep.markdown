@@ -17,5 +17,3 @@ Coffee may be the only thing keeping you from turning into the Incredible Hulk i
 Let me break it down. Too much coffee = no sleep. Not enough coffee = sleep&mdash;but at inappropriate times like on your keyboard or your breakfast burrito. UP Coffee helps us find balance between what it calls "sleep ready" and "wired."
 
 By tracking how much coffee we put in our caffeine riddled bodies, Up Coffee can tell us when to stop consuming. The result is a much more relaxed evening and a great night's sleep. Find it in [the app store](https://itunes.apple.com/us/app/up-coffee/id828031130?mt=8), and while you're at it, check out Jawbone's other great health technology.
-
-<div style="text-align: center"><a href="https://itunes.apple.com/us/app/up-coffee/id828031130?mt=8"><img src="/content/images/2015/03/upcoffee-2x.jpg" alt="Up Coffee App" style="max-width: 275px"></a></div>
