@@ -10,6 +10,8 @@ redirect_from: "/2015/01/21/traveling-tips-for-the-new-year/"
 
 When you are traveling, it is always a good idea to bring something new. This is for kids and adults alike. For kids, a new book or a new set of stickers will do wonders in curing boredom. I'm being honest, bringing a new book or even a new item of clothing helps me feel excited about the trip I'm taking.  As we embark on a new year, this might mean developing a new habit or practice, visiting a new location, trying a new hobby, or starting a new business. This could mean changing where you work or how you work by joining a new workspace and being a part of a new community of people. Perhaps a local awesome coworking community. See what I did there? Wayfare loves new members!
 
+<!-- more --> 
+
 #### 2. Bring Something Familiar
 
 When going somewhere new, it is always nice to bring something familiar. This helps me feel comfortable and at ease in a new environment. For my kids, this is always their blankie or favorite stuffed animal. For me, my favorite hoodie and pair of shoes is a must. As I am reveling in the freshness of the new year, I am reflecting on what I really liked about last year. What are the routines or practices or even items that were a consistent part of my life. I'd like to continue using or practicing some of the beneficial, good, and familiar things of last year, as I start this new one.
