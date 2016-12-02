@@ -9,7 +9,7 @@ redirect_from: "/2015/03/25/how-technology-might-be-killing-you/"
 ---
 
 I was driving in my daily traffic jam hell listening to NPR and yelling at slow drivers (we live in SoCal, give me a break). Robert Segal was about to bring it home when my phone rang. Was it work, or work related, or work adjacent? I really don't know but apparently it was extremely pressing and required all of my attention; I answered, hands free at this point. I ended the call and began thumbing through my phone while crawling on the 5. I had to check on something, and I needed to do it right then. I looked down, opened my mail app and glanced up to find the car in front of me had completely stopped. I just about shoved my foot through the floor of my weathered Ford Focus, sending the car to a screeching stop. I didn't hit the guy, but almost. With my adrenaline through the roof and the guy in front of me flashing some very colorful sign language, I found myself considering, why?
-
+<!-- more -->
 We praise how connected we've become and we marvel at the simplicity of virtual communication, as we should, but just last week I saw a girl on the 405 FaceTimeing with one hand and steering with the other, and another dude in a different car was taking a selfie.
 
 I recognize that I was being stupid and I should have never been on my phone while driving, but in this world where everyone is connected in just about every form of communication, the pressures to be constantly available are overbearing. There is a certain expectation that because I exist I should always be reachable, and because I am reachable I should always be multitasking.
