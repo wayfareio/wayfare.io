@@ -15,6 +15,8 @@ Kati Stubblebine
 **What's the name of your company/organization?**
 [Coach.me](https://www.coach.me) 
 
+<!-- more --> 
+
 **The best movie of all time is clearly....**
 
 A League of Their Own
