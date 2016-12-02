@@ -10,6 +10,8 @@ redirect_from: "/2016/05/27/foster-care-awareness-month-sally-kim/"
 
 When we hear the terms foster care or foster child, there’s a varied amount of emotions that can pop up-compassion, helplessness, sadness, empathy, even anger…there’s something about the picture we have in our mind when we think foster child that evoke this feeling of sadness in us-maybe we imagine torn shoes and dirty hair-because, as humans we recognize that children were never meant to experience things like homelessness, abuse, or neglect. It does something to our gut and, out of a feeling of total loss as to what to do, we turn our eyes and hands towards something a little more… ”manageable.” 
 
+<!-- more -->
+
 When I think foster care, or foster children, the words that come to my mind are *reality, family,* and *home*. 
 
 I became a foster parent in 2012 to my three brothers, ages 2, 7, and 12 when I was 22. I was single, had dreams of going overseas to help people (ironic?) and wasn’t even sure if I wanted to have kids of my own one day. I hadn’t lived with my biological family in over six years, and had been unofficially adopted by an amazing family, so I wasn’t aware how bad the situation had gotten with my bio-mom and three younger half brothers (you can read more of my story from last year’s post with Wayfare [here](blog.wayfare.io/2015/05/29/letters-from-a-mister-the-story-of-sally-kim/)). After two years of taking care of them, two of the three boys were reunified, and after nearly two years of no contact with them, we received a call to come to Orangewood Children’s Center and pick up our two little “lost boys” as we learned to call them. They had been put back in the system. 
