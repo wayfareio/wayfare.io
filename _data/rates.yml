@@ -64,19 +64,3 @@ fullerton:
     pioneer:
       coworking: $2.40
       large_conference_room: $48.00
-startups:
-  pilot_dates:
-    id: date_range_00
-    name: Now through Dec 15th
-    id: date_range_01
-    name: Dec 16th - Dec 31st
-    id: date_range_02
-    name: Jan 1st - Jan 31st
-    id: deposit
-    name: Deposit due with application and is applied to the conference fees.
-  pricing:
-    full:
-      date_range_00: $747
-      date_range_01: $847
-      date_range_02: $947
-      deposit: $47
