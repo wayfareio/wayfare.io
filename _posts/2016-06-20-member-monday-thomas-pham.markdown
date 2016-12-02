@@ -38,8 +38,6 @@ I'd want to visit Singapore. I've heard the food is GOOD there!
 
 [SLIQUE Media](http://www.sliquemedia.com) is a marketing/branding company that primary focuses on restaurants and franchises. We can do as little as manage our client's Facebook and Instagram, or as far as working with them from idea to a fully open restaurant. Logos, design, social media, and strategies are our forte. I also own The Halal Guys here in Southern California, and that is a New York street food concept that I franchised. Its a top 3 most Yelped restaurant in the country, and one of the top places to eat in NYC. We have two locations open, with a 3rd opening in less than a month, and 2-3 more slated by the end of the year. We serve chicken & gyro over rice with our famous white sauce and explosive hot sauce! 
 
-![](/content/images/2016/06/Halal-Guys.JPG)
-
 **How do you stay inspired? Productive?**
 
 I spend a lot of my time listening to podcasts and learning from those that have done it. Tim Ferriss' life hacks are great. Additionally, I have some mentors I work with, and I enjoy mentoring others as well. 
