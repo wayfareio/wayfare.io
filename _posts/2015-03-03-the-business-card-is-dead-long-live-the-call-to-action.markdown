@@ -12,6 +12,8 @@ I used to carry business cards&mdash;lots of them. I'd exchange them with people
 
 "I might as well have just handed you a quarter, but instead, here's a reminder of my name and inflated title." Anything important or actionable was directly entered into our phones.
 
+<!-- more --> 
+
 Ok, maybe I'm being too harsh on myself and those people who I never heard from again. Maybe not.
 
 Then this morning as one of our startup incubator participants asked, "So I should get business cards, right?" (Natural question. It's just what you do). I found myself saying, "No, what you need is a call to action card." It flowed as if I consciously knew what I was saying.
