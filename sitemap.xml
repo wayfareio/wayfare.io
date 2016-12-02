@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://wayfare.io/stories/2016/12/02/member-monday-dylan-budd/</loc>
+<lastmod>2016-12-02T20:04:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://wayfare.io/stories/2016/12/02/the-confounding-merger-of-work-and-leisure/</loc>
 <lastmod>2016-12-02T18:20:00+00:00</lastmod>
 </url>
@@ -266,6 +270,9 @@
 </url>
 <url>
 <loc>http://wayfare.io/stories/archive/page3/</loc>
+</url>
+<url>
+<loc>http://wayfare.io/stories/archive/page4/</loc>
 </url>
 <url>
 <loc>http://wayfare.io/authors/caitlin-kraina/</loc>
