@@ -16,6 +16,8 @@ Dylan Budd
 
 Roots Community Church
 
+<!-- more -->
+
 **The best movie of all time is clearly....**
 
 Gladiator...duh :) 
