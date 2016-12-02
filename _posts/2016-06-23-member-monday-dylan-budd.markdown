@@ -1,6 +1,6 @@
 ---
 title: 'Member Monday: Dylan Budd'
-date: 2016-12-02 20:04:00 Z
+date: 2016-06-23 20:04:00 Z
 categories:
 - Community
 author: Caitlin Kraina
