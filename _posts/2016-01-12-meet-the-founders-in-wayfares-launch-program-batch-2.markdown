@@ -9,6 +9,8 @@ redirect_from: "/2016/01/12/meet-the-founders-and-startups-in-wayfare-labs-batch
 
 Four new startups have been accepted into Wayfare Labs’ second batch (Batch 2). We’re excited to see them launch their movements and begin forming their institutions. Let’s take a look at these missional organizations and their intrepid founders.
 
+<!-- more --> 
+
 ##The Yellow Conference
 Founder: Joanna Waterfall and Sally Kim
 
