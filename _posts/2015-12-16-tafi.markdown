@@ -1,6 +1,10 @@
 ---
 title: Tafi
-date: 2016-12-02 20:21:00 Z
+date: 2015-12-16 20:21:00 Z
+categories:
+- Life
+author: Jill Arbini
+image: "/uploads/maxresdefault.jpg"
 redirect_from: "/2014/12/16/taffy-on-planes-and-origami-on-trains/"
 ---
 
