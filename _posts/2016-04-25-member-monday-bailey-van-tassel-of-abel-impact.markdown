@@ -1,6 +1,8 @@
 ---
 title: 'Member Monday: Bailey Van Tassel of Abel Impact'
 date: 2016-04-25 23:01:00 Z
+categories:
+- Community
 author: Caitlin Kraina
 image: "/uploads/0e2b173f403b-untitled_5476-1.jpg"
 redirect_from: "/2016/04/25/member-monday-bailey-van-tassel-of-abel-impact/"
