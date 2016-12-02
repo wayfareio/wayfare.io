@@ -10,6 +10,8 @@ redirect_from: "/2015/06/22/mentorship/"
 
 At [Wayfare](wayfare.io) we believe that relationships are a catalyst for the world's best future. We believe that everyone has something to offer, and that mentorship can be a fantastic way for everyday people to make a significant impact in the life of another.  Mentorship is, at its core, intentionally engaging in relationship with another person and genuinely caring for them while providing the guidance they need to grow. This is the first in a series of posts that will outline various types of mentorship and programs facilitating it. 
 
+<!-- more -->
+
 ######**So, what does it take to be a mentor?**
  
 1. Live some portion of your life. 
