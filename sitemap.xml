@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://wayfare.io/stories/2016/12/02/member-monday-dylan-budd/</loc>
-<lastmod>2016-12-02T20:04:00+00:00</lastmod>
-</url>
-<url>
 <loc>http://wayfare.io/stories/2016/12/02/the-confounding-merger-of-work-and-leisure/</loc>
 <lastmod>2016-12-02T18:20:00+00:00</lastmod>
 </url>
@@ -119,6 +115,10 @@
 <url>
 <loc>http://wayfare.io/stories/2016/07/11/member-monday-emily-mclaughlin/</loc>
 <lastmod>2016-07-11T09:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://wayfare.io/stories/2016/06/23/member-monday-dylan-budd/</loc>
+<lastmod>2016-06-23T20:04:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://wayfare.io/stories/2016/06/20/member-monday-thomas-pham/</loc>
