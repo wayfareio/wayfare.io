@@ -1,6 +1,8 @@
 ---
 title: Finding Silence in the Chaos
 date: 2016-01-15 20:25:00 Z
+categories:
+- Life
 author: Caitlin Kraina
 image: "/uploads/chaos.jpg"
 redirect_from: "/2015/01/01/finding-silence-amidst-the-chaos/"
