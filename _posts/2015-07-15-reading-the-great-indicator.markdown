@@ -1,6 +1,8 @@
 ---
 title: 'Reading: The Great Indicator'
 date: 2015-07-15 22:40:00 Z
+categories:
+- Life
 author: Jill Arbini
 image: "/uploads/School-Supplies.PNG"
 redirect_from: "/2015/07/15/learning/"
