@@ -2,7 +2,7 @@
 title: 3 Steps to Uncover what your Family's Give Back Passion Is
 date: 2016-12-06 18:11:00 Z
 author: 'Bailey Van Tassel '
-image: "/uploads/4kus15xlhtq-annie-spratt.jpg"
+image: "/uploads/eugck1ifvp0-kari-shea.jpg"
 ---
 
 The holidays typically bring about the sudden urge to get the family together and go out and do some good. While I love the passion everyone has, it can also be quite stressful trying to find what it is you want to do, and how to go do it. I see families get all into a tizzy about it which lead to me getting frantic emails around December 20th saying, “omg, I want to help people. Help me.” I tell ya, it’s quite the job I get to do!
