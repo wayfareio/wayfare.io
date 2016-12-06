@@ -17,7 +17,7 @@ Once you’ve gone out and volunteered, be sure to recap with the family. Ask th
  
 With these three steps, uncover your family’s give back passion. Circle which option makes sense to you and then create your list of what to look for.
  
-1.The first thing to decide on is who to help. This is a personal preference and often will be based on the current demographics of your family, who you’re close to, or something that has impacted you directly.
+**1.The first thing to decide on is who to help.** This is a personal preference and often will be based on the current demographics of your family, who you’re close to, or something that has impacted you directly.
 
 * Kids
 * Homeless
@@ -28,7 +28,7 @@ With these three steps, uncover your family’s give back passion. Circle which 
 * Animals
 * The Ill
  
-2.The second element of your giving will be based on where you want to help. Are you excited about your local community, or do you have a heart for Malaysia? Decide where you want to make an impact, and tack that onto your list.
+**2.The second element of your giving will be based on where you want to help.** Are you excited about your local community, or do you have a heart for Malaysia? Decide where you want to make an impact, and tack that onto your list.
 
 * Your neighborhood
 * Your city
@@ -37,7 +37,7 @@ With these three steps, uncover your family’s give back passion. Circle which 
 * Your country
 * Your world
  
-3.The final step in uncovering where your family give back passion is, is in thinking about how you want to help. Some families are comfortable going down to a local shelter to feed the homeless, and some would rather craft at home and write letters to soldiers – there are options for everyone!
+**3.The final step in uncovering where your family give back passion is, is in thinking about how you want to help.** Some families are comfortable going down to a local shelter to feed the homeless, and some would rather craft at home and write letters to soldiers – there are options for everyone!
 
 * Hands on service
 * At-home projects
