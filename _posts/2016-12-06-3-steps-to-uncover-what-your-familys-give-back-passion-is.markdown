@@ -28,7 +28,7 @@ With these three steps, uncover your family’s give back passion. Circle which 
 * Animals
 * The Ill
  
-2. The second element of your giving will be based on where you want to help. Are you excited about your local community, or do you have a heart for Malaysia? Decide where you want to make an impact, and tack that onto your list.
+2.The second element of your giving will be based on where you want to help. Are you excited about your local community, or do you have a heart for Malaysia? Decide where you want to make an impact, and tack that onto your list.
 
 * Your neighborhood
 * Your city
@@ -37,7 +37,7 @@ With these three steps, uncover your family’s give back passion. Circle which 
 * Your country
 * Your world
  
-3. The final step in uncovering where your family give back passion is, is in thinking about how you want to help. Some families are comfortable going down to a local shelter to feed the homeless, and some would rather craft at home and write letters to soldiers – there are options for everyone!
+3.The final step in uncovering where your family give back passion is, is in thinking about how you want to help. Some families are comfortable going down to a local shelter to feed the homeless, and some would rather craft at home and write letters to soldiers – there are options for everyone!
 
 * Hands on service
 * At-home projects
