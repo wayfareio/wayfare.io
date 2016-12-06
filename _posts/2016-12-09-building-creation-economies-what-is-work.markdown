@@ -37,8 +37,8 @@ In common usage, work is a job, a means of earning an income. The dictionary def
 
 The original work was creation, and I believe that perspective can and should be redeemed. Our work is creation.
 
-Self-centeredness makes work become toil, but we have the opportunity to restore its original characteristics: curiosity, joy, hope, and beauty.
+Self-centeredness makes work become toil, but we have the opportunity to restore its original characteristics: curiosity, joy, hope, and beauty. We have the opportunity to be creators.
 
-In my next post, I'll propose a definition of work, but I'd love to dwell in this question first: In what ways do we compartmentalize work as toil? What percentage of your day is toil instead of creation?
+In my next post, I'll dive into what it means to be creators, but I'd love to dwell in these question first: What percentage of my day is toil instead of creation? In what ways do I perpetuate work as toil through self-centeredness?
 
-As we continue this conversation as a community, I'd love to know what questions you have or what challenges you face in this realm. Tweet your thoughts + questions to @wayfarehq or email me at jeff@wayfare.io. 
+As we continue this conversation as a community, I'd love to know what questions were prompted for you and what challenges you're facing. Tweet your thoughts + questions to @wayfarehq or email me at jeff@wayfare.io. 
