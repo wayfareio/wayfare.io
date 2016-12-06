@@ -1,6 +1,13 @@
 ---
 title: 3 Steps to Uncover what your Family's Give Back Passion Is
 date: 2016-12-06 10:00:00 Z
+categories:
+- Common Good
+tags:
+- Christmas
+- gift
+- giving back
+- family
 author: 'Bailey Van Tassel '
 image: "/uploads/eugck1ifvp0-kari-shea.jpg"
 ---
