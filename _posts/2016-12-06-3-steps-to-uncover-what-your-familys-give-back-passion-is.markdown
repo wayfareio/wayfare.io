@@ -1,6 +1,6 @@
 ---
 title: 3 Steps to Uncover what your Family's Give Back Passion Is
-date: 2016-12-06 18:11:00 Z
+date: 2016-12-06 10:00:00 Z
 author: 'Bailey Van Tassel '
 image: "/uploads/eugck1ifvp0-kari-shea.jpg"
 ---
