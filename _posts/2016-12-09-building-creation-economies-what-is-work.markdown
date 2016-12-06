@@ -33,7 +33,7 @@ The reason I believe this shift is so important is that we have to ground oursel
 
 As I've been meditating on this, here's the question I've been wrestling with: What is work, and how do we redeem it to its original intention?
 
-In common usage, work is a job, a means of earning an income. The dictionary definition says: "Work is an activity involving effort to achieve a purpose." But I believe it's more than that. I believe work is any act of creation or re-creation that makes the world what it was intended to be.
+In common usage, work is a job, a means of earning an income. The dictionary definition says: "Work is an activity involving effort to achieve a purpose." But I believe it's more than that. **I believe work is any act of creation or re-creation that makes the world what it was intended to be.**
 
 The original work was creation, and I believe that perspective can and should be redeemed. Our work is creation.
 
