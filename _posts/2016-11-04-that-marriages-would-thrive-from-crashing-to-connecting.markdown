@@ -15,6 +15,8 @@ What do you think of when the word marriage comes up? Long flowing white dress? 
 
 When Casey and Meygan met each other in college, it was love at first sight. Young and in love, they decided to get married just two years later. The young couple went into their new stage of life full of wonder and love. 
 
+<!-- more -->
+
 While marriage is a beautiful union, it is not at all what the movies depict it to be. Between both sets of parents, there were 12 marriages. They knew firsthand the troubles, the pain, and the brokenness of marriage. Refusing to let those failed marriages affect their future, Casey and Meygan dove into their marriage headfirst to prove to themselves that marriage can work. 
 
 That idealized view came crashing down soon enough as their lives became plagued with arguments after arguments. Wasn’t marriage the answer to happiness? Why was it suddenly so difficult to maintain happiness after they said “I do”? They vowed that divorce was not an option, but things seemed so bleak and the first three years of the marriage progressively became worse and worse. They were missing connection.  
