@@ -1,0 +1,43 @@
+---
+title: 4 Ways You Can Help Foster Children Today
+date: 2016-05-27 20:12:00 Z
+categories:
+- Common Good
+author: Sally Kim
+image: "/uploads/ValerieDenisePhotos-2-1.jpg"
+redirect_from: "/2016/05/27/foster-care-awareness-month-sally-kim/"
+---
+
+When we hear the terms foster care or foster child, there’s a varied amount of emotions that can pop up-compassion, helplessness, sadness, empathy, even anger…there’s something about the picture we have in our mind when we think foster child that evoke this feeling of sadness in us-maybe we imagine torn shoes and dirty hair-because, as humans we recognize that children were never meant to experience things like homelessness, abuse, or neglect. It does something to our gut and, out of a feeling of total loss as to what to do, we turn our eyes and hands towards something a little more… ”manageable.” 
+
+<!-- more -->
+
+When I think foster care, or foster children, the words that come to my mind are *reality, family,* and *home*. 
+
+I became a foster parent in 2012 to my three brothers, ages 2, 7, and 12 when I was 22. I was single, had dreams of going overseas to help people (ironic?) and wasn’t even sure if I wanted to have kids of my own one day. I hadn’t lived with my biological family in over six years, and had been unofficially adopted by an amazing family, so I wasn’t aware how bad the situation had gotten with my bio-mom and three younger half brothers (you can read more of my story from last year’s post with Wayfare [here](blog.wayfare.io/2015/05/29/letters-from-a-mister-the-story-of-sally-kim/)). After two years of taking care of them, two of the three boys were reunified, and after nearly two years of no contact with them, we received a call to come to Orangewood Children’s Center and pick up our two little “lost boys” as we learned to call them. They had been put back in the system. 
+
+Now, we are a family of seven (in those two years, I got married, pregnant, had a baby, adopted a teen and got pregnant again…yep, we’ve been busy). 
+
+![](/content/images/2016/05/ValerieDenisePhotos-3-copy.jpg)
+![](/content/images/2016/05/ValerieDenisePhotos-5-3.jpg)
+
+What I come across most in my conversations about foster care is the lack of want to get involved, not because of a lack of care, but just the fact that it’s, for lack of better words, messy. So, so, messy. *The system is messy. Trauma is messy.* All of it is really, really messy and, if you’re not empowered and educated, the orphan crisis our country, state, even county is facing, can feel debilitating. *How the heck am I supposed to help these kids when it’s too painful to even swallow?*
+
+I want to challenge you, this foster care awareness month, to not focus on the 3,000 kids in Orange County without a home, but to focus on the 1 you can help. In my experience being a foster parent, here are four ways I believe you can make an impact, some big, some small, but all necessary.
+
+####Become a CASA
+
+Become a CASA ([Court Appointed Special Advocates](www.casaforchildren.org/site/c.mtJSJ7MPIsE/b.5301295/k.BE9A/Home.htm)) is a volunteer appointed by judges to watch over over and advocate for abused and neglected children, to make sure they don’t get lost in the legal and social services system. CASAs stay with their assigned child until their case is closed, so there is a two year commitment, and not only mentor the youth, but get to represent the foster youth’s wants and needs in court. We love CASA, and have first hand seen it work for one of our adopted kids, but, unfortunately, there is such a large amount of kids in the system, and such a low amount of CASAs, our two other boys are on a waiting list. We need more CASAs (specifically, dudes) to step up! Commitment level: Medium (two year involvement, once a month mentoring, once a month court).
+
+####Donate to Advokids
+[Advokids](www.casaforchildren.org/site/c.mtJSJ7MPIsE/b.5301295/k.BE9A/Home.htm) is an amazing non-profit organization founded in 1993 by an attorney and child psychologist working with children entering foster care, who saw a need for better implementation of the system’s resources for the children. They believe (and, hopefully so do  you!) that every foster child in California has the right to safety, security, and a permanent home. They offer free legal aide and counsel for foster parents and foster youth, and really fight for permanency in terms of placement for the children. Sometimes, unfortunately, the kids are the ones who get lost in between all the laws, and legal rights of the birth parents, and are often displaced…Advokids and the lawyers behind it do everything in their power to educate the need for permanent housing for children’s physiological development. They are an organization that has fought for our kids in unique ways. Since they are a non-profit, they run off donations. Consider talking to your employer to match your donation or giving this month for foster care awareness month. Their website is full of information on the foster care system, juvenile court system, and child psychology as pertains to foster children if you’re looking for more general information. Commitment level: zero. Give when/how you want, and educate yourself. 
+
+####Donate Goods or Gift Cards
+Like…. *good* goods. When children are brought into Orangewood Children’s Home, they often come with the clothes on their back. It’s a 24 hour emergency shelter for children that can’t be immediately placed with a family member of foster care placement, and they don’t stay for more than 72 hours. Once children are picked up, they are given a bag of some pants, underwear, and shoes. When we received the call to pick up the boys from Orangewood, they had been there since 3am, and because of all the paperwork, house checks, and fingerprinting we had to go through to pick up our boys, we didn’t get to take them home until 8pm. When we went through the bag of clothes the boys had received, nothing was new… even the underwear was used. Thankfully, we have a strong community that was ready to help at the drop of a hat, so we were able to kindly reject the items. But my heart breaks for the children and emergency placements that don’t have access to this kind of quick help. Remember this when going through your old clothes and donation pile: these kids are precious, and deserve the best you can give. Would you let your son or daughter wear someone’s used underwear, even if it was washed? Would you let your son or daughter wear stained or ripped shirts to school? These kids aren’t ungrateful, they will take whatever you give, but they are still kids, and more than that, humans who deserve the dignity of clean clothes. Here’s a [wishlist](https://orangewoodfoundation.org/wp-content/uploads/2015/10/2015-Foundation-Year-Round-Wish-List.pdf) by Orangewood Children’s Home for reference. If you know a foster parent, consider giving them a gift card to Marshall’s, TJ Maxx, or Ross (places where you can get name brand clothes at a decent bargain) or Target because…Target is everything, people. 
+
+![](/content/images/2016/05/ValerieDenisePhotos-38-copy.jpg)
+ 
+####ASK, and expect nothing in return 
+If you know a foster parent, foster youth, or former foster youth, don’t assume you know what they need. Ask. Ask questions like, “What would be helpful?” “What do the kids like to do?” We had a friend pay for our youngest guy to play soccer-his first time ever playing team sports. It was an amazing experience for not just him to get connected to a team, but for us to bond as his primary support and family. This time around, I’ve learned to let people give and not give into the pressure to give back in return, but the first time around, some donors put this unspoken pressure that they would receive something from us in return…It wasn’t fair and it put a ton of pressure on not just me, but on the kids to be at different dinners throughout the week to thank people. Give without the expectation of receiving anything in return, not even a thank you. Foster parents are busy and these kids are precious with unique circumstances. It’s your job to respect that. 
+
+The foster care system can seem overwhelming, and it’s tempting to look away out of helplessness. Many people tell me that they can never be a foster parent…but you don’t have to be a foster parent to help a foster child! There are big and small ways to make an impact on a child’s life. These are our kids, Orange County. We hold a unique responsibility to embrace them and empower the foster parents who have stepped in around them to give them the best childhood possible, considering the circumstances. 
