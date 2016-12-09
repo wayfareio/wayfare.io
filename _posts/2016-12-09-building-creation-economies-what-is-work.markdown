@@ -18,6 +18,7 @@ In the book of Genesis, we're told a story about work. We're introduced to a cre
 He called them good.
 
 Then he did something different. 
+<!-- more -->
 
 "So God created humankind in his image, in the image of God he created them; male and female he created them. God blessed them, and said to them, 'Be fruitful and increase in number; fill the earth and subdue it." 
 
