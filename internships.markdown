@@ -2,9 +2,9 @@
 title: Internships
 position: 99
 redirect_from: "/interns/index.html"
+layout: page/hero-image
+hero_image: "/assets/images/wayfare-interns.jpg"
 ---
-
-<img src="/assets/images/wayfare-interns.jpg" class="img-fluid">
 
 ## Official program details & dates
 

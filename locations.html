@@ -1,6 +1,7 @@
 ---
 title: Locations
 position: 3
+layout: custom/locations
 lead:
   line1: JOIN YOUR LOCAL COMMUNITY
   line2: of **WORLD CHANGERS**
@@ -16,42 +17,3 @@ nav:
 map: true
 redirect_from: "/workspace/index.html"
 ---
-
-<div class="row">
-  <div class="col-xs-12">
-    <div class="card-deck">
-      {% for location in site.data.locations %}
-        <div class="card card-inverse card-inverse-button">
-          <a href="/locations/{{ location.id }}" class="_no-underline d-block">
-            <img src="/assets/images/location-{{ location.id }}.jpg" alt="{{ location.name }}" class="card-img img-fluid">
-            <div class="card-img-overlay flex-items-xs-middle flex-items-xs-center">
-              <div class="card-block text-xs-center">
-                <h4 class="card-title">{{ location.name }}</h4>
-                <h5 class="card-subtitle">{{ location.address.full_state }}</h5>
-              </div>
-            </div>
-          </a>
-          <a href="/locations/{{ location.id }}" class="btn btn-primary btn-lg btn-block text-uppercase">View this Location</a>
-        </div>
-      {% endfor %}
-    </div>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-xs-12 m-t-1 m-b-2">
-    <div class="mapbox-map"></div>
-  </div>
-</div>
-
-<script>
-  var map = L.mapbox.map($(".mapbox-map").get(0), 'wayfare.18b0d2ll', {
-    scrollWheelZoom: false,
-    closePopupOnClick: false
-  });
-  map.featureLayer.on('ready', function(e) {
-    map.featureLayer.on('click', function(e) {
-      map.panTo(e.layer.getLatLng());
-    });
-  });
-</script>
