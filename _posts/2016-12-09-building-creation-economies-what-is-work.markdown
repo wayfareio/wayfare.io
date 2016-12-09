@@ -30,7 +30,7 @@ Being created in God’s image, in his likeness, meant that he was to also be a 
 
 But something changed. If you know the rest of creation story, Adam and Eve disobeyed in the first act of self-interest. And this is important to note, because this original sin--self centeredness--was the act then and continues to be that act today that demotes work from creation to toil. 
 
-The reason I believe this shift is so important is that we have to ground ourselves in God’s original intent for humanity and his identity for us if we are to understand the original structure and intent of the world and everything in it, including work. 
+Whether you ascribe to this narrative about the formation of our world or not, I think we can all agree that we have "creator" in our identity, and yet self interest prohibits this. The reason I believe this is so important is that I need to ground myself in God’s original intent for humanity and his identity for me if I am to understand the original structure and intent of the world and everything in it, including work. 
 
 As I've been meditating on this, here's the question I've been wrestling with: What is work, and how do we redeem it to its original intention?
 
