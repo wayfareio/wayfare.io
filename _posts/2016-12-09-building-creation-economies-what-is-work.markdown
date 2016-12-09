@@ -26,7 +26,7 @@ Then he called it very good.
 
 From the dust of the ground and the breath of God, Adama, the earth creature, the first human, was created. Adama was considered different than the rest of creation and was given dominion over it. More than that, Adama was given creation responsibilities. 
 
-Being created in God’s image, in his likeness, meant that he was to also be a creator. And a first creation task was naming the animals, giving them identity. Adama began participating with God in his creation of the world.
+Being created in God’s image, in his likeness, meant that he was to also be a creator. And his first creation task was naming the animals, giving them identity. Adama began participating with God in his creation of the world.
 
 But something changed. If you know the rest of creation story, Adam and Eve disobeyed in the first act of self-interest. And this is important to note, because this original sin--self centeredness--was the act then and continues to be that act today that demotes work from creation to toil. 
 
