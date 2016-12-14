@@ -60,4 +60,4 @@ As you move forward into the New Year and consider your own resolutions, I encou
 12. For what am I particularly grateful?
 
 
-Here’s to a New Year of lives well lived for the things that matter most. 
+You got this! Here’s to a New Year of lives well lived for the things that matter most. 
