@@ -30,7 +30,7 @@ I look forward to the day we can cross “ride a motorcycle through Vietnam” o
 
 I’m encouraged by fellow Wayfarers that have taught me to re-frame the definition and pursuit of adventure. I love checking out after a long week & exploring a new National Park just as much as the next person — but I’ve learned that showing up to our daily lives and rejoicing in the gift of each day, trailblazing through hardship with tenacity, and sharing & embracing our messy stories with those we journey through life with is often the biggest adventure we can embark on — and can be life changing for ourselves and those around us.
 
-As the new year approaches, I encourage you to set New Year’s resolutions for yourself that embrace this kind of adventure. Start small. Spend more time in conversations that matter. Give yourself grace. Take more evening walks. Start each morning with a prayer of peace and gratitude. Seek more counsel from people you admire. Invite strangers in for dinner. Turn off your phone for an entire weekend each month. 
+As the new year approaches, I encourage you to set New Year’s resolutions for yourself that embrace this kind of adventure. Start small. Spend more time in conversations that matter. Give yourself grace. Take more evening walks. Start each morning with a prayer of peace and gratitude. Seek more counsel from people you admire.  Turn off your phone.  Invite strangers in for dinner.
 
 As you move forward into the New Year and consider your own resolutions, I encourage you to pause and reflect on the previous year. Asking yourself important reflection questions can be a great way to ensure the goals you are setting are relevant, based on your priorities, and rooted in gratitude. Here are twelve questions to use as a starting point to reflect & take a moment to honor the triumphs, mourn the losses, celebrate your growth:
 
@@ -51,9 +51,9 @@ As you move forward into the New Year and consider your own resolutions, I encou
 
 8. What did I complete or release? What still feels incomplete to me?
 
-9. What was the most enjoyable part of my work (professionally and/or at home)?
+9. What was the most enjoyable part of my work?
 
-10. What was the most challenging part of my work (professionally and/or at home)?
+10. What was the most challenging part of my work?
 
 11. What do I want/need to incorporate more of into my daily life? 
 
