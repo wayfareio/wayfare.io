@@ -8,6 +8,7 @@ tags:
 - new year
 - legacy
 author: Sally Kim
+image: "/uploads/ojvirvbkwp8-lukas-becker.jpg"
 ---
 
 I’ve been pondering the concept of legacy a lot lately. Perhaps because I just had my second daughter-and I’m overly intentional about the words that come out of my mouth towards and about them. I want every day, every moment, to be wrapped around intention because, truth is, girls still need to hear that they can and should do the hard and holy things in the world. 
