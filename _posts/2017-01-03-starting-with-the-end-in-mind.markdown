@@ -1,5 +1,5 @@
 ---
-title: Starting With the End in Mind
+title: Starting 2017 With Your Legacy in Mind
 date: 2017-01-03 17:00:00 Z
 categories:
 - Life
