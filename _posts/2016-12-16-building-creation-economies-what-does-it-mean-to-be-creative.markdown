@@ -16,7 +16,7 @@ author: Jeff Tanner
 image: "/uploads/0jw6_7hy-rm-samuel-zeller.jpg"
 ---
 
-So let’s look at what it means to be a creator.
+Let’s look at what it means to be a creator.
 
 What does it mean to be a creator? I propose three components:
 1. Creators are rooted in their identity.
