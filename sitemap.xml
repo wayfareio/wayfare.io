@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://wayfare.io/stories/2016/12/15/building-creation-economies-what-does-it-mean-to-be-creative/</loc>
+<lastmod>2016-12-15T19:08:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://wayfare.io/stories/2016/12/13/sitting-with-someone-in-their-silent-night/</loc>
+<lastmod>2016-12-13T17:56:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://wayfare.io/stories/2016/12/09/building-creation-economies-what-is-work/</loc>
 <lastmod>2016-12-09T18:23:00+00:00</lastmod>
 </url>
@@ -397,6 +405,9 @@
 </url>
 <url>
 <loc>http://wayfare.io/stories/archive/page6/</loc>
+</url>
+<url>
+<loc>http://wayfare.io/stories/archive/page7/</loc>
 </url>
 <url>
 <loc>http://wayfare.io/authors/caitlin-kraina/</loc>
