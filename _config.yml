@@ -8,7 +8,6 @@ collections:
   events:
     title: Events
     output: false
-    permalink: "/events/:year/:month/:day/:title/"
   posts:
     title: Posts
     output: true
@@ -42,7 +41,6 @@ defaults:
     path: ''
     type: events
   values:
-    permalink: "/events/:year/:month/:day/:title/"
     headline:
     images:
       splash_image:
