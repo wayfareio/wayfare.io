@@ -19,25 +19,24 @@ image: "/uploads/0jw6_7hy-rm-samuel-zeller.jpg"
 Let’s look at what it means to be a creator.
 
 What does it mean to be a creator? I propose three components:
-1. Creators are rooted in their identity.
+1. Creators are rooted in their identity
 2. They have deep self awareness
 3. They know their unique strengths, skills, and abilities
 
 Identity is never found in individualism, isolation, and self-centeredness. It is always found in relationship.
+
 The question we need to constantly ask is this: What is my best contribution to the world? If you don’t know the answer to that question, you’re not alone. To redeem work, we must ask it.
 <!-- more -->
 
 **Creators display artistry**
-Artistry is creative skill
-Artistry is creating beauty, and not just visually, but in all realms. 
-You can be an artist in designing handbags or in designing organizations or in the way you clean a room.
-Artistry is not limited to the “creative class.” Don’t let “creatives” exclude your unique identity from this work.
-And creatives, you can help others recognize the ways in which they are artists in the seemingly mundane endeavors of everyday life.
-The question we need to constantly ask is this: God, what beauty are you creating today, and how are you inviting me to be an artist?
+
+Artistry is creating beauty, and not just visually, but in all realms. You can be an artist in designing handbags or in designing organizations or in the way you clean a room. Artistry is not limited to the “creative class.” Don’t let “creatives” exclude your unique identity from this work. And creatives, you can help others recognize the ways in which they are artists in the seemingly mundane endeavors of everyday life. The question we need to constantly ask is this: God, what beauty are you creating today, and how are you inviting me to be an artist?
 
 **Creators make meaning**
+
 I think we all get this. We all want a sense of purpose in our lives, but for me, making meaning is for others. Our meaning is rooted in our identity, but this is different. This is about seeing the best in others and helping them find their meaning.
 This is an other-orientation that fights against the self-centeredness we see at the root of all other sin. 
+
 We are commanded to love God with all our heart, soul, mind, and strength, and love our neighbors as ourselves. The love for ourselves is embracing our identity, loving others is to make meaning for them and help them live into their identity and artistry. 
 The question we need to constantly ask is this: How am I, right here, right now, making meaning for others?
 
@@ -55,4 +54,4 @@ The questions we need to ask ourselves are these: **What is my best contribution
 
 This creation work, which is rooted in identity, displaying artistry, and making meaning for others is the future past of work. It was always the intention. And it can be true of us again. Let’s redeem work. Let’s be people of the creation economy, and let’s create the world’s best future together.
 
-As we continue this conversation as a community, I'd love to know what questions you have or what challenges you face in this realm. Tweet your thoughts + questions to @wayfarehq or email me at jeff@wayfare.io. 
+As we continue this conversation as a community, I'd love to know what questions you have or what challenges you face in this realm. Tweet your thoughts + questions to @wayfarehq or email me at jeff@wayfare.io.
