@@ -52,4 +52,4 @@ The questions we need to ask ourselves are these: **What is my best contribution
 
 This creation work, which is rooted in identity, displaying artistry, and making meaning for others is the future past of work. It was always the intention. And it can be true of us again. Let’s redeem work. Let’s be people of the creation economy, and let’s create the world’s best future together.
 
-As we continue this conversation as a community, I'd love to know what questions you have or what challenges you face in this realm. Tweet your thoughts + questions to @wayfarehq or email me at jeff@wayfare.io.
+As we continue this conversation as a community, I'd love to know what questions you have or what challenges you face in this realm. Tweet your thoughts + questions to [@wayfarehq](http://twitter.com/wayfarehq) or email me at [jeff@wayfare.io](mailto:jeff@wayfare.io).
