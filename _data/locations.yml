@@ -13,12 +13,12 @@
     longitude: "-117.87555456161499"
     degrees: "33°40'44\"N 117°52'32\"W"
   contact:
-    phone: "(714) 598-3888"
-    sms: "(714) 262-4326"
+    phone: "(888) 608-6461"
+    sms: "(888) 608-6461"
     email: hi@wayfare.io
 - id: fullerton
   name: Fullerton
-  status: pending
+  status: open
   address:
     street1: 110 E Wilshire Ave
     street2: Ste 101
@@ -31,6 +31,6 @@
     longitude: "-117.923976"
     degrees: "33°52'20\"N 117°55'27\"W"
   contact:
-    phone: "(714) 598-3888"
-    sms: "(714) 262-4326"
+    phone: "(888) 608-6461"
+    sms: "(888) 608-6461"
     email: hi@wayfare.io

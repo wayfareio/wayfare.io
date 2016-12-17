@@ -1,6 +1,7 @@
 ---
 title: 'Fullerton: Upcoming Events'
 position: 0
+location: Fullerton
 nav:
   id: ful-upcoming-events
   site:
@@ -15,66 +16,39 @@ banner:
 ---
 
 <h2 class="underline">Upcoming Events</h2>
-
-<div class="upcoming-events"></div>
-
-<script type="text/javascript">
-  var promise = Wayfare.Ticketleap.getEvents();
-  var customEvents = [
-    {% for event in site.events %}
-      {% if event.published == false %}
-        {% continue %}
-      {% endif %}
-      {
-        headline: "{{ event.headline | escape }}",
-        description: "{{ event.content | strip_html | strip_newlines }}",
-        html_description: "{{ event.content | markdown | strip_newlines }}",
-        start_date: "{{ event.dates.start_date }}",
-        end_date: "{{ event.dates.end_date }}",
-        splash_image: "{{ event.images.splash_image }}",
-        thumb_image: "{{ event.images.thumb_image }}",
-        ticket_url: "{{ event.urls.ticket_url }}"
-      },
-    {% endfor %}
-  ];
-  promise.done(function() {
-    var allEvents = _.sortBy(
-      _.concat(customEvents, Wayfare.Ticketleap.events),
-      function(event) {
-        if (event.earliest_start_local) {
-          console.log(moment(event.earliest_start_local).format("YYYY-MM-DD H:mm"))
-          return moment(event.earliest_start_local).format("YYYY-MM-DD H:mm");
-        } else {
-          console.log(event.start_date)
-          return event.start_date;
-        }
-      }
-    );
-    _.each(allEvents, function(event) {
-      if (event.hero_small_image_url) {
-        var imageTag = '<img data-src="'+event.hero_small_image_url+'" class="img-fetch img-fluid m-b-1" data-width="600" data-height="425" data-crop="fill" data-gravity="auto:faces">';
-      } else if (event.thumb_image) {
-        var imageTag = '<img data-src="/wayfareio'+event.thumb_image+'" class="img-cloud img-fluid m-b-1" data-width="600" data-height="425" data-crop="fill" data-gravity="auto:faces">';
-      } else {
-        var imageTag = '';
-      }
-      $(".upcoming-events").append(
-        '<div data-href="'+(event.url || event.ticket_url)+'" class="card card-event">'+
-          '<div class="row">'+
-            '<div class="col-xs-12 col-lg-5">'+
-              imageTag+
-            '</div>'+
-            '<div class="col-xs-12 col-lg-7">'+
-              '<h3 class="card-title">'+(event.name || event.headline)+'</h3>'+
-              '<p class="card-text m-b-0"><strong>'+moment(event.earliest_start_local || event.start_date).format('MMM D, h:mma')+'&mdash;'+moment(event.earliest_end_local || event.end_date).format('h:mma')+'</strong></p>'+
-              '<p class="card-text">'+event.description.substring(0, 200)+'...</p>'+
-              '<a href="'+(event.url || event.ticket_url)+'" class="btn btn-md btn-primary">Details &amp; Tickets</a>'+
-            '</div>'+
-          '</div>'+
-        '</div>'
-      );
-    });
-    $(".img-fetch").fetchify();
-    $(".img-cloud").cloudinary();
-  });
-</script>
+{% assign filtered_events = "" | split: "" %}
+{% for site_event in site.events %}
+  {% capture nowtime %}{{ 'now' | date:'%s' | plus:0 }}{% endcapture %}
+  {% capture eventtime %}{{ site_event.dates.end_date | date:'%s' | plus:0 }}{% endcapture %}
+  {% if nowtime < eventtime and site_event.published != false and site_event.location == page.location %}
+    {% assign filtered_events = filtered_events | push: site_event %}
+  {% endif %}
+{% endfor %}
+<div class="upcoming-events">
+  {% if filtered_events.size == 0 %}
+    <div class="alert alert-warning" role="alert">
+      There aren't any upcoming events. Check back soon for more.
+    </div>
+  {% endif %}
+  {% for event in filtered_events %}
+    <div data-href="{{ event.urls.ticket_url }}" class="card card-event">
+      <div class="row">
+        <div class="col-xs-12 col-lg-5">
+          <img data-src="/wayfareio{{ event.images.thumb_image | default:event.images.splash_image }}" class="img-cloud img-fluid m-b-1" data-width="600" data-height="425" data-crop="fill" data-gravity="auto:faces">
+        </div>
+        <div class="col-xs-12 col-lg-7">
+          <h3 class="card-title">{{ event.headline | default:event.title }}</h3>
+          <p class="card-text m-b-0">
+            <strong>
+              {{ event.dates.start_date | date:"%B %e, %Y %l:%M%P" }}
+              &mdash;
+              {{ event.dates.end_date | date:"%l:%M%P" }}
+            </strong>
+          </p>
+          <p class="card-text">{{ event.content | markdown }}</p>
+          <a href="{{ event.urls.ticket_url }}" class="btn btn-md btn-primary">Details &amp; Tickets</a>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
