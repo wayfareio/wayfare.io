@@ -13,7 +13,6 @@ author: Jill Arbini
 image: "/uploads/xjb7du_4kqq-andrew-neel.jpg"
 ---
 
-
 As a child Christmas was my favorite holiday. However in recent years, the overall busyness, increased demands of the season, and the general state of the world, had taken away from much of the joy for me. It was for these and a variety of other reasons, (not the least of which was a gift request for squeaking dolphin slippers), that my husband and I made some changes that have shaped how we celebrate Christmas with our kids and it has made a positive difference in how we experience this time of year. 
 
 <!-- more -->
