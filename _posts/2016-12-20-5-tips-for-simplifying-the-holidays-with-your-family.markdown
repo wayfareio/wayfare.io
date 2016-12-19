@@ -1,5 +1,5 @@
 ---
-title: 5 Tips for simplifying the Holidays with your family
+title: 5 Tips for Simplifying the Holidays With Your Family
 date: 2016-12-20 09:12:00 Z
 categories:
 - Common Good
