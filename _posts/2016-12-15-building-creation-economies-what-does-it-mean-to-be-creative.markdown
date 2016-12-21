@@ -45,7 +45,7 @@ So the question I believe we need to constantly ask is this: What beauty am I be
 I think we all get this. We all want a sense of purpose in our lives, but for me, making meaning is for others. Our meaning is rooted in our identity, but this is different. This is about seeing the best in others and helping them find their meaning.
 This is an other-orientation that fights against the self-centeredness we see at the root of all other human entropy. 
 
-Jesus told us to love your neighbors as ourselves. I believe love for ourselves is first and foremost embracing our identity, and loving others is to make meaning for them and help them live into their identity and artistry.
+Jesus told us to love our neighbors as ourselves. I believe love for ourselves is first and foremost embracing our identity, and loving others is to make meaning for them and help them live into their identity and artistry.
  
 So the question I believe we need to constantly ask is this: How am I, right here, right now, making meaning for others?
 
