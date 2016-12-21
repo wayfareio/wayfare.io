@@ -22,6 +22,7 @@ In this series, entitled **Building Creation Economies**, I've talked about [The
 3. Creators make meaning for others
 
 **Creators are rooted in identity**
+
 Creators have deep self awareness; they know their unique strengths, skills, and abilities. They are in tune with who they were created to be, and are ever-vigilant about working harmoniously with themselves. They don't attempt to align with the outside voices of expectation or obligation, but they do include others in the wonder of discovering their best contribution to the world.
 
 Identity is never found in individualism, isolation, and self-centeredness. It is always found in relationship. And it is a never ending journey.
