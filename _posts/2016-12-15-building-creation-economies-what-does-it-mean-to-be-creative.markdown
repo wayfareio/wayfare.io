@@ -16,7 +16,8 @@ author: Jeff Tanner
 image: "/uploads/0jw6_7hy-rm-samuel-zeller.jpg"
 ---
 
-In this series, entitled **Building Creation Economies**, I've talked about [The Confounding Merger of Work and Leisure](/stories/2016/12/02/the-confounding-merger-of-work-and-leisure/) and [What is Work?](/stories/2016/12/09/building-creation-economies-what-is-work/). Now, let’s look at what it means to be a creator. I propose three components. 
+In this series, entitled **Building Creation Economies**, I've talked about [The Confounding Merger of Work and Leisure](/stories/2016/12/02/the-confounding-merger-of-work-and-leisure/) and [What is Work?](/stories/2016/12/09/building-creation-economies-what-is-work/). Now, let’s look at what it means to be a creator. I propose three components.
+<!-- more -->
 1. Creators are rooted in their identity
 2. Creators display artistry
 3. Creators make meaning for others
@@ -30,7 +31,6 @@ Identity is never found in individualism, isolation, and self-centeredness. It i
 To that end, the question I believe we need to constantly ask ourselves is this: What is my best contribution to the world? 
 
 If you don’t know the answer, don't worry. You’re not alone. There's no expectation, only invitation. And to redeem work, we must ask it.
-<!-- more -->
 
 **Creators display artistry**
 
