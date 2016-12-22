@@ -4,7 +4,7 @@ date: 2016-12-22 21:20:00 Z
 headline: 'Wayfare Watercolor: January '
 images:
   splash_image: "/uploads/Wayfare%20Watercolor%20for%20Ticketleap.png"
-  thumb_image: "/uploads/Wayfare%20Watercolor%20for%20Ticketleap-baf794.png"
+  thumb_image: "/uploads/watercolor-thumb.png"
 dates:
   start_date: 2017-01-26 19:00:00 Z
   end_date: 2017-01-26 21:00:00 Z
