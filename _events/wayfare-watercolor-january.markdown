@@ -9,7 +9,7 @@ dates:
   start_date: 2017-01-26 19:00:00 Z
   end_date: 2017-01-26 21:00:00 Z
 urls:
-  ticket_url: wayfare.ticketleap.com/january-watercolor/
+  ticket_url: http://wayfare.ticketleap.com/january-watercolor/
 location: Costa Mesa
 ---
 
