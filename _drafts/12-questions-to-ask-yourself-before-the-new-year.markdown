@@ -1,6 +1,6 @@
 ---
 title: 12 Questions to Ask Yourself Before the New Year
-date: 2016-12-30 20:01:00 Z
+date: 2016-12-22 08:01:00 Z
 categories:
 - Life
 tags:
