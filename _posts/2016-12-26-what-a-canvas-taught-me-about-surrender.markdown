@@ -1,6 +1,6 @@
 ---
 title: What a Blank Canvas Taught Me About Letting Go
-date: 2016-12-27 18:36:00 Z
+date: 2016-12-26 18:36:00 Z
 categories:
 - Life
 tags:
