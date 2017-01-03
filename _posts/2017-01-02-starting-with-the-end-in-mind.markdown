@@ -1,6 +1,6 @@
 ---
 title: Starting 2017 With Your Legacy in Mind
-date: 2017-01-03 17:00:00 Z
+date: 2017-01-02 17:00:00 Z
 categories:
 - Life
 tags:
