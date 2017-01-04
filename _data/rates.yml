@@ -15,7 +15,7 @@ costa_mesa:
       small_meeting_room: $50.00
       semi_private_alcoves: $30.00
     wayfarer:
-      coworking: $6.00
+      coworking: $5.00
       large_conference_room: $72.00
       small_meeting_room: $45.00
       semi_private_alcoves: $27.00
@@ -50,7 +50,7 @@ fullerton:
       coworking: $8.00
       large_conference_room: $80.00
     wayfarer:
-      coworking: $6.00
+      coworking: $5.00
       large_conference_room: $72.00
     wanderer:
       coworking: $4.70
