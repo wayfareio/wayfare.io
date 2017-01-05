@@ -1,0 +1,1 @@
+Sitemap: http://wayfare.io/sitemap.xml
