@@ -2,14 +2,14 @@
 title: Internships
 position: 99
 redirect_from: "/interns/index.html"
-layout: page/hero-image
 hero_image: "/assets/images/wayfare-interns.jpg"
+layout: page/hero-image
 ---
 
 ## Official program details & dates
 
-**Next term:**
-Spring Semester 2017
+**Current term:**
+Spring Semester 2017 (Now closed, please keep an eye out for Fall 2017 openings!)
 
 **Length of internship:**
 3 Months
