@@ -1,6 +1,7 @@
 ---
 title: Startup Incubator Info Session 3
 date: 2017-01-05 18:47:00 Z
+position: 3
 headline: Startup Incubator Info Session 3
 images:
   splash_image: "/uploads/startup%20info%20sessions%20splash-6e6fc3.jpg"
