@@ -29,7 +29,6 @@ I have been working in this artistic and innovative space with lots of other sta
  
 These challenges show up in many ways. Our building is 100 years old and has no room for classrooms or fellowship other than worship itself, the existing congregation is in varying stages of being on board with anything new, and the surrounding community has great need but is hard to serve. When you add these obstacles on top of trying to work out a stream of income to keep the doors open, it gets difficult to imagine being creative enough to make anything, let alone something you wish existed.
  
-
 The week of my rescue was a particularly hard week. That Monday I discovered that some contracts created before my appointment to the church were not working out as hoped – which was making the church’s financial situation, among many other things, much more…challenging. Then on the same day, someone tried to break into the building… and a June bug flew in my car window. I am afraid of all bugs, but let’s just say I am never emotionally prepared for the ones that are the size of hummingbirds and fly.
  
 Sitting in my car about to cry, I began to pray. Then I remembered a tiny incident – a moment of proof that something that I do wish existed is being created… already.
