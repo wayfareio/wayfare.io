@@ -1,6 +1,6 @@
 ---
 title: Make what you wish existed
-date: 2017-01-04 18:26:00 Z
+date: 2017-01-09 18:26:00 Z
 categories:
 - Common Good
 tags:
@@ -13,6 +13,8 @@ tags:
 - joy
 - busy
 - new year
+author: Sarah Heath
+image: "/uploads/make-what-you-wish-existed.jpg"
 ---
 
 Lots of people are saying 2016 was one of the worst years, and so they are looking at 2017 with hope, excitement and lot of plans to make big changes. I don’t know if 2016 was my worst year, but it was for sure my busiest. During overwhelming times like these, my dad says, “life can feel like trying to drink out of fire hose. It all just comes at once and you feel like you may drown.” I was drowning this year! This year I was tasked with restarting a church that had experiencing huge decline, and I published my first book where I was the primary author, the project included art, video and writing. So it was a crazy year where every other day I thought I was going under. Let alone feeling like I had a personal life! <!-- more-->
