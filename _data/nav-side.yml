@@ -8,9 +8,9 @@ about:
   - id: our-model
     title: Our Model
     url: /about/our-model
-  - id: our-staff
-    title: Our Staff
-    url: /about/our-staff
+  - id: our-team
+    title: Our Team
+    url: /about/our-team
   - id: common-good
     title: The Common Good
     url: /about/common-good
@@ -86,6 +86,9 @@ costa-mesa:
   - id: whq-faq
     title: FAQ
     url: /locations/costa-mesa/faq
+  - id: whq-team
+    title: Our Team
+    url: /locations/costa-mesa/our-team
   - id: whq-contact
     title: Contact
     url: /locations/costa-mesa/contact
@@ -116,6 +119,9 @@ fullerton:
   - id: ful-faq
     title: FAQ
     url: /locations/fullerton/faq
+  - id: ful-team
+    title: Our Team
+    url: /locations/fullerton/our-team
   - id: ful-contact
     title: Contact
     url: /locations/fullerton/contact

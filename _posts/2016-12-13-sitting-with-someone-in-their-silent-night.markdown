@@ -8,7 +8,7 @@ tags:
 - life
 - relationships
 author: Sally Kim
-image: "/uploads/rnr12i78sfo-krista-mangulsone.jpg"
+image: "/uploads/Screen%20Shot%202016-12-13%20at%209.22.38%20AM.png"
 ---
 
 On our drive home from school, my thirteen year old son was telling me about his Christmas choir concert, and how he really did not like one of the songs. It just feels like they’re trying to make a calm holiday all jumpy and excited. 
