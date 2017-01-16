@@ -134,9 +134,9 @@ faq:
   - id: faq-coworking
     title: Coworking
     url: /faq/coworking
-  - id: faq-startup-programs
+  - id: faq-startups
     title: Startup Programs
-    url: /faq/startup-programs
+    url: /faq/startups
   - id: faq-events
     title: Events
     url: /faq/events
