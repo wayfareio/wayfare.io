@@ -128,6 +128,7 @@ fullerton:
 faq:
   - id: faq
     title: FAQ
+    url: /faq
   - id: faq-membership
     title: Membership
     url: /faq/membership
