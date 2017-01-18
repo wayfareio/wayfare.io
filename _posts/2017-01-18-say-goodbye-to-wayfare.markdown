@@ -13,6 +13,8 @@ author: Jeff and Brandon
 image: "/uploads/Resized%20rebrand%20blog%20post.jpeg"
 ---
 
+![Resized rebrand blog post-14ac82.jpeg](/uploads/Resized%20rebrand%20blog%20post-14ac82.jpeg)
+
 Hey there,
 
 It's a new year and we have big news. We started dreaming about what Wayfare would become over three years ago. It was our vision to create a workspace and support for organizations that would birth movements for the common good. 
