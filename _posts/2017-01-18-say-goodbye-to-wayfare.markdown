@@ -10,7 +10,6 @@ tags:
 - collaborate
 - contest
 author: Jeff and Brandon
-image: "/uploads/Resized%20rebrand%20blog%20post.jpeg"
 ---
 
 Hey there,
@@ -40,7 +39,7 @@ Extra bonus points if you submit a catchy hashtag
 
 ## **Action**
 
-Submit your ideas and an explanation for [here](https://wayfare.typeform.com/to/DFBRl1)
+Submit your ideas and an explanation for [here](https://wayfare.typeform.com/to/DFBRl1)![Resized rebrand blog post-14ac82.jpeg](/uploads/Resized%20rebrand%20blog%20post-14ac82.jpeg)
 Submit as many ideas as you want as many times as you want.
 Anyone can participate (you don't need to be a member to share your ideas)
 **All submissions must be received by January 31st at 10 p.m.**
