@@ -40,20 +40,20 @@ Extra bonus points if you submit a catchy hashtag
 ## **Action**
 
 [Submit your ideas and an explanation](https://wayfare.typeform.com/to/DFBRl1)!
-Submit as many ideas as you want as many times as you want.
-Anyone can participate (you don't need to be a member to share your ideas)
+Submit as many ideas as you want as many times as you want.  
+Anyone can participate (you don't need to be a member to share your ideas)  
 **All submissions must be received by January 31st at 10 p.m.**
 
 ## **Prize**
 
-One winner will receive:
-A $500 credit to be used toward Startup Programs, Workspaces, Meeting Rooms, or Event Fees
-Swag bag of goods with new branding
+One winner will receive:  
+A $500 credit to be used toward Startup Programs, Workspaces, Meeting Rooms, or Event Fees  
+Swag bag of goods with new branding  
 Our eternal gratitude
 
 So get your thinking caps on and let's embark on the next phase of this journey together. 
 
 With extreme gratitude and excitement for the world's best future, 
 
-**Brandon Arbini & Jeff Tanner**
+**Brandon Arbini & Jeff Tanner**  
 Co-founders of the organization soon to be formerly known as Wayfare
