@@ -10,6 +10,7 @@ tags:
 - collaborate
 - contest
 author: Jeff and Brandon
+image: "/uploads/Resized%20rebrand%20blog%20post.jpeg"
 ---
 
 Hey there,
