@@ -13,8 +13,6 @@ author: Jeff and Brandon
 image: "/uploads/Resized%20rebrand%20blog%20post.jpeg"
 ---
 
-![Resized rebrand blog post-14ac82.jpeg](/uploads/Resized%20rebrand%20blog%20post-14ac82.jpeg)
-
 Hey there,
 
 It's a new year and we have big news. We started dreaming about what Wayfare would become over three years ago. It was our vision to create a workspace and support for organizations that would birth movements for the common good. 
@@ -31,9 +29,9 @@ While the name Wayfare is a great representation of our mission and this communi
 
 We are humbled and full of gratitude that the community of three who decided on the name is now a community of over 200 members who work out of the workspaces or are currently participating in the startup programs. There are thousands of others who serve as advisors, have attended events, or have joined us on social media. You've been a part of this journey so far, and we want to continue this adventure along with you. YOU are Wayfare and we're happy to release the name, because the community and the journey we are all on together matter more. And that is where we want to continue to invest the resources we have. 
 
-So, let's go on another adventure together. 
+**So, let's go on another adventure together.**
 
-We're having a contest to come up with a new name (yes, there are prizes) and we want ALL the ideas. We invite you to submit a name (or 20) for our rebranding, and the guidelines are as follows:
+We're having a contest to come up with a new name (yes, there are prizes) and we want **ALL** the ideas. We invite you to submit a name (or 20) for our rebranding, and the guidelines are as follows:
 
 The name captures our goals of having spaces where people can daily be supported in meaningful work (workspaces) AND simultaneously captures the mission of guiding founders and startups of missional enterprises and social good organizations (startup programs). 
 The name communicates the concept of adventure, journeying, support, and encouragement in pursuit of the common good. 
@@ -42,7 +40,7 @@ Extra bonus points if you submit a catchy hashtag
 
 ## **Action**
 
-Submit your ideas and an explanation for it via our Typeform. 
+Submit your ideas and an explanation for [here](https://wayfare.typeform.com/to/DFBRl1)
 Submit as many ideas as you want as many times as you want.
 Anyone can participate (you don't need to be a member to share your ideas)
 **All submissions must be received by January 31st at 10 p.m.**
