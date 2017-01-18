@@ -33,24 +33,24 @@ We are humbled and full of gratitude that the community of three who decided on 
 
 We're having a contest to come up with a new name (yes, there are prizes) and we want **ALL** the ideas. We invite you to submit a name (or 20) for our rebranding, and the guidelines are as follows:
 
-The name captures our goals of having spaces where people can daily be supported in meaningful work (workspaces) AND simultaneously captures the mission of guiding founders and startups of missional enterprises and social good organizations (startup programs).
-The name communicates the concept of adventure, journeying, support, and encouragement in pursuit of the common good.
-Bonus points if the .com of the name is available or there's an instagram/twitter handle available (but we can work around this, so if you have the perfect name submit it anyway)
-Extra bonus points if you submit a catchy hashtag
+1. The name captures our goals of having spaces where people can daily be supported in meaningful work (workspaces) AND simultaneously captures the mission of guiding founders and startups of missional enterprises and social good organizations (startup programs).
+2. The name communicates the concept of adventure, journeying, support, and encouragement in pursuit of the common good.
+3. Bonus points if the .com of the name is available or there's an instagram/twitter handle available (but we can work around this, so if you have the perfect name submit it anyway)
+4. Extra bonus points if you submit a catchy hashtag
 
 ## **Action**
 
-[Submit your ideas and an explanation](https://wayfare.typeform.com/to/DFBRl1)!
-Submit as many ideas as you want as many times as you want.  
-Anyone can participate (you don't need to be a member to share your ideas)  
-**All submissions must be received by January 31st at 10 p.m.**
+* [Submit your ideas and an explanation](https://wayfare.typeform.com/to/DFBRl1)!
+* Submit as many ideas as you want as many times as you want.
+* Anyone can participate (you don't need to be a member to share your ideas)
+* **All submissions must be received by January 31st at 10 p.m.**
 
 ## **Prize**
 
-One winner will receive:  
-A $500 credit to be used toward Startup Programs, Workspaces, Meeting Rooms, or Event Fees  
-Swag bag of goods with new branding  
-Our eternal gratitude
+One winner will receive:
+* A $500 credit to be used toward Startup Programs, Workspaces, Meeting Rooms, or Event Fees
+* Swag bag of goods with new branding
+* Our eternal gratitude
 
 So get your thinking caps on and let's embark on the next phase of this journey together.
 
