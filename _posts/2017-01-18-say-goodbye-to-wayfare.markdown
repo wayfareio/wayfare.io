@@ -17,7 +17,7 @@ Hey there,
 It's a new year and we have big news. We started dreaming about what Wayfare would become over three years ago. It was our vision to create a workspace and support for organizations that would birth movements for the common good. 
 
 As we were forming the organization, we decided on the name Wayfare because it captured the heart behind our vision. The word Wayfare has a double meaning. It means the act of journeying. It also means provisions for the journey. This word clearly encompassed the community we envisioned—a community of creators, doers, and adventurers aspiring to pursue the common good and support each other in the journey.
-
+<!-- more -->
 Around the same time that we decided to name our company Wayfare, another company with a different mission (they sell furniture) called Wayfair was on the rise. They sell furniture at "way fair" prices and made news as they received hundreds of millions in capital investment that year. As we became aware of their company, we explored the potential of any conflict associated with our names sounding the same. We didn't see any conflict, and our lawyers agreed. 
 
 Recently however, their lawyers did not. We appreciate great furniture as much as anyone, and we even have a few items procured through our very own orders from wayfair.com itself. However, we are faced with a decision. We must decide how much time, energy, and money we want to spend in legal fees (the quick answer is zero...nobody wants to pay legal fees) to continue down the path of fighting to keep our name. We've chosen a different path. 
@@ -39,7 +39,7 @@ Extra bonus points if you submit a catchy hashtag
 
 ## **Action**
 
-Submit your ideas and an explanation for [here](https://wayfare.typeform.com/to/DFBRl1)!
+[Submit your ideas and an explanation](https://wayfare.typeform.com/to/DFBRl1)!
 Submit as many ideas as you want as many times as you want.
 Anyone can participate (you don't need to be a member to share your ideas)
 **All submissions must be received by January 31st at 10 p.m.**
