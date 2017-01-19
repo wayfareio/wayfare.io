@@ -20,22 +20,22 @@ costa_mesa:
       small_meeting_room: $45.00
       semi_private_alcoves: $27.00
     wanderer:
-      coworking: $3.75
+      coworking: $4.70
       large_conference_room: $66.00
       small_meeting_room: $41.00
       semi_private_alcoves: $25.00
     explorer:
-      coworking: $3.25
+      coworking: $3.75
       large_conference_room: $60.00
       small_meeting_room: $38.00
       semi_private_alcoves: $23.00
     trailblazer:
-      coworking: $3.00
+      coworking: $3.30
       large_conference_room: $55.00
       small_meeting_room: $35.00
       semi_private_alcoves: $21.00
     pioneer:
-      coworking: $2.40
+      coworking: $2.45
       large_conference_room: $48.00
       small_meeting_room: $30.00
       semi_private_alcoves: $18.00
@@ -53,14 +53,14 @@ fullerton:
       coworking: $5.00
       large_conference_room: $72.00
     wanderer:
-      coworking: $3.75
+      coworking: $4.70
       large_conference_room: $66.00
     explorer:
-      coworking: $3.25
+      coworking: $3.75
       large_conference_room: $60.00
     trailblazer:
-      coworking: $3.00
+      coworking: $3.30
       large_conference_room: $55.00
     pioneer:
-      coworking: $2.40
+      coworking: $2.45
       large_conference_room: $48.00

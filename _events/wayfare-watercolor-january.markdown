@@ -1,6 +1,7 @@
 ---
 title: 'Wayfare Watercolor: January'
 date: 2016-12-22 21:20:00 Z
+position: 4
 headline: 'Wayfare Watercolor: January '
 images:
   splash_image: "/uploads/Wayfare%20Watercolor%20for%20Ticketleap.png"
