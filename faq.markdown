@@ -1,5 +1,5 @@
 ---
-title: 'FAQ'
+title: FAQ
 position: 1
 nav:
   id: faq
