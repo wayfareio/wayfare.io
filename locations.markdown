@@ -1,6 +1,6 @@
 ---
 title: Locations
-position: 3
+position: 2
 layout: custom/locations
 lead:
   line1: JOIN YOUR LOCAL COMMUNITY
