@@ -1,5 +1,6 @@
 ---
-title: Wayfare | Workspaces, Startup Programs, and Events
+title: Home
+custom_title: Wayfare | Workspaces, Startup Programs, and Events
 layout: custom/home
 position: 0
 description: Workspaces, startup programs, and events with spaces in Costa Mesa and
