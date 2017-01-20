@@ -9,7 +9,7 @@ tags:
 - community
 - collaborate
 - contest
-author: Jeff and Brandon
+author: Brandon Arbini
 image: "/uploads/rebrand-blog-post.jpg"
 ---
 
