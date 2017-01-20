@@ -31,17 +31,12 @@
     <link rel="stylesheet" type="text/css" href="/assets/stylesheets/public.css">
     <link rel="shortcut icon" href="favicon.ico">
     {% if page.map %}
-      <script src='https://api.mapbox.com/mapbox.js/v2.4.0/mapbox.js'></script>
-      <link href='https://api.mapbox.com/mapbox.js/v2.4.0/mapbox.css' rel='stylesheet'>
-      <script type="text/javascript">
-        L.mapbox.accessToken = 'pk.eyJ1Ijoid2F5ZmFyZSIsImEiOiJQVG5NQS0wIn0.fgKjbGJFALHxSY9AQTztEw';
-      </script>
+      {% include mapbox.html %}
     {% endif %}
   </head>
   <body>
     <a id="top"></a>
     {{ content }}
-    {% include clicky.html %}
-    {% include drip.html %}
+    {% include activecampaign.html %}
   </body>
 </html>
