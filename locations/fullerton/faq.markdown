@@ -1,6 +1,6 @@
 ---
 title: 'Fullerton: FAQ'
-position: 5
+position: 7
 nav:
   id: ful-faq
   site:

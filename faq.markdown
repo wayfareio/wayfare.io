@@ -1,6 +1,6 @@
 ---
 title: FAQ
-position: 1
+position: 3
 nav:
   id: faq
   side:
