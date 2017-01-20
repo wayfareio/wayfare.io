@@ -12,7 +12,7 @@ author: Anna Kennedy
 image: "/uploads/mika-language-learning.jpg"
 ---
 
-**Today we're hearing from Anna Kennedy from Mika CDC whose mission is to build whole relationships in Costa Mesa.  One way we're doing this is through Language Learning Nights at Wayfare Costa Mesa.**
+**Today we're hearing from Anna Kennedy from [Mika CDC](mikacdc.org) whose mission is to build whole relationships in Costa Mesa.  One way they're doing this is through Language Learning Nights hosted by Wayfare Costa Mesa.**
 
 If you’re anything like me, you talk about practicing your Spanish more than you actually find time to do it. For many people, it’s been since high school, which, is getting further and further away. Our lives are busy and sometimes it’s hard to figure out a time to practice a foreign language.
 
