@@ -8,7 +8,7 @@ tags:
 - mika
 - relationships
 - community
-author: Anna Kennedy, Director of Mika Leadership Institute Kids
+author: Anna Kennedy
 ---
 
 If you’re anything like me, you talk about practicing your Spanish more than you actually find time to do it. For many people, it’s been since high school, which, is getting further and further away. Our lives are busy and sometimes it’s hard to figure out a time to practice a foreign language.
