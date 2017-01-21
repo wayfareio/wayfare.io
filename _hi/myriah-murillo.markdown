@@ -1,5 +1,6 @@
 ---
 title: Myriah Murillo
+position: 13
 job_title: Community Assistant
 fun_title: Breakfast Burrito Aficionado
 bio_image: "/assets/images/myriah-murillo.jpg"

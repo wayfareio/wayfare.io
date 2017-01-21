@@ -1,5 +1,6 @@
 ---
 title: Kate Sharp
+position: 9
 job_title: Community Assistant
 fun_title: Queen K8
 bio_image: "/assets/images/kate-sharp.jpg"

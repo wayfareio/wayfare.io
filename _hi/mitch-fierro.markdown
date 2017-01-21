@@ -1,5 +1,6 @@
 ---
 title: Mitch Fierro
+position: 12
 job_title: Community Manager
 fun_title: Yo-Yo Master
 bio_image: "/assets/images/mitch-fierro.jpg"

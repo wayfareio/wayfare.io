@@ -1,5 +1,6 @@
 ---
 title: Tavia Grubbs
+position: 15
 job_title: Community Assistant
 fun_title: Executive All Things Music
 bio_image: "/assets/images/tavia-grubbs.jpg"

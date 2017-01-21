@@ -1,5 +1,6 @@
 ---
 title: Jeff Tanner
+position: 6
 job_title: CSO
 fun_title: Chief Cartographer
 bio_image: "/assets/images/jeff-tanner.jpg"

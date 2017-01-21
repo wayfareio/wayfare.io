@@ -1,5 +1,6 @@
 ---
 title: Phylicia Stoicu
+position: 14
 job_title: Community Assistant
 fun_title: Local Restaurant Officionado
 bio_image: "/assets/images/phylicia-stoicu.jpg"

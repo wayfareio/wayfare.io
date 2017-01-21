@@ -1,5 +1,6 @@
 ---
 title: Allison Miller
+position: 2
 job_title: Community Manager
 fun_title: Chief Optimist
 bio_image: "/assets/images/allison-miller.jpg"
