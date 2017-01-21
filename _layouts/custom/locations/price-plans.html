@@ -1,21 +1,8 @@
 ---
-title: 'Fullerton: Price Plans'
-position: 2
-nav:
-  id: ful-price-plans
-  site:
-    highlight: locations
-  side:
-    id: fullerton
-    highlight: ful-price-plans
-banner:
-  image: "/assets/images/topo-banner-bg.jpg"
-  title: Fullerton
-  subtitle: 110 E Wilshire Ave, Ste 101, Fullerton, CA
+layout: page
 ---
 
-<h2>Working Together is Important</h2>
-<p>We're excited you're here, and we hope to work alongside you soon!</p>
+{{ content }}
 
 <div class="card-deck price-plans">
   <div class="card price-plan price-plan-xl">
@@ -29,7 +16,7 @@ banner:
         Start with our most flexible plan and pay-as-you-go after your included hours. This plan includes your membership and 6 hours of coworking.
       </p>
       <p class="card-text">
-        <a href="/locations/fullerton/rates">see full rates</a> |
+        <a href="/locations/{{ page.location | downcase | replace: " ", "-"}}/rates">see full rates</a> |
         <a href="https://wayfare.typeform.com/to/gZ6TKU">sign up now</a>
       </p>
     </div>
@@ -45,10 +32,14 @@ banner:
       </p>
       <p class="card-text">
         Includes:<br>
-        <strong>Membership<br>30 hours of coworking</strong>
+        <strong>
+          Membership<br>
+          30 hours of coworking<br>
+          1 hour in a meeting room
+        </strong>
       </p>
       <p class="card-text">
-        <a href="/locations/fullerton/rates">see full rates</a> |
+        <a href="/locations/{{ page.location | downcase | replace: " ", "-"}}/rates">see full rates</a> |
         <a href="https://wayfare.typeform.com/to/gZ6TKU">sign up now</a>
       </p>
     </div>
@@ -62,10 +53,12 @@ banner:
       </p>
       <p class="card-text">
         Includes:<br>
-        <strong>Membership<br>60 hours of coworking</strong>
+        <strong>Membership<br>
+          60 hours of coworking<br>
+          2 hours in a meeting room</strong>
       </p>
       <p class="card-text">
-        <a href="/locations/fullerton/rates">see full rates</a> |
+        <a href="/locations/{{ page.location | downcase | replace: " ", "-"}}/rates">see full rates</a> |
         <a href="https://wayfare.typeform.com/to/gZ6TKU">sign up now</a>
       </p>
     </div>
@@ -81,10 +74,12 @@ banner:
       </p>
       <p class="card-text">
         Includes:<br>
-        <strong>Membership<br>90 hours of coworking</strong>
+        <strong>Membership<br>
+          90 hours of coworking<br>
+          3 hours in a meeting room</strong>
       </p>
       <p class="card-text">
-        <a href="/locations/fullerton/rates">see full rates</a> |
+        <a href="/locations/{{ page.location | downcase | replace: " ", "-"}}/rates">see full rates</a> |
         <a href="https://wayfare.typeform.com/to/gZ6TKU">sign up now</a>
       </p>
     </div>
@@ -98,10 +93,12 @@ banner:
       </p>
       <p class="card-text">
         Includes:<br>
-        <strong>Membership<br>160 hours of coworking</strong>
+        <strong>Membership<br>
+          160 hours of coworking<br>
+          4 hours in a meeting room</strong>
       </p>
       <p class="card-text">
-        <a href="/locations/fullerton/rates">see full rates</a> |
+        <a href="/locations/{{ page.location | downcase | replace: " ", "-"}}/rates">see full rates</a> |
         <a href="https://wayfare.typeform.com/to/gZ6TKU">sign up now</a>
       </p>
     </div>
@@ -113,7 +110,7 @@ banner:
     <h2 class="card-title script text-lowercase">Camper</h2>
     <p class="card-text p-x-2">
       DEDICATED DESKS + OFFICES<br>
-      We would love to show you our dedicated offices and desks. <a href="/locations/fullerton/contact">Contact us</a> for more information.
+      We would love to show you our dedicated offices and desks. <a href="/locations/{{ page.location | downcase | replace: " ", "-"}}/contact">Contact us</a> for more information and current availability.
     </p>
   </div>
 </div>
@@ -123,7 +120,7 @@ banner:
     <h2 class="card-title script text-lowercase">Tribe</h2>
     <p class="card-text p-x-2">
       TEAM PLANS<br>
-      Share a coworking package with your team! Each team member simply carries their own membership &amp; shares hours. <a href="/locations/fullerton/contact">Contact us</a> for more information.
+      Share a coworking package with your team! Each team member simply carries their own membership &amp; shares hours. <a href="/locations/{{ page.location | downcase | replace: " ", "-"}}/contact">Contact us</a> for more information.
     </p>
   </div>
 </div>
