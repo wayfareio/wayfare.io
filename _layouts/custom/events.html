@@ -2,29 +2,23 @@
 layout: page
 ---
 
-<div class="card-deck">
-  <div class="card card-inverse card-inverse-button">
-    <a href="/locations/costa-mesa/upcoming-events" class="_no-underline d-block">
-      <img src="/assets/images/location-costa-mesa.jpg" alt="Costa Mesa" class="card-img img-fluid">
-      <div class="card-img-overlay flex-items-xs-middle flex-items-xs-center">
-        <div class="card-block text-xs-center">
-          <h4 class="card-title">Costa Mesa</h4>
-          <h5 class="card-subtitle">California</h5>
+<div class="row">
+  <div class="col-xs-12">
+    <div class="card-deck">
+      {% for location in site.data.locations %}
+        <div class="card card-inverse card-inverse-button">
+          <a href="/locations/{{ location.id }}/upcoming-events" class="_no-underline d-block">
+            <img src="/assets/images/location-{{ location.id }}.jpg" alt="{{ location.name }}" class="card-img img-fluid">
+            <div class="card-img-overlay flex-items-xs-middle flex-items-xs-center">
+              <div class="card-block text-xs-center">
+                <h4 class="card-title">{{ location.name }}</h4>
+                <h5 class="card-subtitle">{{ location.address.full_state }}</h5>
+              </div>
+            </div>
+          </a>
+          <a href="/locations/{{ location.id }}/upcoming-events" class="btn btn-primary btn-lg btn-block text-uppercase">Upcoming Events</a>
         </div>
-      </div>
-    </a>
-    <a href="/locations/costa-mesa/upcoming-events" class="btn btn-primary btn-lg btn-block text-uppercase">Upcoming Events</a>
-  </div>
-  <div class="card card-inverse card-inverse-button">
-    <a href="/locations/fullerton" class="_no-underline d-block">
-      <img src="/assets/images/location-fullerton.jpg" alt="Fullerton" class="card-img img-fluid">
-      <div class="card-img-overlay flex-items-xs-middle flex-items-xs-center">
-        <div class="card-block text-xs-center">
-          <h4 class="card-title">Fullerton</h4>
-          <h5 class="card-subtitle">California</h5>
-        </div>
-      </div>
-    </a>
-    <a href="/locations/fullerton/upcoming-events" class="btn btn-primary btn-lg btn-block text-uppercase">Upcoming Events</a>
+      {% endfor %}
+    </div>
   </div>
 </div>
