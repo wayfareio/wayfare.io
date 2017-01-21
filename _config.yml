@@ -2,7 +2,7 @@
 title: Wayfare
 timezone: UTC
 collections:
-  "-stories-authors":
+  authors:
     title: Authors
     output: true
   events:
