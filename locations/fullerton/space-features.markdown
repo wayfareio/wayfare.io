@@ -43,3 +43,5 @@ features:
   image: /assets/images/locations/costa-mesa/features/mail-service.jpg
   text: Add mail service to skip the clutter at home and have your work-mail delivered directly to Wayfare! Mail is collected and sorted daily into our mail locker, so that you can store and pick up at your convenience.
 ---
+
+We don't sacrifice quality around here. From the chairs you sit in to our free, bottomless drip coffee, we've made sure to give you nothing short of the very best.
