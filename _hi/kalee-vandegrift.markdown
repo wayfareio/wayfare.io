@@ -1,6 +1,6 @@
 ---
 title: Kalee Vandegrift
-position: 7
+position: 6
 job_title: 'Program Manager: Growth & Impact'
 ---
 
