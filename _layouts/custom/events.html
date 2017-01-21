@@ -22,3 +22,36 @@ layout: page
     </div>
   </div>
 </div>
+
+<h3 class="underline m-t-2 m-b-1">All Events</h3>
+{% assign events = site.events | filter_events | sort_events %}
+<div class="upcoming-events">
+  {% if events.size == 0 %}
+    <div class="alert alert-warning" role="alert">
+      There aren't any upcoming events. Check back soon for more.
+    </div>
+  {% endif %}
+  {% for event in events %}
+    <div data-href="{{ event.urls.ticket_url }}" class="card card-event">
+      <div class="row">
+        <div class="col-xs-12 col-lg-5">
+          <img data-src="/wayfareio{{ event.images.thumb_image | default:event.images.splash_image }}" class="img-cloud img-fluid m-b-1" data-width="600" data-height="425" data-crop="fill" data-gravity="auto:faces">
+        </div>
+        <div class="col-xs-12 col-lg-7">
+          <h3 class="card-title">{{ event.headline | default:event.title }}</h3>
+          <p class="card-text m-b-0">
+            <strong>
+              Date:
+              {{ event.dates.start_date | date:"%B %e, %Y %l:%M%P" }}
+              &mdash;
+              {{ event.dates.end_date | date:"%l:%M%P" }}
+            </strong><br>
+            <strong>Location: {{ event.location }}</strong>
+          </p>
+          <p class="card-text">{{ event.content | markdown }}</p>
+          <a href="{{ event.urls.ticket_url }}" class="btn btn-md btn-primary">Details &amp; Tickets</a>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>

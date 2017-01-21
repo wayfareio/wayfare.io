@@ -5,21 +5,14 @@ layout: page
 <h2 class="underline">{{ page.title }}</h2>
 {{ content }}
 
-{% assign filtered_events = "" | split: "" %}
-{% for site_event in site.events %}
-  {% capture nowtime %}{{ 'now' | date:'%s' | plus:0 }}{% endcapture %}
-  {% capture eventtime %}{{ site_event.dates.end_date | date:'%s' | plus:0 }}{% endcapture %}
-  {% if nowtime < eventtime and site_event.published != false and site_event.location == page.location %}
-    {% assign filtered_events = filtered_events | push: site_event %}
-  {% endif %}
-{% endfor %}
+{% assign events = site.events | sort_events | filter_events location:page.location %}
 <div class="upcoming-events">
-  {% if filtered_events.size == 0 %}
+  {% if events.size == 0 %}
     <div class="alert alert-warning" role="alert">
       There aren't any upcoming events. Check back soon for more.
     </div>
   {% endif %}
-  {% for event in filtered_events %}
+  {% for event in events %}
     <div data-href="{{ event.urls.ticket_url }}" class="card card-event">
       <div class="row">
         <div class="col-xs-12 col-lg-5">
