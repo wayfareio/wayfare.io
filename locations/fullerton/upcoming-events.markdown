@@ -1,7 +1,7 @@
 ---
-title: 'Upcoming Events'
-page_title: 'Fullerton: Upcoming Events'
+title: Upcoming Events
 position: 0
+page_title: 'Fullerton: Upcoming Events'
 layout: custom/locations/upcoming-events
 location: Fullerton
 nav:
@@ -16,3 +16,4 @@ banner:
   title: Fullerton
   subtitle: 110 E Wilshire Ave, Ste 101, Fullerton, CA
 ---
+
