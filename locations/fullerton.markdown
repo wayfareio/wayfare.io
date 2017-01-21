@@ -40,4 +40,4 @@ Already an architectural find in the area, the build-out and furnishing of the s
 
 Want to visit this space? Come by for a tour and a coffee!
 
-<a href="https://wayfare.typeform.com/to/AJd85z" class="btn btn-primary">Schedule a Tour</a>
+{% button url:"https://wayfare.typeform.com/to/AJd85z" text:"Schedule a Tour" %}

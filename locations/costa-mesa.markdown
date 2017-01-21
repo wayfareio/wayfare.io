@@ -46,4 +46,4 @@ Open, airy, and golden-hued, this design-savvy industrial space is home to start
 
 Want to visit this space? Come by for a tour and a coffee!
 
-<a href="https://wayfare.typeform.com/to/AJd85z" class="btn btn-primary">Schedule a Tour</a>
+{% button url:"https://wayfare.typeform.com/to/AJd85z" text:"Schedule a Tour" %}
