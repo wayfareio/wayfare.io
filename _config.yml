@@ -11,7 +11,7 @@ collections:
   posts:
     title: Posts
     output: true
-  team-members:
+  hi:
     title: Team Members
     output: true
   uploads:
