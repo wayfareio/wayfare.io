@@ -1,6 +1,6 @@
 ---
 title: Marc Fernandez
-position: 5
+position: 6
 job_title: Director of Workspaces
 fun_title: Gamechanger
 bio_image: "/assets/images/marc-fernandez.jpg"

@@ -1,6 +1,6 @@
 ---
 title: Elisha Avne
-position: 7
+position: 4
 job_title: 'Program Manager: Pilot & Launch'
 fun_title: VP of all the Humans
 bio_image: "/assets/images/elisha-avne.jpg"
