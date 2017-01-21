@@ -1,6 +1,6 @@
 ---
 title: Jill Arbini
-position: 8
+position: 6
 job_title: Special Projects and Social Media
 fun_title: Executive Dreamer
 bio_image: "/assets/images/jill-arbini.jpg"
