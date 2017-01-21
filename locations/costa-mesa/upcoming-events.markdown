@@ -1,7 +1,7 @@
 ---
-title: 'Upcoming Events'
-page_title: 'Costa Mesa: Upcoming Events'
+title: Upcoming Events
 position: 0
+page_title: 'Costa Mesa: Upcoming Events'
 layout: custom/locations/upcoming-events
 location: Costa Mesa
 nav:
@@ -16,3 +16,4 @@ banner:
   title: Costa Mesa
   subtitle: 270 Baker St E, Ste 200, Costa Mesa, CA
 ---
+
