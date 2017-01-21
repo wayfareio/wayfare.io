@@ -2,7 +2,7 @@
 title: Mitch Fierro
 job_title: Community Manager
 fun_title: Yo-Yo Master
-bio_image: /assets/images/mitch-fierro.jpg
+bio_image: "/assets/images/mitch-fierro.jpg"
 ---
 
 **On the weekend you can catch Mitch:** hiking, riding bikes, or drinking unhealthy amounts of coffee.

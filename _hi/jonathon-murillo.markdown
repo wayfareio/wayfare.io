@@ -2,7 +2,7 @@
 title: Jonathon Murillo
 job_title: Community Assistant
 fun_title: Resident Conversation Companion
-bio_image: /assets/images/jonathan-murillo.jpg
+bio_image: "/assets/images/jonathan-murillo.jpg"
 ---
 
 **On the weekend you can catch Jonathon:** in a flurry of emotions as he cheers on his beloved Oakland Raiders, being way too excited about whatever he is eating at the moment, or in a dangerously competitive game of monopoly with his wife (loser does the dishes).

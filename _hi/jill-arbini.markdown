@@ -2,7 +2,7 @@
 title: Jill Arbini
 job_title: Special Projects and Social Media
 fun_title: Executive Dreamer
-bio_image: /assets/images/jill-arbini.jpg
+bio_image: "/assets/images/jill-arbini.jpg"
 ---
 
 **On the weekend you can catch Jill:** exploring Southern California with her husband and three kids, at the beach, or perusing flea markets and yard sales. Oh and drinking coffee. Always coffee.

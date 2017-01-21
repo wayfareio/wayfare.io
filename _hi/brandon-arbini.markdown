@@ -2,7 +2,7 @@
 title: Brandon Arbini
 job_title: CEO
 fun_title: Chief Americano Drinker
-bio_image: /assets/images/brandon-arbini.jpg
+bio_image: "/assets/images/brandon-arbini.jpg"
 ---
 
 **On the weekend you can catch Brandon:** swimming with his three kids, jamming on the guitar while his son plays the drums, and wrapping up the day reading by the fire pit. Top that off with a family adventure or a date with his wife, and he’s a happy man. It also helps if he has an ice cold Americano from Neat Coffee or a LaCroix in his hand at all times. The flavor? Pamplemousse of course!

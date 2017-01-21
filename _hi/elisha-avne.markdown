@@ -1,8 +1,8 @@
 ---
 title: Elisha Avne
-job_title: "Program Manager: Pilot & Launch"
+job_title: 'Program Manager: Pilot & Launch'
 fun_title: VP of all the Humans
-bio_image: /assets/images/elisha-avne.jpg
+bio_image: "/assets/images/elisha-avne.jpg"
 ---
 
 **On the weekend you can catch Elisha:** painting, enjoying the sunshine, and hanging with the Tot squad at church.

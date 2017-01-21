@@ -2,7 +2,7 @@
 title: Tavia Grubbs
 job_title: Community Assistant
 fun_title: Executive All Things Music
-bio_image: /assets/images/tavia-grubbs.jpg
+bio_image: "/assets/images/tavia-grubbs.jpg"
 ---
 
 **On the weekend you can catch Tavia:** at the UFC gym down the street, experimenting on new banana bread recipes, or playing a concert in LA.

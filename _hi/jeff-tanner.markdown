@@ -2,7 +2,7 @@
 title: Jeff Tanner
 job_title: CSO
 fun_title: Chief Cartographer
-bio_image: /assets/images/jeff-tanner.jpg
+bio_image: "/assets/images/jeff-tanner.jpg"
 ---
 
 **On the weekend you can catch Jeff:** saying good morning to the morning (along with every tree, flower, bird, and bug) in backyard walks with his daughters and pups, catching up on premier league football (aka soccer), or perfecting his grilling skills.
