@@ -1,0 +1,35 @@
+---
+layout: page
+---
+
+<div class="card-deck price-plans">
+  <div class="card price-plan">
+    <div class="card-block text-xs-center">
+      <h2 class="card-title script text-lowercase">Non-Members</h2>
+      <p class="card-text">
+        <strong>
+          2 hours: $15<br>
+          4 hours: $25<br>
+          8 hours: $40
+        </strong>
+      </p>
+      <p class="card-text">
+        To buy a drop-in pass, simply drop in and one of our community assistants will get you set up. Please <a href="/locations/{{ page.location | downcase | replace: " ", "-" }}/contact">contact us</a> with any questions!
+      </p>
+    </div>
+  </div>
+  <div class="card price-plan">
+    <div class="card-block text-xs-center">
+      <h2 class="card-title script text-lowercase">Members</h2>
+      <p class="card-text">
+        <strong>$2.50&ndash;$5.00/hour</strong>
+      </p>
+      <p class="card-text">
+        Wayfare members receive exclusive, low hourly rates at any Wayfare workspace. View <a href="/locations/{{ page.location | downcase | replace: " ", "-" }}/price-plans">price plans</a> for details. Score!
+      </p>
+      <p class="card-text">
+        <a href="/locations/{{ page.location | downcase | replace: " ", "-" }}/price-plans" class="btn btn-primary">View Price Plans</a>
+      </p>
+    </div>
+  </div>
+</div>
