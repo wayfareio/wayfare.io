@@ -1,6 +1,6 @@
 ---
 title: Caitlin Kraina
-position: 6
+position: 3
 job_title: Marketing Manager
 fun_title: Chief Joy Giver
 bio_image: "/assets/images/caitlin-kraina.jpg"
