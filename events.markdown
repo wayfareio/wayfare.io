@@ -1,6 +1,6 @@
 ---
 title: Events
-position: 2
+position: 3
 layout: custom/events
 lead:
   line1: GETTING TOGETHER
