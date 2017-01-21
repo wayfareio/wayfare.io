@@ -1,21 +1,10 @@
 ---
-title: 'Fullerton: Upcoming Events'
-position: 0
-location: Fullerton
-nav:
-  id: ful-upcoming-events
-  site:
-    highlight: locations
-  side:
-    id: fullerton
-    highlight: ful-upcoming-events
-banner:
-  image: "/assets/images/topo-banner-bg.jpg"
-  title: Fullerton
-  subtitle: 110 E Wilshire Ave, Ste 101, Fullerton, CA
+layout: page
 ---
 
-<h2 class="underline">Upcoming Events</h2>
+<h2 class="underline">{{ page.title }}</h2>
+{{ content }}
+
 {% assign filtered_events = "" | split: "" %}
 {% for site_event in site.events %}
   {% capture nowtime %}{{ 'now' | date:'%s' | plus:0 }}{% endcapture %}

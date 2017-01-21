@@ -1,7 +1,7 @@
 ---
 title: Home
 position: 0
-custom_title: Wayfare | Workspaces, Startup Programs, and Events
+custom_page_title: Wayfare | Workspaces, Startup Programs, and Events
 layout: custom/home
 description: Workspaces, startup programs, and events with spaces in Costa Mesa and
   Fullerton, Orange County, CA.
@@ -47,4 +47,3 @@ sections:
   - url: "/locations"
     title: Find a **Workspace**
 ---
-

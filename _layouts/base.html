@@ -18,8 +18,10 @@
     <meta name="msapplication-config" content="/assets/images/favicon/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
     <title>
-      {% if page.custom_title %}
-        {{ page.custom_title }}
+      {% if page.custom_page_title %}
+        {{ page.custom_page_title }}
+      {% elsif page.page_title %}
+        {{ page.page_title }} | {{ site.title }}
       {% elsif page.title %}
         {{ page.title }} | {{ site.title }}
       {% else %}
