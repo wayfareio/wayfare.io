@@ -1,5 +1,6 @@
 ---
-title: 'Costa Mesa: FAQ'
+title: "FAQ"
+page_title: 'Costa Mesa: FAQ'
 position: 6
 nav:
   id: whq-faq

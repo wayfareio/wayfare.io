@@ -1,5 +1,6 @@
 ---
-title: 'Fullerton: FAQ'
+title: "FAQ"
+page_title: 'Fullerton: FAQ'
 position: 7
 nav:
   id: ful-faq

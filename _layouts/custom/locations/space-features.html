@@ -1,0 +1,22 @@
+---
+layout: page
+---
+
+<h2>{{ page.title }}</h2>
+{{ content }}
+
+<div class="card-left-features space-features">
+  {% for feature in page.features %}
+    <div class="card card-left-feature">
+      <div class="card-left-feature-img">
+        <img src="{{ feature.image }}" alt="{{ feature.title }}">
+      </div>
+      <div class="card-block">
+        <h3 class="card-title">{{ feature.title | markdownify | remove:'<p>' | remove:'</p>' }}</h3>
+        <p class="card-text">
+          {{ feature.text | markdownify | remove:'<p>' | remove:'</p>' }}
+        </p>
+      </div>
+    </div>
+  {% endfor %}
+</div>
