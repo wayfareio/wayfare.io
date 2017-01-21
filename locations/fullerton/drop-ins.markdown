@@ -1,6 +1,6 @@
 ---
 title: Drop-ins
-position: 3
+position: 4
 page_title: 'Fullerton: Drop-ins'
 layout: custom/locations/drop-ins
 location: Fullerton
