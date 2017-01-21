@@ -1,6 +1,6 @@
 ---
 title: Drop-ins
-position: 3
+position: 4
 page_title: 'Costa Mesa: Drop-ins'
 layout: custom/locations/drop-ins
 location: Costa Mesa
