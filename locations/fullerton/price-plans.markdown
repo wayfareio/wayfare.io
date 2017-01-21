@@ -1,7 +1,7 @@
 ---
-title: "Price Plans"
-page_title: 'Fullerton: Price Plans'
+title: Price Plans
 position: 2
+page_title: 'Fullerton: Price Plans'
 layout: custom/locations/price-plans
 location: Fullerton
 nav:

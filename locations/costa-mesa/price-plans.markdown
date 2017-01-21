@@ -1,7 +1,7 @@
 ---
-title: 'Price Plans'
-page_title: 'Costa Mesa: Price Plans'
+title: Price Plans
 position: 2
+page_title: 'Costa Mesa: Price Plans'
 layout: custom/locations/price-plans
 location: Costa Mesa
 nav:
