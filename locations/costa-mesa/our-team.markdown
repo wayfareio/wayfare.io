@@ -1,8 +1,8 @@
 ---
 title: Our Team
+position: 8
 page_title: 'Costa Mesa: Our Team'
 layout: custom/locations/our-team
-position: 8
 nav:
   id: whq-team
   site:
@@ -21,3 +21,4 @@ team:
 - Myriah Lee Murillo
 - Kate Sharp
 ---
+

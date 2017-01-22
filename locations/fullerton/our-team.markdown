@@ -1,7 +1,7 @@
 ---
 title: Our Team
-page_title: 'Fullerton: Our Team'
 position: 8
+page_title: 'Fullerton: Our Team'
 layout: custom/locations/our-team
 nav:
   id: ful-team
@@ -20,3 +20,4 @@ team:
 - Phylicia Stoicu
 - Tavia Grubbs
 ---
+
