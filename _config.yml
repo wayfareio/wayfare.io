@@ -11,9 +11,10 @@ collections:
   posts:
     title: Posts
     output: true
-  hi:
+  team_members:
     title: Team Members
     output: true
+    permalink: "/hi/:path"
   uploads:
     title: Uploads
     output: true
@@ -24,8 +25,8 @@ defaults:
   values:
     layout: post
     permalink: "/stories/:year/:month/:day/:title/"
-    author: 
-    image: 
+    author:
+    image:
     nav:
       id: post
       site:
@@ -39,38 +40,38 @@ defaults:
     type: pages
   values:
     layout: page
-    description: 
+    description:
 - scope:
     path: ''
     type: events
   values:
-    headline: 
+    headline:
     images:
-      splash_image: 
-      thumb_image: 
+      splash_image:
+      thumb_image:
     dates:
-      start_date: 
-      end_date: 
+      start_date:
+      end_date:
     urls:
-      ticket_url: 
-    location: 
+      ticket_url:
+    location:
 - scope:
     path: ''
     type: authors
   values:
     layout: page
-    company_name: 
-    job_title: 
-    bio_image: 
-    is_guest: 
+    company_name:
+    job_title:
+    bio_image:
+    is_guest:
 - scope:
     path: ''
-    type: hi
+    type: team_members
   values:
-    layout: hi
-    job_title: 
-    fun_title: 
-    bio_image: 
+    layout: team-member
+    job_title:
+    fun_title:
+    bio_image:
 url: http://wayfare.io
 twitter:
   username: wayfarehq
