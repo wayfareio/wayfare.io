@@ -1,5 +1,5 @@
 ---
-title: Myriah Murillo
+title: Myriah Lee Murillo
 position: 13
 job_title: Community Assistant
 fun_title: Breakfast Burrito Aficionado

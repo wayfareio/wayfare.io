@@ -5,14 +5,14 @@ layout: page
 <div class="row">
   <div class="col-xs-12">
     <div class="row p-b-2">
-      {% if page.bio_image %}
-        <div class="col-xs-12 col-md-4 col-lg-4 col-xl-3 p-b-1 flex-items-xs-center">
+      <div class="col-xs-12 col-md-4 col-lg-4 col-xl-3 p-b-1 flex-items-xs-center">
+        {% if page.bio_image %}
           <img class="img-circle img-fluid" src="{{ page.bio_image }}" alt="{{ page.title }}: {{ page.job_title }}" data-rjs="2">
-        </div>
-        <div class="col-xs-12 col-md-8 col-lg-8 col-xs-9">
-      {% else %}
-        <div class="col-xs-12">
-      {% endif %}
+        {% else %}
+          <img class="img-circle img-fluid" src="/assets/images/person.png" alt="{{ page.title }}: {{ page.job_title }}" data-rjs="2">
+        {% endif %}
+      </div>
+      <div class="col-xs-12 col-md-8 col-lg-8 col-xs-9">
         <h2>{{ page.title }}</h2>
         <h5>
           {{ page.job_title }}
