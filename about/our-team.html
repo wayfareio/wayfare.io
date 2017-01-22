@@ -24,7 +24,7 @@ team:
   <div class="col-xs-12">
     <h2 class="underline m-b-2">Our Founders</h2>
     {% for founder in page.founders %}
-      {% for staff in site.hi %}
+      {% for staff in site.team_members %}
         {% if founder == staff.title %}
           <div class="row p-b-2">
             <div class="col-xs-12 col-md-4 col-lg-4 p-b-1 flex-items-xs-center">
@@ -47,7 +47,7 @@ team:
   <div class="col-xs-12">
     <h2 class="underline m-b-2">Our Team</h2>
     {% for team in page.team %}
-      {% for staff in site.hi %}
+      {% for staff in site.team_members %}
         {% if team == staff.title %}
           <div class="row p-b-2">
             <div class="col-xs-12 col-md-4 col-lg-4 p-b-1 flex-items-xs-center">
