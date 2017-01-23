@@ -1,7 +1,6 @@
 ---
 title: Startups
 position: 5
-layout: custom/startups
 lead:
   line1: STARTUP PROGRAMS
   line2: for **SOCIAL ENTREPRENEURS**
@@ -40,13 +39,10 @@ programs:
 - title: Impact Program
   url: https://wayfare.typeform.com/to/f29ZAn
   image: "/assets/images/startups-impact.jpg"
-  description: Impact creates primary teams for missional enterprise top leaders,
-    such as C level officers or executive directors, to integrate the full context
-    of their lives with their business. Impact provides team support others in an
-    organization have, but top leaders are uniquely isolated from, as well as provides
-    transformational leadership development. Impact cohorts gather monthly, not to
-    take a day off, but to take a day on to work on personal leadership and organizational
-    development. We do that through group discussion, sharing meals together, guided
-    self-reflection time, and debriefing as a group.
+  description: |-
+    Impact creates primary teams for missional enterprise top leaders, such as C level officers or executive directors, to integrate the full context of their lives with their business. Impact provides team support others in an organization have, but top leaders are uniquely isolated from, as well as provides transformational leadership development. Impact cohorts gather monthly, not to take a day off, but to take a day on to work on personal leadership and organizational development. We do that through group discussion, sharing meals together, guided self-reflection time, and debriefing as a group.
+
+    **Sponsored by [SimplyWin](http://simplywin.com)**
+layout: custom/startups
 ---
 
