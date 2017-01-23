@@ -1,0 +1,24 @@
+---
+layout: page
+---
+
+<div class="card-left-features">
+  {% for program in page.programs %}
+    <div class="card card-left-feature">
+      <div class="card-left-feature-img">
+        <a href="{{ program.url }}" class="_no-underline">
+          <img src="{{ program.image }}" alt="{{ program.title }}">
+        </a>
+      </div>
+      <div class="card-block">
+        <a href="{{ program.url }}" class="_no-underline">
+          <h3 class="card-title"><strong>{{ program.title }}</strong></h3>
+        </a>
+        <div class="card-text">
+          {{ program.description | markdownify }}
+          <p><a href="{{ program.url }}" class="btn btn-primary">Learn more</a></p>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
