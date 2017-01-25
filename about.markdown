@@ -1,5 +1,6 @@
 ---
-title: About Wayfare
+title: About
+page_title: About Wayfare
 layout: custom/about
 position: 1
 nav:
