@@ -59,4 +59,4 @@ So get your thinking caps on and let's embark on the next phase of this journey 
 With extreme gratitude and excitement for the world's best future,
 
 **Brandon Arbini & Jeff Tanner**  
-Co-founders of the organization soon to be formerly known as Wayfare
+Co-founders of the organization soon to be formerly known as [Wayfare](https://wayfare.io)
