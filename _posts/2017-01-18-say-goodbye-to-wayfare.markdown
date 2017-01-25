@@ -49,6 +49,8 @@ We're having a contest to come up with a new name (yes, there are prizes) and we
 
 One winner will receive:
 * A $500 credit to be used toward Startup Programs, Workspaces, Meeting Rooms, or Event Fees
+* $50 gift certificate to [Sidecar Doughnuts](http://www.sidecardoughnuts.com)
+* $20 gift card to [Neat Coffee](http://www.neat.coffee)
 * Swag bag of goods with new branding
 * Our eternal gratitude
 
