@@ -1,12 +1,15 @@
 ---
 title: Homelessness 101
 date: 2017-01-25 20:48:00 Z
-published: false
+headline: Homelessness 101
+dates:
+  start_date: 2017-02-18 09:00:00 Z
+  end_date: 2017-02-18 12:00:00 Z
 urls:
   ticket_url: https://www.eventbrite.com/e/homelessness-101-fullerton-tickets-30931973365
+location: Fullerton
 ---
 
-DESCRIPTION
 We have neighbors who are experiencing homelessness within our community everyday. This education piece covers the following:
 1. Understanding homelessness (Future in Humanity)
 2. Mental health in relation to homelessness (St. Jude)
