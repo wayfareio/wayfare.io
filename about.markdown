@@ -1,8 +1,8 @@
 ---
 title: About
+position: 1
 page_title: About Wayfare
 layout: custom/about
-position: 1
 nav:
   site:
     highlight: about
