@@ -1,37 +1,37 @@
 ---
 title: About Wayfare
-layout: custom/about
 position: 1
+layout: custom/about
 nav:
   site:
     highlight: about
   side:
     id: about
     highlight: about
-image: /assets/images/banner-our-community-00.jpg
+image: "/assets/images/banner-our-community-00.jpg"
 cta:
-- title: "Join the **Community**"
-  url: /membership
-- title: "Read Our **Values**"
-  url: /about/our-values
+- title: Join the **Community**
+  url: "/membership"
+- title: Read Our **Values**
+  url: "/about/our-values"
 community:
   title: Meet the Community
   people:
   - first_name: Bailey
     last_name: Van Tassel
-    image: /assets/images/bailey-van-tassel.jpg
+    image: "/assets/images/bailey-van-tassel.jpg"
     title: Founder
     company: Abel Impact
     url: http://blog.wayfare.io/2016/04/25/member-monday-bailey-van-tassel-of-abel-impact/
   - first_name: Brandon
     last_name: Setter
-    image: /assets/images/brandon-setter.jpg
+    image: "/assets/images/brandon-setter.jpg"
     title: Owner/Creative
     company: Setter Studios
     url: http://blog.wayfare.io/2016/04/11/member-spotlight-brandon-setter/
   - first_name: Emily
     last_name: McLaughlin
-    image: /assets/images/emily-mclaughlin.jpg
+    image: "/assets/images/emily-mclaughlin.jpg"
     title: HR Generalist
     company: Nuru International
     url: http://blog.wayfare.io/2016/07/11/member-monday-emily-mclaughlin/
