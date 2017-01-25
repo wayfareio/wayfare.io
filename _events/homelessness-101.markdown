@@ -3,9 +3,6 @@ title: Homelessness 101
 date: 2017-01-25 20:48:00 Z
 published: false
 headline: Homelessness 101
-images:
-  splash_image: "/uploads/_DSC0813.jpg"
-  thumb_image: "/uploads/_DSC0813.jpg"
 dates:
   start_date: 2017-02-18 09:00:00 Z
   end_date: 2017-02-18 12:00:00 Z
