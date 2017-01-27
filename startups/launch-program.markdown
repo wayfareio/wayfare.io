@@ -11,11 +11,10 @@ nav:
 
 ## Launch Program
 
-Do you want to do something meaningful for the world AND earn a livable income? Are you past the idea stage, but you've taken your product as far as you can on your own? Are you looking to turn your hobby, side job, or minimum viable product (MVP) into a full-time gig? If you answered any of these questions with "Yes!", our Launch Program is for you.
+Launch is an hyper-local 20-week intensive program based in Orange County, California. In this program, you will explore key startup principles and insights as you directly apply them to your product, program, or service amongst a cohort of other like-minded founders. Together you will receive the practical, emotional, and spiritual support you need to propel your product, program, or service into a comprehensive business model. 
 
-We'll guide you as you bring clarity to your mission and vision, understand and articulate the personal "Why?" behind your product or service, focus and build a comprehensive business model, develop your communications plans, pitch to partners, raise funds, and learn how to optimize your leadership.
+As you build your comprehensive business model, you will work on identifying and defining your mission and vision, understanding and articulating the personal “Why?” behind your product, program or service, developing your communications plans, pitching to partners, ensuring financial viability, and learning how to optimize your leadership.
 
-And in the span of 15 weeks, we'll deliver the practical, emotional, and spiritual support and guidance you need to create what we call a minimum viable organization (MVO).
 
 **Launch includes:**
 
@@ -31,7 +30,7 @@ And in the span of 15 weeks, we'll deliver the practical, emotional, and spiritu
 **Program Dates**: Batch 4 runs Feb--May, 2017  
 Batch sizes are limited. Apply today!
 
-{% button text:"Inquire Now" url:"https://wayfare.typeform.com/to/gZ6TKU" %}
+{% button text:"Apply Now" url:"https://wayfare.typeform.com/to/gRbyfY" %}
 
 ### Please don't hesitate to contact us with questions
 
