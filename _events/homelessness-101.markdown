@@ -1,10 +1,11 @@
 ---
 title: Homelessness 101
 date: 2017-01-30 23:30:00 Z
+position: 0
 headline: Homelessness 101
 images:
-  splash_image: "/uploads/Homelessness101splash.jpg"
-  thumb_image: "/uploads/Homelessness101thumb.jpg"
+  splash_image: "/uploads/Homelessness101splash.jpeg"
+  thumb_image: "/uploads/Homelessness101thumb.jpeg"
 dates:
   start_date: 2017-02-18 09:00:00 Z
   end_date: 2017-02-18 12:00:00 Z
