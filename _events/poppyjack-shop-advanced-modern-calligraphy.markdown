@@ -13,4 +13,4 @@ urls:
 location: Costa Mesa
 ---
 
-In this class is 2.5 hour long class Courtney of PoppyJack Shop will cover mixing your own ink, envelope layout and digitizing your work.  A supply kit will be provided to use during the class as well as to take home and continue practicing & light refreshments will be served.
+In this class Courtney of PoppyJack Shop will cover mixing your own ink, envelope layout and digitizing your work.  A supply kit will be provided to use during the class as well as to take home and continue practicing & light refreshments will be served.
