@@ -28,7 +28,13 @@ layout: page
             </strong>
           </p>
           <p class="card-text">{{ event.content | markdown }}</p>
-          <a href="{{ event.urls.ticket_url }}" class="btn btn-md btn-primary">Details &amp; Tickets</a>
+          {% if event.urls %}
+            {% if event.urls.ticket_url %}
+              <a href="{{ event.urls.ticket_url }}" class="btn btn-md btn-primary">Details &amp; Tickets</a>
+            {% elsif event.urls.info_url %}
+              <a href="{{ event.urls.info_url }}" class="btn btn-md btn-primary">More Info</a>
+            {% endif %}
+          {% endif %}
         </div>
       </div>
     </div>
