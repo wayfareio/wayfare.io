@@ -13,7 +13,7 @@ dates:
   start_date: 2017-02-03 18:30:00 Z
   end_date: 2017-02-03 21:30:00 Z
 urls:
-  ticket_url: https://www.facebook.com/events/388471561511991/
+  info_url: https://www.facebook.com/events/388471561511991/
 location: Fullerton
 ---
 
