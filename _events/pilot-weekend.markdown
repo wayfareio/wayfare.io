@@ -1,6 +1,7 @@
 ---
 title: Pilot Weekend
 date: 2017-01-05 18:55:00 Z
+position: 1
 headline: Pilot Weekend
 images:
   splash_image: "/uploads/pilot%20splash.jpg"

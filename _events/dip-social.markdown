@@ -1,6 +1,7 @@
 ---
 title: Dip Social
 date: 2017-01-05 19:39:00 Z
+position: 3
 headline: Dip Social
 images:
   splash_image: "/uploads/dip%20social%20splash.jpg"
