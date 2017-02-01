@@ -1,6 +1,7 @@
 ---
 title: Free Bunco Game Night
 date: 2017-01-05 19:13:00 Z
+position: 2
 headline: Free Bunco Game Night
 images:
   splash_image: "/uploads/bunco%20splash.jpg"
