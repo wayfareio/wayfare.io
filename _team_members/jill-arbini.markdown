@@ -1,6 +1,6 @@
 ---
 title: Jill Arbini
-position: 6
+position: 7
 job_title: Marketing Coordinator
 fun_title: Executive Dreamer
 bio_image: "/assets/images/jill-arbini.jpg"

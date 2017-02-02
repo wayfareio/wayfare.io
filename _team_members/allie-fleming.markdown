@@ -1,6 +1,6 @@
 ---
 title: Allie Fleming
-position: 9
+position: 1
 job_title: Web Developer/Designer
 fun_title: Resident Podcast Enthusiast
 bio_image: "/assets/images/allie-fleming.jpg"

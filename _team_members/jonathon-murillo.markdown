@@ -1,6 +1,6 @@
 ---
 title: Jonathon Murillo
-position: 7
+position: 8
 job_title: Community Assistant
 fun_title: Resident Conversation Companion
 bio_image: "/assets/images/jonathan-murillo.jpg"

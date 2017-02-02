@@ -1,6 +1,6 @@
 ---
 title: Brandon Arbini
-position: 2
+position: 3
 job_title: CEO
 fun_title: Chief Americano Drinker
 bio_image: "/assets/images/brandon-arbini.jpg"

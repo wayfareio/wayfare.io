@@ -1,6 +1,6 @@
 ---
 title: Kalee Vandegrift
-position: 8
+position: 9
 job_title: 'Program Manager: Growth & Impact'
 fun_title: Chief Divergent Thinker
 bio_image: "/assets/images/kalee-vandegrift.jpg"

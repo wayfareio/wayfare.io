@@ -1,6 +1,6 @@
 ---
 title: Allison Tash
-position: 1
+position: 2
 job_title: Community Manager
 fun_title: Miss America 2009
 bio_image: "/assets/images/allison-tash.jpg"
