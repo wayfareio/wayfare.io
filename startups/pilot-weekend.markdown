@@ -1,7 +1,6 @@
 ---
 title: Pilot Weekend
 page_title: 'Startups: Pilot Weekend'
-layout: custom/startups/pilot-weekend
 nav:
   id: pilot-weekend
   site:
@@ -12,16 +11,13 @@ nav:
 redirect_from: "/startups/pilot-conference"
 pricing:
   prices:
-  - dates: Now – Dec 15
+  - dates: Early Registration
     price: "$747"
-  - dates: Dec 16 – Dec 31
-    price: "$847"
-  - dates: Jan 1 – Jan 31
-    price: "$947"
   - dates: Deposit
     price: "$47"
   note: Deposit due with application & applies to conference fees. Pricing includes
     three day conference, all meals, materials, workbooks and goodies.
+layout: custom/startups/pilot-weekend
 ---
 
 ### Overview
@@ -30,7 +26,7 @@ Pilot Weekend is designed to help you begin bringing to life that world-changing
 
 The Pilot Weekend combines insight from startup experts with hands-on application in a workshop setting. You will leave with a roadmap of action steps to pilot your idea and create a minimum viable product or service. You'll be led by a variety of passionate founders who have extensive experience in startup, social enterprise, and non-profit work.
 
-The next Pilot Weekend is **January 20-22nd**.
+The next Pilot Weekend is in **April 2017** (dates still TBD).
 
 ---
 
@@ -58,26 +54,23 @@ The next Pilot Weekend is **January 20-22nd**.
 * Dessert & Keynote Talk
 * Q&A
 
-
 **Saturday**  
 **9:00am--7:00pm**
 
-* Session 1a: Jeff Tanner - Identity, Artistry, & Meaning
-* Session 1b: Elisha Avne - Story Mapping
-* Session 2: Justin Wheeler - Problem Exploration & Solution Validation
+* Session 1: Identity, Artistry, & Meaning
+* Session 2: Story Mapping
+* Session 3: Problem Exploration & Solution Validation
 * Facilitated Group Collaboration
 * Lunch
-* Session 3a: Jay Sherer - Knowing your customer
-* Session 3b: Joel Buekelman - If/Then Statements
-* Session 4: Facilitated Group Collaboration
+* Session 4: Knowing your customer
+* Session 5: If/Then Statements
+* Facilitated Group Collaboration
 * Guided Workbook Session
 * Dinner
-* Keynote Talk: Brian Peterson, founder of "Faces of Santa Ana"
-
+* Keynote Talk
 
 **Sunday**  
 **12:00p--4:00pm**
-
 
 * Lunch
 * Guided Workbook Session
