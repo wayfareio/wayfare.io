@@ -23,11 +23,12 @@ programs:
 - title: Launch Program
   url: "/startups/launch-program"
   image: "/assets/images/startups-launch.jpg"
-  description: Do you want to do something meaningful for the world AND earn a livable
-    income? Are you past the idea stage, but you've taken your product as far as you
-    can on your own? Are you looking to turn your hobby, side job, or minimum viable
-    product (MVP) into a full-time gig? If you answered any of these questions with
-    "Yes!", our Launch Program is for you.
+  description: Launch is an hyper-local 20-week intensive program based in Orange
+    County, California. In Launch, you will explore key startup principles and insights
+    as you directly apply them to your product, program, or service amongst a cohort
+    of other like-minded founders. Together you will receive the practical, emotional,
+    and spiritual support you need to propel your product, program, or service into
+    a comprehensive business model.
 - title: Growth Program
   url: https://wayfare.typeform.com/to/dFUr0x
   image: "/assets/images/startups-growth.jpg"
