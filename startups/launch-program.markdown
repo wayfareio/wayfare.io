@@ -1,6 +1,6 @@
 ---
-page_title: 'Startup Programs: Launch'
 title: Launch Program
+page_title: 'Startup Programs: Launch'
 nav:
   id: launch-program
   site:

@@ -1,6 +1,6 @@
 ---
-page_title: 'Startups: Pilot Weekend'
 title: Pilot Weekend
+page_title: 'Startups: Pilot Weekend'
 layout: custom/startups/pilot-weekend
 nav:
   id: pilot-weekend
@@ -13,14 +13,15 @@ redirect_from: "/startups/pilot-conference"
 pricing:
   prices:
   - dates: Now – Dec 15
-    price: $747
+    price: "$747"
   - dates: Dec 16 – Dec 31
-    price: $847
+    price: "$847"
   - dates: Jan 1 – Jan 31
-    price: $947
+    price: "$947"
   - dates: Deposit
-    price: $47
-  note: Deposit due with application & applies to conference fees. Pricing includes three day conference, all meals, materials, workbooks and goodies.
+    price: "$47"
+  note: Deposit due with application & applies to conference fees. Pricing includes
+    three day conference, all meals, materials, workbooks and goodies.
 ---
 
 ### Overview
