@@ -8,7 +8,14 @@
     {% if page.lead.buttons %}
       <p class="text-xs-center">
         {% for button in page.lead.buttons %}
-          <a href="{{ button.url }}" class="btn btn-primary btn-lg">{{ button.title }}</a>
+          <a href="{{ button.url }}" class="btn btn-primary btn-lg text-uppercase">{{ button.title }}</a>
+        {% endfor %}
+      </p>
+    {% endif %}
+    {% if page.lead.text-links %}
+      <p class="text-xs-center m-t-1">
+        {% for text-link in page.lead.text-links %}
+          <a href="{{ text-link.url }}" class="_no-underline">{{ text-link.title }} →</a>
         {% endfor %}
       </p>
     {% endif %}

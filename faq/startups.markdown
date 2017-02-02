@@ -12,7 +12,7 @@ nav:
 
 ##### Who are startup programs for?
 
-Whether you’re someone that has an idea, leading an organization of 20 or more people, or somewhere in between, Wayfare’s startup programs help to bring clarity and meaning to the work that you are doing through practical, spiritual, and emotional support amongst a community of likeminded people. Each program is designed for a specific stage of development for a founder or startup. See our <a href="/startups">startups page</a> for more information.
+Whether you’re someone that has an idea, leading an organization of 20 or more people, or somewhere in between, Wayfare’s startup programs help to bring clarity and meaning to the work that you are doing through practical, spiritual, and emotional support amongst a community of like-minded people. Each program is designed for a specific stage of development for a founder or startup. See our <a href="/startups">startups page</a> for more information.
 
 ##### How much do startup programs cost?
 

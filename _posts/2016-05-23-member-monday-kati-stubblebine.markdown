@@ -51,7 +51,7 @@ One of the biggest challenges is working in a company that's dispersed, because 
 
 **Why did you decide to work out of Wayfare?**
 
-I really like getting up in the morning with somewhere to go. It gives my day a lot more intention than just walking from my bedroom to my kitchen table and sitting down to work. What I realized after I started working here was that I also really missed having a sense of community. There's something about surrounding yourself with likeminded people all working towards something that can't be reproduced. 
+I really like getting up in the morning with somewhere to go. It gives my day a lot more intention than just walking from my bedroom to my kitchen table and sitting down to work. What I realized after I started working here was that I also really missed having a sense of community. There's something about surrounding yourself with like-minded people all working towards something that can't be reproduced. 
 
 **What are some ways (if any) we can support you and get involved with your work?**
 
