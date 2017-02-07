@@ -18,7 +18,7 @@ From people on your team at work, to people you rub shoulders with in a shared w
 If working together is important, how do we accomplish the important work?
 
 These two phrases may help.
-
+<!--more-->
 **1."Why Not Both?"**
 
 We make thousands of tiny decisions every day and most of the time we don't even realize it. In these tiny instances "either/or" decision making is fairly inconsequential. Deciding on things like jeans or shorts, pizza or mac and cheese, and the freeway or surface streets can usually be solved easily and without much consequence. (Although as a side note: I do think mac and cheese pizza is pretty amazing. Don't knock it until you try it. Unless you are lactose intolerant. Then definitely don't try it.)
