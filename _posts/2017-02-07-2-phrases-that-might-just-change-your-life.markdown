@@ -1,5 +1,5 @@
 ---
-title: 2 Phrases That Might Just Change Your Life
+title: 2 Phrases That Might Just Change Your Life (and the Lives of Others)
 date: 2017-02-07 01:37:00 Z
 categories:
 - Work
