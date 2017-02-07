@@ -23,9 +23,6 @@ membership:
   - id: access-to-workspaces
     title: Access to Workspaces
     url: /membership/access-to-workspaces
-  - id: gifts-every-month
-    title: Gifts Curated Every Month
-    url: /membership/gifts-every-month
   - id: major-perks
     title: Major Perks
     url: /membership/major-perks
