@@ -1,6 +1,6 @@
 ---
 title: 2 Phrases That Might Just Change Your Life (and the Lives of Others)
-date: 2017-02-07 01:37:00 Z
+date: 2017-02-06 22:37:00 Z
 categories:
 - Work
 tags:
