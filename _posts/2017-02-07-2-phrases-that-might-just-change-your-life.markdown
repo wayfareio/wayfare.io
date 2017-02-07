@@ -1,5 +1,5 @@
 ---
-title: 2 Phrases That Might Just Change Your Life (and the Lives of Others)
+title: "2 Phrases That Might Just Change Your Life (and the Lives of Others)"
 date: 2017-02-07 01:37:00 Z
 categories:
 - Work
@@ -18,9 +18,9 @@ From people on your team at work, to people you rub shoulders with in a shared w
 If working together is important, how do we accomplish the important work?
 
 These two phrases may help.
-<!--more-->
+<!-- more -->
 
-**##1."Why Not Both?"**
+## 1."Why Not Both?"
 
 We make thousands of tiny decisions every day and most of the time we don't even realize it. In these tiny instances "either/or" decision making is fairly inconsequential. Deciding on things like jeans or shorts, pizza or mac and cheese, and the freeway or surface streets can usually be solved easily and without much consequence. (Although as a side note: I do think mac and cheese pizza is pretty amazing. Don't knock it until you try it. Unless you are lactose intolerant. Then definitely don't try it.)
 
@@ -32,7 +32,7 @@ For example, can a person BOTH hold their personal convictions strongly, AND res
 
 I recently heard an eyewitness report of a protest happening at LAX regarding the executive order banning travel and immigration that the President recently made. The protestors were in the way of traffic. The police came and told the protestors that if they remained in the street, they would get arrested. Shortly thereafter, it was reported that an agreement was struck between the police and the protestors. It was decided that the protestors could alternate standing in the street for a specified amount of time thus allowing their protest to remain a protest and not just a demonstration. Then they would retreat to the sidewalk for a specified amount of time before taking the protest back to the street and so on. The police didn't need to make mass arrests and the protestors were still able to protest in an effective way. While I wasn't there and can't speak first-hand to the validity of this report, this struck me as an example of "both/and" thinking.  
 
-**##2. "Help Me Understand"**
+## 2. "Help Me Understand"
 
 About a year ago I was feeling particularly frustrated as I found myself navigating a difficult friendship. I was seeking advice from a couple of friends and in our conversation I exclaimed, "It is just so messy!" To which they both responded. "When you're interacting with real people, in real life, that's exactly what it is...messy."  And in their kindness they didn't leave me hanging, but encouraged me to use these three words -- "Help Me Understand". I now use those three words at least weekly in a variety of circumstances. Some examples: "Help me understand your thought process." "Help me understand how you reached this conclusion." "Help me understand what your experience is like in this." "Help me understand what benefits you see in this."
 
