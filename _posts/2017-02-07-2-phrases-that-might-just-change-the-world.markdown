@@ -16,9 +16,7 @@ I've heard it said that if there is a choice to be right or be kind, choose kind
 
 From people on your team at work, to people you rub shoulders with in a shared workspace (yay coworking!), to working with and advocating on behalf of others, working together is important. As we identify needs in the world around us and consider how we may help, it often means working with people who are different than us. This could mean working with the person or people responsible for the problem you are trying to solve. It could mean joining someone very different than you who feels called to the same work. It could mean working to keep relationships in tact even when we disagree on a lot. We all encounter moments when differences come to the surface and we need to work together to make progress.
 
-If working together is important, how do we accomplish the important work?
-
-These two phrases may help:
+If working together is important, how do we accomplish the important work? Here are two phrases that may help:
 
 ## **1."Why Not Both?"**
 
