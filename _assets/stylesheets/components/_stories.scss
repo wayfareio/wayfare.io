@@ -7,5 +7,9 @@
       p:last-child { margin-bottom: 0; }
     }
   }
-  > .story-footer { border-top: 1px solid $gray-lighter; padding-top: 1rem; margin-top: 2rem; }
+  > .story-footer {
+    border-top: 1px solid $gray-lighter; padding-top: 1rem; margin-top: 2rem;
+    .name { margin-top: 1rem; margin-bottom: 0; }
+    .title { margin-bottom: 1rem; }
+  }
 }

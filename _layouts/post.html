@@ -3,13 +3,33 @@ layout: page
 ---
 
 <section class="story">
-  <img data-src="/wayfareio{{ page.image }}" class="story-img img-fluid img-rounded img-cloud" data-width="1200" data-height="{{ page.image_transformations.height | default:'600' }}" data-crop="fill" data-gravity="{{ page.image_transformations.gravity | default:'faces:center'}}">
-  <h2 class="story-title">{{ page.title }}</h2>
+  <img data-src="/wayfareio{{ page.image }}" class="story-img img-fluid img-rounded img-cloud m-b-2" data-width="1200" data-height="{{ page.image_transformations.height | default:'600' }}" data-crop="fill" data-gravity="{{ page.image_transformations.gravity | default:'faces:center'}}">
+  <header class="story-header">
+    <h2 class="story-title">{{ page.title }}</h2>
+    <p><strong>{{ page.date | date:"%B %e, %Y" }}</strong></p>
+  </header>
   <div class="story-text">
     {{ content }}
   </div>
   <footer class="story-footer">
-    <h4>{{ page.author }}</h4>
-    <p>by {{ page.date | date:"%B %e, %Y" }}</p>
+    <div class="row author">
+      {% assign author = site.authors | where:"title", page.author  | first %}
+      {% if author.bio_image %}
+        <div class="col-sm-4 col-lg-3">
+          <img class="img-circle img-fluid m-b-2" src="{{ author.bio_image }}" alt="{{ author.title }}: {{ author.job_title }}" data-rjs="2">
+        </div>
+        <div class="col-sm-8 col-lg-9">
+      {% else %}
+        <div class="col-xs-12">
+      {% endif %}
+        <h4 class="name">{{ author.title }}</h4>
+        {% if author.job_title %}
+          <h5 class="title">{{ author.job_title }} @ {{ author.company_name }}</h5>
+        {% endif %}
+        {% if author.content %}
+          {{ author.content | markdownify }}
+        {% endif %}
+      </div>
+    </div>
   </footer>
 </section>
