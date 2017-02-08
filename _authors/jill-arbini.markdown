@@ -7,4 +7,4 @@ bio_image: "/assets/images/jill-arbini.jpg"
 is_guest: false
 ---
 
-With a degree in social work and a love of words, Jill loves her work as the Marketing Coordinator for Wayfare where she develops content and gathers stories with the goal of inspiring and equipping people in their work and life. 
+With a degree in social work and a love of words, Jill enjoys her work as the Marketing Coordinator for Wayfare where she develops content and gathers stories with the goal of inspiring and equipping people in their work and life. 
