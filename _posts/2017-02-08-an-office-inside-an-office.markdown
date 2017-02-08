@@ -14,7 +14,7 @@ You started something! That's a big deal. Whether you've been at it for awhile o
 
 "Wayfare fosters a unique culture and brings together a big family. This aligns with the philosophy that's deeply rooted in the business."- Han L., [Morale Agency](http://www.moraleagency.com)
 
-Starting or running your own business is hard and can be emotionally draining. It is great to be able to share some of the things that are going on in our work and receive encouragement from others who have walked or are walking the same path.  Sometimes all you need is the encouragement to keep going, or some insight that you'd likely never come up with on your own.  That is where being surrounded by other people outside of your own organization is a huge help.  
+We wholeheartedly agree! Running your own business or organization is hard and can be draining. It is great to be able to share some of the things that are going on in our work and receive encouragement from others who have walked or are walking the same path.  Sometimes all you need is the encouragement to keep going or some insight that you'd likely never come up with on your own. That is where being surrounded by other people outside of your own organization is a huge help. 
 
 ## Flexibility in Team Growth
 
