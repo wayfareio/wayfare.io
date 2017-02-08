@@ -5,4 +5,3 @@ company_name: Mika
 job_title: Director of Mika Leadership Institute Kids
 is_guest: true
 ---
-

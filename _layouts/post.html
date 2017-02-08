@@ -6,9 +6,12 @@ layout: page
   <img data-src="/wayfareio{{ page.image }}" class="story-img img-fluid img-rounded img-cloud m-b-2" data-width="1200" data-height="{{ page.image_transformations.height | default:'600' }}" data-crop="fill" data-gravity="{{ page.image_transformations.gravity | default:'faces:center'}}">
   <header class="story-header">
     <h2 class="story-title">{{ page.title }}</h2>
-    <p><strong>{{ page.date | date:"%B %e, %Y" }}</strong></p>
   </header>
   <div class="story-text">
+    {% if page.guest_intro_text %}
+      {{ page.guest_intro_text | markdownify }}
+      <hr>
+    {% endif %}
     {{ content }}
   </div>
   <footer class="story-footer">
@@ -31,5 +34,19 @@ layout: page
         {% endif %}
       </div>
     </div>
+    {% if page.custom_cta_text %}{% assign cta = page.custom_cta_text %}{% endif %}
+    {% unless cta %}{% assign cta = site.ctas | where:"title", page.cta | first %}{% endunless %}
+    {% unless cta %}{% assign cta = site.ctas | where:"title", page.categories[0] | first %}{% endunless %}
+    {% if cta %}
+      <div class="row cta">
+        <div class="col-xs-12">
+          <div class="card">
+            <div class="card-block">
+              {{ cta | markdownify }}
+            </div>
+          </div>
+        </div>
+      </div>
+    {% endif %}
   </footer>
 </section>
