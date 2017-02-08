@@ -5,3 +5,4 @@ company_name: Wayfare
 job_title: CEO
 bio_image: "/assets/images/brandon-arbini.jpg"
 ---
+
