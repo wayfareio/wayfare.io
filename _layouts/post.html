@@ -37,6 +37,7 @@ layout: page
     {% if page.custom_cta_text %}{% assign cta = page.custom_cta_text %}{% endif %}
     {% unless cta %}{% assign cta = site.ctas | where:"title", page.cta | first %}{% endunless %}
     {% unless cta %}{% assign cta = site.ctas | where:"title", page.categories[0] | first %}{% endunless %}
+    {% unless cta %}{% assign cta = site.ctas | where:"title", "Default" | first %}{% endunless %}
     {% if cta %}
       <div class="row cta">
         <div class="col-xs-12">
