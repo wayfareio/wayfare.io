@@ -7,4 +7,3 @@ bio_image: "/assets/images/jill-arbini.jpg"
 is_guest: false
 ---
 
-Jill works on events at Wayfare which is a job she loves, as it allows her to combine celebrating the beauty in this world and raising awareness + prompting action towards restoring the broken.
