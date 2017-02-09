@@ -7,15 +7,15 @@ tags:
 - startups
 - community
 - office
-author: Jill Arbini
+author: The Wayfare Team
 ---
 
 You started something! That's a big deal. Whether you've been at it for awhile or you are just starting out, you might find yourself exploring the idea of moving to your own office space. Next step...secure a lease, right? Maybe not. 
 
-We've asked a few of the members that work out Wayfare full time why they have chosen to have their offices and build their team inside of the a shared workspace environment rather than in their own private office space. A few main themes came up: The Community, The Flexibility, and Business Growth.  
+We've asked a few of the members that work out Wayfare full time why they have chosen to have their offices and build their team inside of the a shared workspace environment rather than in their own private office space. A few main themes came up: [The Community](https://wayfare.io/membership/), [The Flexibility](https://wayfare.io/membership/faq/), and [Business Opportunities](https://wayfare.io/startups/).  
 <!-- more -->
  
-## The Community (for you and your team) 
+### The Community (for you and your team) 
 
 > We love having our own personal space, but I also love seeing how my team is part of the greater community of people within Wayfare. I think it helps them have a better work experience than we'd have if our team was isolated in our own space without interaction and encouragement from others.-Jon F., [Cappital](http://www.cappital.co) 
 
@@ -25,13 +25,13 @@ We've asked a few of the members that work out Wayfare full time why they have c
 
 We wholeheartedly agree! Running your own business or organization is hard and can be draining. It is great to be able to share some of the things that are going on in your work and receive encouragement from others who have walked or are walking the same path. Sometimes all you need is the encouragement to keep going or some insight that you'd likely never come up with on your own. That is where being surrounded by other people outside of your own organization is a huge help. 
 
-## Flexibility in Team Growth
+### Flexibility in Team Growth
 
 > "When you are starting something new and growing your team it is impossible to know how quickly or how slowly you'll grow. The month-to-month flexibility and the ability to add employees as we grow is the perfect solution for us. We don't need to keep moving offices as we add more people. We keep our dedicated office and just add employees who can work out of the main coworking space and the office.-Jon. F., [Cappital](http://www.cappital.co)
 
 When you have a dedicated office space at Wayfare you are welcome to work in the main workspace as well. This is a great option if you are looking for a change of scenery or to accommodate a growing team.  As you make new hires, you can easily add them on without needing to move offices. At Wayfare you aren't committed to an office lease.  
   
-## Opportunities for Collaboration and Business Growth
+### Opportunities for Collaboration and Business Growth
 
 > "To put it simply, Neat Coffee would not currently exist without Wayfare. Not only have you provided me with a space in which to test out my dreams, but you have been so supportive and helpful from the second the idea was born. From creating projections for my business, to giving great advice on a weekly basis...you have played an integral role in making Neat Coffee successful.-Ally G., [Neat Coffee](http://www.neat.coffee)
 
