@@ -14,7 +14,7 @@ We've asked a few of the members that work out Wayfare full time why they have c
 
 > We love having our own personal space, but I also love seeing how my team is part of the greater community of people within Wayfare. I think it helps them have a better work experience than we'd have if our team was isolated in our own space without interaction and encouragement from others. -Jon F., [Cappital](http://www.cappital.co) 
 
-> I came from working alone in a windowless office to a place where there is life happening to the fullest. I no longer leave my day exhausted and drained, but with new ideas, new questions, and a new sense of energy to take me into the next day. -Erica N., [Redemption Church](http://redemptionchurch.org)
+> I came from working alone in a windowless office to a place where there is life happening to the fullest. I no longer leave my day exhausted and drained, but with new ideas, new questions, and a new sense of energy to take me into the next day." -Erica N., [Redemption Church](http://redemptionchurch.org)
 
 > Wayfare fosters a unique culture and brings together a big family. This aligns with the philosophy that's deeply rooted in [our] business."- Han L., [Morale Agency](http://www.moraleagency.com)
 
