@@ -12,25 +12,31 @@ We've asked a few of the members that work out Wayfare full time why they have c
  
 ## The Community (for you and your team) 
 
-> We love having our own personal space, but I also love seeing how my team is part of the greater community of people within Wayfare. I think it helps them have a better work experience than we'd have if our team was isolated in our own space without interaction and encouragement from others. -Jon F., [Cappital](http://www.cappital.co) 
+> We love having our own personal space, but I also love seeing how my team is part of the greater community of people within Wayfare. I think it helps them have a better work experience than we'd have if our team was isolated in our own space without interaction and encouragement from others. 
+-Jon F., [Cappital](http://www.cappital.co) 
 
-> I came from working alone in a windowless office to a place where there is life happening to the fullest. I no longer leave my day exhausted and drained, but with new ideas, new questions, and a new sense of energy to take me into the next day. -Erica N., [Redemption Church](http://redemptionchurch.org)
+> I came from working alone in a windowless office to a place where there is life happening to the fullest. I no longer leave my day exhausted and drained, but with new ideas, new questions, and a new sense of energy to take me into the next day. 
+-Erica N., [Redemption Church](http://redemptionchurch.org)
 
-> Wayfare fosters a unique culture and brings together a big family. This aligns with the philosophy that's deeply rooted in [our] business. -Han L., [Morale Agency](http://www.moraleagency.com)
+> Wayfare fosters a unique culture and brings together a big family. This aligns with the philosophy that's deeply rooted in [our] business. 
+-Han L., [Morale Agency](http://www.moraleagency.com)
 
 We wholeheartedly agree! Running your own business or organization is hard and can be draining. It is great to be able to share some of the things that are going on in your work and receive encouragement from others who have walked or are walking the same path. Sometimes all you need is the encouragement to keep going or some insight that you'd likely never come up with on your own. That is where being surrounded by other people outside of your own organization is a huge help. 
 
 ## Flexibility in Team Growth
 
-> "When you are starting something new and growing your team it is impossible to know how quickly or how slowly you'll grow. The month-to-month flexibility and the ability to add employees as we grow is the perfect solution for us. We don't need to keep moving offices as we add more people. We keep our dedicated office and just add employees who can work out of the main coworking space and the office. -Jon. F., [Cappital](http://www.cappital.co)
+> "When you are starting something new and growing your team it is impossible to know how quickly or how slowly you'll grow. The month-to-month flexibility and the ability to add employees as we grow is the perfect solution for us. We don't need to keep moving offices as we add more people. We keep our dedicated office and just add employees who can work out of the main coworking space and the office. 
+-Jon. F., [Cappital](http://www.cappital.co)
 
 When you have a dedicated office space at Wayfare you are welcome to work in the main workspace as well. This is a great option if you are looking for a change of scenery or to accommodate a growing team.  As you make new hires, you can easily add them on without needing to move offices. At Wayfare you aren't committed to an office lease.  
   
 ## Opportunities for Collaboration and Business Growth
 
-> "To put it simply, Neat Coffee would not currently exist without Wayfare. Not only have you provided me with a space in which to test out my dreams, but you have been so supportive and helpful from the second the idea was born. From creating projections for my business, to giving great advice on a weekly basis...you have played an integral role in making Neat Coffee successful. -Ally G. [Neat Coffee](http://www.neat.coffee)
+> "To put it simply, Neat Coffee would not currently exist without Wayfare. Not only have you provided me with a space in which to test out my dreams, but you have been so supportive and helpful from the second the idea was born. From creating projections for my business, to giving great advice on a weekly basis...you have played an integral role in making Neat Coffee successful. 
+-Ally G., [Neat Coffee](http://www.neat.coffee)
 
-> "Having the ability to make connections and interact with people within the greater coworking community provides natural ways to connect and grow our business, gain customers and connections, and explore new ideas. Being a part of this community allows us to get to know so many people who can speak into what we are doing and help us see things from a new perspective because they have an outside point of view that we don't have. -Jon F., [Cappital](http://www.cappital.co)
+> "Having the ability to make connections and interact with people within the greater coworking community provides natural ways to connect and grow our business, gain customers and connections, and explore new ideas. Being a part of this community allows us to get to know so many people who can speak into what we are doing and help us see things from a new perspective because they have an outside point of view that we don't have. 
+-Jon F., [Cappital](http://www.cappital.co)
 
 We have countless stories of people within the workspace and the greater advisor network helping each other out with projects, gaining business through connections with fellow members, and receiving insight on how to run their organization more effectively by rubbing shoulders with others. We'd love for you to be one of them.  [Let us know](https://wayfare.typeform.com/to/YW0Nce) if you're interested in working out of Wayfare or if you'd like to see the private offices currently available. 
 
