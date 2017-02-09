@@ -20,7 +20,7 @@ We wholeheartedly agree! Running your own business or organization is hard and c
 
 > "When you are starting something new and growing your team it is impossible to know how quickly or how slowly you'll grow. The month-to-month flexibility and the ability to add employees as we grow is the perfect solution for us. We don't need to keep moving offices as we add more people. We keep our dedicated office and just add employees who can work out of the main coworking space and the office." - Jon. F., [Cappital](http://www.cappital.co)
 
-When you have a dedicated office space at Wayfare you are welcome to work in the main workspace as well. This is a great option if you are looking for a change of scenery or to accommodate a growing team.  As you make new hires, you can easily add them on without needing to move offices. At Wayfare you aren't committed to an office leases.  
+When you have a dedicated office space at Wayfare you are welcome to work in the main workspace as well. This is a great option if you are looking for a change of scenery or to accommodate a growing team.  As you make new hires, you can easily add them on without needing to move offices. At Wayfare you aren't committed to an office lease.  
   
 ## Opportunities for Collaboration and Business Growth
 
