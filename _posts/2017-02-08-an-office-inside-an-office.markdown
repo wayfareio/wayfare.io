@@ -4,7 +4,9 @@ date: 2017-02-08 05:06:00 Z
 published: false
 ---
 
-You started something! That's a big deal. Whether you've been at it for awhile or you are just starting out and are exploring the idea of moving to your own office space. We've asked a few of the members that work out Wayfare full time why they have chosen to have their offices and build their team inside of the a shared workspace environment rather than in their own private office space. A few main themes came up: Community, Flexibility, Resources, and Business Growth.  
+You started something! That's a big deal. Whether you've been at it for awhile or you are just starting out, you might fine yourself exploring the idea of moving to your own office space.
+
+We've asked a few of the members that work out Wayfare full time why they have chosen to have their offices and build their team inside of the a shared workspace environment rather than in their own private office space. A few main themes came up: Community, Flexibility, and Business Growth.  
  
 ## The Community (for you and your team) 
 
@@ -12,7 +14,7 @@ You started something! That's a big deal. Whether you've been at it for awhile o
 
 > I came from working alone in a windowless office to a place where there is life happening to the fullest. I no longer leave my day exhausted and drained, but with new ideas, new questions, and a new sense of energy to take me into the next day." -Erica N., [Redemption Church](http://redemptionchurch.org)
 
-> "Wayfare fosters a unique culture and brings together a big family. This aligns with the philosophy that's deeply rooted in [our] business."- Han L., [Morale Agency](http://www.moraleagency.com)
+> Wayfare fosters a unique culture and brings together a big family. This aligns with the philosophy that's deeply rooted in [our] business."- Han L., [Morale Agency](http://www.moraleagency.com)
 
 We wholeheartedly agree! Running your own business or organization is hard and can be draining. It is great to be able to share some of the things that are going on in your work and receive encouragement from others who have walked or are walking the same path. Sometimes all you need is the encouragement to keep going or some insight that you'd likely never come up with on your own. That is where being surrounded by other people outside of your own organization is a huge help. 
 
@@ -28,4 +30,5 @@ When you have a dedicated office space at Wayfare you are welcome to work in the
 
 > "Having the ability to make connections and interact with people within the greater coworking community provides natural ways to connect and grow our business, gain customers and connections, and explore new ideas. Being a part of this community allows us to get to know so many people who can speak into what we are doing and help us see things from a new perspective because they have an outside point of view that we don't have." -Jon. F., [Cappital](http://www.cappital.co)
 
+We have countless stories of people within the workspace and the greater advisor network helping each other out with projects, gaining business through connections with fellow members, and receiving insight on how to run their organization more effectively by rubbing shoulders with others. We'd love for you to be one of them.  [Let us know](https://wayfare.typeform.com/to/YW0Nce) if you're interested in working out of Wayfare or if you'd like to see the private offices currently available. 
 
