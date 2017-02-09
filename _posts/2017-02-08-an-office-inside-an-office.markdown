@@ -1,6 +1,5 @@
 ---
-title: Coworking as  Team?  3 Reasons Why it's A Good Choice for You, Your Team &
-  Your Organization
+title: Coworking as  Team?  3 Reasons Why it's Good for You, Your Team & Your Organization
 date: 2017-02-08 05:06:00 Z
 published: false
 tags:
