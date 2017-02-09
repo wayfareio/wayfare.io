@@ -1,5 +1,5 @@
 ---
-title: An Office Inside an Office.
+title: An Office Inside An Office? Yep!
 date: 2017-02-08 05:06:00 Z
 published: false
 author: Jill Arbini
@@ -40,9 +40,6 @@ When you have a dedicated office space at Wayfare you are welcome to work in the
  
 -Ally G., [Neat Coffee](http://www.neat.coffee)
 
-> "Having the ability to make connections and interact with people within the greater coworking community provides natural ways to connect and grow our business, gain customers and connections, and explore new ideas. Being a part of this community allows us to get to know so many people who can speak into what we are doing and help us see things from a new perspective because they have an outside point of view that we don't have.
- 
--Jon F., [Cappital](http://www.cappital.co)
+> "Having the ability to make connections and interact with people within the greater coworking community provides natural ways to connect and grow our business, gain customers and connections, and explore new ideas. Being a part of this community allows us to get to know other people who can speak into what we are doing and see things from a new perspective because they have an outside point of view that we don't have.-Jon F., [Cappital](http://www.cappital.co)
 
-We have countless stories of people within the workspace and the greater advisor network helping each other out with projects, gaining business through connections with fellow members, and receiving insight on how to run their organization more effectively by rubbing shoulders with others. We'd love for you to be one of them.  [Let us know](https://wayfare.typeform.com/to/YW0Nce) if you're interested in working out of Wayfare or if you'd like to see the private offices currently available. 
-
+We have  so many have stories of people within the workspace and the greater advisor network helping each other out with projects, gaining business through connections with fellow members, and receiving insight on how to run their organization more effectively by rubbing shoulders with others. We'd love for you to be one of them.  [Let us know](https://wayfare.typeform.com/to/YW0Nce) if you're interested in having a private office at Wayfare. We'd love to show you around!
