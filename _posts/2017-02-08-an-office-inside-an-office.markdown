@@ -7,7 +7,6 @@ tags:
 - startups
 - community
 - office
-author: The Wayfare Team
 ---
 
 You started something! That's a big deal. Whether you've been at it for awhile or you are just starting out, you might find yourself exploring the idea of moving to your own office space. Next step...secure a lease, right? Maybe not. 
