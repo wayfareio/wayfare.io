@@ -13,13 +13,17 @@ nav:
   site:
     highlight: startups
 programs:
-- title: Pilot Weekend
-  url: "/startups/pilot-weekend"
+- title: Idea Weekend
+  url: "/startups/idea-weekend"
   image: "/assets/images/startups-pilot.jpg"
   description: Whether you have an abstract idea to make the world a better place,
     you've nailed that idea down and want the structure and community to begin taking
     meaningful action, or you want to pilot a new product within your existing organization,
-    we invite you to join us for our Pilot Weekend.
+    we invite you to join us for our Idea Weekend.
+- title: Pilot Program
+  url: "/startups/pilot-program"
+  image: "/assets/images/startups-pilot.jpg"
+  description: Fill in blurb here.
 - title: Launch Program
   url: "/startups/launch-program"
   image: "/assets/images/startups-launch.jpg"
@@ -46,4 +50,3 @@ programs:
     **Sponsored by [SimplyWin](http://simplywin.com)**
 layout: custom/startups
 ---
-
