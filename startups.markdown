@@ -23,7 +23,11 @@ programs:
 - title: Pilot Program
   url: "/startups/pilot-program"
   image: "/assets/images/startups-pilot-program.jpg"
-  description: Pilot is a subscription based online program designed to help you build and test your ideas to solve a problem or issue in the world you care about. Pilot gives you the practical, spiritual, and emotional support you need to begin taking purposeful action on your meaningful idea, and ultimately arrive at what we call MVP (a minimum viable product, program or service). 
+  description: Pilot is a subscription based online program designed to help you build
+    and test your ideas to solve a problem or issue in the world you care about. Pilot
+    gives you the practical, spiritual, and emotional support you need to begin taking
+    purposeful action on your meaningful idea, and ultimately arrive at what we call
+    MVP (a minimum viable product, program or service).
 - title: Launch Program
   url: "/startups/launch-program"
   image: "/assets/images/startups-launch.jpg"
@@ -50,3 +54,4 @@ programs:
     **Sponsored by [SimplyWin](http://simplywin.com)**
 layout: custom/startups
 ---
+
