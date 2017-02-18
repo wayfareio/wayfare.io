@@ -28,7 +28,7 @@ You’re ready for the support of a likeminded community to remind you that you 
 
 ### What Can I Expect From Pilot Program?
 
-Our hope is that you will arrive at MVP (Minimum viable product, program, or service). This means:
+Our hope is that you will arrive at MVP (minimum viable product, program, or service). This means:
 
 * Your idea has a well articulated purpose and objective connected to your unique story and journey. This is what makes your idea so compelling and inspiring!
 * You’ve developed well articulated problem & solution statements. The problem or issue you’re addressing in the world is clear – and your solution is not only deeply rooted in your personal “why”, but it’s also a valuable and well-formed solution to the problem you’ve observed in the world that best meets the needs of the population you’re serving.
@@ -57,8 +57,8 @@ Our hope is that you will arrive at MVP (Minimum viable product, program, or ser
 
 **Pricing:** $97 a month (billed on the 1st of each month)
 
-{% button url:"https://wayfare.typeform.com/to/ahPimp" text:"Enroll Now" size:"lg" class:"m-y-1" %}
+{% button url:"https://wayfare.chargify.com/subscribe/y344ppnb8st5/pilot" text:"Enroll Now" size:"lg" class:"m-y-1" %}
 
 ### Please don't hesitate to contact us with questions
 
-{% button text:"Contact Us" url:"/locations/costa-mesa/contact" %}
+{% button text:"Contact Us" url:"/locations/costa-mesa/contact" size:"lg" %}

@@ -1,0 +1,17 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<line fill="none" stroke="#555" stroke-linecap="round" stroke-linejoin="round" x1="21.1" y1="6.5" x2="22.4" y2="5.9"/>
+<g id="Outline_Icons">
+	<g>
+		<path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M20.7,5.1L7.1,11
+			l-3-1.5L0.6,11l4.5,4.5l7.5-3l-3,8l4-2l4-8l4.7-1.8c1-0.4,1.5-1.6,1.1-2.6S21.8,4.6,20.7,5.1z"/>
+		<polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="16.2,7
+			9.6,4.3 5.9,5.8 12.6,8.6 		"/>
+	</g>
+</g>
+<g id="invisible_shape">
+	<rect fill="none" width="24" height="24"/>
+</g>
+<line fill="none" stroke="#555" stroke-linecap="round" stroke-linejoin="round" x1="0.7" y1="17" x2="3.3" y2="16"/>
+<line fill="none" stroke="#555" stroke-linecap="round" stroke-linejoin="round" x1="0.7" y1="15.2" x2="2" y2="14.7"/>
+</svg>
