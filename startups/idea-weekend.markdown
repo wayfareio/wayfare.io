@@ -8,8 +8,9 @@ nav:
   side:
     id: startups
     highlight: startups-idea-weekend
-redirect_from: "/startups/pilot-conference"
-redirect_from: "/startups/pilot-weekend"
+redirect_from:
+- "/startups/pilot-conference"
+- "/startups/pilot-weekend"
 pricing:
   prices:
   - dates: Early Registration
