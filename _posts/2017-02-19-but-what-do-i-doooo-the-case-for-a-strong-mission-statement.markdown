@@ -1,7 +1,6 @@
 ---
 title: '"But What Do I Doooo?": The Case for a Strong Mission Statement'
 date: 2017-02-19 17:27:00 Z
-published: false
 categories:
 - Work
 tags:
