@@ -79,4 +79,4 @@ The next Idea Weekend is in **April 2017** (dates still TBD).
 * Facilitated Group Collaboration
 * Presentations
 
-{% button url:"https://wayfare.typeform.com/to/ahPimp" text:"Buy Your Ticket" size:"lg" class:"m-y-1" %}
+{% button url:"https://wayfare.ticketleap.com/idea-weekend/" text:"Buy Your Ticket" size:"lg" class:"m-y-1" %}
