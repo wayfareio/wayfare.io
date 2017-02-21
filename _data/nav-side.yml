@@ -38,9 +38,12 @@ membership:
 startups:
   - id: startups-title
     title: Startups
-  - id: startups-pilot-weekend
-    title: Pilot Weekend
-    url: /startups/pilot-weekend
+  - id: startups-idea-weekend
+    title: Idea Weekend
+    url: /startups/idea-weekend
+  - id: startups-pilot-program
+    title: Pilot Program
+    url: /startups/pilot-program
   - id: startups-launch
     title: Launch Program
     url: /startups/launch-program

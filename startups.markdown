@@ -16,13 +16,21 @@ nav:
   site:
     highlight: startups
 programs:
-- title: "[Pilot](/startups/pilot-weekend)"
-  url: "/startups/pilot-weekend"
+- title: "[Idea Weekend](/startups/idea-weekend)"
+  url: "/startups/idea-weekend"
   image: "/assets/images/startups-pilot.jpg"
   description: Whether you have an abstract idea to make the world a better place,
     you've nailed that idea down and want the structure and community to begin taking
     meaningful action, or you want to pilot a new product within your existing organization,
-    we invite you to join us for our Pilot Weekend.
+    we invite you to join us for our Idea Weekend.
+- title: Pilot Program
+  url: "/startups/pilot-program"
+  image: "/assets/images/startups-pilot-program.jpg"
+  description: Pilot is a subscription based online program designed to help you build
+    and test your ideas to solve a problem or issue in the world you care about. Pilot
+    gives you the practical, spiritual, and emotional support you need to begin taking
+    purposeful action on your meaningful idea, and ultimately arrive at what we call
+    MVP (a minimum viable product, program or service).
 - title: "[Launch](/startups/launch-program)"
   url: "/startups/launch-program"
   image: "/assets/images/startups-launch.jpg"

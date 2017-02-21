@@ -1,14 +1,16 @@
 ---
-title: Pilot Weekend
-page_title: 'Startups: Pilot Weekend'
+title: Idea Weekend
+page_title: 'Startups: Idea Weekend'
 nav:
-  id: pilot-weekend
+  id: idea-weekend
   site:
     highlight: startups
   side:
     id: startups
-    highlight: startups-pilot-weekend
-redirect_from: "/startups/pilot-conference"
+    highlight: startups-idea-weekend
+redirect_from:
+- "/startups/pilot-conference"
+- "/startups/pilot-weekend"
 pricing:
   prices:
   - dates: Early Registration
@@ -17,16 +19,16 @@ pricing:
     price: "$47"
   note: Deposit due with application & applies to conference fees. Pricing includes
     three day conference, all meals, materials, workbooks and goodies.
-layout: custom/startups/pilot-weekend
+layout: custom/startups/idea-weekend
 ---
 
 ### Overview
 
-Pilot Weekend is designed to help you begin bringing to life that world-changing idea that you are passionate about. Whether you are a founder with a brand new idea or you are piloting a new product within your existing organization, Pilot Weekend is designed specifically for you. The Pilot Weekend kick-starts your plan and helps you create the roadmap for your idea to become a reality alongside a community of other dreamers, doers, and adventurers for the common good.
+Idea Weekend is designed to help you begin bringing to life that world-changing idea that you are passionate about. Whether you are a founder with a brand new idea or you are piloting a new product within your existing organization, Idea Weekend is designed specifically for you. Idea Weekend kick-starts your plan and helps you create the roadmap for your idea to become a reality alongside a community of other dreamers, doers and adventurers for the common good.
 
-The Pilot Weekend combines insight from startup experts with hands-on application in a workshop setting. You will leave with a roadmap of action steps to pilot your idea and create a minimum viable product or service. You'll be led by a variety of passionate founders who have extensive experience in startup, social enterprise, and non-profit work.
+Idea Weekend combines insight from startup experts with hands-on application in a workshop setting. You will leave with a roadmap of action steps to pilot your idea and create a minimum viable product or service. You'll be led by a variety of passionate founders who have extensive experience in startup, social enterprise, and non-profit work.
 
-The next Pilot Weekend is in **April 2017** (dates still TBD).
+The next Idea Weekend is in **April 2017** (dates still TBD).
 
 ---
 
@@ -77,4 +79,4 @@ The next Pilot Weekend is in **April 2017** (dates still TBD).
 * Facilitated Group Collaboration
 * Presentations
 
-{% button url:"https://wayfare.typeform.com/to/ahPimp" text:"Apply Now" size:"lg" class:"m-y-1" %}
+{% button url:"https://wayfare.typeform.com/to/ahPimp" text:"Buy Your Ticket" size:"lg" class:"m-y-1" %}
