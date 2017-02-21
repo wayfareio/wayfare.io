@@ -1,24 +1,44 @@
 ---
-layout: page
+layout: site
 ---
 
-<div class="card-left-features">
-  {% for program in page.programs %}
-    <div class="card card-left-feature">
-      <div class="card-left-feature-img">
-        <a href="{{ program.url }}" class="_no-underline">
-          <img src="{{ program.image }}" alt="{{ program.title }}">
-        </a>
-      </div>
-      <div class="card-block">
-        <a href="{{ program.url }}" class="_no-underline">
-          <h3 class="card-title"><strong>{{ program.title }}</strong></h3>
-        </a>
-        <div class="card-text">
-          {{ program.description | markdownify }}
-          <p><a href="{{ program.url }}" class="btn btn-primary">Learn more</a></p>
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+      {% include page-lead.html %}
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-12">
+      <p class="text-xs-center">PHOTOS</p>
+    </div>
+  </div>
+</div>
+<div class="p-a-1 p-t-2 bg-faded">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <h3 class="text-uppercase text-xs-center">Programs</h3>
+        <div class="card-deck card-deck-4">
+          {% for program in page.programs %}
+            <div class="card">
+              <a href="{{ program.url }}" class="_no-underline">
+                <img data-src="/wayfareio{{ program.image }}" alt="{{ program.title }}" class="card-img-top img-fluid img-cloud">
+              </a>
+              <div class="card-block">
+                {% include icon.html name="compass" classes="icon-xl icon-block icon-center" %}
+                <h5 class="card-title text-xs-center text-uppercase m-t-2 m-b-1">
+                  {{ program.title | markdownify | remove:'<p>' | remove:'</p>' }}
+                </h5>
+                <div class="card-text">
+                  {{ program.description | markdownify }}
+                  <p><a href="{{ program.url }}" class="btn btn-primary">Learn more</a></p>
+                </div>
+              </div>
+            </div>
+          {% endfor %}
         </div>
       </div>
     </div>
-  {% endfor %}
+  </div>
 </div>

@@ -8,19 +8,22 @@ lead:
     We provide the space and support to founders so that they can turn their ideas
     into reality. Wayfare's startup programs guide founders and organizations from
     idea stage all the way through sustainable impact.
+  buttons:
+  - title: Inquire Now
+    url: /startups
 nav:
   id: startups
   site:
     highlight: startups
 programs:
-- title: Pilot Weekend
+- title: "[Pilot](/startups/pilot-weekend)"
   url: "/startups/pilot-weekend"
   image: "/assets/images/startups-pilot.jpg"
   description: Whether you have an abstract idea to make the world a better place,
     you've nailed that idea down and want the structure and community to begin taking
     meaningful action, or you want to pilot a new product within your existing organization,
     we invite you to join us for our Pilot Weekend.
-- title: Launch Program
+- title: "[Launch](/startups/launch-program)"
   url: "/startups/launch-program"
   image: "/assets/images/startups-launch.jpg"
   description: Launch is an hyper-local 20-week intensive program based in Orange
@@ -29,7 +32,7 @@ programs:
     of other like-minded founders. Together you will receive the practical, emotional,
     and spiritual support you need to propel your product, program, or service into
     a comprehensive business model.
-- title: Growth Program
+- title: "[Growth](https://wayfare.typeform.com/to/dFUr0x)"
   url: https://wayfare.typeform.com/to/dFUr0x
   image: "/assets/images/startups-growth.jpg"
   description: 'The Growth Program is designed to help you grow and scale your organization
@@ -37,7 +40,7 @@ programs:
     based on your organization’s unique needs and can include things such as: monthly
     gatherings with other startup founders, access to special work sessions and coaching
     and advising packages.'
-- title: Impact Program
+- title: "[Impact](https://wayfare.typeform.com/to/f29ZAn)"
   url: https://wayfare.typeform.com/to/f29ZAn
   image: "/assets/images/startups-impact.jpg"
   description: |-
@@ -46,4 +49,3 @@ programs:
     **Sponsored by [SimplyWin](http://simplywin.com)**
 layout: custom/startups
 ---
-

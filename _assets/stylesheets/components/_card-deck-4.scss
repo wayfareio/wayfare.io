@@ -1,0 +1,4 @@
+@include media-breakpoint-down(md) {
+  .card-deck-4 { margin-bottom: -0.5rem; }
+  .card-deck-4 .card { flex: 1 1 calc(50% - 1.25rem); margin-bottom: 1rem; }
+}
