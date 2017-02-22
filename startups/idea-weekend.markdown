@@ -24,7 +24,7 @@ layout: custom/startups/idea-weekend
 
 ### Overview
 
-Idea Weekend is designed to help you begin bringing to life that world-changing idea that you are passionate about. Whether you are a founder with a brand new idea or you are piloting a new product within your existing organization, Idea Weekend is designed specifically for you. Idea Weekend kick-starts your plan and helps you create the roadmap for your idea to become a reality alongside a community of other dreamers, doers and adventurers for the common good.
+Idea Weekend is designed to help you begin bringing to life the world-changing idea that you are passionate about. Whether you are a founder with a brand new idea or you are thinking a adding about a new product or service to your existing organization, Idea Weekend is designed specifically for you. Idea Weekend kick-starts your plan and helps you create the roadmap for your idea to become a reality alongside a community of other dreamers, doers and adventurers for the common good.
 
 Idea Weekend combines insight from startup experts with hands-on application in a workshop setting. You will leave with a roadmap of action steps to pilot your idea and create a minimum viable product or service. You'll be led by a variety of passionate founders who have extensive experience in startup, social enterprise, and non-profit work.
 
@@ -36,9 +36,9 @@ The next Idea Weekend is in **April 2017** (dates still TBD).
 
 **Meals**: You can't get much done on an empty stomach so you'll experience four family-style meals that will keep you fueled throughout the weekend (and unlimited coffee too! What?!).
 
-**Workbook**: You'll receive a comprehensive workbook covering retreat topics and action steps for when you leave.
+**Workbook**: You'll receive a comprehensive workbook covering all of the weekend's topics and action steps for when you leave.
 
-**Speakers**: Many speakers will present on a series of essential topics, all geared toward helping you build a viable product, service, or program.
+**Speakers**: Speakers will present on a series of essential topics, all geared toward helping you build a viable product, service, or program.
 
 **Community**: Good ideas become great in the context of community. You will have opportunities for intentional interaction with other participants at the weekend and in the months to come.
 
