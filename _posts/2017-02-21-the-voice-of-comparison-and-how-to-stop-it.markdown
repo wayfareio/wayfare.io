@@ -1,9 +1,20 @@
 ---
 title: The Voice of Comparison (and How to Stop it)
-date: 2017-02-22 05:43:00 Z
+date: 2017-02-21 05:43:00 Z
+categories:
+- Life
+tags:
+- creativity
+- purpose
+- ideas
+- world
+- homeless
+- strengths
+- relationships
+image: "/uploads/comparison-blog-resized.jpg"
 ---
 
-There’s a not so subtle voice that wells up inside of me more often than I’d like to admit. It’s the ugly voice of comparison. This voice leads to one of two problematic feelings for me: inferiority or superiority. Because the truth about comparison is that it goes both ways. It’s the voice that says what I do doesn’t matter, because someone else is doing something better. It is the voice that minimizes what others do because I don’t see the value in it or understand it. It’s the voice that tells me I don’t have anything to offer because I don’t have everything together. It’s the voice that also says I don’t need to feel too bad about my shortcomings, because at least I’m not quite as much of a mess as so-and-so. But today I’d like to boldly declare, regardless of what it says, **the voice of comparison is a liar.** 
+There’s a not so subtle voice that wells up inside of me more often than I’d like to admit. It’s the ugly voice of comparison. This voice leads to one of two problematic feelings for me: inferiority or superiority. Because the truth about comparison is that it goes both ways. It’s the voice that says what I do doesn’t matter, because someone else is doing something better. It is the voice that minimizes what others do because I don’t see the value in it or understand it. It’s the voice that tells me I don’t have anything to offer because I don’t have everything together. It’s the voice that also says I don’t need to feel too bad about my shortcomings, because at least I’m not quite as much of a mess as so-and-so. But today I’d like to boldly declare, regardless of what it says, **the voice of comparison is a liar.** <!-- more -->
 
 The reason we compare ourselves to others, for better or for worse, is ultimately because we want our lives to matter. I know that I am not alone in this and so today I’d like to invite you to join me in listening to a different voice. One that doesn’t guide us to a place of self-deprecation _or_ to a place of arrogance, but to a place of considering the unique role that we each have. This voice asks the question, **“What is your best contribution to the world?”** The answer to this question is always the same answer. For everyone. No matter what. The answer to the question, “What is your best contribution to the world?”, is quite simply, ‘You.” **Your best contribution to the world is you.** Your abilities, your resources and talents, and your relationships and experiences are uniquely yours. And that matters. You can contribute to the world by doing what you can, with what you have, where you are.  **There’s no need to compare yourself to somebody else in order to determine how much you matter, because the world needs you to be _you_.**  
 
