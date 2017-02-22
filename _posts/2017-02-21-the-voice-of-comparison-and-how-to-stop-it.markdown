@@ -1,6 +1,16 @@
 ---
 title: The Voice of Comparison (and How to Stop it)
-date: 2017-02-22 05:43:00 Z
+date: 2017-02-21 05:43:00 Z
+categories:
+- Life
+tags:
+- creativity
+- purpose
+- ideas
+- world
+- homeless
+- strengths
+- relationships
 image: "/uploads/comparison-blog-resized.jpg"
 ---
 
