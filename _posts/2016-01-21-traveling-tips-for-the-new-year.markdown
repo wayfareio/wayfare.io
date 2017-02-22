@@ -3,14 +3,14 @@ title: Traveling Tips for the New Year
 date: 2016-01-21 20:27:00 Z
 author: Jill Arbini
 image: "/uploads/van.jpg"
-redirect_from: "/2015/01/21/traveling-tips-for-the-new-year/"
+redirect_from: "/2016/01/21/traveling-tips-for-the-new-year/"
 ---
 
 #### 1. Bring Something New
 
 When you are traveling, it is always a good idea to bring something new. This is for kids and adults alike. For kids, a new book or a new set of stickers will do wonders in curing boredom. I'm being honest, bringing a new book or even a new item of clothing helps me feel excited about the trip I'm taking.  As we embark on a new year, this might mean developing a new habit or practice, visiting a new location, trying a new hobby, or starting a new business. This could mean changing where you work or how you work by joining a new workspace and being a part of a new community of people. Perhaps a local awesome coworking community. See what I did there? Wayfare loves new members!
 
-<!-- more --> 
+<!-- more -->
 
 #### 2. Bring Something Familiar
 

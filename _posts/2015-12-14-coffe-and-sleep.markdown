@@ -5,7 +5,7 @@ categories:
 - Life
 author: Chris Mann
 image: "/uploads/coffee.jpg"
-redirect_from: "/2014/12/30/coffee-and-sleep/"
+redirect_from: "/2015/12/30/coffee-and-sleep/"
 ---
 
 The greatest thing about working for Wayfare is that we get to help people help others. The not so great part is that when we want to sleep, our brains still want to work. It's obvious, but without sleep none of those incredible projects are going to get done.

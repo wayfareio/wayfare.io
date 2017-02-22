@@ -5,15 +5,15 @@ categories:
 - Life
 author: Caitlin Kraina
 image: "/uploads/abi-q-for-artifact-uprising-1.jpg"
-redirect_from: 2015/05/26/fathers-day-gift-guide/
+redirect_from: "/2015/05/26/fathers-day-gift-guide/"
 ---
 
-Father’s day is right around the corner, and that means it’s time to honor and celebrate that special dad in your life. He’s hardworking, never thinks of himself, and is more than likely also the world’s hardest person to shop for…. until now. We’ve put together a list of some [gift ideas](https://www.wayfare.io/gift-directory) your dad will love, show him how much you care, but also make a difference in the world we live in by empowering others - just as he’s empowered you. 
+Father’s day is right around the corner, and that means it’s time to honor and celebrate that special dad in your life. He’s hardworking, never thinks of himself, and is more than likely also the world’s hardest person to shop for…. until now. We’ve put together a list of some [gift ideas](https://www.wayfare.io/gift-directory) your dad will love, show him how much you care, but also make a difference in the world we live in by empowering others - just as he’s empowered you.
 <!-- more -->
 
 **For the Classic Dad**
 
-No trendy button downs for this dad. He’s loyal to his Plain White T and it will forever stay that way. He’s practical, keeps things nice and simple, and it’s probably time for an upgrade. Lucky for you, [Krochet Kids](www.krochetkids.org) recently came out with a standard Tee line your dad will love. It’s high quality, has a superior fit, and best of all, your purchase empowers women in Lima, Peru to rise above poverty. [The Standard Tee](http://thestandardtee.com/#mens) is $20 and comes in three colors: White, Black, and Gray. The Classic Dad Trifecta. 
+No trendy button downs for this dad. He’s loyal to his Plain White T and it will forever stay that way. He’s practical, keeps things nice and simple, and it’s probably time for an upgrade. Lucky for you, [Krochet Kids](www.krochetkids.org) recently came out with a standard Tee line your dad will love. It’s high quality, has a superior fit, and best of all, your purchase empowers women in Lima, Peru to rise above poverty. [The Standard Tee](http://thestandardtee.com/#mens) is $20 and comes in three colors: White, Black, and Gray. The Classic Dad Trifecta.
 
 **For the Creative Dad**
 
@@ -33,8 +33,8 @@ This dad loves his morning coffee ritual. He wakes up before the sun to enjoy th
 
 **For Dad the Foodie**
 
-What better way to show your dad you love him than with food? We love trying out new local eats and supporting local businesses, so we’ve come up with a list of places we think dad would love. For the 21+ father/son or daughter duo, try some new beers and board games (yes, board games) at the new [Barley Forge Brewery](http://barleyforge.com) in Costa Mesa. For the barbecue lovers, head over to [Smoqued BBQ](http://www.smoquedbbq.com) in Orange for tri-tip and fried pickles. For the All-American burger-loving Dad, go out for some gourmet burgers and salted pistachio shakes at the delicious [Crow Burger](www.crowburgerkitchen.com) in Newport Beach, or some honey cinnamon sweet potato fries & cowboy burgers at [Eureka! Burger](http://www.eurekarestaurantgroup.com/eat.html) in Huntington. And last but certainly not least, you can never go wrong with some good old-fashioned beer and waffles at the [Iron Press](www.theironpress.com)  (locations in Costa Mesa & Anaheim). 
+What better way to show your dad you love him than with food? We love trying out new local eats and supporting local businesses, so we’ve come up with a list of places we think dad would love. For the 21+ father/son or daughter duo, try some new beers and board games (yes, board games) at the new [Barley Forge Brewery](http://barleyforge.com) in Costa Mesa. For the barbecue lovers, head over to [Smoqued BBQ](http://www.smoquedbbq.com) in Orange for tri-tip and fried pickles. For the All-American burger-loving Dad, go out for some gourmet burgers and salted pistachio shakes at the delicious [Crow Burger](www.crowburgerkitchen.com) in Newport Beach, or some honey cinnamon sweet potato fries & cowboy burgers at [Eureka! Burger](http://www.eurekarestaurantgroup.com/eat.html) in Huntington. And last but certainly not least, you can never go wrong with some good old-fashioned beer and waffles at the [Iron Press](www.theironpress.com)  (locations in Costa Mesa & Anaheim).
 
-For more gift ideas & a complete list of our favorite world-changing brands, head on over to our [Difference Maker's Gift Guide](http://wayfare.io/gift-directory). 
+For more gift ideas & a complete list of our favorite world-changing brands, head on over to our [Difference Maker's Gift Guide](http://wayfare.io/gift-directory).
 
 Happy Father's Day!
