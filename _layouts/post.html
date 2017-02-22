@@ -3,7 +3,7 @@ layout: page
 ---
 
 <section class="story">
-  <img {{ page.image | image_src }} class="{{ 'story-img img-fluid img-rounded m-b-2' | image_classes }}" data-width="1200" data-height="{{ page.image_transformations.height | default:'600' }}" data-crop="fill" data-gravity="{{ page.image_transformations.gravity | default:'faces:center'}}">
+  <img {{ page.image | image_src }} class="{{ 'story-img img-fluid img-rounded m-b-2' | image_class }}" data-width="1200" data-height="{{ page.image_transformations.height | default:'600' }}" data-crop="fill" data-gravity="{{ page.image_transformations.gravity | default:'faces:center'}}">
   <header class="story-header">
     <h2 class="story-title">{{ page.title }}</h2>
   </header>

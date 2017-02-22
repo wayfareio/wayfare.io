@@ -22,7 +22,7 @@ nav:
     <div class="card card-story-excerpt">
       {% if post.image %}
         <a href="{{ post.url }}" class="_no-underline">
-          <img {{ post.image | image_src }} class="{{ 'card-img img-fluid' | image_classes }}" data-width="900" data-height="300" data-crop="fill" data-gravity="{{ post.image_transformations.gravity | default:'faces:center'}}">
+          <img {{ post.image | image_src }} class="{{ 'card-img img-fluid' | image_class }}" data-width="900" data-height="300" data-crop="fill" data-gravity="{{ post.image_transformations.gravity | default:'faces:center'}}">
         </a>
       {% endif %}
       <div class="card-block">
