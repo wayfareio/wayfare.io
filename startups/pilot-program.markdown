@@ -20,15 +20,17 @@ Pilot is a **subscription based online program** designed to help you **build an
 
 ### Who It's For
 
-You’ve observed a problem in the world and you’re passionate about creating a solution. You’ve got an idea that’s going to change people’s lives and make the world better... but it’s big and there are a lot of moving parts. We get it... it’s overwhelming and it can be hard to know where to start _or if you’re even working on the right things_. You’re not short on passion and drive – but you could use a guide that complements your vision. Pilot contains the practical tools you need to take small, manageable, actionable steps each day. 
+Pilot is for you if:
 
-You’ve ideated a million different paths you can take with your idea, but could use guidance and support in breaking them down and narrowing in on the right one for you. You’re excited to define, scope, and introduce the right solution for the problem you've identified and for the people experiencing the pain.
+* **You’ve observed a problem in the world and you’re passionate about creating a solution.** You’ve got an idea that’s going to change people’s lives and make the world better... but it’s big and there are a lot of moving parts. We get it... it’s overwhelming and it can be hard to know where to start _or if you’re even working on the right things_. You’re not short on passion and drive – but you could use a guide that complements your vision. Pilot contains the practical tools you need to take small, manageable, actionable steps each day. 
 
-You’re ready for the support of a likeminded community to remind you that you are enough, your skills are enough, and that the world needs your idea. You could use others to lean on for feedback, ideation, and the encouragement you need to keep going tomorrow... even if today is hard.
+* **You’ve ideated a million different paths you can take with your idea, but could use guidance and support** in breaking them down and narrowing in on the right one for you. You’re excited to define, scope, and introduce the right solution for the problem you've identified and for the people experiencing the pain.
+
+* **You’re ready for the support of a likeminded community** to remind you that you are enough, your skills are enough, and that the world needs your idea. You could use others to lean on for feedback, ideation, and the encouragement you need to keep going tomorrow... even if today is hard.
 
 ### What Can I Expect From Pilot Program?
 
-Our hope is that you will arrive at MVP (minimum viable product, program, or service). This means:
+**Our hope is that you will arrive at MVP (minimum viable product, program, or service). This means:**
 
 * Your idea has a well articulated purpose and objective connected to your unique story and journey. This is what makes your idea so compelling and inspiring!
 * You’ve developed well articulated problem & solution statements. The problem or issue you’re addressing in the world is clear – and your solution is not only deeply rooted in your personal “why”, but it’s also a valuable and well-formed solution to the problem you’ve observed in the world that best meets the needs of the population you’re serving.
