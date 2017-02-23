@@ -30,15 +30,16 @@ Pilot is for you if:
 
 ### What Can I Expect From Pilot Program?
 
-**Our hope is that you will arrive at MVP (minimum viable product, program, or service). This means:**
+**The goal of Pilot is to arrive at MVP (minimum viable product, program, or service) and feel well supported. This means:
 
-* Your idea has a well articulated purpose and objective connected to your unique story and journey. This is what makes your idea so compelling and inspiring!
-* You’ve developed well articulated problem & solution statements. The problem or issue you’re addressing in the world is clear – and your solution is not only deeply rooted in your personal “why”, but it’s also a valuable and well-formed solution to the problem you’ve observed in the world that best meets the needs of the population you’re serving.
-* Your solution is built with enough definition to test, iterate, and validate for scalability and repeatability. You can fearlessly envision the future of your idea & the impact it will have on the world – and have the roadmap you need to get there.
-* Key customer segments have been identified and customer discovery is active. You know your audience(s) well & understand the people that will be receiving the value of your solution & idea. You’ve gotten to know them, have started customer interviews, and have learned valuable information from them to guide your idea’s development.
-* Clear, defined value is being exchanged between you & your customer/audience. This means you’ve built something (yes, you!) that provides value to your audience. Your customers or audience have started to exchange their time, money or energy for the value you’ve created & are offering them.
-* You have the confidence you never thought possible to actually take the plunge and do this thing, you’re equipped to fight the fear that comes with starting something new, and you’re ready to build out the foundations for a scaling organization.
-* You have a supportive & encouraging community to walk and grow your idea alongside, and you know you’re not in this alone.
+* Your idea has a **well articulated purpose and objective** connected to your unique story and journey. This is what makes your idea so compelling and inspiring!
+* You have **concrete problem & solution statements.** The problem or issue you’re addressing is clear – and your solution is not only deeply rooted in your personal “why”, but it’s also a valuable and well-formed solution to the problem you’ve observed in the world that best meets the needs of the population you’re serving.
+* Your **solution is built with enough definition to test, iterate, and validate** for scalability and repeatability. 
+* You can **envision the future of your idea & the impact it will have** on the world – and have the roadmap you need to get there.
+* You've **identified key customer segments and started customer discovery** in your target audience. You understand the people that will be receiving the value of your solution & idea, have gotten to know them, started customer interviews, and have learned valuable information from them to guide your idea’s development.
+* You’ve **built something (yes, you!) that provides value to your audience.** Your customers or audience have started to exchange their time, money or energy for the value you’ve created & are offering them.
+* You **have the confidence you never thought possible** to actually take the plunge and do this thing, you’re equipped to fight the fear that comes with starting something new, and you’re ready to build out the foundations for a scaling organization.
+* You **have a supportive & encouraging community** to walk and grow your idea alongside, and you know you’re not in this alone.
 
 ### Program Features
 
