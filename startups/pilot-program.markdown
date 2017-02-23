@@ -30,7 +30,7 @@ Pilot is for you if:
 
 ### What Can I Expect From Pilot Program?
 
-**The goal of Pilot is to arrive at MVP (minimum viable product, program, or service) and feel well supported in the process. **
+**The goal of Pilot is to arrive at MVP (minimum viable product, program, or service) and feel well supported in the process.**
 
 This means:
 
