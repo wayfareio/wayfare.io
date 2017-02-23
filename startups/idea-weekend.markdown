@@ -28,7 +28,7 @@ Idea Weekend is designed to help you begin bringing to life the world-changing i
 
 Idea Weekend combines insight from startup experts with hands-on application in a workshop setting. You will leave with a roadmap of action steps to pilot your idea and create a minimum viable product or service. You'll be led by a variety of passionate founders who have extensive experience in startup, social enterprise, and non-profit work.
 
-The next Idea Weekend is in **April 2017** (dates still TBD).
+The next Idea Weekend is May 19-21.
 
 ---
 
