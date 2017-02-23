@@ -5,12 +5,14 @@ categories:
 - Life
 author: Jill Arbini
 image: "/uploads/maxresdefault.jpg"
-redirect_from: "/2014/12/16/taffy-on-planes-and-origami-on-trains/"
+redirect_from:
+- "/2015/12/16/taffy-on-planes-and-origami-on-trains/"
+- "/2015/12/16/tafi/"
 ---
 
 I was recently on a plane with my three kids. We were flying to meet up with my husband, so I was outnumbered. The way the plane was set up, I sat in a row with my youngest, and my two oldest sat next to each other in the same row across the aisle from me. The plane had a particularly intense take-off and from across the aisle I heard a nervous voice call out, "Mom, can I come sit by you?"
 
-<!-- more --> 
+<!-- more -->
 
 I looked over to see my oldest had become a bit nervous with the intensity of the take-off. As I reached across the aisle to take his hand I said, "Not right now buddy. You need to stay in your seat. But I'm here. You are safe. Nothing is wrong."
 
@@ -44,6 +46,6 @@ I think there are a few reasons for the stark contrast between my reactions to t
 
 We can learn a lot from Taffy Lady and Origami Man. It is easy to villainize those who irritate us, but I wonder how many times we don't understand a situation enough to intervene as we try to make the world a better place. Do I know enough to offer specific solutions? Could my efforts have adverse effects?
 
-<!-- more --> 
+<!-- more -->
 
 As I seek to support and encourage those around me, I'd love to be like Origami Man. I want to be mindful and try to understand and know people, ask questions, get permission if necessary, and offer help in a gentle, welcome, and truly helpful way. This surely will not always be an easy path, but definitely one worth traveling because I'm convinced it is a key part in pursuing the world's best future.

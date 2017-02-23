@@ -2,7 +2,6 @@
 title: Space Features
 position: 1
 page_title: 'Fullerton: Space Features'
-layout: custom/locations/space-features
 nav:
   id: ful-space-features
   site:
@@ -22,7 +21,7 @@ features:
     of the roaring 20s while feeling perfectly now and effortless. Featured local
     artwork and a balcony lined with indoor plants and trees creates energy, inspiration
     and work to ground the grandness of the space.
-- title: Beautiful conference room
+- title: Conference Room
   image: "/assets/images/locations/costa-mesa/features/meeting-spaces.jpg"
   text: Flooded with natural light, our conference room comes fully outfitted with
     a large whiteboard, a monitor for visual presentations, plenty of charging ports,
@@ -64,6 +63,7 @@ features:
   text: Add mail service to skip the clutter at home and have your work-mail delivered
     directly to Wayfare! Mail is collected and sorted daily into our mail locker,
     so that you can store and pick up at your convenience.
+layout: custom/locations/space-features
 ---
 
 We don't sacrifice quality around here. From the chairs you sit in to our free, bottomless drip coffee, we've made sure to give you nothing short of the very best.

@@ -5,7 +5,7 @@ categories:
 - Life
 author: Caitlin Kraina
 image: "/uploads/chaos.jpg"
-redirect_from: "/2015/01/01/finding-silence-amidst-the-chaos/"
+redirect_from: "/2016/01/01/finding-silence-amidst-the-chaos/"
 ---
 
 If you are breathing a sigh of post-holiday relief, you are not alone. Before the shock and grinch-shaming ensue, know that I am just as much of a sucker for Christmas as the rest of us. There are very few things in this world I love more than sitting around the dinner table with family, taking a break to enjoy those I love, making pretty gift wrappings, and my cupboards filled with all things peppermint-flavored. However, with the beauty of community and Christmas cheer also comes a madness of unabated consumerism and pressure. Whether it's the stresses of buying impressive and thoughtful gifts, filling our time with the right loved ones, or rushing around to beat traffic, visit Aunt Sally, and time the holiday sales right; there is something relieving about the post-holiday silence.

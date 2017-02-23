@@ -9,7 +9,7 @@ layout: page
   {% for feature in page.features %}
     <div class="card card-left-feature">
       <div class="card-left-feature-img">
-        <img src="{{ feature.image }}" alt="{{ feature.title }}">
+        <img {{ feature.image | image_src }} alt="{{ feature.title }}" class="{{ '' | image_class }}" data-width="400" data-height="400" data-crop="fit">
       </div>
       <div class="card-block">
         <h3 class="card-title">{{ feature.title | markdownify | remove:'<p>' | remove:'</p>' }}</h3>
