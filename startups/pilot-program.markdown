@@ -30,7 +30,9 @@ Pilot is for you if:
 
 ### What Can I Expect From Pilot Program?
 
-**The goal of Pilot is to arrive at MVP (minimum viable product, program, or service) and feel well supported. This means:
+**The goal of Pilot is to arrive at MVP (minimum viable product, program, or service) and feel well supported in the process. **
+
+This means:
 
 * Your idea has a **well articulated purpose and objective** connected to your unique story and journey. This is what makes your idea so compelling and inspiring!
 * You have **concrete problem & solution statements.** The problem or issue you’re addressing is clear – and your solution is not only deeply rooted in your personal “why”, but it’s also a valuable and well-formed solution to the problem you’ve observed in the world that best meets the needs of the population you’re serving.
