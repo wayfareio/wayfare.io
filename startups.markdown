@@ -16,28 +16,37 @@ nav:
   site:
     highlight: startups
 programs:
-- title: "[Pilot Program](/startups/pilot-program)"
+- title: "[Pilot](/startups/pilot-program)"
   url: "/startups/pilot-program"
-  banner: VIRTUAL
-  description: Pilot is a subscription based online program designed to help you build
-    and test your ideas to solve a problem or issue in the world you care about.
-  stage: 'You have an idea**'
+  banner: 'blurb →'
+  icon: airplane-departure
+  description: An online monthly subscription based program that provides guidance and support to take purposeful action on your meaningful idea.
+  who: 'People who have observed a need, have an idea to solve it, and want to develop a plan for how to solve it in manageable, actionable steps.'
+  stage: 'Minimum Viable Product, Program or Service'
 - title: "[Launch](/startups/launch-program)"
   url: "/startups/launch-program"
-  description: Launch is an hyper-local 20-week intensive program where you will explore key startup principles and insights as you directly apply them to your product, program, or service amongst a cohort of other like-minded founders.
-  stage: 'You want to launch an idea**'
+  banner: 'blurb →'
+  icon: rocket
+  description: A hyper-local 20-week intensive where you explore key startup principles and insights as you directly apply them to your product, program or service amongst a cohort of other like-minded founders.
+  who: 'Founders who have an existing product or service and want to develop a comprehensive business model to build a foundation for their organization.'
+  stage: 'Minimum Viable Product, Program or Service → Comprehensive Business Model'
 - title: "[Growth](https://wayfare.typeform.com/to/dFUr0x)"
   url: https://wayfare.typeform.com/to/dFUr0x
-  description: 'The Growth Program is designed to help you grow and scale your organization
-    into from minimum viability into sustainability.'
-  stage: 'Let your idea grow!**'
+  banner: 'blurb →'
+  icon: plant
+  description: 'A cohort-based program that provides the support, direction and resources to navigate the emotional and practical complexities of growing, scaling and hiring as you expand your organization reach of your .'
+  who: 'Founders seeking to grow their organization and team.'
+  stage: 'Comprehensive Business Model → Minimum Viable Organization'
 - title: "[Impact](https://wayfare.typeform.com/to/f29ZAn)"
   url: https://wayfare.typeform.com/to/f29ZAn
+  banner: 'blurb →'
+  icon: trees
   description: |-
-    Impact creates primary teams for missional enterprise top leaders, such as C level officers or executive directors, to integrate the full context of their lives with their business.
+    A cohort-based program designed to support and challenge leaders to sustain and multiply their impact through critical team support and integrated personal leadership and organizational development.
+  who: 'Founders, Executive Directors & C-level officers (CEO, COO, CFO, etc)'
+  stage: |-
+    Minimum Viable Organization → Sustainability and Multiplication
 
     **Sponsored by [SimplyWin](http://simplywin.com)**
-  stage: 'Impact on your team**'
-
 layout: custom/startups
 ---
