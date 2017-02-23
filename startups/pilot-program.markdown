@@ -49,13 +49,14 @@ Our hope is that you will arrive at MVP (minimum viable product, program, or ser
 **Virtual Community Interaction :** Starting something new is hard, and we want to make sure you’re supported every step of the way. No matter where you are physically located, throughout your participation in Pilot, you’ll walk alongside other like-minded ideators as you share your ideas, gain feedback, and receive the encouragement to carry you through via Slack -- an app that allows for easy communication between individuals and groups. 
 
 #### Enrollment
-* Open enrollment is from the 1st-15th of each month
-* A one time Program Introduction and a highly informational and actionable crash course begins on the 16th of the month you sign up and prepares you for the start of the program on the 1st of the    the following month.
-* Program content (and billing cycle) starts on the 1st of the month. 
+* Onboarding begins upon enrollment.
+* Enroll from now until the 28th of the month to begin receiving content on the 1st of the month that immediately follows. 
+* Monthly content overview is delivered on the 1st of each month. Weekly content is delivered each Monday. 
+* Billing occurs on the first of each month for that month's content. 
  
 **Time Commitment:** Each week you will receive a notification and email with links to the content for the week. Typically the content can be reviewed, watched, or read in 15-20 mins and the activities can take anywhere from 20-45 mins. Slack engagement is throughout the week as you face challenges or breakthroughs and want/need to share with the group.
 
-**Pricing:** $97 a month (billed on the 1st of each month)
+**Pricing:** $97 a month (billed on the 1st of each month for that month's content)
 
 {% button url:"https://wayfare.chargify.com/subscribe/y344ppnb8st5/pilot" text:"Enroll Now" size:"lg" class:"m-y-1" %}
 
