@@ -21,14 +21,14 @@ programs:
   url: "/startups/launch-program"
   banner: 'Develop your business model →'
   icon: rocket
-  description: A weekly in-person program where you apply key startup principles to build a comprehensive business model around your product, service, or program with a community of like-minded founders.
+  description: A weekly in-person program where you apply key startup principles to build a comprehensive business model for your product, service, or program alongside like-minded founders.
   who: 'Founders who are ready to develop a comprehensive business model around their product.'
   stage: 'From Minimum Viable Product (MVP) to Comprehensive Business Model'
 - title: "[Growth](https://wayfare.typeform.com/to/dFUr0x)"
   url: https://wayfare.typeform.com/to/dFUr0x
   banner: 'Grow your organization →'
   icon: plant
-  description: 'A cohort with other founders that provides the support and direction to navigate the practical and emotional complexities of growing, scaling, and hiring as you expand your organization.'
+  description: 'A cohort with other founders that provides support and direction to navigate the practical and emotional complexities of growing, scaling, and hiring as you expand your organization.'
   who: 'Founders who have launched their organizations and are ready to scale their products and grow their teams.'
   stage: 'From Comprehensive Business Model to Minimum Viable Organization (MVO)'
 - title: "[Impact](https://wayfare.typeform.com/to/f29ZAn)"
