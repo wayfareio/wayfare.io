@@ -9,7 +9,7 @@ lead:
     into reality. Wayfare's startup programs guide founders and organizations from
     idea stage all the way through sustainable impact.
   buttons:
-  - title: Inquire Now
+  - title: Enroll <strong>Now</strong>
     url: /startups
 nav:
   id: startups

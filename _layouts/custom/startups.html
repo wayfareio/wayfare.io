@@ -23,7 +23,7 @@ layout: site
       </div>
     </div>
     <div class="row">
-      <div class="col-xs-12">
+      <div class="col-xs-12 p-x-0">
         <div class="card-deck card-deck-4">
           {% for program in page.programs %}
             <div class="card">
@@ -50,6 +50,55 @@ layout: site
           {% endfor %}
         </div>
       </div>
+    </div>
+    <div class="row">
+      <div class="col-xs p-y-1">
+        <a href="#" class="btn btn-primary btn-lg text-uppercase text-xs-center col-xs-12 col-sm-6 offset-sm-3 col-lg-4 offset-lg-4">Enroll <strong>Now</strong></a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-md-10 offset-md-1 m-t-2">
+      <h2 class="underline">Startups Events</h2>
+
+      {% assign events = site.events | sort_events | filter_events location:page.location %}
+      <div class="upcoming-events">
+        {% if events.size == 0 %}
+          <div class="alert alert-warning" role="alert">
+            There aren't any upcoming events. Check back soon for more.
+          </div>
+        {% endif %}
+        {% for event in events %}
+          <div data-href="{{ event.urls.ticket_url }}" class="card card-event">
+            <div class="row">
+              <div class="col-xs-12 col-lg-5">
+                <img {{ event.images.thumb_image | default:event.images.splash_image | image_src }} class="{{ 'img-fluid m-b-1' | image_class}}" data-width="600" data-height="425" data-crop="fill" data-gravity="auto:faces">
+              </div>
+              <div class="col-xs-12 col-lg-7">
+                <h3 class="card-title">{{ event.headline | default:event.title }}</h3>
+                <p class="card-text m-b-0">
+                  <strong>
+                    {{ event.dates.start_date | date:"%B %e, %Y %l:%M%P" }}
+                    &mdash;
+                    {{ event.dates.end_date | date:"%B %e, %Y %l:%M%P" }}
+                  </strong>
+                </p>
+                <p class="card-text">{{ event.content | markdown }}</p>
+                {% if event.urls %}
+                  {% if event.urls.ticket_url %}
+                    <a href="{{ event.urls.ticket_url }}" class="btn btn-md btn-primary">Details &amp; Tickets</a>
+                  {% elsif event.urls.info_url %}
+                    <a href="{{ event.urls.info_url }}" class="btn btn-md btn-primary">More Info</a>
+                  {% endif %}
+                {% endif %}
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+
     </div>
   </div>
 </div>

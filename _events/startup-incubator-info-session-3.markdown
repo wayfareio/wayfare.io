@@ -14,4 +14,4 @@ urls:
 location: Costa Mesa
 ---
 
-Wayfare offers four startup programs to resource and equip founders building ideas and organizations that advance the common good. Whether you are dreaming up a new idea, refining your idea, building out the foundation of a new organization or business, growing an organzation to sustainability, or multiplying your organization’s impact, we’d love to share and learn how we can best support and equip you in your endeavors. Join us to learn more about these programs and how you or someone you know can participate!
+Wayfare offers four startup programs to resource and equip founders building ideas and organizations that advance the common good. Whether you are dreaming up a new idea, refining your idea, building out the foundation of a new organization or business, growing an organization to sustainability, or multiplying your organization’s impact, we’d love to share and learn how we can best support and equip you in your endeavors. Join us to learn more about these programs and how you or someone you know can participate!
