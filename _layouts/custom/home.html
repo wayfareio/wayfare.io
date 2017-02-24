@@ -3,11 +3,11 @@ layout: site
 ---
 
 <div class="container">
-  <div class="row m-b-3">
-    <div class="col-xs-12">
+  <div class="row mb-5">
+    <div class="col-12">
       <div class="card card-inverse card-hero card-home-hero">
         <img class="card-img img-fluid" src="{{ page.hero.image }}">
-        <div class="card-img-overlay flex-items-xs-middle flex-items-xs-center">
+        <div class="card-img-overlay">
           <div class="card-block">
             <h4 class="card-title">{{ page.hero.title }}</h4>
             <h5 class="card-subtitle">{{ page.hero.subtitle | lowercase }}</h5>
@@ -19,29 +19,29 @@ layout: site
       </div>
     </div>
   </div>
-  <div class="row m-b-3">
-    <div class="col-xs-12 text-xs-center">
+  <div class="row mb-5">
+    <div class="col text-center">
       <h3>{{ page.sections.who.title | upcase }}</h3>
       <span class="lead">{{ page.sections.who.text | markdownify }}</span>
     </div>
   </div>
   <div class="row">
-    <div class="col-xs-12 text-xs-center">
+    <div class="col text-center">
       <h3>{{ page.sections.model.title | upcase }}</h3>
     </div>
   </div>
 </div>
-<div class="p-a-1 p-t-2 bg-faded">
+<div class="p-3 py-4 bg-faded">
   <div class="container">
     <div class="row">
-      <div class="col-xs-12">
+      <div class="col-12">
         <div class="card-deck card-deck-home">
           {% for model in page.sections.model.products %}
             <div class="card">
               <div class="card-block">
                 {% include icon.html name=model.icon classes="icon-xl icon-block icon-center" %}
-                <h5 class="card-title text-xs-center text-uppercase m-t-2 m-b-1">{{ model.title | markdownify | remove:'<p>' | remove:'</p>' }}</h5>
-                <p class="card-text text-primary text-xs-center">{{ model.text | markdownify | remove:'<p>' | remove:'</p>' }}</p>
+                <h5 class="card-title text-center text-uppercase mt-4 mb-3">{{ model.title | markdownify | remove:'<p>' | remove:'</p>' }}</h5>
+                <p class="card-text text-primary text-center">{{ model.text | markdownify | remove:'<p>' | remove:'</p>' }}</p>
               </div>
             </div>
           {% endfor %}
@@ -51,9 +51,9 @@ layout: site
   </div>
 </div>
 <div class="container">
-  <div class="row p-t-3 p-b-1">
+  <div class="row pt-5 pb-3">
     {% for button in page.sections.cta %}
-      <div class="col-md-6 p-y-1">
+      <div class="col-md-6 py-3">
         <a href="{{ button.url }}" class="btn btn-primary btn-lg btn-block">{{ button.title | upcase | markdownify | remove:'<p>' | remove:'</p>' }}</a>
       </div>
     {% endfor %}

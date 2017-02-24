@@ -1,6 +1,7 @@
 .footer-site {
   background: $gray-lightest; padding: 1rem 0; margin-top: 2rem;
   h1, h2, h3, h4, h5, h6 { color: $gray; text-transform: uppercase; }
+  .nav-link { padding: 0; }
   .list-social {
     &.list-social-buttons {
       > .list-social-item {

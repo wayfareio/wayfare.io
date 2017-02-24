@@ -1,9 +1,9 @@
 .card.card-hero {
   border: 0;
   > .card-img-overlay {
-    display: flex;
+    display: flex; align-items: center; justify-content: center;
     > .card-block {
-      background-color: transparentize(#fff, 0.10); text-align: center; min-width: 70%;
+      background-color: transparentize(#fff, 0.10); text-align: center; min-width: 70%; flex: none;
       > .card-title { font-size: 2rem; color: #333; font-weight: 900; text-transform: uppercase; margin-bottom: 1rem; }
       > .card-subtitle { color: #333; font-weight: 300; text-transform: uppercase; margin-bottom: 1rem; }
     }

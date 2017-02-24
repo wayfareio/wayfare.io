@@ -3,7 +3,7 @@ layout: page
 ---
 
 <section class="story">
-  <img {{ page.image | image_src }} class="{{ 'story-img img-fluid img-rounded m-b-2' | image_class }}" data-width="1200" data-height="{{ page.image_transformations.height | default:'600' }}" data-crop="fill" data-gravity="{{ page.image_transformations.gravity | default:'faces:center'}}">
+  <img {{ page.image | image_src }} class="{{ 'story-img img-fluid rounded mb-4' | image_class }}" data-width="1200" data-height="{{ page.image_transformations.height | default:'600' }}" data-crop="fill" data-gravity="{{ page.image_transformations.gravity | default:'faces:center'}}">
   <header class="story-header">
     <h2 class="story-title">{{ page.title }}</h2>
   </header>
@@ -19,11 +19,11 @@ layout: page
       {% assign author = site.authors | where:"title", page.author  | first %}
       {% if author.bio_image %}
         <div class="col-sm-4 col-lg-3">
-          <img class="img-circle img-fluid m-b-2" src="{{ author.bio_image }}" alt="{{ author.title }}: {{ author.job_title }}" data-rjs="2">
+          <img class="rounded-circle img-fluid mb-4" src="{{ author.bio_image }}" alt="{{ author.title }}: {{ author.job_title }}" data-rjs="2">
         </div>
         <div class="col-sm-8 col-lg-9">
       {% else %}
-        <div class="col-xs-12">
+        <div class="col-12">
       {% endif %}
         <h4 class="name">{{ author.title }}</h4>
         {% if author.job_title %}
@@ -40,7 +40,7 @@ layout: page
     {% unless cta %}{% assign cta = site.ctas | where:"title", "Default" | first %}{% endunless %}
     {% if cta %}
       <div class="row cta">
-        <div class="col-xs-12">
+        <div class="col-12">
           <div class="card">
             <div class="card-block">
               {{ cta | markdownify }}

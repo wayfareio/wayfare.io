@@ -3,18 +3,6 @@
   @include media-breakpoint-down(sm) {
     padding-left: 0;
   }
-  > .list-social {
-    border: 1.5px dotted $gray-light; border-radius: 2px;
-    padding: .95rem .5rem .2rem;
-    margin-top: -1rem; margin-right: 1rem;
-    > .list-social-item {
-      margin-bottom: 0; padding-right: 3px;
-      .list-social-link {
-        [fill='#000'] { fill: darken($gray-light, 10%); }
-        &:hover [fill='#000'] { fill: $brand-primary; }
-      }
-    }
-  }
   > .navbar-brand img {
     position: relative; top: 10px;
     @include media-breakpoint-only(xs) {
@@ -42,7 +30,7 @@
       display: none;
     }
     @include media-breakpoint-only(md) {
-      top: 6px;
+      top: 20px;
     }
     @include media-breakpoint-only(lg) {
       top: 16px;
@@ -54,10 +42,10 @@
   > .navbar-nav .nav-item {
     margin-left: 0;
     @include media-breakpoint-only(md) {
-      margin-left: 1.6rem;
+      margin-left: 0.5rem;
     }
     @include media-breakpoint-only(lg) {
-      margin-left: 2.7rem;
+      margin-left: 2rem;
     }
     @include media-breakpoint-only(xl) {
       margin-left: 3.3rem;
@@ -66,10 +54,10 @@
   > .navbar-nav .nav-item+.nav-item {
     margin-left: 1rem;
     @include media-breakpoint-only(md) {
-      margin-left: 1.25rem;
+      margin-left: 0.35rem;
     }
     @include media-breakpoint-only(lg) {
-      margin-left: 1.5rem;
+      margin-left: 1.2rem;
     }
     @include media-breakpoint-only(xl) {
       margin-left: 2rem;
@@ -81,7 +69,7 @@
       font-size: 0.6rem;
     }
     @include media-breakpoint-only(md) {
-      font-size: 0.9rem;
+      font-size: 0.95rem;
     }
     @include media-breakpoint-only(lg) {
       font-size: 1.2rem;
@@ -91,13 +79,26 @@
     }
   }
   > .navbar-toggler {
-    padding: 0; outline: 0 !important;
+    padding: 0; border: 0 !important; outline: 0 !important; right: 0 !important; cursor: pointer;
     &:active { color: $gray-dark; }
     @include media-breakpoint-only(xs) {
       margin-top: 30px;
     }
     @include media-breakpoint-only(sm) {
       margin-top: 40px;
+    }
+  }
+}
+
+.nav-site-social .list-social {
+  border: 1.5px dotted $gray-light; border-radius: 2px;
+  padding: 1.5rem .5rem .2rem;
+  margin-top: -1rem; margin-right: 0rem;
+  > .list-social-item {
+    margin-bottom: 0; padding-right: 3px;
+    .list-social-link {
+      [fill='#000'] { fill: darken($gray-light, 10%); }
+      &:hover [fill='#000'] { fill: $brand-primary; }
     }
   }
 }
