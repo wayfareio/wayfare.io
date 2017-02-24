@@ -4,13 +4,7 @@ position: 3
 lead:
   line1: STARTUP PROGRAMS
   line2: for **SOCIAL ENTREPRENEURS**
-  content: Wayfare provides programs tailored to the unique needs of social good startups.
-    We provide the space and support to founders so that they can turn their ideas
-    into reality. Wayfare's startup programs guide founders and organizations from
-    idea stage all the way through sustainable impact.
-  buttons:
-  - title: Enroll <strong>Now</strong>
-    url: /startups
+  content: Wayfare’s startup incubator provides programs tailored to the unique needs of social good startups. In the startup incubator, you receive the space and support you need so you can turn your ideas into reality and guide your organization from idea stage all the way through sustainable impact.
 nav:
   id: startups
   site:
@@ -18,44 +12,43 @@ nav:
 programs:
 - title: "[Pilot](/startups/pilot-program)"
   url: "/startups/pilot-program"
-  banner: 'blurb →'
+  banner: 'Build your idea →'
   icon: airplane-departure
-  description: An online monthly subscription based program that provides guidance and support to take purposeful action on your meaningful idea.
-  who: 'People who have observed a need, have an idea to solve it, and want to develop a plan for how to solve it in manageable, actionable steps.'
-  stage: 'Minimum Viable Product, Program or Service'
+  description: An online monthly subscription program that provides guidance and support to begin taking purposeful action on your meaningful idea.
+  who: 'People who have observed a need, have an idea to solve it, and want to develop a plan for action.'
+  stage: 'From Idea to Minimum Viable Product (MVP)'
 - title: "[Launch](/startups/launch-program)"
   url: "/startups/launch-program"
-  banner: 'blurb →'
+  banner: 'Develop your business model →'
   icon: rocket
-  description: A hyper-local 20-week intensive where you explore key startup principles and insights as you directly apply them to your product, program or service amongst a cohort of other like-minded founders.
-  who: 'Founders who have an existing product or service and want to develop a comprehensive business model to build a foundation for their organization.'
-  stage: 'Minimum Viable Product, Program or Service → Comprehensive Business Model'
+  description: A weekly in-person program where you apply key startup principles to build a comprehensive business model around your product, service, or program with a community of like-minded founders.
+  who: 'Founders who are ready to develop a comprehensive business model around their product.'
+  stage: 'From Minimum Viable Product (MVP) to Comprehensive Business Model'
 - title: "[Growth](https://wayfare.typeform.com/to/dFUr0x)"
   url: https://wayfare.typeform.com/to/dFUr0x
-  banner: 'blurb →'
+  banner: 'Grow your organization →'
   icon: plant
-  description: 'A cohort-based program that provides the support, direction and resources to navigate the emotional and practical complexities of growing, scaling and hiring as you expand your organization reach of your .'
-  who: 'Founders seeking to grow their organization and team.'
-  stage: 'Comprehensive Business Model → Minimum Viable Organization'
+  description: 'A cohort with other founders that provides the support and direction to navigate the practical and emotional complexities of growing, scaling, and hiring as you expand your organization.'
+  who: 'Founders who have launched their organizations and are ready to scale their products and grow their teams.'
+  stage: 'From Comprehensive Business Model to Minimum Viable Organization (MVO)'
 - title: "[Impact](https://wayfare.typeform.com/to/f29ZAn)"
   url: https://wayfare.typeform.com/to/f29ZAn
-  banner: 'blurb →'
+  banner: 'Impact the world →'
   icon: trees
   description: |-
-    A cohort-based program designed to support and challenge leaders to sustain and multiply their impact through critical team support and integrated personal leadership and organizational development.
-  who: 'Founders, Executive Directors & C-level officers (CEO, COO, CFO, etc)'
+    A cohort with other top leaders designed to support, challenge, and sustain you to multiply your impact through integrated personal leadership and organizational development.
+  who: 'Top Leaders (e.g. Founders, Executive Directors, CEOs, General Managers, etc.)'
   stage: |-
-    Minimum Viable Organization → Sustainability and Multiplication
+    From MVO to Sustained and Multiplied Impact
 
     **Sponsored by [SimplyWin](http://simplywin.com)**
 gallery:
   images:
+  - "/assets/images/gallery-05.jpg"
   - "/assets/images/gallery-01.jpg"
   - "/assets/images/gallery-02.jpg"
-  - "/assets/images/gallery-03.jpg"
   - "/assets/images/gallery-04.jpg"
-  - "/assets/images/gallery-05.jpg"
+  - "/assets/images/gallery-03.jpg"
   - "/assets/images/gallery-06.jpg"
-  - "/assets/images/gallery-07.jpg"
 layout: custom/startups
 ---
