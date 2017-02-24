@@ -10,7 +10,11 @@ layout: site
   </div>
   <div class="row">
     <div class="col-xs-12">
-      <p class="text-xs-center">PHOTOS</p>
+      {% for image in page.gallery.images %}
+      <div class="fotorama" data-width="700" data-ratio="700/467" data-max-width="100%">
+        <img src="{{ image }}">
+      </div>
+      {% endfor %}
     </div>
   </div>
 </div>
