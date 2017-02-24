@@ -20,7 +20,7 @@
     "tests"
   ],
   "devDependencies": {
-    "bootstrap": "v4.0.0-alpha.3",
+    "bootstrap": "v4.0.0-alpha.6",
     "font-awesome": "^4.7.0",
     "bigSlide": "^0.12.0",
     "holderjs": "^2.9.4",

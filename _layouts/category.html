@@ -14,7 +14,7 @@ layout: page
       <p class="card-text">{{ post.excerpt | markdownify | strip_html | strip | newline_to_br }}</p>
       <div class="pull-sm-right">
         <small class="text-uppercase"><a href="{{ post.url }}">Read on &rarr;</a></small>
-        <div class="hidden-sm-up m-b-1"></div>
+        <div class="hidden-sm-up mb-3"></div>
       </div>
       {% assign author = site.authors | where:"title",post.author | sample %}
       <div class="text-muted">

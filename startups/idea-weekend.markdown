@@ -79,4 +79,4 @@ The next Idea Weekend is May 19-21.
 * Facilitated Group Collaboration
 * Presentations
 
-{% button url:"https://wayfare.ticketleap.com/idea-weekend/" text:"Buy Your Ticket" size:"lg" class:"m-y-1" %}
+{% button url:"https://wayfare.ticketleap.com/idea-weekend/" text:"Buy Your Ticket" size:"lg" class:"my-3" %}

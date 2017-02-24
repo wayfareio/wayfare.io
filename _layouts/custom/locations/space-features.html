@@ -5,12 +5,14 @@ layout: page
 <h2>{{ page.title }}</h2>
 {{ content }}
 
-<div class="card-left-features space-features">
+<div class="space-features">
   {% for feature in page.features %}
-    <div class="card card-left-feature">
-      <div class="card-left-feature-img">
-        <img {{ feature.image | image_src }} alt="{{ feature.title }}" class="{{ '' | image_class }}" data-width="400" data-height="400" data-crop="fit">
-      </div>
+    {% capture modulo %}{{ forloop.index0 | mod:2 }}{% endcapture %}
+    {% if modulo == '0' or forloop.first %}
+      <div class="card-deck">
+    {% endif %}
+    <div class="card mb-4">
+      <img {{ feature.image | image_src }} alt="{{ feature.title }}" class="{{ 'card-img-top img-fluid' | image_class }}" data-width="400" data-height="400" data-crop="fit">
       <div class="card-block">
         <h3 class="card-title">{{ feature.title | markdownify | remove:'<p>' | remove:'</p>' }}</h3>
         <p class="card-text">
@@ -18,5 +20,8 @@ layout: page
         </p>
       </div>
     </div>
+    {% if modulo == '1' or forloop.last %}
+      </div>
+    {% endif %}
   {% endfor %}
 </div>

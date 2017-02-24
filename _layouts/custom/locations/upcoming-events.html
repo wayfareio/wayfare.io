@@ -15,10 +15,10 @@ layout: page
   {% for event in events %}
     <div data-href="{{ event.urls.ticket_url }}" class="card card-event">
       <div class="row">
-        <div class="col-xs-12 col-lg-5">
-          <img {{ event.images.thumb_image | default:event.images.splash_image | image_src }} class="{{ 'img-fluid m-b-1' | image_class}}" data-width="600" data-height="425" data-crop="fill" data-gravity="auto:faces">
+        <div class="col-12 col-lg-5">
+          <img {{ event.images.thumb_image | default:event.images.splash_image | image_src }} class="{{ 'img-fluid mb-3' | image_class}}" data-width="600" data-height="425" data-crop="fill" data-gravity="auto:faces">
         </div>
-        <div class="col-xs-12 col-lg-7">
+        <div class="col-12 col-lg-7">
           <h3 class="card-title">{{ event.headline | default:event.title }}</h3>
           <p class="card-text m-b-0">
             <strong>

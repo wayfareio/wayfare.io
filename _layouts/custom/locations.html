@@ -3,14 +3,14 @@ layout: page
 ---
 
 <div class="row">
-  <div class="col-xs-12">
+  <div class="col-12">
     <div class="card-deck">
       {% for location in site.data.locations %}
         <div class="card card-inverse card-inverse-button">
           <a href="/locations/{{ location.id }}" class="_no-underline d-block">
             <img src="/assets/images/location-{{ location.id }}.jpg" alt="{{ location.name }}" class="card-img img-fluid">
-            <div class="card-img-overlay flex-items-xs-middle flex-items-xs-center">
-              <div class="card-block text-xs-center">
+            <div class="card-img-overlay align-items-center justify-content-center">
+              <div class="card-block text-center">
                 <h4 class="card-title">{{ location.name }}</h4>
                 <h5 class="card-subtitle">{{ location.address.full_state }}</h5>
               </div>
@@ -24,7 +24,7 @@ layout: page
 </div>
 
 <div class="row">
-  <div class="col-xs-12 m-t-1 m-b-2">
+  <div class="col-12 mt-3 mb-4">
     <div class="mapbox-map"></div>
   </div>
 </div>
