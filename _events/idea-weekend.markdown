@@ -10,7 +10,8 @@ dates:
   start_date: 2017-05-19 18:30:00 Z
   end_date: 2017-05-21 16:00:00 Z
 urls:
-  ticket_url: https://wayfare.ticketleap.com/idea-weekend/
+  ticket_url: https://wayfare.ticketleap.com/idea-weekend
+  info_url: /startups/idea-weekend
 location: Costa Mesa
 ---
 

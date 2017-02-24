@@ -17,8 +17,10 @@ pricing:
     price: "$747"
   - dates: Deposit
     price: "$47"
-  note: Deposit due with application & applies to conference fees. Pricing includes
-    three day conference, all meals, materials, workbooks and goodies.
+  note: |-
+    Deposit due with application & applies to conference fees. Pricing includes three day conference, all meals, materials, workbooks and goodies.
+
+    Limited amount of scholarships available for students and non-profits. Inquire to apply.
 layout: custom/startups/idea-weekend
 ---
 
