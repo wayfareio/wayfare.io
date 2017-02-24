@@ -1,6 +1,8 @@
 ---
 title: Pilot Weekend
 date: 2017-01-05 18:55:00 Z
+categories:
+- Startups
 position: 1
 headline: Pilot Weekend
 images:
