@@ -1,7 +1,6 @@
 ---
 title: The Voice of Comparison (and How to Stop it)
 date: 2017-02-21 05:43:00 Z
-author: Jill Arbini
 categories:
 - Life
 tags:
@@ -12,6 +11,7 @@ tags:
 - homeless
 - strengths
 - relationships
+author: Jill Arbini
 image: "/uploads/comparison-blog-resized.jpg"
 ---
 
