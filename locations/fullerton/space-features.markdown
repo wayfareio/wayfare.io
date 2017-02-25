@@ -27,7 +27,7 @@ features:
     and chairs that will make those longer, drawn out meetings seamless. The conference
     room is available to both members and non members on a first-come, first-serve
     online booking basis.
-- title: Desks with USB & Power Ports
+- title: 'Spacious Open Desks '
   image: "/uploads/fullerton-workspace-ground-647ad7.jpg"
   text: Our space features desks designed to allow you to spread out, buckle down
     and feel at home in your space. Each desk conveniently includes built-in, high-powered
@@ -39,7 +39,9 @@ features:
     with a wide range of adjustments and full support for any build.
 - title: Free Drip Coffee
   image: "/assets/images/locations/costa-mesa/features/good-coffee.jpg"
-  text: 'Members enjoy free specialty drip coffee all day, it''s that simple.  '
+  text: 'Members enjoy free specialty drip coffee all day, it''s that simple. It''s
+    not uncommon for yummy treats to show up at the coffee station either. Don''t
+    say we didn''t warn you. '
 - title: Community Events
   image: "/uploads/fullerton-events-d3d275.jpg"
   text: As a member, your perks extend beyond the work place and into the Fullerton
