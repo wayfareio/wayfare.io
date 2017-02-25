@@ -70,11 +70,8 @@
   <div class="container">
     <div class="row">
       <div class="col-sm-12 text-center hidden-xs">
-        <nav class="navbar navbar-light nav-site" role="navigation">
-  <a class="navbar-brand _no-underline" href="/">
-    <img src="/assets/images/wayfare-logo.svg" alt="Wayfare">
-  </a>
-  <ul class="list-social hidden-sm-down pull-right">
+        <div class="nav-site-social">
+  <ul class="list-social hidden-sm-down float-right">
   <li class="list-social-item">
     <a href="https://www.facebook.com/WayfareHQ/" class="list-social-link">
       <span class="icon icon-social-facebook icon icon-xs list-social-icon">
@@ -113,7 +110,15 @@
   </li>
 </ul>
 
-  <ul class="nav navbar-nav pull-sm-right m-r-1">
+</div>
+<nav class="navbar navbar-toggleable-sm navbar-light nav-site" role="navigation">
+  <button type="button" class="navbar-toggler navbar-toggler-right">
+    <small>MENU</small> &#9776;
+  </button>
+  <a class="navbar-brand _no-underline" href="/">
+    <img src="/assets/images/wayfare-logo.svg" alt="Wayfare">
+  </a>
+  <ul class="nav navbar-nav float-sm-right mr-3">
     
       <li class="nav-item">
         <a href="/membership" class="nav-link">
@@ -152,9 +157,6 @@
       </li>
     
   </ul>
-  <button type="button" class="navbar-toggler hidden-md-up pull-right">
-    <small>MENU</small> &#9776;
-  </button>
 </nav>
 
       </div>
@@ -165,7 +167,7 @@
 <section id="content" class="content page site-nav-push">
   <div class="container">
   <div class="row">
-    <div class="col-xs-12">
+    <div class="col-12">
       
       
       
@@ -173,9 +175,9 @@
   </div>
   
     <div class="row">
-      <div class="col-xs-12 col-md-3">
+      <div class="col-12 col-md-3">
         <nav class="nav-side collapsed" role="navigation">
-  <ul class="nav">
+  <ul class="nav flex-column">
     
       <li class="nav-item">
         
@@ -229,11 +231,11 @@
 </nav>
 
       </div>
-      <div class="col-xs-12 col-md-9">
+      <div class="col-12 col-md-9">
         <h2>Idea Weekend</h2>
 <hr>
 <div class="row">
-  <div class="col-xs-12 col-lg-7 col-xl-8">
+  <div class="col-12 col-lg-7 col-xl-8">
     <h3 id="overview">Overview</h3>
 
 <p>Idea Weekend is designed to help you begin bringing to life the world-changing idea that you are passionate about. Whether you are a founder with a brand new idea or you are thinking a adding about a new product or service to your existing organization, Idea Weekend is designed specifically for you. Idea Weekend kick-starts your plan and helps you create the roadmap for your idea to become a reality alongside a community of other dreamers, doers and adventurers for the common good.</p>
@@ -297,11 +299,11 @@
   <li>Presentations</li>
 </ul>
 
-<p><a href="https://wayfare.ticketleap.com/idea-weekend/" class="btn btn-primary btn-lg m-y-1">Buy Your Ticket</a></p>
+<p><a href="https://wayfare.ticketleap.com/idea-weekend/" class="btn btn-primary btn-lg my-3">Buy Your Ticket</a></p>
 
   </div>
 
-  <div class="col-xs-12 col-lg-5 col-xl-4">
+  <div class="col-12 col-lg-5 col-xl-4">
     <div class="card">
     <table class="table m-b-0">
       <thead>
@@ -325,13 +327,17 @@
       </tbody>
     </table>
   </div>
-  <p class="m-b-1"><small><em>Deposit due with application & applies to conference fees. Pricing includes three day conference, all meals, materials, workbooks and goodies.</em></small></p>
+  <a href="https://wayfare.ticketleap.com/idea-weekend/" class="btn btn-primary btn-lg btn-block mb-3">Buy Your Ticket</a>
+  <small><em><p>Deposit due with application &amp; applies to conference fees. Pricing includes three day conference, all meals, materials, workbooks and goodies.</p>
+
+<p>Limited amount of scholarships available for students and non-profits. Inquire to apply.</p>
+</em></small>
   </div>
 </div>
 
 <div class="row">
-  <div class="col-xs-12 col-lg-9 col-xl-8">
-    <h3 class="p-b-1">Please don't hesitate to contact us with questions</h3>
+  <div class="col-12 col-lg-9 col-xl-8">
+    <h3 class="pb-3">Please don't hesitate to contact us with questions</h3>
     <p>
       <a href="/locations/costa-mesa/contact" class="btn btn-lg btn-primary">Contact Us</a>
     </p>
@@ -347,9 +353,9 @@
 <footer class="page site-nav-push footer-site">
   <div class="container">
     <div class="row">
-      <div class="col-sm-6 col-md-6 col-lg-3 p-y-1">
+      <div class="col-sm-6 col-md-6 col-lg-3 py-3">
         <h6>Members</h6>
-        <ul class="nav">
+        <ul class="nav flex-column">
           <li class="nav-item">
             <a href="http://members.wayfare.io/" class="nav-link">Log In</a>
           </li>
@@ -358,17 +364,17 @@
           </li>
         </ul>
       </div>
-      <div class="col-sm-6 col-md-6 col-lg-3 p-y-1">
+      <div class="col-sm-6 col-md-6 col-lg-3 py-3">
         <h6>Get Involved</h6>
-        <ul class="nav">
+        <ul class="nav flex-column">
           <li class="nav-item">
             <a href="/internships" class="nav-link">Internships</a>
           </li>
         </ul>
       </div>
-      <div class="col-sm-6 col-md-6 col-lg-3 p-y-1">
+      <div class="col-sm-6 col-md-6 col-lg-3 py-3">
         <h6>More Goodness</h6>
-        <ul class="nav">
+        <ul class="nav flex-column">
           <li class="nav-item">
             <a href="/about" class="nav-link">About</a>
           </li>
@@ -380,7 +386,7 @@
           </li>
         </ul>
       </div>
-      <div class="col-sm-6 col-md-6 col-lg-3 p-y-1">
+      <div class="col-sm-6 col-md-6 col-lg-3 py-3">
         <h6>We're Social</h6>
         <ul class="list-social list-social-buttons">
   <li class="list-social-item">
@@ -424,16 +430,16 @@
       </div>
     </div>
     <div class="row">
-      <div class="col-xs-12 p-b-1">
+      <div class="col-12 pb-3">
         &copy; 2015-2017 Wayfare&trade;
       </div>
     </div>
   </div>
 </footer>
 
-<nav class="nav nav-mobile" role="navigation">
-  <a href="/" class="m-x-auto">
-    <img src="/assets/images/wayfare-logo.svg" alt="Wayfare" class="nav-mobile-logo m-x-auto">
+<nav class="nav nav-mobile flex-column" role="navigation">
+  <a href="/">
+    <img src="/assets/images/wayfare-logo.svg" alt="Wayfare" class="nav-mobile-logo">
   </a>
   <ul class="list-unstyled">
     

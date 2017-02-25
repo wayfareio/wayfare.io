@@ -70,11 +70,8 @@
   <div class="container">
     <div class="row">
       <div class="col-sm-12 text-center hidden-xs">
-        <nav class="navbar navbar-light nav-site" role="navigation">
-  <a class="navbar-brand _no-underline" href="/">
-    <img src="/assets/images/wayfare-logo.svg" alt="Wayfare">
-  </a>
-  <ul class="list-social hidden-sm-down pull-right">
+        <div class="nav-site-social">
+  <ul class="list-social hidden-sm-down float-right">
   <li class="list-social-item">
     <a href="https://www.facebook.com/WayfareHQ/" class="list-social-link">
       <span class="icon icon-social-facebook icon icon-xs list-social-icon">
@@ -113,7 +110,15 @@
   </li>
 </ul>
 
-  <ul class="nav navbar-nav pull-sm-right m-r-1">
+</div>
+<nav class="navbar navbar-toggleable-sm navbar-light nav-site" role="navigation">
+  <button type="button" class="navbar-toggler navbar-toggler-right">
+    <small>MENU</small> &#9776;
+  </button>
+  <a class="navbar-brand _no-underline" href="/">
+    <img src="/assets/images/wayfare-logo.svg" alt="Wayfare">
+  </a>
+  <ul class="nav navbar-nav float-sm-right mr-3">
     
       <li class="nav-item">
         <a href="/membership" class="nav-link">
@@ -152,9 +157,6 @@
       </li>
     
   </ul>
-  <button type="button" class="navbar-toggler hidden-md-up pull-right">
-    <small>MENU</small> &#9776;
-  </button>
 </nav>
 
       </div>
@@ -165,13 +167,13 @@
 <section id="content" class="content page site-nav-push">
   <div class="container">
   <div class="row">
-    <div class="col-xs-12">
+    <div class="col-12">
       
       
       
         <div class="card card-inverse card-banner">
   <img class="card-img img-fluid" src="/assets/images/topo-banner-bg.jpg">
-  <div class="card-img-overlay flex-items-xs-middle flex-items-xs-left">
+  <div class="card-img-overlay align-items-center justify-content-xs-left">
     <div class="card-block">
       <h4 class="card-title">Fullerton</h4>
       
@@ -186,9 +188,9 @@
   </div>
   
     <div class="row">
-      <div class="col-xs-12 col-md-3">
+      <div class="col-12 col-md-3">
         <nav class="nav-side collapsed" role="navigation">
-  <ul class="nav">
+  <ul class="nav flex-column">
     
       <li class="nav-item">
         
@@ -282,17 +284,19 @@
 </nav>
 
       </div>
-      <div class="col-xs-12 col-md-9">
+      <div class="col-12 col-md-9">
         <h2>Space Features</h2>
 <p>We don’t sacrifice quality around here. From the chairs you sit in to our free, bottomless drip coffee, we’ve made sure to give you nothing short of the very best.</p>
 
 
-<div class="card-left-features space-features">
+<div class="space-features">
   
-    <div class="card card-left-feature">
-      <div class="card-left-feature-img">
-        <img data-src="wayfareio/assets/images/locations/costa-mesa/features/quality-design.jpg" alt="Quality, thoughtful design" class="img-cloud" data-width="400" data-height="400" data-crop="fit">
-      </div>
+    
+    
+      <div class="card-deck">
+    
+    <div class="card mb-4">
+      <img data-src="wayfareio/assets/images/locations/costa-mesa/features/quality-design.jpg" alt="Quality, thoughtful design" class="card-img-top img-fluid img-cloud" data-width="400" data-height="400" data-crop="fit">
       <div class="card-block">
         <h3 class="card-title">Quality, thoughtful design
 </h3>
@@ -302,11 +306,12 @@
         </p>
       </div>
     </div>
+    
   
-    <div class="card card-left-feature">
-      <div class="card-left-feature-img">
-        <img data-src="wayfareio/assets/images/locations/costa-mesa/features/meeting-spaces.jpg" alt="Conference Room" class="img-cloud" data-width="400" data-height="400" data-crop="fit">
-      </div>
+    
+    
+    <div class="card mb-4">
+      <img data-src="wayfareio/assets/images/locations/costa-mesa/features/meeting-spaces.jpg" alt="Conference Room" class="card-img-top img-fluid img-cloud" data-width="400" data-height="400" data-crop="fit">
       <div class="card-block">
         <h3 class="card-title">Conference Room
 </h3>
@@ -316,11 +321,16 @@
         </p>
       </div>
     </div>
-  
-    <div class="card card-left-feature">
-      <div class="card-left-feature-img">
-        <img data-src="wayfareio/assets/images/locations/costa-mesa/features/custom-desks.jpg" alt="Desks with USB & Power Ports" class="img-cloud" data-width="400" data-height="400" data-crop="fit">
+    
       </div>
+    
+  
+    
+    
+      <div class="card-deck">
+    
+    <div class="card mb-4">
+      <img data-src="wayfareio/assets/images/locations/costa-mesa/features/custom-desks.jpg" alt="Desks with USB & Power Ports" class="card-img-top img-fluid img-cloud" data-width="400" data-height="400" data-crop="fit">
       <div class="card-block">
         <h3 class="card-title">Desks with USB &amp; Power Ports
 </h3>
@@ -330,11 +340,12 @@
         </p>
       </div>
     </div>
+    
   
-    <div class="card card-left-feature">
-      <div class="card-left-feature-img">
-        <img data-src="wayfareio/assets/images/locations/costa-mesa/features/comfy-chairs.jpg" alt="Ergonomic Chairs" class="img-cloud" data-width="400" data-height="400" data-crop="fit">
-      </div>
+    
+    
+    <div class="card mb-4">
+      <img data-src="wayfareio/assets/images/locations/costa-mesa/features/comfy-chairs.jpg" alt="Ergonomic Chairs" class="card-img-top img-fluid img-cloud" data-width="400" data-height="400" data-crop="fit">
       <div class="card-block">
         <h3 class="card-title">Ergonomic Chairs
 </h3>
@@ -344,11 +355,16 @@
         </p>
       </div>
     </div>
-  
-    <div class="card card-left-feature">
-      <div class="card-left-feature-img">
-        <img data-src="wayfareio/assets/images/locations/costa-mesa/features/good-coffee.jpg" alt="Drip coffee, cold brew & kombucha on tap" class="img-cloud" data-width="400" data-height="400" data-crop="fit">
+    
       </div>
+    
+  
+    
+    
+      <div class="card-deck">
+    
+    <div class="card mb-4">
+      <img data-src="wayfareio/assets/images/locations/costa-mesa/features/good-coffee.jpg" alt="Drip coffee, cold brew & kombucha on tap" class="card-img-top img-fluid img-cloud" data-width="400" data-height="400" data-crop="fit">
       <div class="card-block">
         <h3 class="card-title">Drip coffee, cold brew &amp; kombucha on tap
 </h3>
@@ -358,11 +374,12 @@
         </p>
       </div>
     </div>
+    
   
-    <div class="card card-left-feature">
-      <div class="card-left-feature-img">
-        <img data-src="wayfareio/assets/images/locations/costa-mesa/features/community-events.jpg" alt="Community Events" class="img-cloud" data-width="400" data-height="400" data-crop="fit">
-      </div>
+    
+    
+    <div class="card mb-4">
+      <img data-src="wayfareio/assets/images/locations/costa-mesa/features/community-events.jpg" alt="Community Events" class="card-img-top img-fluid img-cloud" data-width="400" data-height="400" data-crop="fit">
       <div class="card-block">
         <h3 class="card-title">Community Events
 </h3>
@@ -372,11 +389,16 @@
         </p>
       </div>
     </div>
-  
-    <div class="card card-left-feature">
-      <div class="card-left-feature-img">
-        <img data-src="wayfareio/assets/images/locations/costa-mesa/features/shared-resources.jpg" alt="Shared Resources" class="img-cloud" data-width="400" data-height="400" data-crop="fit">
+    
       </div>
+    
+  
+    
+    
+      <div class="card-deck">
+    
+    <div class="card mb-4">
+      <img data-src="wayfareio/assets/images/locations/costa-mesa/features/shared-resources.jpg" alt="Shared Resources" class="card-img-top img-fluid img-cloud" data-width="400" data-height="400" data-crop="fit">
       <div class="card-block">
         <h3 class="card-title">Shared Resources
 </h3>
@@ -386,11 +408,12 @@
         </p>
       </div>
     </div>
+    
   
-    <div class="card card-left-feature">
-      <div class="card-left-feature-img">
-        <img data-src="wayfareio/assets/images/locations/costa-mesa/features/parking.jpg" alt="Parking" class="img-cloud" data-width="400" data-height="400" data-crop="fit">
-      </div>
+    
+    
+    <div class="card mb-4">
+      <img data-src="wayfareio/assets/images/locations/costa-mesa/features/parking.jpg" alt="Parking" class="card-img-top img-fluid img-cloud" data-width="400" data-height="400" data-crop="fit">
       <div class="card-block">
         <h3 class="card-title">Parking
 </h3>
@@ -400,11 +423,16 @@
         </p>
       </div>
     </div>
-  
-    <div class="card card-left-feature">
-      <div class="card-left-feature-img">
-        <img data-src="wayfareio/assets/images/locations/costa-mesa/features/mail-service.jpg" alt="Mail Service" class="img-cloud" data-width="400" data-height="400" data-crop="fit">
+    
       </div>
+    
+  
+    
+    
+      <div class="card-deck">
+    
+    <div class="card mb-4">
+      <img data-src="wayfareio/assets/images/locations/costa-mesa/features/mail-service.jpg" alt="Mail Service" class="card-img-top img-fluid img-cloud" data-width="400" data-height="400" data-crop="fit">
       <div class="card-block">
         <h3 class="card-title">Mail Service
 </h3>
@@ -414,6 +442,9 @@
         </p>
       </div>
     </div>
+    
+      </div>
+    
   
 </div>
 
@@ -426,9 +457,9 @@
 <footer class="page site-nav-push footer-site">
   <div class="container">
     <div class="row">
-      <div class="col-sm-6 col-md-6 col-lg-3 p-y-1">
+      <div class="col-sm-6 col-md-6 col-lg-3 py-3">
         <h6>Members</h6>
-        <ul class="nav">
+        <ul class="nav flex-column">
           <li class="nav-item">
             <a href="http://members.wayfare.io/" class="nav-link">Log In</a>
           </li>
@@ -437,17 +468,17 @@
           </li>
         </ul>
       </div>
-      <div class="col-sm-6 col-md-6 col-lg-3 p-y-1">
+      <div class="col-sm-6 col-md-6 col-lg-3 py-3">
         <h6>Get Involved</h6>
-        <ul class="nav">
+        <ul class="nav flex-column">
           <li class="nav-item">
             <a href="/internships" class="nav-link">Internships</a>
           </li>
         </ul>
       </div>
-      <div class="col-sm-6 col-md-6 col-lg-3 p-y-1">
+      <div class="col-sm-6 col-md-6 col-lg-3 py-3">
         <h6>More Goodness</h6>
-        <ul class="nav">
+        <ul class="nav flex-column">
           <li class="nav-item">
             <a href="/about" class="nav-link">About</a>
           </li>
@@ -459,7 +490,7 @@
           </li>
         </ul>
       </div>
-      <div class="col-sm-6 col-md-6 col-lg-3 p-y-1">
+      <div class="col-sm-6 col-md-6 col-lg-3 py-3">
         <h6>We're Social</h6>
         <ul class="list-social list-social-buttons">
   <li class="list-social-item">
@@ -503,16 +534,16 @@
       </div>
     </div>
     <div class="row">
-      <div class="col-xs-12 p-b-1">
+      <div class="col-12 pb-3">
         &copy; 2015-2017 Wayfare&trade;
       </div>
     </div>
   </div>
 </footer>
 
-<nav class="nav nav-mobile" role="navigation">
-  <a href="/" class="m-x-auto">
-    <img src="/assets/images/wayfare-logo.svg" alt="Wayfare" class="nav-mobile-logo m-x-auto">
+<nav class="nav nav-mobile flex-column" role="navigation">
+  <a href="/">
+    <img src="/assets/images/wayfare-logo.svg" alt="Wayfare" class="nav-mobile-logo">
   </a>
   <ul class="list-unstyled">
     

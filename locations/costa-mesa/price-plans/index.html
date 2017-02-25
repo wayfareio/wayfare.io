@@ -70,11 +70,8 @@
   <div class="container">
     <div class="row">
       <div class="col-sm-12 text-center hidden-xs">
-        <nav class="navbar navbar-light nav-site" role="navigation">
-  <a class="navbar-brand _no-underline" href="/">
-    <img src="/assets/images/wayfare-logo.svg" alt="Wayfare">
-  </a>
-  <ul class="list-social hidden-sm-down pull-right">
+        <div class="nav-site-social">
+  <ul class="list-social hidden-sm-down float-right">
   <li class="list-social-item">
     <a href="https://www.facebook.com/WayfareHQ/" class="list-social-link">
       <span class="icon icon-social-facebook icon icon-xs list-social-icon">
@@ -113,7 +110,15 @@
   </li>
 </ul>
 
-  <ul class="nav navbar-nav pull-sm-right m-r-1">
+</div>
+<nav class="navbar navbar-toggleable-sm navbar-light nav-site" role="navigation">
+  <button type="button" class="navbar-toggler navbar-toggler-right">
+    <small>MENU</small> &#9776;
+  </button>
+  <a class="navbar-brand _no-underline" href="/">
+    <img src="/assets/images/wayfare-logo.svg" alt="Wayfare">
+  </a>
+  <ul class="nav navbar-nav float-sm-right mr-3">
     
       <li class="nav-item">
         <a href="/membership" class="nav-link">
@@ -152,9 +157,6 @@
       </li>
     
   </ul>
-  <button type="button" class="navbar-toggler hidden-md-up pull-right">
-    <small>MENU</small> &#9776;
-  </button>
 </nav>
 
       </div>
@@ -165,13 +167,13 @@
 <section id="content" class="content page site-nav-push">
   <div class="container">
   <div class="row">
-    <div class="col-xs-12">
+    <div class="col-12">
       
       
       
         <div class="card card-inverse card-banner">
   <img class="card-img img-fluid" src="/assets/images/topo-banner-bg.jpg">
-  <div class="card-img-overlay flex-items-xs-middle flex-items-xs-left">
+  <div class="card-img-overlay align-items-center justify-content-xs-left">
     <div class="card-block">
       <h4 class="card-title">Costa Mesa</h4>
       
@@ -186,9 +188,9 @@
   </div>
   
     <div class="row">
-      <div class="col-xs-12 col-md-3">
+      <div class="col-12 col-md-3">
         <nav class="nav-side collapsed" role="navigation">
-  <ul class="nav">
+  <ul class="nav flex-column">
     
       <li class="nav-item">
         
@@ -282,7 +284,7 @@
 </nav>
 
       </div>
-      <div class="col-xs-12 col-md-9">
+      <div class="col-12 col-md-9">
         <h2 id="working-together-is-important">Working Together is Important</h2>
 
 <p>We’re excited you’re here, and we hope to work alongside you soon!</p>
@@ -290,7 +292,7 @@
 
 <div class="card-deck price-plans">
   <div class="card price-plan price-plan-xl">
-    <div class="card-block text-xs-center">
+    <div class="card-block text-center">
       <span class="icon icon-passport icon-xl icon-block icon-center">
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 24">
   <polyline points="2.5 2.5 14.5 2.5 14.5 4.5" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
@@ -305,7 +307,7 @@
       <p class="card-text">
         <strong>$47/month</strong>
       </p>
-      <p class="card-text col-xs-12 col-md-10 offset-md-1">
+      <p class="card-text col-12 col-md-10 offset-md-1">
         Start with our most flexible plan and pay-as-you-go after your included hours. This plan includes your membership and 6 hours of coworking.
       </p>
       <p class="card-text">
@@ -317,7 +319,7 @@
 </div>
 <div class="card-deck price-plans">
   <div class="card price-plan">
-    <div class="card-block text-xs-center">
+    <div class="card-block text-center">
       <span class="icon icon-compass icon-xl icon-block icon-center">
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
   <title>compass</title>
@@ -353,7 +355,7 @@
     </div>
   </div>
   <div class="card price-plan">
-    <div class="card-block text-xs-center">
+    <div class="card-block text-center">
       <span class="icon icon-map-treasure icon-xl icon-block icon-center">
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
   <title>map-treasure</title>
@@ -394,7 +396,7 @@
 </div>
 <div class="card-deck price-plans">
   <div class="card price-plan">
-    <div class="card-block text-xs-center">
+    <div class="card-block text-center">
       <span class="icon icon-back-pack icon-xl icon-block icon-center">
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
   <title>back-pack</title>
@@ -433,7 +435,7 @@
     </div>
   </div>
   <div class="card price-plan">
-    <div class="card-block text-xs-center">
+    <div class="card-block text-center">
       <span class="icon icon-map-mountain-forest icon-xl icon-block icon-center">
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
   <title>map-mountain-forest</title>
@@ -478,7 +480,7 @@
   </div>
 </div>
 <div class="card price-plan price-plan-xl">
-  <div class="card-block text-xs-center">
+  <div class="card-block text-center">
     <span class="icon icon-tent icon-xl icon-block icon-center">
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
   <title>tent</title>
@@ -494,14 +496,14 @@
 </span>
 
     <h2 class="card-title script text-lowercase">Camper</h2>
-    <p class="card-text p-x-2 col-xs-12 col-md-10 offset-md-1">
+    <p class="card-text px-4 col-12 col-md-10 offset-md-1">
       DEDICATED DESKS + OFFICES<br>
       We would love to show you our dedicated offices and desks. <a href="/locations/costa-mesa/contact">Contact us</a> for more information and current availability.
     </p>
   </div>
 </div>
 <div class="card price-plan price-plan-xl">
-  <div class="card-block text-xs-center">
+  <div class="card-block text-center">
     <span class="icon icon-fire-camp icon-xl icon-block icon-center">
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
   <title>fire-camp</title>
@@ -517,16 +519,16 @@
 </span>
 
     <h2 class="card-title script text-lowercase">Tribe</h2>
-    <p class="card-text p-x-2 col-xs-12 col-md-10 offset-md-1">
+    <p class="card-text px-4 col-12 col-md-10 offset-md-1">
       TEAM PLANS<br>
       Share a coworking package with your team! Each team member simply carries their own membership &amp; shares hours. <a href="/locations/costa-mesa/contact">Contact us</a> for more information.
     </p>
   </div>
 </div>
-<div class="row m-y-3">
-  <div class="col-xs">
-    <h3 class="p-b-1 text-xs-center">Contact us with your questions</h3>
-    <a href="/locations/costa-mesa/contact" class="btn btn-primary btn-lg col-xs-12 col-md-8 offset-md-2 col-lg-6 offset-lg-3 text-uppercase">Contact <strong>us</strong></a>
+<div class="row my-5">
+  <div class="col">
+    <h3 class="pb-3 text-center">Contact us with your questions</h3>
+    <a href="/locations/costa-mesa/contact" class="btn btn-primary btn-lg col-12 col-md-8 offset-md-2 col-lg-6 offset-lg-3 text-uppercase">Contact <strong>us</strong></a>
   </div>
 </div>
 
@@ -539,9 +541,9 @@
 <footer class="page site-nav-push footer-site">
   <div class="container">
     <div class="row">
-      <div class="col-sm-6 col-md-6 col-lg-3 p-y-1">
+      <div class="col-sm-6 col-md-6 col-lg-3 py-3">
         <h6>Members</h6>
-        <ul class="nav">
+        <ul class="nav flex-column">
           <li class="nav-item">
             <a href="http://members.wayfare.io/" class="nav-link">Log In</a>
           </li>
@@ -550,17 +552,17 @@
           </li>
         </ul>
       </div>
-      <div class="col-sm-6 col-md-6 col-lg-3 p-y-1">
+      <div class="col-sm-6 col-md-6 col-lg-3 py-3">
         <h6>Get Involved</h6>
-        <ul class="nav">
+        <ul class="nav flex-column">
           <li class="nav-item">
             <a href="/internships" class="nav-link">Internships</a>
           </li>
         </ul>
       </div>
-      <div class="col-sm-6 col-md-6 col-lg-3 p-y-1">
+      <div class="col-sm-6 col-md-6 col-lg-3 py-3">
         <h6>More Goodness</h6>
-        <ul class="nav">
+        <ul class="nav flex-column">
           <li class="nav-item">
             <a href="/about" class="nav-link">About</a>
           </li>
@@ -572,7 +574,7 @@
           </li>
         </ul>
       </div>
-      <div class="col-sm-6 col-md-6 col-lg-3 p-y-1">
+      <div class="col-sm-6 col-md-6 col-lg-3 py-3">
         <h6>We're Social</h6>
         <ul class="list-social list-social-buttons">
   <li class="list-social-item">
@@ -616,16 +618,16 @@
       </div>
     </div>
     <div class="row">
-      <div class="col-xs-12 p-b-1">
+      <div class="col-12 pb-3">
         &copy; 2015-2017 Wayfare&trade;
       </div>
     </div>
   </div>
 </footer>
 
-<nav class="nav nav-mobile" role="navigation">
-  <a href="/" class="m-x-auto">
-    <img src="/assets/images/wayfare-logo.svg" alt="Wayfare" class="nav-mobile-logo m-x-auto">
+<nav class="nav nav-mobile flex-column" role="navigation">
+  <a href="/">
+    <img src="/assets/images/wayfare-logo.svg" alt="Wayfare" class="nav-mobile-logo">
   </a>
   <ul class="list-unstyled">
     
