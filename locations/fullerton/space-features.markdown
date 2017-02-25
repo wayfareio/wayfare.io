@@ -66,4 +66,4 @@ features:
 layout: custom/locations/space-features
 ---
 
-We don't sacrifice quality around here. From the chairs you sit in to our free, bottomless drip coffee, we've made sure to give you nothing short of the very best.
+We don't sacrifice quality around here. From the chairs you sit in to the free, bottomless drip coffee, we've made sure to give you nothing short of the very best.
