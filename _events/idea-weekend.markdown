@@ -1,6 +1,8 @@
 ---
 title: Idea Weekend
 date: 2017-02-23 22:48:00 Z
+categories:
+- Startups
 position: 1
 headline: Idea Weekend
 images:

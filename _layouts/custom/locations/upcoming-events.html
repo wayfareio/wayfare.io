@@ -5,7 +5,7 @@ layout: page
 <h2 class="underline">{{ page.title }}</h2>
 {{ content }}
 
-{% assign events = site.events | sort_events | filter_events location:page.location %}
+{% assign events = site.events | sort_events | filter_by_location location:page.location %}
 <div class="upcoming-events">
   {% if events.size == 0 %}
     <div class="alert alert-warning" role="alert">

@@ -68,7 +68,7 @@ layout: site
     <div class="col col-md-10 offset-md-1 mt-4">
       <h2 class="underline">Startups Events</h2>
 
-      {% assign events = site.events | sort_events | filter_events location:page.location %}
+      {% assign events = site.events | sort_events | filter_by_category category:'Startups' %}
       <div class="upcoming-events">
         {% if events.size == 0 %}
           <div class="alert alert-warning" role="alert">
@@ -92,10 +92,11 @@ layout: site
                 </p>
                 <p class="card-text">{{ event.content | markdown }}</p>
                 {% if event.urls %}
+                  {% if event.urls.info_url %}
+                    <a href="{{ event.urls.info_url }}" class="btn btn-md btn-primary">Learn more</a>
+                  {% endif %}
                   {% if event.urls.ticket_url %}
-                    <a href="{{ event.urls.ticket_url }}" class="btn btn-md btn-primary">Details &amp; Tickets</a>
-                  {% elsif event.urls.info_url %}
-                    <a href="{{ event.urls.info_url }}" class="btn btn-md btn-primary">More Info</a>
+                    <a href="{{ event.urls.ticket_url }}" class="btn btn-md btn-primary">Buy tickets</a>
                   {% endif %}
                 {% endif %}
               </div>
