@@ -44,7 +44,7 @@ We have several options for reservable meeting rooms so you can have the space a
 
 ##### My coworking plan is “x” hours a month. How are those hours tracked?
 
-Upon WiFi login on your first day, your computer will automatically check you in and out each day and track your hours. Pretty great, huh?
+When you access WiFi for the first time you'll log in with your username and password. After that your computer will automatically check you in and out each day and track your hours. Pretty great, huh?
 
 ##### I talk on the phone a lot. What’s your policy on phone calls?
 
@@ -56,7 +56,7 @@ _Yes!_ We have printing and scanning at both locations. Our scanners sync with t
 
 ##### Is coffee included?
 
-_Of course!_ We believe coffee is fundamental to world change. Every morning there will be freshly brewed drip coffee available for members. If you work out of our Costa Mesa location, your desk will also be footsteps away from the best coffeeshop in town, [Neat Coffee](http://www.neat.coffee)!
+_Of course!_ We believe coffee is fundamental to world change. Every morning there will be freshly brewed drip coffee available for members. If you work out of our Costa Mesa location, your desk will also be footsteps away from the best coffee shop in town, [Neat Coffee](http://www.neat.coffee)!
 
 ##### Can I bring my dog?
 
