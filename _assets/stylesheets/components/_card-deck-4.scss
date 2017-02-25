@@ -1,0 +1,12 @@
+.card-deck-4 .card {
+  .card-header { padding: .5rem .65rem; background-color: $brand-secondary; font-size: .9rem; font-weight: 500; letter-spacing: .6px; color: #FFFFFF; border-bottom: none; }
+  .card-footer { background-color: transparent; border-top: none; }
+}
+@include media-breakpoint-down(md) {
+  .card-deck-4 { margin: 0 -1rem -0.5rem; }
+  .card-deck-4 .card {
+    &:not(:last-child) { margin-right: 0; }
+    &:not(:first-child) { margin-left: 0; }
+    flex: 1 1 calc(50% - 1rem); margin: 0 0.5rem 1rem !important;
+  }
+}

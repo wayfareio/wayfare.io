@@ -15,7 +15,7 @@ lead:
     forums, and tools and inspiration that benefit your work and life.
   buttons:
   - url: https://wayfare.typeform.com/to/gZ6TKU
-    title: Sign Up and <strong>Become a Member</strong>
+    title: Sign Up &amp; <strong>Become a Member</strong>
   text-links:
   - url: https://wayfare.typeform.com/to/vn3h2H
     title: Ask us your questions
@@ -25,18 +25,18 @@ nav:
     highlight: membership
 ---
 
-<div class="card-deck flex-items-xs-center">
-  <div class="card col-xs-12 col-md-6 col-lg-5 col-xl-4">
-    <div class="card-block text-xs-center p-x-0">
-      {% include icon.html name="computer-desk" classes="icon-xl icon-block icon-center m-b-1" %}
+<div class="card-deck justify-content-center">
+  <div class="card mb-4 col-12 col-md-6 col-lg-5 col-xl-4">
+    <div class="card-block text-center px-0">
+      {% include icon.html name="computer-desk" classes="icon-xl icon-block icon-center mb-3" %}
       <h4><strong>WORKSPACES</strong></h4>
       <p>Work flexibly or settle into one of our private offices. Our beautifully designed workspaces were made for difference-makers like you.</p>
       <a href="/locations" class="btn btn-primary btn-md">Find a workspace</a>
     </div>
   </div>
-  <div class="card col-xs-12 col-md-6 col-lg-5 col-xl-4">
-    <div class="card-block text-xs-center p-x-0">
-      {% include icon.html name="science-lightbulb" classes="icon-xl icon-block icon-center m-b-1" %}
+  <div class="card mb-4 col-12 col-md-6 col-lg-5 col-xl-4">
+    <div class="card-block text-center px-0">
+      {% include icon.html name="science-lightbulb" classes="icon-xl icon-block icon-center mb-3" %}
       <h4><strong>STARTUP PROGRAMS</strong></h4>
       <p>Put your good ideas to action, launch your organization, and grow into sustainable impact in our startup programs.</p>
       <a href="/startups" class="btn btn-primary btn-md">Join a startup program</a>
@@ -44,16 +44,14 @@ nav:
   </div>
 </div>
 
-<div class="row m-t-3">
-  <div class="col-xs-12">
-    <h2 class="display text-xs-center"><strong>ALL MEMBERS</strong> RECEIVE:</h2>
+<div class="row mt-5">
+  <div class="col-12">
+    <h2 class="display text-center"><strong>ALL MEMBERS</strong> RECEIVE:</h2>
   </div>
 </div>
-<div class="card-left-features membership-features">
-  <div class="card card-left-feature">
-    <div class="card-left-feature-img">
-      <img src="/assets/images/membership-connect.jpg" alt="Connect and share">
-    </div>
+<div class="card-deck">
+  <div class="card mb-4">
+    <img {{ "/assets/images/membership-connect.jpg" | image_src }} alt="Connect and share" class="{{ 'card-img-top img-fluid' | image_class }}"  data-width="400" data-height="400" data-crop="fit">
     <div class="card-block">
       <h3 class="card-title"><strong>Connect &amp; Share</strong> Your Journey with Like-minded People</h3>
       <p class="card-text">Access to our member directory and Slack channel to collaborate, network, encourage, &amp; share insight</p>
@@ -61,20 +59,18 @@ nav:
       <a href="/membership/connect-and-share" class="btn btn-primary">Learn more</a>
     </div>
   </div>
-  <div class="card card-left-feature">
-    <div class="card-left-feature-img">
-      <img src="/assets/images/membership-workspace.jpg" alt="Access to workspaces">
-    </div>
+  <div class="card mb-4">
+    <img {{ "/assets/images/membership-workspace.jpg" | image_src }} alt="Access to workspaces" class="{{ 'card-img-top img-fluid' | image_class }}"  data-width="400" data-height="400" data-crop="fit">
     <div class="card-block">
       <h3 class="card-title"><strong>Access to Workspaces</strong> When and Where You Need Them</h3>
       <p class="card-text">Pay as you go at low hourly rates at any Wayfare location</p>
       <a href="/membership/access-to-workspaces" class="btn btn-primary">Learn more</a>
     </div>
   </div>
-  <div class="card card-left-feature">
-    <div class="card-left-feature-img">
-      <img src="/assets/images/membership-savings.jpg" alt="Major perks">
-    </div>
+</div>
+<div class="card-deck">
+  <div class="card mb-4">
+    <img {{ "/assets/images/membership-savings.jpg" | image_src }} alt="Major perks" class="{{ 'card-img-top img-fluid' | image_class }}"  data-width="400" data-height="400" data-crop="fit">
     <div class="card-block">
       <h3 class="card-title"><strong>Major perks</strong> on the Brands, Products and Places You Love</h3>
       <p class="card-text">Receive exclusive access to our global perks &amp; discounts network</p>
@@ -82,30 +78,28 @@ nav:
       <a href="/membership/major-perks" class="btn btn-primary">Learn more</a>
     </div>
   </div>
-  <div class="card card-left-feature">
-    <div class="card-left-feature-img">
-      <img src="/assets/images/membership-learning.jpg" alt="Learn from others">
-    </div>
+  <div class="card mb-4">
+    <img {{ "/assets/images/membership-learning.jpg" | image_src }} alt="Learn from others" class="{{ 'card-img-top img-fluid' | image_class }}"  data-width="400" data-height="400" data-crop="fit">
     <div class="card-block">
       <h3 class="card-title"><strong>Learn from Others</strong> that Have Traveled the Same Path</h3>
       <p class="card-text">Learn from social good pioneers every month at our monthly learning forum</p>
       <a href="/membership/learn-from-others" class="btn btn-primary">Learn more</a>
     </div>
   </div>
-  <div class="card card-left-feature">
-    <div class="card-left-feature-img">
-      <img src="/assets/images/membership-challenge.jpg" alt="Be challenged and inspired">
-    </div>
+</div>
+<!-- div class="card-deck">
+  <div class="card mb-4">
+    <img {{ "/assets/images/membership-challenge.jpg" | image_src }} alt="Be challenged and inspired" class="{{ 'card-img-top img-fluid' | image_class }}"  data-width="400" data-height="400" data-crop="fit">
     <div class="card-block">
       <h3 class="card-title">Be Challenged and Inspired</h3>
       <p class="card-text">Receive relevant weekly news and reading lists</p>
       <a href="/membership/be-challenged-and-inspired" class="btn btn-primary">Learn more</a>
     </div>
   </div>
-</div>
-<div class="row m-y-3">
-  <div class="col-xs">
-    <h3 class="p-b-1 text-xs-center">More Membership Information</h3>
-    <a href="/membership/faq" class="btn btn-primary btn-lg text-uppercase col-xs-12 col-md-8 offset-md-2 col-lg-6 offset-lg-3">Membership <strong>FAQ</strong></a>
+</div -->
+<div class="row my-5">
+  <div class="col">
+    <h3 class="pb-3 text-center">More Membership Information</h3>
+    <a href="/membership/faq" class="btn btn-primary btn-lg text-uppercase col-12 col-md-8 offset-md-2 col-lg-6 offset-lg-3">Membership <strong>FAQ</strong></a>
   </div>
 </div>

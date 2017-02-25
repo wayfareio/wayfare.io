@@ -2,7 +2,7 @@
   font-family: "brandon-grotesque"; line-height: 1.5;
   > .nav {
     > .nav-item {
-      margin: 0.5rem 0;
+      margin: 0.5rem 0 0;
       &:first-child { margin-top: 0; }
     }
     > .nav-item > .nav-link { margin: 0; padding: 0; }
@@ -10,13 +10,16 @@
   > .nav-side-toggler { display: none; }
   @include media-breakpoint-down(sm) {
     position: relative; cursor: pointer;
-    > .nav { border: $card-border-width solid $card-border-color; padding: 0.15rem 1.25rem; margin-bottom: 2rem; @include border-radius($border-radius); }
+    > .nav { border: $card-border-width solid $card-border-color; padding: 0.15rem 1.25rem 1rem; margin-bottom: 2rem; @include border-radius($border-radius); }
     > .nav > .nav-item:first-child { margin-top: 0.5rem; }
-    > .nav-side-toggler { display: block; position: absolute; top: 0.4rem; right: 0.25rem; }
+    > .nav-side-toggler { display: block; position: absolute; top: 0.15rem; right: 0.25rem; }
     &.collapsed {
-      > .nav { border-color: $brand-primary; padding: 0.3rem 1.25rem; }
+      > .nav { border-color: $brand-primary; padding: 0 1.25rem 0.3rem; }
       > .nav > .nav-item { display: none; }
-      > .nav > .nav-item.active { display: block; }
+      > .nav > .nav-item.active {
+        display: block;
+        .nav-link.active { border: 0; }
+      }
     }
   }
 }

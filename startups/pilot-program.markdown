@@ -63,7 +63,7 @@ This means:
 
 **Pricing:** $97 a month (billed on the 1st of each month for that month's content)
 
-{% button url:"https://wayfare.chargify.com/subscribe/y344ppnb8st5/pilot" text:"Enroll Now" size:"lg" class:"m-y-1" %}
+{% button url:"https://wayfare.chargify.com/subscribe/y344ppnb8st5/pilot" text:"Enroll Now" size:"lg" class:"my-3" %}
 
 ### Please don't hesitate to contact us with questions
 

@@ -1,6 +1,5 @@
 @import "tether/dist/css/tether";
 
-$enable-flex: true;
 $enable-transitions: true;
 $brand-primary: #76B5D0;
 $brand-secondary: #A4D2CE;
@@ -23,7 +22,9 @@ $fa-font-path: "/assets/fonts";
 @import "font-awesome/css/font-awesome";
 
 @import "select2/dist/css/select2";
+@import "fotorama/fotorama";
 
+@import "fixes";
 @import "buttons";
 @import "fonts";
 @import "helpers";

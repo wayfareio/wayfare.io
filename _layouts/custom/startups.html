@@ -1,24 +1,116 @@
 ---
-layout: page
+layout: site
 ---
 
-<div class="card-left-features">
-  {% for program in page.programs %}
-    <div class="card card-left-feature">
-      <div class="card-left-feature-img">
-        <a href="{{ program.url }}" class="_no-underline">
-          <img src="{{ program.image }}" alt="{{ program.title }}">
-        </a>
+<div class="container">
+  <div class="row">
+    <div class="col">
+      {% include page-lead.html %}
+    </div>
+  </div>
+  <div class="row">
+    <div class="col pb-5">
+      <div class="fotorama" data-width="100%" data-max-width="100%" data-loop="true" data-autoplay="6000" data-click="true" data-swipe="true" data-keyboard="true">
+        {% for image in page.gallery.images %}
+          <img src="{{ image }}" class="rounded">
+        {% endfor %}
       </div>
-      <div class="card-block">
-        <a href="{{ program.url }}" class="_no-underline">
-          <h3 class="card-title"><strong>{{ program.title }}</strong></h3>
-        </a>
-        <div class="card-text">
-          {{ program.description | markdownify }}
-          <p><a href="{{ program.url }}" class="btn btn-primary">Learn more</a></p>
+    </div>
+  </div>
+</div>
+<div class="p-3 pt-4 bg-faded">
+  <div class="container">
+    <div class="row">
+      <div class="col col-md-8 offset-md-2 pb-3">
+        <h3 class="text-uppercase text-center">Create Your Own Path</h3>
+        <p class="text-center">You can pick the program that's the best fit for you depending on whatever stage you are currently in. We’ve intentionally designed each program in the startup incubator to transition into the next program should you desire to continue to receive support and guidance as you continue to grow. If you aren’t sure where you fit, <a href="/locations/costa-mesa/contact">contact us</a> and we’ll help get you on the right path to changing the world. </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col px-0">
+        <div class="card-deck card-deck-4">
+          {% for program in page.programs %}
+            <div class="card">
+              <div class="card-header text-center">
+                {{ program.banner }}
+              </div>
+              <div class="card-block">
+                {% include icon.html name=program.icon classes="icon-xl icon-block icon-center" %}
+                <h5 class="card-title text-center text-uppercase mt-4 mb-3">
+                  {{ program.title | markdownify | remove:'<p>' | remove:'</p>' }}
+                </h5>
+                <div class="card-text text-center">
+                  {{ program.description | markdownify }}
+                  <p class="mb-0"><strong>WHO</strong></p>
+                  {{ program.who | markdownify }}
+                  <p class="mb-0"><strong>STAGE</strong></p>
+                  {{ program.stage | markdownify }}
+                </div>
+              </div>
+              <div class="card-footer text-center">
+                <a href="{{ program.url }}" class="btn btn-primary">Learn more</a>
+              </div>
+            </div>
+          {% endfor %}
         </div>
       </div>
     </div>
-  {% endfor %}
+    <!-- TO DO: Create universal form / funnel for general enrollment.
+    <div class="row">
+      <div class="col-xs py-3">
+        <a href="#" class="btn btn-primary btn-lg text-uppercase text-center col col-sm-6 offset-sm-3 col-lg-4 offset-lg-4">Enroll <strong>Now</strong></a>
+      </div>
+    </div> -->
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col col-md-10 offset-md-1 mt-4">
+      <h2 class="underline">Startups Events</h2>
+
+      {% assign events = site.events | sort_events | filter_by_category category:'Startups' %}
+      <div class="upcoming-events">
+        {% if events.size == 0 %}
+          <div class="alert alert-warning" role="alert">
+            There aren't any upcoming events. Check back soon for more.
+          </div>
+        {% endif %}
+        {% for event in events %}
+          <div data-href="{{ event.urls.ticket_url }}" class="card card-event">
+            <div class="row">
+              <div class="col-lg-5">
+                <img {{ event.images.thumb_image | default:event.images.splash_image | image_src }} class="{{ 'img-fluid mb-3' | image_class}}" data-width="600" data-height="425" data-crop="fill" data-gravity="auto:faces">
+              </div>
+              <div class="col-lg-7">
+                <h3 class="card-title">{{ event.headline | default:event.title }}</h3>
+                <p class="card-text mb-0">
+                  <strong>
+                    {{ event.dates.start_date | date:"%B %e, %Y %l:%M%P" }}
+                    &mdash;
+                    {{ event.dates.end_date | date:"%B %e, %Y %l:%M%P" }}
+                  </strong>
+                </p>
+                <p class="card-text">{{ event.content | markdown }}</p>
+                {% if event.urls %}
+                  {% if event.urls.info_url %}
+                    <a href="{{ event.urls.info_url }}" class="btn btn-md btn-primary">Learn more</a>
+                  {% endif %}
+                  {% if event.urls.ticket_url %}
+                    <a href="{{ event.urls.ticket_url }}" class="btn btn-md btn-primary">Buy tickets</a>
+                  {% endif %}
+                {% endif %}
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+
+    </div>
+  </div>
+  <div class="row my-5">
+    <div class="col">
+      <h3 class="pb-3 text-center">Contact us with your questions</h3>
+      <a href="/locations/costa-mesa/contact" class="btn btn-primary btn-lg col col-md-6 offset-md-3 col-lg-4 offset-lg-4 text-uppercase">Contact <strong>us</strong></a>
+    </div>
+  </div>
 </div>

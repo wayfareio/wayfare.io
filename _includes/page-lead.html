@@ -1,19 +1,19 @@
-<div class="row m-y-2">
-  <div class="col-xs-12 col-md-8 offset-md-2">
-    <h1 class="display text-xs-center">
+<div class="row my-4">
+  <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+    <h1 class="display text-center">
       {{ page.lead.line1 | markdownify | remove:'<p>' | remove:'</p>' }}<br>
       {{ page.lead.line2 | markdownify | remove:'<p>' | remove:'</p>' }}
     </h1>
-    <p class="lead text-xs-center">{{ page.lead.content | markdownify | remove:'<p>' | remove:'</p>' }}</p>
+    <p class="lead text-center">{{ page.lead.content | markdownify | remove:'<p>' | remove:'</p>' }}</p>
     {% if page.lead.buttons %}
-      <p class="text-xs-center">
+      <p class="text-center">
         {% for button in page.lead.buttons %}
           <a href="{{ button.url }}" class="btn btn-primary btn-lg text-uppercase">{{ button.title }}</a>
         {% endfor %}
       </p>
     {% endif %}
     {% if page.lead.text-links %}
-      <p class="text-xs-center m-t-1">
+      <p class="text-center mt-3">
         {% for text-link in page.lead.text-links %}
           <a href="{{ text-link.url }}" class="_no-underline">{{ text-link.title }} →</a>
         {% endfor %}

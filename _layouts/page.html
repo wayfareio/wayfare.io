@@ -4,7 +4,7 @@ layout: site
 
 <div class="container">
   <div class="row">
-    <div class="col-xs-12">
+    <div class="col-12">
       {% if page.lead %}
         {% include page-lead.html %}
       {% endif %}
@@ -18,16 +18,16 @@ layout: site
   </div>
   {% if page.nav.side %}
     <div class="row">
-      <div class="col-xs-12 col-md-3">
+      <div class="col-12 col-md-3">
         {% include nav-side.html %}
       </div>
-      <div class="col-xs-12 col-md-9">
+      <div class="col-12 col-md-9">
         {{ content }}
       </div>
     </div>
   {% else %}
     <div class="row">
-      <div class="col-xs-12">
+      <div class="col-12">
         {{ content }}
       </div>
     </div>
