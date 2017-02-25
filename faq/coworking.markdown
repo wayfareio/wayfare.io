@@ -29,7 +29,8 @@ _Of course!_ We love new friends. If your guest is here for a meeting in a meeti
 
 ##### How fast is your internet?
 
-100/10 Megabytes
+Costa Mesa: 300/30Mb (shared coax)  
+Fullerton: 100/100Mb (shared fiber)
 
 In case you aren't up to speed (see what we did there) on what this means, in layman's terms, the internet speed is fast! Our members find it very sufficient for their needs from checking email to streaming video. Obviously nothing is flawless, but if there is ever a problem (which is rare), we strive to fix it as quickly as possible.
 
