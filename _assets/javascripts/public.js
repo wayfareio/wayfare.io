@@ -7,6 +7,7 @@
 //= require moment/moment
 //= require lodash/lodash
 //= require cloudinary-jquery/cloudinary-jquery
+//= require fotorama/fotorama
 //= require wayfare
 //= require wayfare/bigslide
 //= require wayfare/clickable-elements
