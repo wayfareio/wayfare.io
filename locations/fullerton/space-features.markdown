@@ -59,11 +59,6 @@ features:
   image: "/assets/images/locations/costa-mesa/features/parking.jpg"
   text: 'Plenty public parking is located in the parking ramp directly next to the
     Chapman building where we are located. '
-- title: Mail Service
-  image: "/assets/images/locations/costa-mesa/features/mail-service.jpg"
-  text: 'Add mail service to skip the clutter at home and have your work-mail delivered
-    directly to Wayfare! Mail is collected and sorted daily, and can be stored stored
-    and picked up at your convenience. (Prices vary depending on membership). '
 layout: custom/locations/space-features
 ---
 
