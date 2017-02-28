@@ -16,7 +16,7 @@ _Yes!_ We have three meeting rooms (ranging from 4-8 people) in Costa Mesa and o
 
 ##### What kinds of events do you host?
 
-Wayfare is ideally suited for workshops, non-profit gatherings, business events & celebratory gatherings; but we would love to learn about whatever your occasion may be! View our [locations](/locations) pages for event details and to submit your event inquiry.
+Wayfare is ideally suited for workshops, non-profit gatherings, business events & celebratory gatherings; but we would love to learn about whatever your occasion may be! View our [locations](/workspaces) pages for event details and to submit your event inquiry.
 
 ##### Do you offer non-profit discounts?
 

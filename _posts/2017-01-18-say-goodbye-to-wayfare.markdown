@@ -48,7 +48,7 @@ We're having a contest to come up with a new name (yes, there are prizes) and we
 ## **Prize**
 
 One winner will receive:
-* A $500 credit to be used toward our [Startup Programs](https://wayfare.io/startups/), [Workspaces](https://wayfare.io/locations/), [Meeting Rooms](https://wayfare.io/locations/), or [Event Fees](https://wayfare.io/events/)
+* A $500 credit to be used toward our [Startup Programs](/startups), [Workspaces](/workspaces), [Meeting Rooms](/workspaces), or [Event Fees](/events)
 * $50 gift certificate to [Sidecar Doughnuts](http://www.sidecardoughnuts.com)
 * $20 gift card to [Neat Coffee](http://www.neat.coffee)
 * Swag bag of goods with new branding

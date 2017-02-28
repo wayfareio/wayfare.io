@@ -40,4 +40,4 @@ Batch sizes are limited. Enroll today!
 
 ### Please don't hesitate to contact us with questions
 
-{% button text:"Contact Us" url:"/locations/costa-mesa/contact" %}
+{% button text:"Contact Us" url:"/workspaces/costa-mesa/contact" %}

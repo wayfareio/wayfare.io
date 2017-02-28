@@ -25,7 +25,7 @@ Occasionally we host fun weekend events and we’d love for you to join us! Subs
 _Of course!_ We love new friends. If your guest is here for a meeting in a meeting room, there is no charge for them outside of the rate of the room. If you’d like them to cowork with you in the main space, we ask that you (or your guest) purchase a time pass. Unlike most coworking spaces that require visitors to buy full day passes, we also have flexible options for two hour ($15) and half day ($25) passes. _Score!_
 
 
-\* Drop-in rates vary by location. To view yours, visit your [location's](/locations) rates page.
+\* Drop-in rates vary by location. To view yours, visit your [location's](/workspaces) rates page.
 
 ##### How fast is your internet?
 
