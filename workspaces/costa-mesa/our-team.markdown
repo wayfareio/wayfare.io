@@ -20,4 +20,5 @@ team:
 - Jonathon Murillo
 - Myriah Lee Murillo
 - Kate Sharp
+redirect_from: "/locations/costa-mesa/our-team"
 ---

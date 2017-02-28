@@ -19,4 +19,5 @@ team:
 - Meredith Galipault
 - Phylicia Stoicu
 - Tavia Grubbs
+redirect_from: "/locations/fullerton/our-team"
 ---

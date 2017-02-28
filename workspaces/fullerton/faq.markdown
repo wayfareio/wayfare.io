@@ -13,6 +13,7 @@ banner:
   image: "/assets/images/topo-banner-bg.jpg"
   title: Fullerton
   subtitle: 110 E Wilshire Ave, Ste 101, Fullerton, CA
+redirect_from: "/locations/fullerton/faq"
 ---
 
 ## Frequently Asked Questions

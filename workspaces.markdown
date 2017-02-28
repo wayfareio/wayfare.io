@@ -14,7 +14,7 @@ nav:
     highlight: workspaces
 map: true
 redirect_from:
-- "/workspace/index.html"
-- "/locations/index.html"
+- "/workspace"
+- "/locations"
 layout: custom/workspaces
 ---

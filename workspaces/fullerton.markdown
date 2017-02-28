@@ -17,6 +17,7 @@ nav:
   side:
     id: fullerton
     highlight: ful-about
+redirect_from: "/locations/fullerton"
 ---
 
 ## About this Space

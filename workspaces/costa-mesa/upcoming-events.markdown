@@ -15,4 +15,5 @@ banner:
   image: "/assets/images/topo-banner-bg.jpg"
   title: Costa Mesa
   subtitle: 270 Baker St E, Ste 200, Costa Mesa, CA
+redirect_from: "/locations/costa-mesa/upcoming-events"
 ---

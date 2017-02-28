@@ -60,6 +60,7 @@ features:
   text: 'Plenty public parking is located in the parking ramp directly next to the
     Chapman building where we are located. '
 layout: custom/workspaces/space-features
+redirect_from: "/locations/fullerton/space-features"
 ---
 
 We don't sacrifice quality around here. From the chairs you sit in to the free, bottomless drip coffee, we've made sure to give you nothing short of the very best.

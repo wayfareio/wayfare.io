@@ -21,6 +21,7 @@ nav:
   side:
     id: costa-mesa
     highlight: whq-about
+redirect_from: "/locations/costa-mesa"
 ---
 
 ## About this Space
