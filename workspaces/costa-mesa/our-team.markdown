@@ -22,3 +22,4 @@ team:
 - Kate Sharp
 redirect_from: "/locations/costa-mesa/our-team"
 ---
+
