@@ -38,6 +38,6 @@ Batch sizes are limited. Apply today!
 
 {% button text:"Apply Now" url:"https://wayfare.typeform.com/to/gRbyfY" %}
 
-### Or contact us with questions
+Questions? Contact Us. 
 
 {% button text:"Contact Us" url:"/workspaces/costa-mesa/contact" %}
