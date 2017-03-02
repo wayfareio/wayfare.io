@@ -34,10 +34,10 @@ As you build your comprehensive business model, you will work on identifying and
 **Price**: $1,197/month for five months (Prepayment discounts available)  
 **Program Dates**: Batch 4 runs Feb–June, 2017 on Tuesdays from 10-7pm (plus Pitch Nights)
 
-Batch sizes are limited. Enroll today!
+Batch sizes are limited. Apply today!
 
-{% button text:"Enroll Now" url:"https://wayfare.typeform.com/to/gRbyfY" %}
+{% button text:"Apply Now" url:"https://wayfare.typeform.com/to/gRbyfY" %}
 
-### Please don't hesitate to contact us with questions
+### Or contact us with questions
 
 {% button text:"Contact Us" url:"/workspaces/costa-mesa/contact" %}
