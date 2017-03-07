@@ -1,0 +1,6 @@
+.card-inverse-footer {
+  padding: 0; border-top: 0; border-bottom-left-radius: 2px;
+  .btn { border-radius: 0; padding-left: 1rem; padding-right: 1rem; }
+  .btn:first-child { border-bottom-left-radius: 2px; border-style: solid; border-width: 1px; border-color: darken($brand-primary,10%); border-top: 0; border-bottom: 0; border-left: 0; }
+  .btn:last-child { border-bottom-right-radius: 2px; }
+}
