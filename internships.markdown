@@ -9,7 +9,7 @@ layout: page/hero-image
 ## Official program details & dates
 
 **Current term:**
-Spring Semester 2017 (Now closed, please keep an eye out for Summer and Fall 2017 openings!)
+Spring Semester 2017 (Currently Accepting Applications for Summer 2017 & Fall 2017)
 
 **Length of internship:**
 3 Months
