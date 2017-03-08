@@ -1,6 +1,10 @@
 ---
 title: 'Blot and Dot: Modern Calligraphy with Ink and Gouache'
 date: 2017-03-08 04:31:00 Z
+tags:
+- Calligraphy
+- Workshop
+- Creative
 headline: 'Blot and Dot: Modern Calligraphy with Ink and Gouache'
 images:
   splash_image: "/uploads/Blot%20and%20Dot.jpg"
