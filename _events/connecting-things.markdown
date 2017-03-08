@@ -1,6 +1,12 @@
 ---
 title: Connecting Things
 date: 2017-03-08 04:20:00 Z
+tags:
+- connecting things
+- Community
+- Life
+- Work
+- Creator
 headline: Connecting Things
 images:
   splash_image: "/uploads/Connecting%20Things.jpg"
