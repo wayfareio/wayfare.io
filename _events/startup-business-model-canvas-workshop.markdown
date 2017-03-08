@@ -6,7 +6,7 @@ images:
   splash_image: "/uploads/BMC%20splash.jpg"
   thumb_image: "/uploads/BMC%20thumb.jpeg"
 dates:
-  start_date: 2017-04-05 00:00:00 Z
+  start_date: 2017-04-05 12:00:00 Z
   end_date: 2017-04-05 13:30:00 Z
 urls:
   ticket_url: https://wayfare.ticketleap.com/bmc/
