@@ -1,10 +1,16 @@
 ---
 title: Connecting Things
 date: 2017-03-08 04:20:00 Z
-published: false
 headline: Connecting Things
+images:
+  splash_image: "/uploads/Connecting%20Things.jpg"
+  thumb_image: "/uploads/Connecting%20Things.jpg"
+dates:
+  start_date: 2017-03-08 19:00:00 Z
+  end_date: 2017-03-08 21:00:00 Z
 urls:
   ticket_url: http://connectingthings.co/event/hoodzpah-design-spontaneous-storytelling/
+location: Costa Mesa
 ---
 
 Wednesday March 8th, at 7pm at Wayfare Costa Mesa! Jennifer and Amy Hood of branding agency Hoodzpah Design and Odds and Sods will talk Spontaneous Storytelling. 
