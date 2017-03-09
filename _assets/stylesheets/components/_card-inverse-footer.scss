@@ -4,3 +4,12 @@
   .btn:first-child { border-bottom-left-radius: 2px; border-style: solid; border-width: 1px; border-color: darken($brand-primary,10%); border-top: 0; border-bottom: 0; border-left: 0; }
   .btn:last-child { border-bottom-right-radius: 2px; }
 }
+@include media-breakpoint-only(lg) {
+  .card-inverse-footer { display: flex; }
+}
+@include media-breakpoint-only(sm) {
+  .card-inverse-footer .btn { display: block; }
+}
+@include media-breakpoint-only(xs) {
+  .card-inverse-footer .btn { display: block; }
+}
