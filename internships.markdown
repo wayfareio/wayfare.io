@@ -9,7 +9,7 @@ layout: page/hero-image
 ## Official program details & dates
 
 **Current term:**
-Spring Semester 2017 (Now closed, please keep an eye out for Fall 2017 openings!)
+Spring Semester 2017 (Currently Accepting Applications for Summer 2017 & Fall 2017)
 
 **Length of internship:**
 3 Months
@@ -21,7 +21,7 @@ Spring Semester 2017 (Now closed, please keep an eye out for Fall 2017 openings!
 
 **What is Wayfare?**
 
-Wayfare is a coworking, gathering & event space, and startup incubator for people & organizations pursuing the world's best future.
+Wayfare is a coworking, gathering & event space, and startup incubator for people & organizations who aspire to advance the common good. 
 
 **What is the mission of Wayfare?**
 
@@ -68,7 +68,7 @@ This internship is unpaid, however, all interns will receive the following Wayfa
 2
 
 **Supervisors:**
-Caitlin Kraina, Marketing Manger & Adrianne Verheyen, Growth Coordinator
+Jill Arbini, Marketing Coordinator and Intern Supervisor
 
 **What you will learn:**
 
@@ -76,9 +76,9 @@ Caitlin Kraina, Marketing Manger & Adrianne Verheyen, Growth Coordinator
 * How to build and maintain a relationship with our online community and provide value to our readers and followers
 * How to to reach a niche follower base and create clear & compelling content
 * How to create a long term social media plan & marketing calendar
-* How to schedule posts through programs like Hootsuite & Planoly
+* How to schedule posts through programs like Later
 * Experience in various Social Media platforms & tools used to gauge their performance
-* How to track social media analytics using Hootsuite, Clicky, and other software
+* How to track social media analytics
 * How to promote events
 * How to grow an engaged audience and niche follower base
 * How to build relationship with a brand's follower base
