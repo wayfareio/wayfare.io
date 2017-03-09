@@ -1,1 +1,5 @@
 .card-img-top { object-fit: cover; }
+.card.card-borderless {
+  // FIXME image distortion issues #21885
+  display: block;
+}

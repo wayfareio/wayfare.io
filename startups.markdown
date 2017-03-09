@@ -32,8 +32,8 @@ programs:
   who: Founders who are ready to develop a comprehensive business model around their
     product.
   stage: From Minimum Viable Product (MVP) to Comprehensive Business Model
-- title: "[Growth](https://wayfare.typeform.com/to/dFUr0x)"
-  url: https://wayfare.typeform.com/to/dFUr0x
+- title: "[Growth](/startups/growth-program)"
+  url: "/startups/growth-program"
   banner: Grow your organization →
   icon: plant
   description: A cohort with other founders that provides support and direction to
@@ -42,8 +42,8 @@ programs:
   who: Founders who have launched their organizations and are ready to scale their
     products and grow their teams.
   stage: From Comprehensive Business Model to Minimum Viable Organization (MVO)
-- title: "[Impact](https://wayfare.typeform.com/to/f29ZAn)"
-  url: https://wayfare.typeform.com/to/f29ZAn
+- title: "[Impact](/startups/impact-program)"
+  url: "/startups/impact-program"
   banner: Impact the world →
   icon: trees
   description: A cohort with other top leaders designed to support, challenge, and
