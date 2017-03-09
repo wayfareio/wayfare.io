@@ -8,6 +8,7 @@
 //= require lodash/lodash
 //= require cloudinary-jquery/cloudinary-jquery
 //= require fotorama/fotorama
+//= require smooch/dist/smooch
 //= require wayfare
 //= require wayfare/bigslide
 //= require wayfare/clickable-elements
