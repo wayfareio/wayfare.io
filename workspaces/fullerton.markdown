@@ -6,7 +6,9 @@ hero:
   title: Fullerton
   subtitle: 110 E Wilshire Ave, Ste 101, Fullerton, CA
   buttons:
-  - url: https://wayfare.typeform.com/to/AJd85z
+  - url: https://wayfare.typeform.com/to/vn3h2H
+    title: Contact this Space
+  - url: https://calendly.com/wayfarehq/fullerton-tour/
     title: Schedule a Tour
   - url: "/workspaces/fullerton/host-an-event"
     title: Host an Event
