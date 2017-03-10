@@ -49,4 +49,4 @@ Open, airy, and golden-hued, this design-savvy industrial space is home to start
 
 Want to visit this space? Come by for a tour and a coffee!
 
-{% button url:"https://wayfare.typeform.com/to/AJd85z" text:"Schedule a Tour" %}
+{% button url:"https://calendly.com/wayfarehq/costa-mesa-tour/" text:"Schedule a Tour" %}
