@@ -10,7 +10,9 @@ hero:
   title: Costa Mesa
   subtitle: 270 Baker St E, Ste 200, Costa Mesa, CA
   buttons:
-  - url: https://wayfare.typeform.com/to/AJd85z
+  - url: https://wayfare.typeform.com/to/vn3h2H
+    title: Contact this Space
+  - url: https://calendly.com/wayfarehq/costa-mesa-tour/
     title: Schedule a Tour
   - url: "/workspaces/costa-mesa/host-an-event"
     title: Host an Event
