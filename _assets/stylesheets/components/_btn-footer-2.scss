@@ -1,0 +1,15 @@
+.btn-footer-2 {
+  .btn { border-radius: 0; }
+  .btn-left { border-radius: 0; border-bottom-left-radius: 2px; border-style: solid; border-right-width: 1px; border-right-color: darken($brand-primary,10%); }
+  .btn-right{ border-bottom-right-radius: 2px; }
+  @include media-breakpoint-only(md) {
+    .btn-left { border: 0; }
+  }
+}
+@include media-breakpoint-up(lg) {
+  .btn-footer-2 > .btn-left {
+    padding-right: 0;
+  }
+}
+// .btn:first-child { border-bottom-left-radius: 2px; border-style: solid; border-width: 1px; border-color: darken($brand-primary,10%); border-top: 0; border-bottom: 0; border-left: 0; }
+// .btn:last-child { border-bottom-left-radius: 0px; border-bottom-right-radius: 2px; }
