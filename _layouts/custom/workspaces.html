@@ -3,24 +3,20 @@ layout: page
 ---
 
 <div class="row">
-  <div class="col-12">
-    <div class="card-deck">
-      {% for location in site.data.locations %}
-        <div class="card card-inverse card-inverse-button mb-3">
-          <a href="/workspaces/{{ location.id }}" class="_no-underline d-block">
-            <img src="/assets/images/location-{{ location.id }}.jpg" alt="{{ location.name }}" class="card-img img-fluid">
-            <div class="card-img-overlay align-items-center justify-content-center">
-              <div class="card-block text-center">
-                <h4 class="card-title">{{ location.name }}</h4>
-                <h5 class="card-subtitle">{{ location.address.full_state }}</h5>
-              </div>
-            </div>
-          </a>
-          <a href="/workspaces/{{ location.id }}" class="btn btn-primary btn-lg btn-block text-uppercase">View this Location</a>
+  {% for location in site.data.locations %}
+  <div class="col col-sm-6 p-2">
+    <div class="tile-inverse-btn">
+      <a href="/workspaces/{{ location.id }}" class="_no-underline">
+        <img src="/assets/images/location-{{ location.id }}.jpg" alt="{{ location.name }}" class="img-fluid">
+        <div class="tile-content text-center">
+          <h4 class="card-title">{{ location.name | replace: " ", "&nbsp;" }}</h4>
+          <h5 class="card-subtitle">{{ location.address.full_state }}</h5>
         </div>
-      {% endfor %}
+      </a>
     </div>
+    <a href="/workspaces/{{ location.id }}" class="btn btn-primary btn-lg btn-block text-uppercase">View this Location</a>
   </div>
+  {% endfor %}
 </div>
 
 <div class="row">

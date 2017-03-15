@@ -3,61 +3,67 @@ layout: page
 ---
 
 <div class="row">
-  <div class="col-12">
-    <div class="card-deck">
-      {% for location in site.data.locations %}
-        <div class="card mb-3 card-inverse card-inverse-button">
-          <a href="/workspaces/{{ location.id }}/upcoming-events" class="_no-underline d-block">
-            <img src="/assets/images/location-{{ location.id }}.jpg" alt="{{ location.name }}" class="card-img img-fluid">
-            <div class="card-img-overlay align-items-center justify-content-center">
-              <div class="card-block text-center">
-                <h4 class="card-title">{{ location.name }}</h4>
-                <h5 class="card-subtitle">{{ location.address.full_state }}</h5>
-              </div>
-            </div>
-          </a>
-          <a href="/workspaces/{{ location.id }}/upcoming-events" class="btn btn-primary btn-lg btn-block text-uppercase">Upcoming Events</a>
+  {% for location in site.data.locations %}
+  <div class="col col-sm-6 p-2">
+    <div class="tile-inverse-btn">
+      <a href="/workspaces/{{ location.id }}/upcoming-events" class="_no-underline">
+        <img src="/assets/images/location-{{ location.id }}.jpg" alt="{{ location.name }}" class="img-fluid">
+        <div class="tile-content text-center">
+          <h4 class="card-title">{{ location.name | replace: " ", "&nbsp;" }}</h4>
+          <h5 class="card-subtitle">{{ location.address.full_state }}</h5>
         </div>
-      {% endfor %}
+      </a>
     </div>
-  </div>
-</div>
-
-<h3 class="underline mt-4 mb-3">All Events</h3>
-{% assign events = site.events | filter_events | sort_events %}
-<div class="upcoming-events">
-  {% if events.size == 0 %}
-    <div class="alert alert-warning" role="alert">
-      There aren't any upcoming events. Check back soon for more.
-    </div>
-  {% endif %}
-  {% for event in events %}
-    <div data-href="{{ event.urls.ticket_url }}" class="card card-event mb-3">
-      <div class="row">
-        <div class="col-12 col-lg-5">
-          <img {{ event.images.thumb_image | default:event.images.splash_image | image_src }} class="{{ 'img-fluid mb-3' | image_class }}" data-width="600" data-height="425" data-crop="fill" data-gravity="auto:faces">
-        </div>
-        <div class="col-12 col-lg-7">
-          <h3 class="card-title">{{ event.headline | default:event.title }}</h3>
-          <p class="card-text m-b-0">
-            <strong>
-              Date:
-              {{ event.dates.start_date | date:"%B %e, %Y %l:%M%P" }}
-              &mdash;
-              {{ event.dates.end_date | date:"%l:%M%P" }}
-            </strong><br>
-            <strong>Location: {{ event.location }}</strong>
-          </p>
-          <p class="card-text">{{ event.content | markdown }}</p>
-          {% if event.urls %}
-            {% if event.urls.ticket_url %}
-              <a href="{{ event.urls.ticket_url }}" class="btn btn-md btn-primary">Details &amp; Tickets</a>
-            {% elsif event.urls.info_url %}
-              <a href="{{ event.urls.info_url }}" class="btn btn-md btn-primary">More Info</a>
-            {% endif %}
-          {% endif %}
-        </div>
+    <div class="row tile-footer">
+      <div class="col col-lg-6 pr-lg-0">
+        <a href="/workspaces/{{ location.id }}/upcoming-events" class="d-flex justify-content-around btn btn-primary btn-lg btn-block text-uppercase">Upcoming Events</a>
+      </div>
+      <div class="col col-lg-6 pl-lg-0">
+        <a href="/workspaces/{{ location.id }}/host-an-event" class="d-flex justify-content-around btn btn-primary btn-lg btn-block text-uppercase">Host An Event</a>
       </div>
     </div>
+  </div>
   {% endfor %}
+</div>
+
+<div class="col col-md-10 offset-md-1 mt-5">
+  <h3 class="underline mt-4 mb-3">All Events</h3>
+  {% assign events = site.events | filter_events | sort_events %}
+  <div class="upcoming-events">
+    {% if events.size == 0 %}
+      <div class="alert alert-warning" role="alert">
+        There aren't any upcoming events. Check back soon for more.
+      </div>
+    {% endif %}
+    {% for event in events %}
+      <div data-href="{{ event.urls.ticket_url }}" class="card card-event mb-3">
+        <div class="row">
+          <div class="col-12 col-lg-5">
+            <img {{ event.images.thumb_image | default:event.images.splash_image | image_src }} class="{{ 'img-fluid mb-3' | image_class }}" data-width="600" data-height="425" data-crop="fill" data-gravity="auto:faces">
+          </div>
+          <div class="col-12 col-lg-7">
+            <h3 class="card-title">{{ event.headline | default:event.title }}</h3>
+            <p class="card-text m-b-0">
+              <strong>
+                Date:
+                {{ event.dates.start_date | date:"%B %e, %Y %l:%M%P" }}
+                &mdash;
+                {{ event.dates.end_date | date:"%l:%M%P" }}
+              </strong><br>
+              <strong>Location: {{ event.location }}</strong>
+            </p>
+            <p class="card-text">{{ event.content | markdown }}</p>
+            {% if event.urls %}
+              {% if event.urls.ticket_url %}
+                <a href="{{ event.urls.ticket_url }}" class="btn btn-md btn-primary">Details &amp; Tickets</a>
+              {% elsif event.urls.info_url %}
+                <a href="{{ event.urls.info_url }}" class="btn btn-md btn-primary">More Info</a>
+              {% endif %}
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+    </div>
+  </div>
 </div>

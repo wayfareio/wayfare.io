@@ -16,8 +16,7 @@ layout: page
         Start with our most flexible plan and pay-as-you-go after your included hours. This plan includes your membership and 6 hours of coworking.
       </p>
       <p class="card-text">
-        <a href="/workspaces/{{ page.location | downcase | replace: " ", "-"}}/rates">see full rates</a> |
-        <a href="https://wayfare.typeform.com/to/gZ6TKU">sign up now</a>
+        <a href="/workspaces/{{ page.location | downcase | replace: " ", "-"}}/rates">see full rates</a> | <a href="{{ page.signup-url }}">sign up now</a>
       </p>
     </div>
   </div>
@@ -40,7 +39,7 @@ layout: page
       </p>
       <p class="card-text">
         <a href="/workspaces/{{ page.location | downcase | replace: " ", "-"}}/rates">see full rates</a> |
-        <a href="https://wayfare.typeform.com/to/gZ6TKU">sign up now</a>
+        <a href="{{ page.signup-url }}">sign up now</a>
       </p>
     </div>
   </div>
@@ -59,7 +58,7 @@ layout: page
       </p>
       <p class="card-text">
         <a href="/workspaces/{{ page.location | downcase | replace: " ", "-"}}/rates">see full rates</a> |
-        <a href="https://wayfare.typeform.com/to/gZ6TKU">sign up now</a>
+        <a href="{{ page.signup-url }}">sign up now</a>
       </p>
     </div>
   </div>
@@ -80,7 +79,7 @@ layout: page
       </p>
       <p class="card-text">
         <a href="/workspaces/{{ page.location | downcase | replace: " ", "-"}}/rates">see full rates</a> |
-        <a href="https://wayfare.typeform.com/to/gZ6TKU">sign up now</a>
+        <a href="{{ page.signup-url }}">sign up now</a>
       </p>
     </div>
   </div>
@@ -99,7 +98,7 @@ layout: page
       </p>
       <p class="card-text">
         <a href="/workspaces/{{ page.location | downcase | replace: " ", "-"}}/rates">see full rates</a> |
-        <a href="https://wayfare.typeform.com/to/gZ6TKU">sign up now</a>
+        <a href="{{ page.signup-url }}">sign up now</a>
       </p>
     </div>
   </div>
@@ -127,6 +126,6 @@ layout: page
 <div class="row my-5">
   <div class="col">
     <h3 class="pb-3 text-center">Contact us with your questions</h3>
-    <a href="/workspaces/costa-mesa/contact" class="btn btn-primary btn-lg col-12 col-md-8 offset-md-2 col-lg-6 offset-lg-3 text-uppercase">Contact <strong>us</strong></a>
+    <a href="/workspaces/{{ page.location | downcase | replace: " ", "-"}}/contact" class="btn btn-primary btn-lg col-12 col-md-8 offset-md-2 col-lg-6 offset-lg-3 text-uppercase">Contact <strong>us</strong></a>
   </div>
 </div>
