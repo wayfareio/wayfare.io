@@ -5,14 +5,12 @@ layout: page
 <div class="row">
   {% for location in site.data.locations %}
   <div class="col col-sm-6 p-2">
-    <div class="card-inverse-btn">
+    <div class="tile-inverse-btn">
       <a href="/workspaces/{{ location.id }}" class="_no-underline">
         <img src="/assets/images/location-{{ location.id }}.jpg" alt="{{ location.name }}" class="img-fluid">
-        <div class="" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%);">
-          <div class="text-center">
-            <h4 class="card-title">{{ location.name }}</h4>
-            <h5 class="card-subtitle">{{ location.address.full_state }}</h5>
-          </div>
+        <div class="tile-content text-center">
+          <h4 class="card-title">{{ location.name | replace: " ", "&nbsp;" }}</h4>
+          <h5 class="card-subtitle">{{ location.address.full_state }}</h5>
         </div>
       </a>
     </div>

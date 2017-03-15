@@ -1,0 +1,9 @@
+.tile-footer {
+  .btn-block { border-radius: 0; }
+  .col:first-child .btn-block { border-radius: 0; border-bottom-left-radius: 2px; border-style: solid; border-right-width: 1px; border-right-color: darken($brand-primary,10%); }
+  .col:last-child .btn-block { border-bottom-right-radius: 2px; }
+  @include media-breakpoint-down(md) {
+    .col:first-child .btn-block { border-right-width: 0; border-bottom-left-radius: 0px; }
+    .col:last-child .btn-block { border-bottom-left-radius: 2px; border-style: solid; border-top-width: 1px; border-top-color: darken($brand-primary,10%); }
+  }
+}
