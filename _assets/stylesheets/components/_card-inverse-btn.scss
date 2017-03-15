@@ -1,18 +1,18 @@
 .card-inverse-btn {
+  position: relative;
   img { border-top-left-radius: 2px; border-top-right-radius: 2px; }
-  .card-img-overlay { display: flex; }
   .card-title { text-transform: uppercase; font-size: 3rem; color: white; }
   .card-subtitle { text-transform: lowercase; font-size: 3rem; color: white; font-family: "SocietyEditor"; }
   @include media-breakpoint-only(lg) {
-    .card-title { font-size: 2.5rem; }
-    .card-subtitle { font-size: 2.5rem; }
+    .card-title { font-size: 2.8rem; }
+    .card-subtitle { font-size: 2.8rem; }
   }
   @include media-breakpoint-only(md) {
+    .card-title { font-size: 2.4rem; }
+    .card-subtitle { font-size: 2.4rem; }
+  }
+  @include media-breakpoint-down(sm) {
     .card-title { font-size: 2rem; }
     .card-subtitle { font-size: 2rem; }
-  }
-  @include media-breakpoint-only(sm) {
-    .card-title { font-size: 1.75rem; }
-    .card-subtitle { font-size: 1.75rem; }
   }
 }

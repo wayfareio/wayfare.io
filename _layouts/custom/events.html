@@ -3,90 +3,32 @@ layout: page
 ---
 
 <div class="row">
+  {% for location in site.data.locations %}
   <div class="col col-sm-6 p-2">
     <div class="card-inverse-btn">
-      <a href="/workspaces/costa-mesa/upcoming-events" class="_no-underline">
-        <img src="/assets/images/location-costa-mesa.jpg" alt="" class="img-fluid">
-        <div class="card-img-overlay text-center">
-          <h4 class="card-title">Costa Mesa</h4>
-          <h5 class="card-subtitle">California</h5>
-        </div>
-      </a>
-    </div>
-    <div class="row">
-      <div class="col col-lg-6 btn-footer-2 pr-lg-0">
-        <a href="/workspaces/costa-mesa/upcoming-events" class="d-flex justify-content-around btn btn-primary btn-lg btn-left text-uppercase">Upcoming Events</a>
-      </div>
-      <div class="col col-lg-6 btn-footer-2 pl-lg-0">
-        <a href="/workspaces/costa-mesa/host-an-event" class="d-flex justify-content-around btn btn-primary btn-lg btn-right text-uppercase">Host An Event</a>
-      </div>
-    </div>
-  </div>
-
-  <div class="col col-sm-6 p-2">
-    <div class="card-inverse-btn">
-      <a href="/workspaces/fullerton/upcoming-events" class="_no-underline">
-        <img src="/assets/images/location-fullerton.jpg" alt="" class="img-fluid">
-        <div class="align-items-center justify-content-center card-img-overlay">
+      <a href="/workspaces/{{ location.id }}/upcoming-events" class="_no-underline">
+        <img src="/assets/images/location-{{ location.id }}.jpg" alt="{{ location.name }}" class="img-fluid">
+        <div class="" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%);">
           <div class="text-center">
-            <h4 class="card-title">Fullerton</h4>
-            <h5 class="card-subtitle">California</h5>
+            <h4 class="card-title">{{ location.name }}</h4>
+            <h5 class="card-subtitle">{{ location.address.full_state }}</h5>
           </div>
         </div>
       </a>
     </div>
     <div class="row">
       <div class="col col-lg-6 btn-footer-2 pr-lg-0">
-        <a href="/workspaces/fullerton/upcoming-events" class="d-flex justify-content-around btn btn-primary btn-lg btn-left text-uppercase">Upcoming Events</a>
+        <a href="/workspaces/{{ location.id }}/upcoming-events" class="d-flex justify-content-around btn btn-primary btn-lg btn-left text-uppercase">Upcoming Events</a>
       </div>
       <div class="col col-lg-6 btn-footer-2 pl-lg-0">
-        <a href="/workspaces/fullerton/host-an-event" class="d-flex justify-content-around btn btn-primary btn-lg btn-right text-uppercase">Host An Event</a>
+        <a href="/workspaces/{{ location.id }}/host-an-event" class="d-flex justify-content-around btn btn-primary btn-lg btn-right text-uppercase">Host An Event</a>
       </div>
     </div>
   </div>
+  {% endfor %}
 </div>
 
-<br>
-<br>
-<div class="card mb-3 card-inverse card-inverse-button">
-  <a href="/workspaces/fullerton/upcoming-events" class="_no-underline d-block">
-    <img src="/assets/images/location-fullerton.jpg" alt="" class="card-img img-fluid">
-    <div class="card-img-overlay align-items-center justify-content-center">
-      <div class="card-block text-center">
-        <h4 class="card-title">Fullerton</h4>
-        <h5 class="card-subtitle">California</h5>
-      </div>
-    </div>
-  </a>
-</div>
-  <div class="card-footer card-inverse-footer">
-    <a href="/workspaces/fullerton/upcoming-events" class="col btn btn-primary btn-lg text-uppercase">Upcoming Events</a>
-    <a href="/workspaces/fullerton/host-an-event" class="col btn btn-primary btn-lg text-uppercase">Host An Event</a>
-  </div>
-
-<div class="row">
-<div class="col-12">
-  <div class="card-deck">
-    {% for location in site.data.locations %}
-      <div class="card mb-3 card-inverse card-inverse-button">
-        <a href="/workspaces/{{ location.id }}/upcoming-events" class="_no-underline d-block">
-          <img src="/assets/images/location-{{ location.id }}.jpg" alt="{{ location.name }}" class="card-img img-fluid">
-          <div class="card-img-overlay align-items-center justify-content-center">
-            <div class="card-block text-center">
-              <h4 class="card-title">{{ location.name }}</h4>
-              <h5 class="card-subtitle">{{ location.address.full_state }}</h5>
-            </div>
-          </div>
-        </a>
-        <a href="/workspaces/{{ location.id }}/upcoming-events" class="btn btn-primary btn-lg text-uppercase">Upcoming Events</a>
-        <a href="/workspaces/{{ location.id }}/host-an-event" class="btn btn-primary btn-lg text-uppercase">Host An Event</a>
-      </div>
-    {% endfor %}
-  </div>
-</div>
-</div>
-
-<div class="col col-md-10 offset-md-1 mt-4">
+<div class="col col-md-10 offset-md-1 mt-5">
   <h3 class="underline mt-4 mb-3">All Events</h3>
   {% assign events = site.events | filter_events | sort_events %}
   <div class="upcoming-events">
