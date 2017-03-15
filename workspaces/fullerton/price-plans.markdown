@@ -4,6 +4,7 @@ position: 2
 page_title: 'Fullerton: Price Plans'
 layout: custom/workspaces/price-plans
 location: Fullerton
+signup-url: https://wayfare.typeform.com/to/OSf9j8?location=Fullerton
 nav:
   id: ful-price-plans
   site:
