@@ -1,7 +1,6 @@
 ---
 title: Self Care
 date: 2017-02-24 23:28:00 Z
-published: false
 ---
 
 As I write this I am recovering from an episode of debilitating back pain.  I’ve had a chronic back problem on and off since being in a car accident almost 17 years ago. When I diligently do my exercises, it is so much easier to cope with. But then I stop. Why? Because there isn’t enough time.  They are boring.  I’m doing fine. Not great, but fine.  Eventually the lack of time and attention to caring for myself well results in suffering. Not just for me, but for those around me. Because when I cease to be able to operate well, it doesn’t affect just me. My husband and coworkers pick up my slack.  My kids’ lives are turned upside down. And I don’t have the physical or emotional capacity to pour much out for others.
