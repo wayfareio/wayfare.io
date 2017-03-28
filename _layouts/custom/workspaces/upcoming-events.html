@@ -13,10 +13,19 @@ layout: page
     </div>
   {% endif %}
   {% for event in events %}
-    <div data-href="{{ event.urls.ticket_url }}" class="card card-event mb-3">
+    {% if event.urls %}
+      <div data-href="{{ event.urls.ticket_url | default:event.urls.info_url }}" class="card card-event mb-3">
+    {% else %}
+      <div class="card card-event mb-3">
+    {% endif %}
       <div class="row">
         <div class="col-12 col-lg-5">
-          <img {{ event.images.thumb_image | default:event.images.splash_image | image_src }} class="{{ 'img-fluid mb-3' | image_class}}" data-width="600" data-height="425" data-crop="fill" data-gravity="auto:faces">
+          {% if event.images.thumb_image or event.images.splash_image %}
+            <img {{ event.images.thumb_image | default:event.images.splash_image | image_src }} class="{{ 'img-fluid mb-3' | image_class }}" data-width="600" data-height="425" data-crop="fill" data-gravity="auto:faces">
+          {% else %}
+            {% assign location = event.location | downcase | replace:" ","-" %}
+            <img {{ "/assets/images/event-" | append:location | append:".jpg" | image_src }} class="{{ 'img-fluid mb-3' | image_class }}" data-width="600" data-height="425" data-crop="fill" data-gravity="auto:faces">
+          {% endif %}
         </div>
         <div class="col-12 col-lg-7">
           <h3 class="card-title">{{ event.headline | default:event.title }}</h3>

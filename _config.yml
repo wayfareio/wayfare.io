@@ -57,6 +57,7 @@ defaults:
       end_date:
     urls:
       ticket_url:
+      info_url:
     location:
 - scope:
     path: ''
