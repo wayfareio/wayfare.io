@@ -3,6 +3,7 @@ title: Sally Kim
 date: 2016-11-08 23:54:00 Z
 company_name: Letters From a Mister
 job_title: Writer and Consultant
+bio_image: "/uploads/KimFamily2016-92.jpg"
 is_guest: true
 ---
 
