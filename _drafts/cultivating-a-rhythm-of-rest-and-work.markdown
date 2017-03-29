@@ -5,7 +5,7 @@ tags:
 - rest
 - minimalism
 author: Sally Kim
-image: "/uploads/wayfare_theresa-1004921%20websized%20copy.jpeg"
+image: "/uploads/ValerieDenisePhotos(38of64).jpg"
 ---
 
 Simplicity, Sabbath, Kon Mari, Minimalism, Balance...being in the creative industry, primarily in the blogging world, I hear these words **a lot**. Oh, you too? I’m not surprised. From the [Life Changing Magic of Tidying Up](https://www.amazon.com/Life-Changing-Magic-Tidying-Decluttering-Organizing/dp/1607747308/ref=sr_1_1?ie=UTF8&qid=1489519329&sr=8-1&keywords=life+changing+magic+of+tidying+up) to [Capsule Wardrobes], to [Documentaries](https://minimalismfilm.com)...there seems to be an incessant hunt for slowness. Here’s the thing, simplicity and rest are not trends; they are absolute necessities for our survival. <!--more-->
