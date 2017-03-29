@@ -3,8 +3,8 @@ title: Mon Voir Workshop 2
 date: 2017-03-29 22:31:00 Z
 headline: Mon Voir- Intro to Floral Watercolor
 images:
-  splash_image: "/uploads/4.8%20WATERCOLOR.jpg"
-  thumb_image: "/uploads/4.8%20WATERCOLOR.jpg"
+  splash_image: "/uploads/4.8%20WATERCOLOR-6d4fc5.jpg"
+  thumb_image: "/uploads/4.8%20WATERCOLOR-6d4fc5.jpg"
 dates:
   start_date: 2017-04-08 10:00:00 Z
   end_date: 2017-04-08 13:00:00 Z
