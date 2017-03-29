@@ -1,9 +1,14 @@
 ---
 title: Cultivating a Rhythm of Rest and Work
-date: 2017-03-17 03:08:00 Z
+date: 2017-03-29 15:08:00 Z
+tags:
+- rest
+- minimalism
+author: Sally Kim
+image: "/uploads/wayfare_theresa-1004921%20websized%20copy.jpeg"
 ---
 
-Simplicity, Sabbath, Kon Mari, Minimalism, Balance...being in the creative industry, primarily in the blogging world, I hear these words **a lot**. Oh, you too? I’m not surprised. From the [Life Changing Magic of Tidying Up](https://www.amazon.com/Life-Changing-Magic-Tidying-Decluttering-Organizing/dp/1607747308/ref=sr_1_1?ie=UTF8&qid=1489519329&sr=8-1&keywords=life+changing+magic+of+tidying+up) to [Capsule Wardrobes], to [Documentaries](https://minimalismfilm.com)...there seems to be an incessant hunt for slowness. Here’s the thing, simplicity and rest are not trends; they are absolute necessities for our survival. 
+Simplicity, Sabbath, Kon Mari, Minimalism, Balance...being in the creative industry, primarily in the blogging world, I hear these words **a lot**. Oh, you too? I’m not surprised. From the [Life Changing Magic of Tidying Up](https://www.amazon.com/Life-Changing-Magic-Tidying-Decluttering-Organizing/dp/1607747308/ref=sr_1_1?ie=UTF8&qid=1489519329&sr=8-1&keywords=life+changing+magic+of+tidying+up) to [Capsule Wardrobes], to [Documentaries](https://minimalismfilm.com)...there seems to be an incessant hunt for slowness. Here’s the thing, simplicity and rest are not trends; they are absolute necessities for our survival. <!--more-->
 
 There are many, many opinions and how to’s on creating space to rest. You can go through all your clothes and throw away whatever doesn’t spark joy (the Kon Mari Method) and download the latest productivity apps (I’m totally into [MinimaLIST](https://itunes.apple.com/us/app/minimalist-task-reminder-to-do-list/id993066159?mt=8) right now), but unless we get to the root of our busyness and constant waves of rush, we will never fully enter into rest.
  
