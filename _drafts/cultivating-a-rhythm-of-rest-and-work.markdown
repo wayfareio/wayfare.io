@@ -1,6 +1,6 @@
 ---
 title: Cultivating a Rhythm of Rest and Work
-date: 2017-03-29 15:08:00 Z
+date: 2017-03-29 11:00:00 Z
 tags:
 - rest
 - minimalism
