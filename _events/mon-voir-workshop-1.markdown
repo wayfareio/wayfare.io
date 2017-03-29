@@ -3,8 +3,8 @@ title: Mon Voir Workshop 1
 date: 2017-03-29 19:02:00 Z
 headline: Mon Voir- Intro to Modern Calligraphy
 images:
-  splash_image: "/uploads/4.8%20CALLIGRAPHY.jpg"
-  thumb_image: "/uploads/4.8%20CALLIGRAPHY.jpg"
+  splash_image: "/uploads/4.8%20CALLIGRAPHY-2.jpg"
+  thumb_image: "/uploads/4.8%20CALLIGRAPHY-2.jpg"
 dates:
   start_date: 2017-04-08 14:00:00 Z
   end_date: 2017-04-08 17:00:00 Z
