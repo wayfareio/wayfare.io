@@ -1,6 +1,7 @@
 ---
 title: Mon Voir Workshop 1
 date: 2017-03-29 19:02:00 Z
+published: false
 headline: Mon Voir- Intro to Modern Calligraphy
 images:
   splash_image: "/uploads/4.8%20CALLIGRAPHY-2.jpg"
