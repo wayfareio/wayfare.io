@@ -1,7 +1,7 @@
 ---
 title: 'Connecting Things: Bayan Joonam'
 date: 2017-04-03 21:55:00 Z
-headline: 'Connecting Things: Bryan Joonam'
+headline: 'Connecting Things: Bayan Joonam'
 images:
   splash_image: "/uploads/Bayan-2.jpg"
   thumb_image: "/uploads/Bayan-2.jpg"
