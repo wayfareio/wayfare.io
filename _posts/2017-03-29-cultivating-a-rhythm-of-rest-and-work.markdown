@@ -9,7 +9,7 @@ image: "/uploads/ValerieDenisePhotos(38of64).jpg"
 ---
 
 Simplicity, Sabbath, Kon Mari, Minimalism, Balance...being in the creative industry, primarily in the blogging world, I hear these words **a lot**. Oh, you too? I’m not surprised. From the [Life Changing Magic of Tidying Up](https://www.amazon.com/Life-Changing-Magic-Tidying-Decluttering-Organizing/dp/1607747308/ref=sr_1_1?ie=UTF8&qid=1489519329&sr=8-1&keywords=life+changing+magic+of+tidying+up) to [Capsule Wardrobes], to [Documentaries](https://minimalismfilm.com)...there seems to be an incessant hunt for slowness. Here’s the thing, simplicity and rest are not trends; they are absolute necessities for our survival. 
-<!--more-->
+<!-- more -->
 
 There are many, many opinions and how-to’s on creating space to rest. You can go through all your clothes and throw away whatever doesn’t spark joy (the Kon Mari Method) and download the latest productivity apps (I’m totally into [MinimaLIST](https://itunes.apple.com/us/app/minimalist-task-reminder-to-do-list/id993066159?mt=8) right now), but unless we get to the root of our busyness and constant waves of rush, we will never fully enter into rest.
  
