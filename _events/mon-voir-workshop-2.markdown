@@ -9,7 +9,7 @@ dates:
   start_date: 2017-04-08 10:00:00 Z
   end_date: 2017-04-08 13:00:00 Z
 urls:
-  ticket_url: hqhttp://www.monvoir.com/register/intro-to-floral-watercolor-wayfare-hq
+  ticket_url: http://www.monvoir.com/register/intro-to-floral-watercolor-wayfare-hq
 location: Fullerton
 ---
 
