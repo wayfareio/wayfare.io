@@ -3,18 +3,18 @@ layout: page
 ---
 
 <div class="row">
-  {% for location in site.data.locations %}
+  {% for location in site.locations %}
   <div class="col-xs-12 col-sm-6 p-2">
     <div class="tile-inverse-btn">
-      <a href="/workspaces/{{ location.id }}" class="_no-underline">
-        <img src="/assets/images/location-{{ location.id }}.jpg" alt="{{ location.name }}" class="img-fluid">
+      <a href="/workspaces/{{ location.slug }}" class="_no-underline">
+        <img src="/assets/images/location-{{ location.slug }}.jpg" alt="{{ location.title }}" class="img-fluid">
         <div class="tile-content text-center">
-          <h4 class="card-title">{{ location.name | replace: " ", "&nbsp;" }}</h4>
+          <h4 class="card-title">{{ location.title | replace: " ", "&nbsp;" }}</h4>
           <h5 class="card-subtitle">{{ location.address.full_state }}</h5>
         </div>
       </a>
     </div>
-    <a href="/workspaces/{{ location.id }}" class="btn btn-primary btn-lg btn-block text-uppercase">View this Location</a>
+    <a href="/workspaces/{{ location.slug }}" class="btn btn-primary btn-lg btn-block text-uppercase">View this Location</a>
   </div>
   {% endfor %}
 </div>
