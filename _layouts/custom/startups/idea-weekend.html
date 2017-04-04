@@ -2,13 +2,42 @@
 layout: page
 ---
 
-<h2>{{ page.title }}</h2>
-<hr>
+<div class="row" id="idea-overview">
+  <div class="col-12 pb-3">
+    <h2 class="underline">Overview</h2>
+    <p>Idea Weekend is designed to help you begin bringing to life that world-changing idea that you are passionate about. Whether you are a founder with a brand new idea or you are piloting a new product within your existing organization, Pilot Weekend is designed specifically for you.</p>
+    <p>Idea Weekend kick-starts your plan and helps you create the roadmap for your idea to become a reality alongside a community of other dreamers, doers, and adventurers for the common good.Idea Weekend combines insight from startup experts with hands-on application in a workshop setting. You will leave with a roadmap of action steps to pilot your idea and create a minimum viable product or service. You’ll be led by a variety of passionate founders who have extensive experience in startup, social enterprise and non-profit work.</p>
+  </div>
+  <div class="row">
+    {% for benefit in page.benefits %}
+      <div class="col-sm-6">
+        <div class="card card-benefit mb-4">
+          <div class="d-flex flex-row">
+            <div class="benefit-icon d-inline-flex">
+              {% include icon.html name=benefit.icon classes="icon-xl" %}
+            </div>
+            <div>
+              <h4 class="card-title mb-1 text-uppercase">{{ benefit.title }}</h4>
+              <p class="card-text">{{ benefit.text }}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+  <div class="col col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+    <a href="#" class="btn btn-primary btn-lg text-uppercase">Buy Your <strong>Ticket</strong></a>
+  </div>
+</div>
+
 <div class="row">
-  <div class="col-12 col-lg-7 col-xl-8">
+  <div class="col-12">
     {{ content }}
   </div>
+</div>
 
+<!--
+<div class="row">
   <div class="col-12 col-lg-5 col-xl-4">
     <div class="card">
     <table class="table m-b-0">
@@ -40,4 +69,4 @@ layout: page
       <a href="/workspaces/costa-mesa/contact" class="btn btn-lg btn-primary">Contact Us</a>
     </p>
   </div>
-</div>
+</div> -->
