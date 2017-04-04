@@ -31,8 +31,8 @@ defaults:
   values:
     layout: post
     permalink: "/stories/:year/:month/:day/:title/"
-    author:
-    image:
+    author: 
+    image: 
     nav:
       id: post
       site:
@@ -46,62 +46,62 @@ defaults:
     type: pages
   values:
     layout: page
-    description:
+    description: 
 - scope:
     path: ''
     type: events
   values:
-    headline:
+    headline: 
     images:
-      splash_image:
-      thumb_image:
+      splash_image: 
+      thumb_image: 
     dates:
-      start_date:
-      end_date:
+      start_date: 
+      end_date: 
     urls:
-      ticket_url:
-      info_url:
-    location:
+      ticket_url: 
+      info_url: 
+    location: 
 - scope:
     path: ''
     type: authors
   values:
     layout: page
-    company_name:
-    job_title:
-    bio_image:
-    is_guest:
+    company_name: 
+    job_title: 
+    bio_image: 
+    is_guest: 
 - scope:
     path: ''
     type: team_members
   values:
     layout: team-member
-    job_title:
-    fun_title:
-    bio_image:
+    job_title: 
+    fun_title: 
+    bio_image: 
 - scope:
     path: ''
     type: locations
   values:
-    slug:
-    status:
+    slug: 
+    status: 
     address:
-      street1:
-      street2:
-      city:
-      state:
-      full_state:
-      postal_code:
+      street1: 
+      street2: 
+      city: 
+      state: 
+      full_state: 
+      postal_code: 
     geography:
-      latitude:
-      longitude:
-      degrees:
+      latitude: 
+      longitude: 
+      degrees: 
     contact:
-      phone:
-      sms:
-      email:
+      phone: 
+      sms: 
+      email: 
     gather:
-      id:
+      id: 
 url: http://wayfare.io
 version: 1
 email_form: <script src="https://wayfare.activehosted.com/f/embed.php?id=8" type="text/javascript"
