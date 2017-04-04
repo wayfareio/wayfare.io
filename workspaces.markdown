@@ -17,5 +17,7 @@ redirect_from:
 - "/workspace"
 - "/locations"
 layout: custom/workspaces
+email_form: <script src="https://wayfare.activehosted.com/f/embed.php?id=22" type="text/javascript"
+  charset="utf-8"></script>
 ---
 

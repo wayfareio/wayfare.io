@@ -57,6 +57,7 @@ defaults:
       end_date: 
     urls:
       ticket_url: 
+      info_url: 
     location: 
 - scope:
     path: ''
@@ -77,6 +78,8 @@ defaults:
     bio_image: 
 url: http://wayfare.io
 version: 1
+email_form: <script src="https://wayfare.activehosted.com/f/embed.php?id=8" type="text/javascript"
+  charset="utf-8"></script>
 twitter:
   username: wayfarehq
 facebook:
