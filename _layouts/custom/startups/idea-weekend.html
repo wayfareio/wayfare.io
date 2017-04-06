@@ -30,6 +30,30 @@ layout: page
   </div>
 </div>
 
+<div class="row" id="idea-speakers">
+  <div class="col-12 pb-3">
+    <h2 class="underline">Speakers</h2>
+      <div class="row my-4">
+        <div class="col-12">
+          <div class="card-deck card-deck-circles">
+            {% for person in page.community.people %}
+              <div class="card card-borderless text-center">
+                <img class="rounded-circle img-fluid p-3 mx-auto" src="{{ person.image }}" alt="{{ person.first_name}} {{ person.last_name}}" data-rjs="2">
+                <div class="card-block">
+                  <h4 class="card-title">{{ person.first_name}} {{ person.last_name }}</h4>
+                  <h5 class="card-subtitle">{{ person.title }}<br>{{ person.company }}</h5>
+                  <a class="btn btn-primary text-uppercase my-3" href="{{ person.url }}">
+                    Read <span class="hidden-md-down">{{ person.first_name }}'s</span> Story
+                  </a>
+                </div>
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
+
 <div class="row">
   <div class="col-12">
     {{ content }}
