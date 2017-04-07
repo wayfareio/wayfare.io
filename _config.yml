@@ -11,6 +11,9 @@ collections:
   events:
     title: Events
     output: false
+  locations:
+    title: Locations
+    output: false
   posts:
     title: Posts
     output: true
@@ -76,6 +79,29 @@ defaults:
     job_title: 
     fun_title: 
     bio_image: 
+- scope:
+    path: ''
+    type: locations
+  values:
+    slug: 
+    status: 
+    address:
+      street1: 
+      street2: 
+      city: 
+      state: 
+      full_state: 
+      postal_code: 
+    geography:
+      latitude: 
+      longitude: 
+      degrees: 
+    contact:
+      phone: 
+      sms: 
+      email: 
+    gather:
+      id: 
 url: http://wayfare.io
 version: 1
 email_form: <script src="https://wayfare.activehosted.com/f/embed.php?id=8" type="text/javascript"
