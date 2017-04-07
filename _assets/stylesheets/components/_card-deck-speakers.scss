@@ -1,0 +1,8 @@
+.card-deck.card-deck-speakers {
+  .card-block { padding: 0; }
+  @include media-breakpoint-down(lg) {
+    .card-title { font-size: 1.25rem; }
+    .card-subtitle { font-size: 1rem; }
+    .btn { font-size: 0.75rem; padding: 0.5rem 1rem; }
+  }
+}

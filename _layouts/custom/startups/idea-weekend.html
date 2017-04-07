@@ -6,7 +6,7 @@ layout: page
   <div class="col-12 pb-3">
     <h2 class="underline">Overview</h2>
     <p>Idea Weekend is designed to help you begin bringing to life that world-changing idea that you are passionate about. Whether you are a founder with a brand new idea or you are piloting a new product within your existing organization, Pilot Weekend is designed specifically for you.</p>
-    <p>Idea Weekend kick-starts your plan and helps you create the roadmap for your idea to become a reality alongside a community of other dreamers, doers, and adventurers for the common good.Idea Weekend combines insight from startup experts with hands-on application in a workshop setting. You will leave with a roadmap of action steps to pilot your idea and create a minimum viable product or service. You’ll be led by a variety of passionate founders who have extensive experience in startup, social enterprise and non-profit work.</p>
+    <p>Idea Weekend kick-starts your plan and helps you create the roadmap for your idea to become a reality alongside a community of other dreamers, doers, and adventurers for the common good.Idea Weekend combines insight from startup experts with hands-on application in a workshop setting. You will leave with a roadmap of action steps to pilot your idea and create a minimum viable product or service. You’ll be led by a variety of passionate founders who have extensive experience in startup, social enterprise, and non-profit work.</p>
   </div>
   <div class="row">
     {% for benefit in page.benefits %}
@@ -14,10 +14,10 @@ layout: page
         <div class="card card-benefit mb-4">
           <div class="d-flex flex-row">
             <div class="benefit-icon d-inline-flex">
-              {% include icon.html name=benefit.icon classes="icon-xl" %}
+              {% include icon.html name=benefit.icon classes="icon-xxl" %}
             </div>
             <div>
-              <h4 class="card-title mb-1 text-uppercase">{{ benefit.title }}</h4>
+              <h5 class="card-title mb-1 text-uppercase">{{ benefit.title }}</h5>
               <p class="card-text">{{ benefit.text }}</p>
             </div>
           </div>
@@ -25,26 +25,101 @@ layout: page
       </div>
     {% endfor %}
   </div>
-  <div class="col col-md-8 offset-md-2 col-lg-6 offset-lg-3">
-    <a href="#" class="btn btn-primary btn-lg text-uppercase">Buy Your <strong>Ticket</strong></a>
+</div>
+
+<div class="row my-2">
+  <div class="col col-md-8 col-lg-6 mx-auto">
+    <button type="button" class="btn btn-primary btn-lg btn-block text-uppercase">Buy Your <strong>Ticket</strong></button>
   </div>
 </div>
 
-<div class="row" id="idea-speakers">
+<div class="row my-4" id="idea-speakers">
   <div class="col-12 pb-3">
     <h2 class="underline">Speakers</h2>
-      <div class="row my-4">
+      <div class="row">
         <div class="col-12">
-          <div class="card-deck card-deck-circles">
-            {% for person in page.community.people %}
-              <div class="card card-borderless text-center">
-                <img class="rounded-circle img-fluid p-3 mx-auto" src="{{ person.image }}" alt="{{ person.first_name}} {{ person.last_name}}" data-rjs="2">
-                <div class="card-block">
-                  <h4 class="card-title">{{ person.first_name}} {{ person.last_name }}</h4>
-                  <h5 class="card-subtitle">{{ person.title }}<br>{{ person.company }}</h5>
-                  <a class="btn btn-primary text-uppercase my-3" href="{{ person.url }}">
-                    Read <span class="hidden-md-down">{{ person.first_name }}'s</span> Story
-                  </a>
+          <div class="card-deck card-deck-speakers justify-content-center">
+            {% for speaker in page.speakers %}
+              <div class="col-sm-6 col-md-6 col-lg-4">
+                <div class="card card-borderless text-center">
+                  <img class="rounded-circle img-fluid p-3 mx-auto" src="{{ speaker.image }}" alt="{{ speaker.first_name}} {{ speaker.last_name}}" data-rjs="2">
+                  <div class="card-block">
+                    <h4 class="card-title mb-2">{{ speaker.first_name}} {{ speaker.last_name }}</h4>
+                    <h6 class="card-subtitle text-uppercase">{{ speaker.title }}, {{ speaker.company }}</h6>
+                    <p class="card-text">{{ speaker.text }}</p>
+                  </div>
+                </div>
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
+
+<div class="row my-4" id="idea-schedule">
+  <div class="col-12 pb-3">
+    <h2 class="underline">Weekend Schedule</h2>
+      <div class="row">
+        <div class="col-12 col-sm-4 col-md-5 col-lg-3 py-3">
+          <h3 class="text-uppercase">Day One</h3>
+          <h4>Friday, May 19</h4>
+        </div>
+        <div class="col-12 col-sm-8 col-md-7 col-lg-8 offset-lg-1 py-3">
+          <p>Intro + Orientation</p>
+          <p>Dinner</p>
+          <p>Keynote speaker</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-12 col-sm-4 col-md-5 col-lg-3 py-3">
+          <h3 class="text-uppercase">Day Two</h3>
+          <h4>Saturday, May 20</h4>
+        </div>
+        <div class="col-12 col-sm-8 col-md-7 col-lg-8 offset-lg-1 py-3">
+          <p>Breakfast</p>
+          <p><strong>Mission &amp; Vision:</strong> How do you clearly articulate your why?</p>
+          <p><em>Facilitated Q &amp; A</em></p>
+          <p><strong>Customer Development:</strong> The why &amp; application behind customer development</p>
+          <p><em>Facilitated Q &amp; A</em></p>
+          <p>Lunch</p>
+          <p><strong>Idea Testing &amp; Measurement:</strong> Process of forming and testing your hypothesis and defining your objectives</p>
+          <p><em>Facilitated Q &amp; A</em></p>
+          <p><strong>Common Good and Meaningful Impact:</strong> Knowing from the beginning what your social integration will be</p>
+          <p><em>Facilitated Q &amp; A</em></p>
+          <p>Dinner</p>
+          <p>Keynote speakers</p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-12 col-sm-4 col-md-5 col-lg-3 py-3">
+          <h3 class="text-uppercase">Day Three</h3>
+          <h4>Sunday, May 21</h4>
+        </div>
+        <div class="col-12 col-sm-8 col-md-7 col-lg-8 offset-lg-1 py-3">
+          <p>Lunch</p>
+          <p>Action-oriented exercises</p>
+          <p>Workbook application</p>
+          <p>Introduction to Launch</p>
+          <p>Debrief and overview</p>
+        </div>
+      </div>
+  </div>
+</div>
+
+<div class="row my-4" id="idea-pricing">
+  <div class="col-12 pb-3">
+    <h2 class="underline">Pricing</h2>
+      <div class="row mt-3">
+        <div class="col-12">
+          <div class="card-deck justify-content-center">
+            {% for price in page.pricing.prices %}
+              <div class="col-sm-6 col-md-4 col-lg-4">
+                <div class="card text-center">
+                  <div class="card-block">
+                    <h4 class="card-title mb-2">{{ price.dates }}</h4>
+                    <h5 class="card-subtitle text-uppercase">{{ price.price }}</h5>
+                  </div>
                 </div>
               </div>
             {% endfor %}

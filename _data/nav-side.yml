@@ -51,20 +51,26 @@ startups:
     title: Idea Weekend
     url: /startups/idea-weekend
 idea-weekend:
-  - id: idea-title
+  - id: idea-weekend-title
     title: Idea Weekend
-  - id: overview
+  - id: idea-overview
     title: Overview
-  - id: speakers
+    url: "#idea-overview"
+  - id: idea-speakers
     title: Speakers
-  - id: schedule
+    url: "#idea-speakers"
+  - id: idea-schedule
     title: Schedule
-  - id: pricing
+    url: "#idea-schedule"
+  - id: idea-pricing
     title: Pricing
-  - id: testimonials
+    url: "idea-pricing"
+  - id: idea-testimonials
     title: Testimonials
-  - id: tickets
+    url: "#idea-testimonials"
+  - id: idea-tickets
     title: Tickets
+    url: "idea-tickets"
 stories:
   - id: stories-title
     title: Stories
