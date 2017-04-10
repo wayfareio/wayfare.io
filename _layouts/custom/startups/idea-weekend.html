@@ -39,20 +39,18 @@ layout: page
     <h2 class="underline">Speakers</h2>
       <div class="row">
         <div class="col-12">
-          <div class="card-deck card-deck-speakers justify-content-center">
-            {% for speaker in page.speakers %}
-              <div class="col-sm-6 col-md-6 col-lg-4">
-                <div class="card card-borderless text-center">
-                  <img class="rounded-circle img-fluid p-3 mx-auto" src="{{ speaker.image }}" alt="{{ speaker.first_name}} {{ speaker.last_name}}" data-rjs="2">
-                  <div class="card-block">
-                    <h4 class="card-title mb-2">{{ speaker.first_name}} {{ speaker.last_name }}</h4>
-                    <h6 class="card-subtitle text-uppercase">{{ speaker.title }}, {{ speaker.company }}</h6>
-                    <p class="card-text">{{ speaker.text }}</p>
-                  </div>
-                </div>
+          {% for speaker in page.speakers %}
+            <div class="row py-3">
+              <div class="col-sm-6 col-md-4 col-lg-4">
+                <img class="rounded-circle img-fluid mx-auto pb-2" src="{{ speaker.image }}" alt="{{ speaker.first_name}} {{ speaker.last_name}}" data-rjs="2">
               </div>
-            {% endfor %}
-          </div>
+              <div class="col-sm-12 col-md-8 col-lg-8">
+                <h4 class="card-title">{{ speaker.first_name}} {{ speaker.last_name }}</h4>
+                <h6 class="card-subtitle text-uppercase pb-2">{{ speaker.title }}, {{ speaker.company }}</h6>
+                <p class="card-text">{{ speaker.text }}</p>
+              </div>
+            </div>
+          {% endfor %}
         </div>
       </div>
   </div>
@@ -121,14 +119,14 @@ layout: page
     <h2 class="underline">Testimonials</h2>
       {% for testimonial in page.testimonials %}
         <div class="row py-3">
-            <div class="col-sm-6 col-md-4 col-lg-4">
-              <img class="rounded-circle img-fluid mx-auto" src="{{ testimonial.image }}" alt="{{ testimonial.first_name}} {{ testimonial.last_name}}" data-rjs="2">
-            </div>
-            <div class="col-sm-6 col-md-8 col-lg-8">
-              <p class="card-text">"{{ testimonial.text }}"</p>
-              <h4 class="card-title mb-2">{{ testimonial.first_name}} {{ testimonial.last_name }}</h4>
-              <h6 class="card-subtitle text-uppercase">{{ testimonial.title }}, {{ testimonial.company }}</h6>
-            </div>
+          <div class="col-sm-6 col-md-4 col-lg-4">
+            <img class="rounded-circle img-fluid mx-auto pb-2" src="{{ testimonial.image }}" alt="{{ testimonial.first_name}} {{ testimonial.last_name}}" data-rjs="2">
+          </div>
+          <div class="col-sm-12 col-md-8 col-lg-8">
+            <p class="card-text">"{{ testimonial.text }}"</p>
+            <h4 class="card-title mb-2">{{ testimonial.first_name}} {{ testimonial.last_name }}</h4>
+            <h6 class="card-subtitle text-uppercase">{{ testimonial.title }}, {{ testimonial.company }}</h6>
+          </div>
         </div>
       {% endfor %}
   </div>
@@ -142,7 +140,7 @@ layout: page
           <div class="card-deck justify-content-center">
             {% for price in page.pricing.prices %}
               <div class="col-sm-6 col-md-4 col-lg-4 px-2">
-                <div class="card text-center">
+                <div class="card my-2 text-center">
                   <div class="card-block">
                     <h4 class="card-title mb-2">{{ price.dates }}</h4>
                     <h5 class="card-subtitle text-uppercase">{{ price.price }}</h5>
