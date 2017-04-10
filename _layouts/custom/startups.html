@@ -78,7 +78,8 @@ layout: site
           </div>
         {% endif %}
         {% for event in events %}
-          <div data-href="{{ event.urls.ticket_url }}" class="card card-event">
+          {% capture event_url %}{% if event.urls %}{% if event.urls.info_url %}{{ event.urls.info_url }}{% elsif event.urls.ticket_url %}{{ event.urls.ticket_url }}{% endif %}{% endif %}{% endcapture %}
+          <div data-href="{{ event_url }}" class="card card-event">
             <div class="row">
               <div class="col-lg-5">
                 <img {{ event.images.thumb_image | default:event.images.splash_image | image_src }} class="{{ 'img-fluid mb-3' | image_class}}" data-width="600" data-height="425" data-crop="fill" data-gravity="auto:faces">
