@@ -40,7 +40,7 @@ benefits:
 - icon: roadmap-circle
   title: A Take-home Roadmap for Action
   text: You won’t leave with the question, “What now?”. After the weekend, you’ll leave with a roadmap containing just the right amount of structure to support you in the challenge of moving your idea forward.
-speakers:
+guides:
 - first_name: Joanna
   last_name: Waterfall
   image: "/assets/images/joanna-waterfall.jpg"

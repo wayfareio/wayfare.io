@@ -56,9 +56,9 @@ idea-weekend:
   - id: idea-overview
     title: Overview
     url: "#idea-overview"
-  - id: idea-speakers
-    title: Speakers
-    url: "#idea-speakers"
+  - id: idea-guides
+    title: Guides
+    url: "#idea-guides"
   - id: idea-schedule
     title: Schedule
     url: "#idea-schedule"
