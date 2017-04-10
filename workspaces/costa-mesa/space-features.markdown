@@ -14,7 +14,7 @@ banner:
   image: "/assets/images/topo-banner-bg.jpg"
   title: Costa Mesa
   subtitle: 270 Baker St E, Ste 200, Costa Mesa, CA
-tour-url: 'https://calendly.com/wayfarehq/costa-mesa-tour/'
+tour-url: https://calendly.com/wayfarehq/costa-mesa-tour/
 features:
 - title: Quality, thoughtful design
   image: "/assets/images/workspaces/costa-mesa/features/quality-design.jpg"
