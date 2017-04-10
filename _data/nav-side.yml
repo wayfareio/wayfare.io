@@ -62,15 +62,12 @@ idea-weekend:
   - id: idea-schedule
     title: Schedule
     url: "#idea-schedule"
-  - id: idea-pricing
-    title: Pricing
-    url: "idea-pricing"
   - id: idea-testimonials
     title: Testimonials
     url: "#idea-testimonials"
-  - id: idea-tickets
-    title: Tickets
-    url: "idea-tickets"
+  - id: idea-pricing
+    title: Pricing
+    url: "#idea-pricing"
 stories:
   - id: stories-title
     title: Stories

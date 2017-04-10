@@ -5,8 +5,7 @@ layout: page
 <div class="row" id="idea-overview">
   <div class="col-12 pb-3">
     <h2 class="underline">Overview</h2>
-    <p>Idea Weekend is designed to help you begin bringing to life that world-changing idea that you are passionate about. Whether you are a founder with a brand new idea or you are piloting a new product within your existing organization, Pilot Weekend is designed specifically for you.</p>
-    <p>Idea Weekend kick-starts your plan and helps you create the roadmap for your idea to become a reality alongside a community of other dreamers, doers, and adventurers for the common good.Idea Weekend combines insight from startup experts with hands-on application in a workshop setting. You will leave with a roadmap of action steps to pilot your idea and create a minimum viable product or service. You’ll be led by a variety of passionate founders who have extensive experience in startup, social enterprise, and non-profit work.</p>
+    {{ content }}
   </div>
   <div class="row">
     {% for benefit in page.benefits %}
@@ -29,7 +28,9 @@ layout: page
 
 <div class="row my-2">
   <div class="col col-md-8 col-lg-6 mx-auto">
-    <button type="button" class="btn btn-primary btn-lg btn-block text-uppercase">Buy Your <strong>Ticket</strong></button>
+    <a href="{{ page.tickets.url }}" class="btn btn-primary btn-lg btn-block text-uppercase">
+      {{ page.tickets.text }}
+    </a>
   </div>
 </div>
 
@@ -57,26 +58,26 @@ layout: page
   </div>
 </div>
 
-<div class="row my-4" id="idea-schedule">
-  <div class="col-12 pb-3">
-    <h2 class="underline">Weekend Schedule</h2>
-      <div class="row">
-        <div class="col-12 col-sm-4 col-md-5 col-lg-3 py-3">
+<div class="row mt-4" id="idea-schedule">
+  <div class="col-12 pb-2">
+    <h2 class="underline">Schedule</h2>
+      <dl class="row mt-4">
+        <dt class="col-sm-4">
           <h3 class="text-uppercase">Day One</h3>
           <h4>Friday, May 19</h4>
-        </div>
-        <div class="col-12 col-sm-8 col-md-7 col-lg-8 offset-lg-1 py-3">
+        </dt>
+        <dd class="col-sm-8">
           <p>Intro + Orientation</p>
           <p>Dinner</p>
           <p>Keynote speaker</p>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-12 col-sm-4 col-md-5 col-lg-3 py-3">
+        </dd>
+      </dl>
+      <dl class="row mt-4">
+        <dt class="col-sm-4">
           <h3 class="text-uppercase">Day Two</h3>
           <h4>Saturday, May 20</h4>
-        </div>
-        <div class="col-12 col-sm-8 col-md-7 col-lg-8 offset-lg-1 py-3">
+        </dt>
+        <dd class="col-sm-8">
           <p>Breakfast</p>
           <p><strong>Mission &amp; Vision:</strong> How do you clearly articulate your why?</p>
           <p><em>Facilitated Q &amp; A</em></p>
@@ -89,32 +90,58 @@ layout: page
           <p><em>Facilitated Q &amp; A</em></p>
           <p>Dinner</p>
           <p>Keynote speakers</p>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-12 col-sm-4 col-md-5 col-lg-3 py-3">
+        </dd>
+      </dl>
+      <dl class="row mt-4">
+        <dt class="col-sm-4">
           <h3 class="text-uppercase">Day Three</h3>
           <h4>Sunday, May 21</h4>
-        </div>
-        <div class="col-12 col-sm-8 col-md-7 col-lg-8 offset-lg-1 py-3">
+        </dt>
+        <dd class="col-sm-8">
           <p>Lunch</p>
           <p>Action-oriented exercises</p>
           <p>Workbook application</p>
           <p>Introduction to Launch</p>
           <p>Debrief and overview</p>
-        </div>
-      </div>
+        </dd>
+      </dl>
   </div>
 </div>
 
-<div class="row my-4" id="idea-pricing">
+<div class="row mb-4">
+  <div class="col col-md-8 col-lg-6 mx-auto">
+    <a href="{{ page.tickets.url }}" class="btn btn-primary btn-lg btn-block text-uppercase">
+      {{ page.tickets.text }}
+    </a>
+  </div>
+</div>
+
+<div class="row my-4" id="idea-testimonials">
+  <div class="col-12 pb-3">
+    <h2 class="underline">Testimonials</h2>
+      {% for testimonial in page.testimonials %}
+        <div class="row py-3">
+            <div class="col-sm-6 col-md-4 col-lg-4">
+              <img class="rounded-circle img-fluid mx-auto" src="{{ testimonial.image }}" alt="{{ testimonial.first_name}} {{ testimonial.last_name}}" data-rjs="2">
+            </div>
+            <div class="col-sm-6 col-md-8 col-lg-8">
+              <p class="card-text">"{{ testimonial.text }}"</p>
+              <h4 class="card-title mb-2">{{ testimonial.first_name}} {{ testimonial.last_name }}</h4>
+              <h6 class="card-subtitle text-uppercase">{{ testimonial.title }}, {{ testimonial.company }}</h6>
+            </div>
+        </div>
+      {% endfor %}
+  </div>
+</div>
+
+<div class="row mt-4" id="idea-pricing">
   <div class="col-12 pb-3">
     <h2 class="underline">Pricing</h2>
-      <div class="row mt-3">
+      <div class="row mt-4">
         <div class="col-12">
           <div class="card-deck justify-content-center">
             {% for price in page.pricing.prices %}
-              <div class="col-sm-6 col-md-4 col-lg-4">
+              <div class="col-sm-6 col-md-4 col-lg-4 px-2">
                 <div class="card text-center">
                   <div class="card-block">
                     <h4 class="card-title mb-2">{{ price.dates }}</h4>
@@ -124,48 +151,19 @@ layout: page
               </div>
             {% endfor %}
           </div>
+          <p class="text-center my-3">*Flexible price plans available. <a href="https://wayfare.typeform.com/to/vn3h2H">Contact us</a></p>
         </div>
       </div>
   </div>
 </div>
-
 <div class="row">
-  <div class="col-12">
-    {{ content }}
+  <div class="col col-md-8 col-lg-6 mx-auto mb-4">
+    <a href="{{ page.tickets.url }}" class="btn btn-primary btn-lg btn-block text-uppercase">
+      {{ page.tickets.text }}
+    </a>
+  </div>
+  <div class="col-12 col-lg-8 offset-lg-2 text-center mt-2">
+    <h3 class="h1 script">Working on your idea with others?</h3>
+    <p class="lead">Sign your team up for Idea Weekend and receive an 50% off discount on enrollment for each added member!<p>
   </div>
 </div>
-
-<!--
-<div class="row">
-  <div class="col-12 col-lg-5 col-xl-4">
-    <div class="card">
-    <table class="table m-b-0">
-      <thead>
-        <tr>
-          <th><h5 class="text-uppercase m-b-0">Pricing</h5></th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        {% for price in page.pricing.prices %}
-          <tr>
-            <th>{{ price.dates }}</th>
-            <td class="text-xs-right">{{ price.price }}</td>
-          </tr>
-        {% endfor %}
-      </tbody>
-    </table>
-  </div>
-  <a href="https://wayfare.ticketleap.com/idea-weekend/" class="btn btn-primary btn-lg btn-block mb-3">Buy Your Ticket</a>
-  <small><em>{{ page.pricing.note | markdownify }}</em></small>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-12 col-lg-9 col-xl-8">
-    <h3 class="pb-3">Please don't hesitate to contact us with questions</h3>
-    <p>
-      <a href="/workspaces/costa-mesa/contact" class="btn btn-lg btn-primary">Contact Us</a>
-    </p>
-  </div>
-</div> -->
