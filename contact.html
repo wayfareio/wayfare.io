@@ -26,4 +26,27 @@ hero:
   </dl>
 
   <a href="https://wayfare.typeform.com/to/vn3h2H" class="btn btn-lg btn-primary text-uppercase">Send Us a <strong>Message</strong></a>
+<br/>
+UPDATE TO THIS FORMAT
+  <div class="row py-4 justify-content-center">
+    {% for location in site.locations %}
+      <div class="col-12 col-md-9 col-lg-7">
+        <div class="card card-left-icon mb-4">
+          <div class="d-flex flex-row">
+            <div class="left-icon d-inline-flex">
+              {% include icon.html name="location-circle" classes="icon-xxl" %}
+            </div>
+            <div>
+              <h2 class="card-title display-4 script text-lowercase mb-0">{{ location.title }}</h2>
+              <p class="card-text">
+                {{ location.address.full_address }}<br/>
+                <strong>Community Manager:</strong> {{ location.contact.manager-first }} {{ location.contact.manager-last }}
+              </p>
+              <a href="https://wayfare.typeform.com/to/vn3h2H" class="btn btn-primary">Email {{ location.contact.manager-first }}</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
 </div>
