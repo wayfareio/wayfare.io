@@ -55,18 +55,6 @@ benefits:
     leave with a roadmap containing just the right amount of structure to support
     you in the challenge of moving your idea forward.
 guides:
-- first_name: Joanna
-  last_name: Waterfall
-  image: "/assets/images/joanna-waterfall.jpg"
-  title: Founder of Yellow Co.
-  company: Speaker and Startup Coach
-  text: Joanna is the Founder of Yellow Co., an organization that exists to empower
-    creative women to become agents of good. With a degree in graphic design and digital
-    media and a background in branding, Joanna believes that creativity and business
-    should go hand in hand. She has been featured in publications such as The Huffington
-    Post, LA Lady Magazine, Career Contessa, Belong Magazine and others. She is motivated
-    by the belief that women can change the world through stepping into what makes
-    them come alive.
 - first_name: Jeff
   last_name: Tanner
   image: "/assets/images/jeff-tanner.jpg"
@@ -90,6 +78,7 @@ guides:
     and is passionate about understanding how people can bring the fullness of who
     they are in their gifts, skills, and talents to their work to build the world’s
     best future.
+guides-text: "More guides/speakers coming soon!"
 testimonials:
 - first_name: Keturah
   last_name: Kennedy
