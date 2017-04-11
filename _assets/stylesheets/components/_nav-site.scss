@@ -64,7 +64,7 @@
     }
   }
   > .navbar-nav .nav-link {
-    font-family: "brandon-grotesque"; text-transform: uppercase;
+    font-family: "brandon-grotesque", sans-serif; text-transform: uppercase;
     @include media-breakpoint-only(sm) {
       font-size: 0.6rem;
     }

@@ -16,10 +16,7 @@ banner:
   subtitle: 270 Baker St E, Ste 200, Costa Mesa, CA
 team:
 - Allison Tash
-- Allison Miller
 - Jonathon Murillo
-- Myriah Lee Murillo
-- Kate Sharp
 redirect_from: "/locations/costa-mesa/our-team"
 ---
 

@@ -2,42 +2,164 @@
 layout: page
 ---
 
-<h2>{{ page.title }}</h2>
-<hr>
-<div class="row">
-  <div class="col-12 col-lg-7 col-xl-8">
+<div class="row" id="idea-overview">
+  <div class="col-12 pb-3">
+    <h2 class="underline">Overview</h2>
     {{ content }}
   </div>
-
-  <div class="col-12 col-lg-5 col-xl-4">
-    <div class="card">
-    <table class="table m-b-0">
-      <thead>
-        <tr>
-          <th><h5 class="text-uppercase m-b-0">Pricing</h5></th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        {% for price in page.pricing.prices %}
-          <tr>
-            <th>{{ price.dates }}</th>
-            <td class="text-xs-right">{{ price.price }}</td>
-          </tr>
-        {% endfor %}
-      </tbody>
-    </table>
-  </div>
-  <a href="https://wayfare.ticketleap.com/idea-weekend/" class="btn btn-primary btn-lg btn-block mb-3">Buy Your Ticket</a>
-  <small><em>{{ page.pricing.note | markdownify }}</em></small>
+  <div class="row">
+    {% for benefit in page.benefits %}
+      <div class="col-sm-6">
+        <div class="card card-benefit mb-4">
+          <div class="d-flex flex-row">
+            <div class="benefit-icon d-inline-flex">
+              {% include icon.html name=benefit.icon classes="icon-xxl" %}
+            </div>
+            <div>
+              <h5 class="card-title mb-1 text-uppercase">{{ benefit.title }}</h5>
+              <p class="card-text">{{ benefit.text }}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
   </div>
 </div>
 
+<div class="row my-2">
+  <div class="col col-md-8 col-lg-6 mx-auto">
+    <a href="{{ page.tickets.url }}" class="btn btn-primary btn-lg btn-block text-uppercase">
+      {{ page.tickets.text }}
+    </a>
+  </div>
+</div>
+
+<div class="row my-4" id="idea-guides">
+  <div class="col-12 pb-3">
+    <h2 class="underline">Your Guides for the Weekend</h2>
+      <div class="row">
+        <div class="col-12">
+          {% for guide in page.guides %}
+            <div class="row py-3">
+              <div class="col-sm-6 col-md-4 col-lg-4">
+                <img class="rounded-circle img-fluid mx-auto pb-2" src="{{ guide.image }}" alt="{{ guide.first_name}} {{ guide.last_name}}" data-rjs="2">
+              </div>
+              <div class="col-sm-12 col-md-8 col-lg-8">
+                <h4 class="card-title">{{ guide.first_name}} {{ guide.last_name }}</h4>
+                <h6 class="card-subtitle text-uppercase pb-2">{{ guide.title }}, {{ guide.company }}</h6>
+                <p class="card-text">{{ guide.text }}</p>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+  </div>
+</div>
+
+<div class="row mt-4" id="idea-schedule">
+  <div class="col-12 pb-2">
+    <h2 class="underline">Schedule</h2>
+      <dl class="row mt-4">
+        <dt class="col-sm-4">
+          <h3 class="text-uppercase">Day One</h3>
+          <h4>Friday, May 19</h4>
+        </dt>
+        <dd class="col-sm-8">
+          <p><strong>Dinner:</strong> Getting to know each other</p>
+          <p><strong>Dinner, Session 1:</strong> Purpose &amp; Dream</p>
+          <p>Application of Purpose &amp; Dream</p>
+          <p>Sharing Statements</p>
+        </dd>
+      </dl>
+      <dl class="row mt-4">
+        <dt class="col-sm-4">
+          <h3 class="text-uppercase">Day Two</h3>
+          <h4>Saturday, May 20</h4>
+        </dt>
+        <dd class="col-sm-8">
+          <p>Opening and Welcome</p>
+          <p><strong>Dinner, Session 2:</strong> Problem/Customer/Solution Panel</p>
+          <p>BREAK</p>
+          <p>Application</p>
+          <p>Lunch</p>
+          <p><strong>Dinner, Session 3:</strong> Test/Measure/Viability Panel</p>
+          <p>BREAK</p>
+          <p>Application</p>
+          <p>Sharing epiphanies and learnings from the day</p>
+          <p><strong>Dinner, Session 4:</strong> How do you change the world?</p>
+        </dd>
+      </dl>
+      <dl class="row mt-4">
+        <dt class="col-sm-4">
+          <h3 class="text-uppercase">Day Three</h3>
+          <h4>Sunday, May 21</h4>
+        </dt>
+        <dd class="col-sm-8">
+          <p>Lunch</p>
+          <p>Summarizing, individual coaching, completing the second version of the statements</p>
+          <p>Filling out the post and preparing presentation</p>
+          <p>Sharing the pre/post comparison</p>
+        </dd>
+      </dl>
+  </div>
+</div>
+
+<div class="row mb-4">
+  <div class="col col-md-8 col-lg-6 mx-auto">
+    <a href="{{ page.tickets.url }}" class="btn btn-primary btn-lg btn-block text-uppercase">
+      {{ page.tickets.text }}
+    </a>
+  </div>
+</div>
+
+<div class="row my-4" id="idea-testimonials">
+  <div class="col-12 pb-3">
+    <h2 class="underline">Testimonials</h2>
+      {% for testimonial in page.testimonials %}
+        <div class="row py-3">
+          <div class="col-sm-6 col-md-4 col-lg-4">
+            <img class="rounded-circle img-fluid mx-auto pb-2" src="{{ testimonial.image }}" alt="{{ testimonial.first_name}} {{ testimonial.last_name}}" data-rjs="2">
+          </div>
+          <div class="col-sm-12 col-md-8 col-lg-8">
+            <p class="card-text">"{{ testimonial.text }}"</p>
+            <h4 class="card-title mb-2">{{ testimonial.first_name}} {{ testimonial.last_name }}</h4>
+            <h6 class="card-subtitle text-uppercase">{{ testimonial.title }}, {{ testimonial.company }}</h6>
+          </div>
+        </div>
+      {% endfor %}
+  </div>
+</div>
+
+<div class="row mt-4" id="idea-pricing">
+  <div class="col-12 pb-3">
+    <h2 class="underline">Pricing</h2>
+      <div class="row mt-4">
+        <div class="col-12">
+          <div class="card-deck justify-content-center">
+            {% for price in page.pricing.prices %}
+              <div class="col-sm-6 col-md-4 col-lg-4 px-2">
+                <div class="card my-2 text-center">
+                  <div class="card-block">
+                    <h4 class="card-title mb-2">{{ price.dates }}</h4>
+                    <h5 class="card-subtitle text-uppercase">{{ price.price }}</h5>
+                  </div>
+                </div>
+              </div>
+            {% endfor %}
+          </div>
+          <p class="text-center my-3">*Flexible price plans available. <a href="https://wayfare.typeform.com/to/vn3h2H">Contact us</a></p>
+        </div>
+      </div>
+  </div>
+</div>
 <div class="row">
-  <div class="col-12 col-lg-9 col-xl-8">
-    <h3 class="pb-3">Please don't hesitate to contact us with questions</h3>
-    <p>
-      <a href="/workspaces/costa-mesa/contact" class="btn btn-lg btn-primary">Contact Us</a>
-    </p>
+  <div class="col col-md-8 col-lg-6 mx-auto mb-4">
+    <a href="{{ page.tickets.url }}" class="btn btn-primary btn-lg btn-block text-uppercase">
+      {{ page.tickets.text }}
+    </a>
+  </div>
+  <div class="col-12 col-lg-8 offset-lg-2 text-center mt-2">
+    <h3 class="h1 script">Working on your idea with others?</h3>
+    <p class="lead">Sign your team up for Idea Weekend and receive an 50% off discount on enrollment for each added member!<p>
   </div>
 </div>

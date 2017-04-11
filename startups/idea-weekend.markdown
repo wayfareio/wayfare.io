@@ -2,83 +2,115 @@
 title: Idea Weekend
 page_title: 'Startups: Idea Weekend'
 nav:
-  id: idea-weekend
   site:
     highlight: startups
   side:
-    id: startups
-    highlight: startups-idea-weekend
+    id: idea-weekend
+    highlight: idea-overview
+hero:
+  image: "/assets/images/idea-weekend-banner.jpg"
+  title: Idea Weekend
+  subtitle: FRIDAY MAY 19 – SUNDAY, MAY 21
+  buttons:
+  - url: https://wayfare.ticketleap.com/idea-weekend/
+    title: Buy Your Ticket
+tickets:
+  url: https://wayfare.ticketleap.com/idea-weekend/
+  text: Buy Your <strong>Ticket</strong>
 redirect_from:
 - "/startups/pilot-conference"
 - "/startups/pilot-weekend"
+benefits:
+- icon: speaker-circle
+  title: Conversation with Experienced Founders
+  text: Receive inspiration and insight from seasoned founders as they share their
+    stories, experience, and expertise on essential topics related to starting something
+    new. All talks will be highly conversational with the opportunity to ask questions
+    and receive personalized guidance and coaching.
+- icon: tools-circle
+  title: Guided, Hands on Application
+  text: Each learning session will be followed with an opportunity for you directly
+    apply learnings to your idea, right here throughout the weekend. We’ll provide
+    you with an interactive workbook to help you take action and focus on what matters
+    most.
+- icon: chat-circle
+  title: One on One Advising with Startup Coaches
+  text: As you apply learnings to your idea, you’ll receive immediate access to advisors
+    that can help you address questions as they arise and assist you when you hit
+    roadblocks. They’ll help guide and develop your idea in a way that’s true to you.
+- icon: support-circle
+  title: Individualized Feedback and Support
+  text: Good ideas become great in the context of community. Come ready to share insight
+    and feedback with others – while receiving the same support on the development
+    of your idea.
+- icon: meal-circle
+  title: Family Style Meal Sharing
+  text: Explore your challenges, fears, and dreams together over shared meal times
+    around the table. Each meal will include guided conversation times to provide
+    the space for you to process the fears and challenges that come with launching
+    your idea.
+- icon: roadmap-circle
+  title: A Take-home Roadmap for Action
+  text: You won’t leave with the question, “What now?”. After the weekend, you’ll
+    leave with a roadmap containing just the right amount of structure to support
+    you in the challenge of moving your idea forward.
+guides:
+- first_name: Joanna
+  last_name: Waterfall
+  image: "/assets/images/joanna-waterfall.jpg"
+  title: Founder of Yellow Co.
+  company: Speaker and Startup Coach
+  text: Joanna is the Founder of Yellow Co., an organization that exists to empower
+    creative women to become agents of good. With a degree in graphic design and digital
+    media and a background in branding, Joanna believes that creativity and business
+    should go hand in hand. She has been featured in publications such as The Huffington
+    Post, LA Lady Magazine, Career Contessa, Belong Magazine and others. She is motivated
+    by the belief that women can change the world through stepping into what makes
+    them come alive.
+- first_name: Jeff
+  last_name: Tanner
+  image: "/assets/images/jeff-tanner.jpg"
+  title: Cofounder of Wayfare
+  company: Speaker and Startup Coach
+  text: For Jeff, a life of adventure is exploring both new lands and new ideas. It’s
+    envisioning the future of communities, of work, of play. And it’s about starting
+    and building. As cofounder of coworking community, Wayfare, and startup incubator,
+    Wayfare Labs, Jeff serves as a guide for numerous startup founders who are launching
+    their ideas into viable, scalable movements for the common good.
+- first_name: Elisha
+  last_name: Avne
+  image: "/assets/images/elisha-avne.jpg"
+  title: Integration Guide
+  company: Weekend Facilitator
+  text: Elisha Avne is the Program Development Manager at Wayfare and an Integration
+    guide for our startup programs, where she has helped guide many organizations
+    as they build their organizations from MVP to sustainability. She loves helping
+    entrepreneurs, founders, and teams build and develop their organizations to reach
+    sustainable impact on the world! Elisha has her Masters in Organizational Psychology
+    and is passionate about understanding how people can bring the fullness of who
+    they are in their gifts, skills, and talents to their work to build the world’s
+    best future.
+testimonials:
+- first_name: Keturah
+  last_name: Kennedy
+  image: "/assets/images/keturah-kennedy.jpg"
+  title: Executive Director
+  company: MIKA
+  text: |-
+    I participated in Idea Weekend from a different perspective than some of the other participants. I wasn’t starting something brand new, but I had a new idea for our already existing organization. I had some specific questions regarding funding and sustainability… and as was the case with many people in the room, what I started thinking was the problem was only scratching the surface.
+
+    Idea weekend prompted me to dive into the hard work of clarifying the root problem in order to know what the best solutions were, and the best part was that I wasn’t alone. It was so inspiring to be with 14 other people who were vulnerable enough to ask similar hard questions and ideate together with the guidance of coaches. What seemed like a hard and scary process was totally worth it in the end, brought me a lot of clarity, and made me excited to dive into what’s next!
 pricing:
   prices:
-  - dates: Early Registration
-    price: "$747"
-  - dates: Deposit
-    price: "$47"
-  note: |-
-    Deposit due with application & applies to conference fees. Pricing includes three day conference, all meals, materials, workbooks and goodies.
-
-    Limited amount of scholarships available for students and non-profits. Inquire to apply.
+  - dates: Before April 15th
+    price: "$747*"
+  - dates: April 15th - 30th
+    price: "$847*"
+  - dates: May 1st - 19th
+    price: "$947*"
 layout: custom/startups/idea-weekend
 ---
 
-### Overview
+Idea Weekend is designed to help you begin bringing to life that world-changing idea that you are passionate about. Whether you are a founder with a brand new idea or you are piloting a new product within your existing organization, Pilot Weekend is designed specifically for you.
 
-Idea Weekend is designed to help you begin bringing to life the world-changing idea that you are passionate about. Whether you are a founder with a brand new idea or you are thinking a adding about a new product or service to your existing organization, Idea Weekend is designed specifically for you. Idea Weekend kick-starts your plan and helps you create the roadmap for your idea to become a reality alongside a community of other dreamers, doers and adventurers for the common good.
-
-Idea Weekend combines insight from startup experts with hands-on application in a workshop setting. You will leave with a roadmap of action steps to pilot your idea and create a minimum viable product or service. You'll be led by a variety of passionate founders who have extensive experience in startup, social enterprise, and non-profit work.
-
-The next Idea Weekend is May 19-21.
-
----
-
-### Details
-
-**Meals**: You can't get much done on an empty stomach so you'll experience four family-style meals that will keep you fueled throughout the weekend (and unlimited coffee too! What?!).
-
-**Workbook**: You'll receive a comprehensive workbook covering all of the weekend's topics and action steps for when you leave.
-
-**Speakers**: Speakers will present on a series of essential topics, all geared toward helping you build a viable product, service, or program.
-
-**Community**: Good ideas become great in the context of community. You will have opportunities for intentional interaction with other participants at the weekend and in the months to come.
-
-**Workspace**: Come work alongside other world changers! You’ll receive a three-month FREE Wayfare membership valued at $47/month (this includes a credit towards coworking or meeting rooms with additional hours available for purchase at a discounted rate).
-
----
-
-### Schedule
-
-**Friday**  
-**6:30pm--8:00p**
-
-* Arrive & check in
-* Dinner
-* Dessert & Keynote Talk
-* Q&A
-
-**Saturday**  
-**9:00am--7:00pm**
-
-* Session 1: Identity, Artistry, & Meaning
-* Session 2: Story Mapping
-* Session 3: Problem Exploration & Solution Validation
-* Facilitated Group Collaboration
-* Lunch
-* Session 4: Knowing your customer
-* Session 5: If/Then Statements
-* Facilitated Group Collaboration
-* Guided Workbook Session
-* Dinner
-* Keynote Talk
-
-**Sunday**  
-**12:00p--4:00pm**
-
-* Lunch
-* Guided Workbook Session
-* Facilitated Group Collaboration
-* Presentations
-
-{% button url:"https://wayfare.ticketleap.com/idea-weekend/" text:"Buy Your Ticket" size:"lg" class:"my-3" %}
+Idea Weekend kick-starts your plan and helps you create the roadmap for your idea to become a reality alongside a community of other dreamers, doers, and adventurers for the common good. Idea Weekend combines insight from startup experts with hands-on application in a workshop setting. You will leave with a roadmap of action steps to pilot your idea and create a minimum viable product or service. You’ll be led by a variety of passionate founders with extensive experience in startup, social enterprise and nonprofit work.

@@ -2,10 +2,10 @@
   <img class="card-img img-fluid" src="{{ page.hero.image }}">
   <div class="card-img-overlay align-items-center justify-content-center">
     <div class="card-block">
-      <h4 class="card-title">{{ page.hero.title }}</h4>
-      <h5 class="card-subtitle">{{ page.hero.subtitle }}</h5>
+      <h1 class="card-title">{{ page.hero.title }}</h1>
+      <h2 class="card-subtitle">{{ page.hero.subtitle }}</h2>
       {% for button in page.hero.buttons %}
-        <a href="{{ button.url }}" class="btn btn-primary">{{ button.title }}</a>
+        <a href="{{ button.url }}" class="btn btn-primary text-uppercase">{{ button.title }}</a>
       {% endfor %}
     </div>
   </div>
