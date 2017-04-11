@@ -14,9 +14,10 @@ tags:
 - Idea Weekend
 - Launch Program
 author: Devon Johnson
+image: "/uploads/Whilst.jpg"
 ---
 
-Everyone starts somewhere, right? I had just graduated college and was ready for a new adventure. Having fallen in love with the city during previous travels, I thought, "Why not London?" I packed my bags and took off for a three-month internship across the pond. However, upon landing, I immediately asked myself, "What am I doing here?" In all my travel experience, I had never felt homesick before. But rather than letting myself drown in loneliness, I chose to be intentional about connecting with the people I missed back in Orange County by starting an online magazine so that my friends and I could process this life transition together. 
+Everyone starts somewhere, right? I had just graduated college and was ready for a new adventure. Having fallen in love with the city during previous travels, I thought, "Why not London?" I packed my bags and took off for a three-month internship across the pond. However, upon landing, I immediately asked myself, "What am I doing here?" In all my travel experience, I had never felt homesick before. But rather than letting myself drown in loneliness, I chose to be intentional about connecting with the people I missed back in Orange County by starting an online magazine so that my friends and I could process this life transition together. <!-- more -->
 
 I started Skyping with a good friend, Jane (whom I lovingly refer to as my “co” because she basically saved my life when it came to building a website and creating an online presence). We picked a website theme, created an Instagram account, and called up all of our recently-graduated friends to ask them how they were processing life after college. After convincing them to write it all down, we released the very first issue of [Whilst](http://whilstmagazine.com) magazine. 
 
