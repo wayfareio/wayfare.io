@@ -1,7 +1,6 @@
 ---
 title: Idea Weekend
 page_title: 'Startups: Idea Weekend'
-layout: custom/startups/idea-weekend
 nav:
   site:
     highlight: startups
@@ -25,15 +24,15 @@ benefits:
 - icon: speaker-circle
   title: Conversation with Experienced Founders
   text: Receive inspiration and insight from seasoned founders as they share their
-    stories, experience, and expertise on essential topics when it comes to starting
-    something new. All talks will be highly conversational with opportunity to ask
-    questions and receive personalized guidance and coaching.
+    stories, experience, and expertise on essential topics related to starting something
+    new. All talks will be highly conversational with the opportunity to ask questions
+    and receive personalized guidance and coaching.
 - icon: tools-circle
   title: Guided, Hands on Application
   text: Each learning session will be followed with an opportunity for you directly
-    apply learnings to your idea right here during the weekend. We’ll provide you
-    with an interactive workbook that you’ll complete throughout the weekend based
-    on your unique idea or the unique problem you’ve observed.
+    apply learnings to your idea, right here throughout the weekend. We’ll provide
+    you with an interactive workbook to help you take action and focus on what matters
+    most.
 - icon: chat-circle
   title: One on One Advising with Startup Coaches
   text: As you apply learnings to your idea, you’ll receive immediate access to advisors
@@ -42,14 +41,14 @@ benefits:
 - icon: support-circle
   title: Individualized Feedback and Support
   text: Good ideas become great in the context of community. Come ready to share insight
-    and feedback on the ideas of others – while receiving the same support and feedback
-    on your own.
+    and feedback with others – while receiving the same support on the development
+    of your idea.
 - icon: meal-circle
   title: Family Style Meal Sharing
   text: Explore your challenges, fears, and dreams together over shared meal times
-    around the table. Each meal will have guided conversation to provide the space
-    for you to process the fears and challenges that come with launching your own
-    idea.
+    around the table. Each meal will include guided conversation times to provide
+    the space for you to process the fears and challenges that come with launching
+    your idea.
 - icon: roadmap-circle
   title: A Take-home Roadmap for Action
   text: You won’t leave with the question, “What now?”. After the weekend, you’ll
@@ -109,6 +108,7 @@ pricing:
     price: "$847*"
   - dates: May 1st - 19th
     price: "$947*"
+layout: custom/startups/idea-weekend
 ---
 
 Idea Weekend is designed to help you begin bringing to life that world-changing idea that you are passionate about. Whether you are a founder with a brand new idea or you are piloting a new product within your existing organization, Pilot Weekend is designed specifically for you.
