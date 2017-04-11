@@ -10,8 +10,8 @@ hero:
     title: Contact this Space
   - url: https://calendly.com/wayfarehq/fullerton-tour/
     title: Schedule a Tour
-  - url: "/workspaces/fullerton/host-an-event"
-    title: Host an Event
+  - url: "/workspaces/fullerton/price-plans"
+    title: View Price Plans
 nav:
   id: fullerton
   site:

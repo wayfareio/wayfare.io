@@ -14,8 +14,8 @@ hero:
     title: Contact this Space
   - url: https://calendly.com/wayfarehq/costa-mesa-tour/
     title: Schedule a Tour
-  - url: "/workspaces/costa-mesa/host-an-event"
-    title: Host an Event
+  - url: "/workspaces/costa-mesa/price-plans"
+    title: View Price Plans
 nav:
   id: costa-mesa
   site:
