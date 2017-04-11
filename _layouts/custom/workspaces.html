@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<div class="row">
+<div class="row mb-2">
   {% for location in site.locations %}
   <div class="col-xs-12 col-sm-6 p-2">
     <div class="tile-inverse-btn">
@@ -23,6 +23,28 @@ layout: page
       </div>
     </div>
   </div>
+  {% endfor %}
+</div>
+
+<div class="row py-4 justify-content-center">
+  {% for location in site.locations %}
+    <div class="col-12 col-md-7">
+      <div class="card card-left-icon mb-4">
+        <div class="d-flex flex-row">
+          <div class="left-icon d-inline-flex">
+            {% include icon.html name="location-circle" classes="icon-xxl" %}
+          </div>
+          <div>
+            <h2 class="card-title display-4 script text-lowercase mb-0">{{ location.title }}</h2>
+            <p class="card-text">
+              {{ location.address.full_address }}<br/>
+              <strong>Community Manager:</strong> {{ location.contact.community-manager }}
+            </p>
+            <a href="https://wayfare.typeform.com/to/vn3h2H" class="btn btn-primary">Send Us a <strong>Message</strong></a>
+          </div>
+        </div>
+      </div>
+    </div>
   {% endfor %}
 </div>
 
