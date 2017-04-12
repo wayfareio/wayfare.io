@@ -26,9 +26,8 @@ layout: page
   {% endfor %}
 </div>
 
-<div class="row mt-3 mb-4 mx-0 px-2">
-  <div class="mapbox-map col-md-8"></div>
-  <div class="map-block col-md-4 text-center">
+<div class="row mt-3 mb-4 mx-0 px-0">
+  <div class="map-block col-md-5 col-lg-4 text-center">
     {% include icon.html name="location-circle" classes="icon-xxl py-4 mt-3" %}
     {% for location in site.locations %}
       <h4 class="h1 script text-lowercase mb-0">{{ location.title }}</h4>
@@ -38,6 +37,7 @@ layout: page
       </p>
     {% endfor %}
   </div>
+  <div class="mapbox-map col-md-7 col-lg-8"></div>
 </div>
 
 <script>
