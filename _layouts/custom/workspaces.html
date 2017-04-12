@@ -32,8 +32,10 @@ layout: page
     {% for location in site.locations %}
       <h4 class="h1 script text-lowercase mb-0">{{ location.title }}</h4>
       <p class="pb-2">
-        {{ location.address.half-address1 }}<br/>
-        {{ location.address.half-address2 }}
+        <a href="{{ location.address.directions }}" target="_blank" class="_no-underline text-gray-dark">
+          {{ location.address.half-address1 }}<br/>
+          {{ location.address.half-address2 }}
+        </a>
       </p>
     {% endfor %}
   </div>

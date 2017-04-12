@@ -8,45 +8,39 @@ hero:
   - url: https://wayfare.typeform.com/to/vn3h2H
     title: Send Us a <strong>Message</strong>
 ---
+<div class="row py-4 justify-content-center">
+  {% for location in site.locations %}
+    <div class="col-12 col-md-6 col-lg-6">
+      <div class="card card-borderless mb-4">
+        <h2 class="card-title display-4 script text-lowercase mb-0">{{ location.title }}</h2>
 
-<div class="col-12 col-md-8 offset-md-2 pb-4">
-  <dl class="row pt-4 pb-2">
-    <dt class="col-4 col-md-3 col-lg-2">PHONE:</dt>
-    <dd class="col-8 col-md-9 col-lg-10">
-      (888) 608-6461<br>
-      <small class="text-muted"><em>*Please note that our phone line is voicemail only. We will return your call shortly!</em></small>
-    </dd>
-    <dt class="col-4 col-md-3 col-lg-2">SMS:</dt>
-    <dd class="col-8 col-md-9 col-lg-10">(888) 608-6461</dd>
-    <dt class="col-4 col-md-3 col-lg-2">ADDRESS:</dt>
-    <dd class="col-8 col-md-9 col-lg-10">
-      270 Baker St E, Ste 200<br>
-      Costa Mesa, CA 92626
-    </dd>
-  </dl>
-
-  <a href="https://wayfare.typeform.com/to/vn3h2H" class="btn btn-lg btn-primary text-uppercase">Send Us a <strong>Message</strong></a>
-<br/>
-UPDATE TO THIS FORMAT
-  <div class="row py-4 justify-content-center">
-    {% for location in site.locations %}
-      <div class="col-12 col-md-9 col-lg-7">
-        <div class="card card-left-icon mb-4">
-          <div class="d-flex flex-row">
-            <div class="left-icon d-inline-flex">
-              {% include icon.html name="location-circle" classes="icon-xxl" %}
-            </div>
-            <div>
-              <h2 class="card-title display-4 script text-lowercase mb-0">{{ location.title }}</h2>
-              <p class="card-text">
-                {{ location.address.full_address }}<br/>
-                <strong>Community Manager:</strong> {{ location.contact.manager-first }} {{ location.contact.manager-last }}
-              </p>
-              <a href="https://wayfare.typeform.com/to/vn3h2H" class="btn btn-primary">Email {{ location.contact.manager-first }}</a>
-            </div>
-          </div>
-        </div>
+        <dl class="row pt-0 pb-2">
+          <dt class="col-4 col-md-3 col-lg-3">Phone:</dt>
+          <dd class="col-8 col-md-9 col-lg-9">
+            {{ location.contact.phone }}*
+          </dd>
+          <dt class="col-4 col-md-3 col-lg-3">SMS:</dt>
+          <dd class="col-8 col-md-9 col-lg-9">{{ location.contact.sms }}</dd>
+          <dt class="col-4 col-md-3 col-lg-3">Address:</dt>
+          <dd class="col-8 col-md-9 col-lg-9">
+            <a href="{{ location.address.directions }}" target="_blank" class="_no-underline text-gray-dark">
+              {{ location.address.half-address1 }}<br>
+              {{ location.address.half-address2 }}
+            </a>
+          </dd>
+          <dt class="col-4 col-md-3 col-lg-3">Hours:</dt>
+          <dd class="col-8 col-md-9 col-lg-9">Monday – Friday, 9am – 5pm</dd>
+          <dt class="col-4 col-md-3 col-lg-3">Contact:</dt>
+          <dd class="col-8 col-md-9 col-lg-9">{{ location.contact.manager-first }} {{ location.contact.manager-last }}, Community Manager<br/>
+            <a href="https://wayfare.typeform.com/to/vn3h2H" class="btn btn-primary col col-md-6 col-lg-4 mt-2">
+              Email {{ location.contact.manager-first }}
+            </a>
+          </dd>
+        </dl>
       </div>
-    {% endfor %}
-  </div>
+    </div>
+  {% endfor %}
 </div>
+<p class="text-muted text-center">
+  <small><em>*Please note our phone line is voicemail only. We will return your call shortly!</em></small>
+</p>

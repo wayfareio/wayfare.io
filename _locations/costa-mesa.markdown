@@ -12,6 +12,7 @@ address:
   half-address1: 270 Baker St E, Ste 200
   half-address2: Costa Mesa, CA 92626
   full_address: 270 Baker St E, Ste 200, Costa Mesa, CA 92626
+  directions: https://goo.gl/maps/6kSeeEXYkdF2
 geography:
   latitude: 33.67888983861642
   longitude: -117.87555456161499
