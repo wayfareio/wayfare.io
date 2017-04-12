@@ -11,6 +11,7 @@ tags:
 - Writer
 company_name: Whilst Magazine
 job_title: Founder, Creative Director, Editor
+bio_image: "/uploads/Devon%20Johnson.jpg"
 is_guest: true
 ---
 
