@@ -83,9 +83,9 @@ costa-mesa:
   - id: whq-space-features
     title: Space Features
     url: /workspaces/costa-mesa/space-features
-  - id: whq-price-plans
-    title: Price Plans
-    url: /workspaces/costa-mesa/price-plans
+  - id: whq-coworking-plans
+    title: Coworking Plans
+    url: /workspaces/costa-mesa/coworking-plans
   - id: whq-drop-ins
     title: Drop-ins
     url: /workspaces/costa-mesa/drop-ins
@@ -116,9 +116,9 @@ fullerton:
   - id: ful-space-features
     title: Space Features
     url: /workspaces/fullerton/space-features
-  - id: ful-price-plans
-    title: Price Plans
-    url: /workspaces/fullerton/price-plans
+  - id: ful-coworking-plans
+    title: Coworking Plans
+    url: /workspaces/fullerton/coworking-plans
   - id: ful-drop-ins
     title: Drop-ins
     url: /workspaces/fullerton/drop-ins

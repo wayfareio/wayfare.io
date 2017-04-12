@@ -1,7 +1,7 @@
 $(function(){
   $("select.plan-selector").select2({
     minimumResultsForSearch: Infinity,
-    placeholder: "Select a price plan"
+    placeholder: "Select a coworking plan"
   }).on('change', function(e) {
     if ($(e.target).val() == '') {
       $(".plan-rates").hide();

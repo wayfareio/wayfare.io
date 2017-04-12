@@ -12,7 +12,7 @@ nav:
 
 ##### What are your open coworking hours?
 
-Both Wayfare locations are open for coworking Monday-Friday from 9am to 5pm. Wayfare members receive exclusive access to extended hours (24/7 for dedicated desk & office members and 7am to 7pm for all other price plans — barring any special events).
+Both Wayfare locations are open for coworking Monday-Friday from 9am to 5pm. Wayfare members receive exclusive access to extended hours (24/7 for dedicated desk & office members and 7am to 7pm for all other coworking plans — barring any special events).
 
 ##### Can I work at Wayfare on the weekends?
 
