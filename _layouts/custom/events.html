@@ -4,7 +4,7 @@ layout: page
 
 <div class="row">
   {% for location in site.locations %}
-  <div class="col-xs-12 col-sm-6 p-2">
+  <div class="col-12 col-sm-6 p-2">
     <div class="tile-inverse-btn">
       <a href="/workspaces/{{ location.slug }}/upcoming-events" class="_no-underline">
         <img src="/assets/images/location-{{ location.slug }}.jpg" alt="{{ location.title }}" class="img-fluid">
@@ -15,10 +15,10 @@ layout: page
       </a>
     </div>
     <div class="row tile-footer">
-      <div class="col col-lg-6 pr-lg-0">
+      <div class="col-12 col-lg-6 pr-lg-0">
         <a href="/workspaces/{{ location.slug }}/upcoming-events" class="d-flex justify-content-around btn btn-primary btn-lg btn-block text-uppercase">Upcoming Events</a>
       </div>
-      <div class="col col-lg-6 pl-lg-0">
+      <div class="col-12 col-lg-6 pl-lg-0">
         <a href="/workspaces/{{ location.slug }}/host-an-event" class="d-flex justify-content-around btn btn-primary btn-lg btn-block text-uppercase">Host An Event</a>
       </div>
     </div>
