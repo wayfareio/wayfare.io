@@ -14,8 +14,8 @@ hero:
     title: Contact this Space
   - url: https://calendly.com/wayfarehq/costa-mesa-tour/
     title: Schedule a Tour
-  - url: "/workspaces/costa-mesa/host-an-event"
-    title: Host an Event
+  - url: "/workspaces/costa-mesa/coworking-plans"
+    title: View Coworking Plans
 nav:
   id: costa-mesa
   site:
@@ -32,6 +32,7 @@ Wayfare Costa Mesa is a 6,300 sq/ft industrial chic warehouse located in Costa M
 
 Open, airy, and golden-hued, this design-savvy industrial space is home to startups, churches, non-profits, software engineers, real estate agents and everyone in between. It is also home to Neat Coffee, Costa Mesa's favorite local coffee shop. One step into this space and you'll see why it is such a popular hotspot for coffee-lovers, entrepreneurs, and adventurers alike.
 
+<!-- TODO: icons for each feature, maybe
 ## Space Overview
 
 * Private Meeting Rooms
@@ -45,7 +46,7 @@ Open, airy, and golden-hued, this design-savvy industrial space is home to start
 * Kitchen
 * Telephone Booth
 * Lockers
-* WiFi/Printing/Scanning
+* WiFi/Printing/Scanning -->
 
 Want to visit this space? Come by for a tour and a coffee!
 

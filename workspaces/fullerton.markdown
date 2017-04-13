@@ -10,8 +10,8 @@ hero:
     title: Contact this Space
   - url: https://calendly.com/wayfarehq/fullerton-tour/
     title: Schedule a Tour
-  - url: "/workspaces/fullerton/host-an-event"
-    title: Host an Event
+  - url: "/workspaces/fullerton/coworking-plans"
+    title: View Coworking Plans
 nav:
   id: fullerton
   site:
@@ -28,6 +28,7 @@ Located in the heart of downtown, Wayfare's Fullerton space is located on the gr
 
 Already an architectural find in the area, the build-out and furnishing of the space will focus on combining existing architectural elements (mouldings, railings, tile work, etc) with a fresh California-cool vibe (high contrast neutral color palette, light, warm wood tones). Lighting, soft seating and accent pieces hint at the opulence of the roaring 20s while feeling perfectly now and effortless. Featured local artwork and a balcony lined with indoor plants and trees overlooking the main space create energy and inspiration, and work to ground the grandness of the space allowing its allure to feel accessible.
 
+<!-- TODO: icons for each feature, maybe
 ## Space Overview
 
 * Private Conference Room
@@ -38,7 +39,7 @@ Already an architectural find in the area, the build-out and furnishing of the s
 * Coffee Bar
 * Kitchen
 * Lockers
-* WiFi/Printing/Scanning
+* WiFi/Printing/Scanning -->
 
 
 Want to visit this space? Come by for a tour and a coffee!

@@ -10,9 +10,9 @@ layout: page
   <div class="row">
     {% for benefit in page.benefits %}
       <div class="col-sm-6">
-        <div class="card card-benefit mb-4">
+        <div class="card card-left-icon mb-4">
           <div class="d-flex flex-row">
-            <div class="benefit-icon d-inline-flex">
+            <div class="left-icon d-inline-flex">
               {% include icon.html name=benefit.icon classes="icon-xxl" %}
             </div>
             <div>
@@ -35,7 +35,7 @@ layout: page
 </div>
 
 <div class="row my-4" id="idea-guides">
-  <div class="col-12 pb-3">
+  <div class="col-12 pb-1">
     <h2 class="underline">Your Guides for the Weekend</h2>
       <div class="row">
         <div class="col-12">
@@ -54,6 +54,9 @@ layout: page
         </div>
       </div>
   </div>
+  <div class="col-12 text-center mt-1 pb-2">
+    <h3 class="h1 script">{{ page.guides-text }}</h3>
+  </div>
 </div>
 
 <div class="row mt-4" id="idea-schedule">
@@ -61,8 +64,8 @@ layout: page
     <h2 class="underline">Schedule</h2>
       <dl class="row mt-4">
         <dt class="col-sm-4">
-          <h3 class="text-uppercase">Day One</h3>
-          <h4>Friday, May 19<br>6pm&mdash;9pm</h4>
+          <h3 class="h1 text-lowercase script mb-0">Day One</h3>
+          <h4>Friday, May 19<br>6:30pm&mdash;9pm</h4>
         </dt>
         <dd class="col-sm-8">
           <p><strong>Dinner:</strong> Getting to know each other</p>
@@ -72,8 +75,8 @@ layout: page
       </dl>
       <dl class="row mt-4">
         <dt class="col-sm-4">
-          <h3 class="text-uppercase">Day Two</h3>
-          <h4>Saturday, May 20<br>9am&mdash;8pm</h4>
+          <h3 class="h1 text-lowercase script mb-0">Day Two</h3>
+          <h4>Saturday, May 20<br>9am&mdash;7pm</h4>
 
         </dt>
         <dd class="col-sm-8">
@@ -91,8 +94,8 @@ layout: page
       </dl>
       <dl class="row mt-4">
         <dt class="col-sm-4">
-          <h3 class="text-uppercase">Day Three</h3>
-          <h4>Sunday, May 21<br>12pm&mdash;5pm</h4>
+          <h3 class="h1 text-lowercase script mb-0">Day Three</h3>
+          <h4>Sunday, May 21<br>12pm&mdash;4pm</h4>
         </dt>
         <dd class="col-sm-8">
           <p><strong>Lunch Together</strong></p>
@@ -157,7 +160,7 @@ layout: page
       {{ page.tickets.text }}
     </a>
   </div>
-  <div class="col-12 col-lg-8 offset-lg-2 text-center mt-2">
+  <div class="col-12 text-center mt-2">
     <h3 class="h1 script">Working on your idea with others?</h3>
     <p class="lead">Sign up for Idea Weekend and receive a 50% discount for each additional team member!<p>
   </div>

@@ -12,24 +12,34 @@ banner:
   image: "/assets/images/topo-banner-bg.jpg"
   title: Costa Mesa
   subtitle: 270 Baker St E, Ste 200, Costa Mesa, CA
+button-url: https://wayfare.typeform.com/to/vn3h2H
 redirect_from: "/locations/costa-mesa/contact"
 ---
 
 <h2>Contact Us</h2>
 
 <dl class="row">
-  <dt class="col-4 col-md-3 col-lg-2">PHONE:</dt>
-  <dd class="col-8 col-md-9 col-lg-10">
-    (888) 608-6461<br>
-    <small class="text-muted"><em>*Please note that our phone line is voicemail only. We will return your call shortly!</em></small>
-  </dd>
-  <dt class="col-4 col-md-3 col-lg-2">SMS:</dt>
-  <dd class="col-8 col-md-9 col-lg-10">(888) 608-6461</dd>
-  <dt class="col-4 col-md-3 col-lg-2">ADDRESS:</dt>
-  <dd class="col-8 col-md-9 col-lg-10">
-    270 Baker St E, Ste 200<br>
-    Costa Mesa, CA 92626
-  </dd>
+  {% for location in site.locations limit:1 %}
+    <dt class="col-4 col-md-3 col-lg-2">PHONE:</dt>
+    <dd class="col-8 col-md-9 col-lg-10">
+      {{ location.contact.phone }}<br>
+      <small class="text-muted"><em>*Please note our phone line is voicemail only. We will return your call shortly!</em></small>
+    </dd>
+    <dt class="col-4 col-md-3 col-lg-2">SMS:</dt>
+    <dd class="col-8 col-md-9 col-lg-10">{{ location.contact.sms }}</dd>
+    <dt class="col-4 col-md-3 col-lg-2">ADDRESS:</dt>
+    <dd class="col-8 col-md-9 col-lg-10">
+      <a href="{{ location.address.directions }}" target="_blank" class="_no-underline text-gray-dark">
+        {{ location.address.half-address1 }}<br>
+        {{ location.address.half-address2 }}
+      </a>
+    </dd>
+    <dt class="col-4 col-md-3 col-lg-2">HOURS:</dt>
+    <dd class="col-8 col-md-9 col-lg-10">Monday – Friday, 9am – 5pm</dd>
+    <dt class="col-4 col-md-3 col-lg-2">CONTACT:</dt>
+    <dd class="col-8 col-md-9 col-lg-10">{{ location.contact.manager-first }} {{ location.contact.manager-last }}, Community Manager
+    </dd>
+  {% endfor %}
 </dl>
 
-<a href="https://wayfare.typeform.com/to/vn3h2H" class="btn btn-lg btn-primary">Send Us a Message</a>
+<a href="{{ page.button-url }}" class="btn btn-lg btn-primary">Send Us a Message</a>
