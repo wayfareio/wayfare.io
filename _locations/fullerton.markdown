@@ -1,6 +1,5 @@
 ---
 title: Fullerton
-slug: fullerton
 status: open
 address:
   street1: 110 E Wilshire Ave
@@ -26,3 +25,4 @@ contact:
 gather:
   id: wv3ebo4n
 ---
+

@@ -84,13 +84,13 @@ guides:
   image: "/assets/images/brandon-arbini.jpg"
   title: Cofounder of Wayfare
   company: Startup Coach
-  text: 'Brandon is a software engineer by trade who thrives on developing systemized
+  text: Brandon is a software engineer by trade who thrives on developing systemized
     solutions to meet specific needs. As a founding partner or early stage employee
     in over 10 different startups and a board member of 2 non-profits,  Brandon has
     intricate knowledge of the startup process in both the for-profit and non-profit
     sectors. As cofounder of Wayfare, Brandon is currently immersed in a world he
-    loves…helping others take purposeful action on their meaningful ideas.'
-guides-text: "More guides/speakers coming soon!"
+    loves…helping others take purposeful action on their meaningful ideas.
+guides-text: More guides/speakers coming soon!
 testimonials:
 - first_name: Keturah
   last_name: Kennedy

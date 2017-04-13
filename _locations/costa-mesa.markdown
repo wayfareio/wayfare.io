@@ -1,6 +1,5 @@
 ---
 title: Costa Mesa
-slug: costa-mesa
 status: open
 address:
   street1: 270 Baker St E
@@ -26,3 +25,4 @@ contact:
 gather:
   id: d59ewk0s
 ---
+
