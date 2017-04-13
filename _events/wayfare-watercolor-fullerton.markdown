@@ -1,7 +1,6 @@
 ---
 title: Wayfare Watercolor Fullerton
 date: 2017-04-12 23:39:00 Z
-published: false
 headline: Wayfare Watercolor Fullerton
 images:
   splash_image: "/uploads/watercolorwayfarefull.png"
