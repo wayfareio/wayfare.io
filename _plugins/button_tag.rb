@@ -7,7 +7,7 @@ module Jekyll
     end
 
     def render(context)
-      %{<a href="#{@params['url']}" class="btn btn-#{@params['style'] || 'primary'}#{@params['size'] ? ' btn-'+@params['size'] : ''}#{@params['class'] ? ' '+@params['class'] : ''}">#{@params['text']}</a>}
+      %{<a href="#{@params['url']}" class="btn btn-#{@params['style'] || 'primary'}#{@params['size'] ? ' btn-'+@params['size'] : ''}#{@params['class'] ? ' '+@params['class'] : ''}" target="#{@params['target'] ? '_'+@params['target'] : '_self'}">#{@params['text']}</a>}
     end
 
   protected

@@ -43,4 +43,4 @@ Already an architectural find in the area, the build-out and furnishing of the s
 
 Want to visit this space? Come by for a tour and a coffee!
 
-{% button url:"https://calendly.com/wayfarehq/fullerton-tour/" text:"Schedule a Tour" %}
+{% button url:"https://calendly.com/wayfarehq/fullerton-tour/" text:"Schedule a Tour" target:"blank" %}
