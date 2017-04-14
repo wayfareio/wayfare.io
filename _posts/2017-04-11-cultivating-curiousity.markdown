@@ -2,9 +2,11 @@
 title: Cultivating Curiousity
 date: 2017-04-11 16:31:00 Z
 author: Erin Wilson
+image: "/uploads/Cultiating%20Curiousity.jpg"
 ---
 
-As a college student, most of my learning currently takes place inside a classroom or in a textbook assigned by my professors. I'm constantly pushed to improve my skills and strengthen my academic voice as I write papers and finish major projects. Throughout college, one of the most valuable things I have learned is to always seek truth and to raise questions, no matter how big or small they might be.
+As a college student, most of my learning currently takes place inside a classroom or in a textbook assigned by my professors. I'm constantly pushed to improve my skills and strengthen my academic voice as I write papers and finish major projects. Throughout college, one of the most valuable things I have learned is to always seek truth and to raise questions, no matter how big or small they might be. 
+<!-- more -->
 
 Once college is over, I am sure it's easy to believe that the part of your life devoted to learning is over. Upon finishing a degree, learning could quickly become less of a priority in the face of job and family responsibilities. While the temptation to mold life into an anticipated routine is overwhelmingly strong, the choice to instead challenge yourself by continually pursuing curiosity throughout your adult life can yield incredible results and give you an excitement for life that is unmatched. I've watched others do this, and I strive to do the same. 
 
