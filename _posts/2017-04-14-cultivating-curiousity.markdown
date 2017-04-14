@@ -1,5 +1,5 @@
 ---
-title: 'Cultivating Curiousity: 6 Ways to be a Lifelong Learner'
+title: 'Cultivating Curiosity: 6 Ways to be a Lifelong Learner'
 date: 2017-04-14 13:20:00 Z
 author: Erin Wilson
 image: "/uploads/Cultiating%20Curiousity.jpg"
