@@ -1,5 +1,5 @@
 ---
-title: Cultivating Curiousity
+title: 6 Ways to Cultivate Curiousity in Everyday Life
 date: 2017-04-14 13:20:00 Z
 author: Erin Wilson
 image: "/uploads/Cultiating%20Curiousity.jpg"
