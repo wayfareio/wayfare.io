@@ -14,27 +14,27 @@ As I've started to think about this process of what it means to cultivate curios
  
 While cultivating curiosity looks different for each person, there are a few different tactics that I've found helpful which can make learning more attainable and realistic. 
 
-* **Listen to a story about curiosity!**
+### **Listen to a story about curiosity!**
  
 Check out this episode from the podcast ["Sounds Good"](https://soundcloud.com/soundsgoodpodcast/jedidiah-jenkins-the-adventure-of-curiosity) where Branden Harvey talks with Jeremiah Jenkins on The Adventure of Curiosity.  
 
-* **Start reading** 
+### **Start Reading** 
 
 For me, this takes the form of New York Times articles (the opinion section is my favorite) and every book I can possibly acquire. It’s exciting to tackle another chapter and feel the satisfaction of finally closing a book you’ve worked hard to finish reading.
 
-* **At the end of every day, write down a few new things you have learned.**
+### **At the end of every day, write down a few new things you have learned!**
 
 If you haven't learned something new, try challenging yourself the next day! Maybe it's as simple as googling why almond milk is better for your morning coffee than half n' half or recalling something new that you learned about a person you know. Even small changes to your routine and to your perspective can help broaden the way you see the world.
 
-* **Travel!** 
+### **Travel!** 
 
 Taking opportunities (however small or limited) to have a change of scenery can greatly expand one's perspective on the world by teaching you how to communicate with people who are different from you and by physically showing you a very different landscape and way of life. Perhaps this means you can explore a new town close to your home, or it means you decide to take the leap of traveling to Japan like you've always dreamed. Travel is also important because it's an experience that begs you to repeat it. Once you've started the journey of exploring new and unique places, you'll never want to stop. This is a great way to fuel curiosity.
 
-* **Always ask questions.** 
+### **Always Ask Questions** 
 
 One way to always keep learning is to ask people for their advice, for their stories, for their struggles. Continuing to ask questions opens up a world of possibilities and helps you learn new ideas every day.
 
-* **Take risks.** 
+### **Take Risks** 
 
 There's obviously a great importance in approaching life with wisdom and a good deal of consideration, but stepping outside what is normal, comfortable, and familiar often leads to the most life-changing results. [Maybe this risk is to start exploring a new idea you have for creating a business!](https://wayfare.io/startups/idea-weekend/) Maybe the risk is to apologize to that friend and start fresh. Taking risks is hard, but it continually stimulates your brain and pushes you to be a better person by strengthening your goals and your work ethic.
 
