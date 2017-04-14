@@ -1,5 +1,5 @@
 ---
-title: 6 Ways to Cultivate Curiousity in Everyday Life
+title: 'Cultivating Curiousity: 6 Ways to be a Lifelong Learner'
 date: 2017-04-14 13:20:00 Z
 author: Erin Wilson
 image: "/uploads/Cultiating%20Curiousity.jpg"
@@ -20,7 +20,7 @@ Check out this episode from the podcast ["Sounds Good"](https://soundcloud.com/s
 **Start reading** 
 For me, this takes the form of New York Times articles (the opinion section is my favorite) and every book I can possibly acquire. It’s exciting to tackle another chapter and feel the satisfaction of finally closing a book you’ve worked hard to finish reading.
 
-**At the end of every day, write down a few new things you learned.** 
+**At the end of every day, write down a few new things you have learned.** 
 If you haven't learned something new, try challenging yourself the next day! Maybe it's as simple as googling why almond milk is better for your morning coffee than half n' half or recalling something new that you learned about a person you know. Even small changes to your routine and to your perspective can help broaden the way you see the world.
 
 **Travel!** 
