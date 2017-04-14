@@ -1,6 +1,7 @@
 ---
 title: Cultivating Curiousity
 date: 2017-04-11 16:31:00 Z
+author: Erin Wilson
 ---
 
 As a college student, most of my learning currently takes place inside a classroom or in a textbook assigned by my professors. I'm constantly pushed to improve my skills and strengthen my academic voice as I write papers and finish major projects. Throughout college, one of the most valuable things I have learned is to always seek truth and to raise questions, no matter how big or small they might be.
@@ -27,6 +28,6 @@ Taking opportunities (however small or limited) to have a change of scenery can 
 One way to always keep learning is to ask people for their advice, for their stories, for their struggles. Continuing to ask questions opens up a world of possibilities and helps you learn new ideas every day.
 
 **Take risks.** 
-There's obviously a great importance in approaching life with wisdom and a good deal of consideration, but stepping outside what is normal, comfortable, and familiar often leads to the most life-changing results. Maybe this risk is to start a new business model you've created full of big ideas! Maybe the risk is to apologize to that friend and start fresh. Taking risks is hard, but it continually stimulates your brain and pushes you to be a better person by strengthening your goals and your work ethic.
+There's obviously a great importance in approaching life with wisdom and a good deal of consideration, but stepping outside what is normal, comfortable, and familiar often leads to the most life-changing results. [Maybe this risk is to start explore a new business model you've created full of big ideas!](https://wayfare.io/startups/idea-weekend/) Maybe the risk is to apologize to that friend and start fresh. Taking risks is hard, but it continually stimulates your brain and pushes you to be a better person by strengthening your goals and your work ethic.
 
 While cultivating curiosity can be a challenge at times, it is worth all the effort to engage the world and continue growing as an individual. The commitment to learning is one that brings surprises with every turn. Knowledge is an empowering pursuit and helps bring big ideas to life. Don’t forget to dream big dreams and turn them into your next plans! That is what curiosity is really all about.
