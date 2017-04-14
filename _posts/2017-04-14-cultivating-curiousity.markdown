@@ -1,6 +1,6 @@
 ---
 title: Cultivating Curiousity
-date: 2017-04-11 13:20:00 Z
+date: 2017-04-14 13:20:00 Z
 author: Erin Wilson
 image: "/uploads/Cultiating%20Curiousity.jpg"
 ---
