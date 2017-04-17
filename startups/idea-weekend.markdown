@@ -114,6 +114,4 @@ pricing:
 layout: custom/startups/idea-weekend
 ---
 
-Idea Weekend is designed to help you begin bringing to life that world-changing idea that you are passionate about. Whether you have a new idea or you want to launch a new product or service within your existing organization, Idea Weekend is designed specifically for you.
-
 Idea Weekend helps you kick-start your idea and create a plan for action alongside a other dreamers, doers, and adventurers who are on the same journey. Idea Weekend combines insight from startup experts with hands-on application in a workshop setting. You will leave with a roadmap of steps so you can start taking purposeful action on your meaningful idea and create a minimum viable product or service.
