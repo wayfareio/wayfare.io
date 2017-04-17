@@ -32,9 +32,9 @@ As you build your comprehensive business model, you will work on identifying and
 * **Wayfare membership and workspace access**: As a member of Wayfare's startup incubator, you will have access to put what you're learning into action by working alongside a like-minded community at any of our productive, comfortable and beautiful designed workspaces. You will also receive access to free member events like our monthly learning forums!
 
 **Price**: $1,197/month for five months (Prepayment discounts available)  
-**Program Dates**: Batch 4 runs Feb–June, 2017 on Tuesdays from 10-7pm (plus Pitch Nights)
+**Program Dates**: Batch 5 starts in August. Tuesdays 9am-5pm (plus Demo Night and Pitch Night)
 
-Batch sizes are limited. Apply today!
+We'd love to hear about your idea and have you apply for Batch 5!
 
 {% button text:"Apply Now" url:"https://wayfare.typeform.com/to/gRbyfY" %}
 
