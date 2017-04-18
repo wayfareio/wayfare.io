@@ -22,5 +22,6 @@ In this beginner friendly Modern Calligraphy class, you will learn the basic str
 After this class, you’ll be able to: 
 Use a nib and pen holder for pointed pen calligraphy. 
 Learn to write a lowercase and uppercase alphabet using the pointed pen technique. 
-Understand flourishes and start developing your own calligraphy style. 
+Understand flourishes and start developing your own calligraphy style.
+ 
 Take home the tools you need to continue practicing your new skill. 
