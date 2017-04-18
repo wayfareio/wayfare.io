@@ -7,6 +7,7 @@ tags:
 - calligraphy
 - ModernCalligraphy
 - Handlettering
+headline: Modern Calligraphy with Pirouette Paper
 images:
   splash_image: "/uploads/Piroouette%20Paper%20Modern%20Calligraphy%20copy.jpeg"
   thumb_image: "/uploads/Piroouette%20Paper%20Modern%20Calligraphy%20copy.jpeg"
