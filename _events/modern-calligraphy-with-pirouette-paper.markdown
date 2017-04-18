@@ -1,6 +1,6 @@
 ---
 title: Modern Calligraphy with Pirouette Paper
-date: 2017-04-18 18:10:00 Z
+date: 2017-04-18 13:00:00 Z
 categories:
 - Workshops
 tags:
