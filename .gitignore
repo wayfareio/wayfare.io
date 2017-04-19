@@ -3,5 +3,4 @@
 .sass-cache
 config.ru
 tmp
-_assets/components
 _site
