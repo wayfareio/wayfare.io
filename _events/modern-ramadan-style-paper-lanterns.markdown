@@ -1,7 +1,7 @@
 ---
 title: Modern Ramadan Style Paper Lanterns
 date: 2017-04-19 19:56:00 Z
-headline: 'Paper '
+headline: Modern Ramadan Style Paper Lantern Workshop by Maece Seirafi
 images:
   splash_image: "/uploads/ramadanworkshop-19efde.jpg"
   thumb_image: "/uploads/ramadanworkshop-19efde.jpg"
