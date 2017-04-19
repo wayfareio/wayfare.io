@@ -9,11 +9,12 @@ nav:
     id: startups
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 ### Idea Weekend
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Idea Weekend helps those that are looking to kick-start their idea. Through the weekend, they will create a plan for action alongside a other dreamers, doers, and adventurers who are on the same journey. Idea Weekend combines insight from startup experts with hands-on application in a workshop setting. As a result, the participants will leave with a roadmap of steps to take to start taking purposeful action on their meaningful ideas to develop and create a minimum viable product or service.
+
+**STAGE**
+From Idea to Minimum Viable Product (MVP)
 
 {% button url:"https://wayfare.activehosted.com/f/24" text:"Refer Someone" %}
 
@@ -21,7 +22,10 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ### Pilot Program
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+An online monthly subscription program that provides guidance and support to begin taking purposeful action on meaningful ideas for people who have observed a need, have an idea to solve it, and want to develop a plan for action. 
+
+**STAGE**
+From Idea to Minimum Viable Product (MVP)
 
 {% button url:"https://wayfare.activehosted.com/f/29" text:"Refer Someone" %}
 
@@ -29,7 +33,10 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ### Launch Program
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A weekly in-person program to apply key startup principles and build a comprehensive business model for a product, service, or program with a common good advancement purpose. 
+
+**STAGE**
+From Minimum Viable Product (MVP) to Comprehensive Business Model
 
 {% button url:"https://wayfare.activehosted.com/f/15" text:"Refer Someone" %}
 
@@ -37,7 +44,10 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ### Growth Program
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A cohort with other founders that provides support and direction to navigate the practical and emotional complexities of growing, scaling, and hiring as expansion  of the organization takes place.
+
+**STAGE**
+From Comprehensive Business Model to Minimum Viable Organization (MVO)
 
 {% button url:"https://wayfare.activehosted.com/f/30" text:"Refer Someone" %}
 
@@ -45,6 +55,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ### Impact Program
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A cohort based program designed to support, challenge, and sustain top missional leaders to multiply their impact through integrated personal leadership and organizational development.
+
+**STAGE**
+From MVO to Sustained and Multiplied Impact
 
 {% button url:"https://wayfare.activehosted.com/f/31" text:"Refer Someone" %}
