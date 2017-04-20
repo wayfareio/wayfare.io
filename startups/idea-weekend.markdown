@@ -94,6 +94,21 @@ guides:
     loves…helping others take purposeful action on their meaningful ideas.
 guides-text: More guides/speakers coming soon!
 testimonials:
+- first_name: Devon
+  last_name: Johnson
+  image: "/uploads/Devon%20Johnson.jpg"
+  title: Founder, Creative Director, Editor-in-Chief
+  company: Whilst Magazine
+  text: I knew I wanted to take [Whilst](http://whilstmagazine.com) farther, to really
+    dive into what the magazine stood for and how I could create a career out of this
+    growing passion. I frequently found myself on the Wayfare website, and it was
+    during Idea Weekend that I learned how to articulate what Whilst really is and
+    how it could change lives. That’s when I knew I wanted to be a part of a community
+    that exists to change the world for good and create beauty in whatever life stage
+    we are journeying through. The next step, then, was to continue to press into
+    what my vision was for Whilst—how far could this concept of being present in the
+    midst really go? Through sitting down and talking it out with the Wayfare coaches
+    and other entrepreneurs, I found my dreams were bigger than I had imagined.
 - first_name: Keturah
   last_name: Kennedy
   image: "/assets/images/keturah-kennedy.jpg"
