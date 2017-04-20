@@ -129,4 +129,14 @@ pricing:
 layout: custom/startups/idea-weekend
 ---
 
-Idea Weekend helps you kick-start your idea and create a plan for action alongside a other dreamers, doers, and adventurers who are on the same journey. Idea Weekend combines insight from startup experts with hands-on application in a workshop setting. You will leave with a roadmap of steps so you can start taking purposeful action on your meaningful idea and create a minimum viable product or service.
+The top two things we hear from people who want to take action on a new idea are:
+
+1. "I don't know where to start."
+2. "I don't know the next steps to take." 
+
+We've found it's all too common to start five steps ahead of where you should, spend countless hours googling conflicting advice, or not start at all. And that's a shame.
+
+So we created Idea Weekend -- an intensive, hands-on community experience that equips you to take the first steps on your idea. This unique weekend gathering includes informative talks and feedback from startup guides, hands-on application of key learnings, personalized coaching, and support from others just like you. We'll guide you in developing four key statements that will serve as your roadmap as you move forward in taking action on your idea.
+
+If you have an idea, we'd love to support you – so we're giving away a free spot! 
+[Tell us about your idea](https://wayfare.io/startups/idea-weekend-contest/) for a chance to receive a free ticket to Idea Weekend, Friday May 19 – Sunday May 21st.
