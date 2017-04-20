@@ -98,7 +98,7 @@ testimonials:
 - first_name: Devon
   last_name: Johnson
   image: "/uploads/Devon%20Johnson.jpg"
-  title: Founder, Creative Director, Editor-in-Chief
+  title: Founder, Creative Director, Editor
   company: Whilst Magazine
   text: I knew I wanted to take Whilst farther, to really dive into what the magazine
     stood for and how I could create a career out of this growing passion. I frequently
