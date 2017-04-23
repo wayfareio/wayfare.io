@@ -135,7 +135,7 @@ The top two things we hear from people who want to take action on a new idea are
 1. "I don't know where to start."
 2. "I don't know the next steps to take." 
 
-We've found it's all too common to start five steps ahead of where you should, spend countless hours googling conflicting advice, or not start at all. So we've developed with a solution to help you take *purposeful* action on the *right* things. **Idea Weekend is an intensive hands-on community experience that equips you to take the first steps on idea all in one weekend.** This unique gathering includes informative talks and feedback from startup guides, hands-on application of key learnings, personalized coaching, and support from others just like you. Plus there will be lots of great food, conversations, and coffee. 
+We've found it's all too common to start five steps ahead of where you should, spend countless hours googling conflicting advice, or not start at all. So we've developed with a solution to help you take *purposeful* action on the *right* things. **Idea Weekend is an intensive hands-on community experience that equips you to take intentional action on your idea.** This unique gathering includes informative talks and feedback from startup guides, hands-on application of key learnings, personalized coaching, and support from others just like you. Plus there will be lots of great food, conversations, and coffee. 
 
 If you have an idea, we'd love to support you – so we're giving away a free spot! 
 [Tell us about your idea](https://wayfare.io/startups/idea-weekend-contest/) for a chance to receive a free ticket.
