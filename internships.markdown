@@ -1,6 +1,6 @@
 ---
 title: Internships
-position: 6
+position: 7
 redirect_from: "/interns"
 hero_image: "/assets/images/wayfare-interns.jpg"
 layout: page/hero-image
