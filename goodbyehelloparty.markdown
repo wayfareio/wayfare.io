@@ -1,14 +1,16 @@
 ---
 title: 'Wayfare: Goodbye Hello Party'
+position: 11
+page_title: Goodbye Hello Party
 layout: custom/goodbye-hello-party
 hero:
   image: "/assets/images/banner-goodbye-hello-party.png"
   title: Goodbye Wayfare
   subtitle: Hello New Name
 locations:
-- image: "assets/images/location-costa-mesa-party.jpg"
+- image: "/assets/images/location-costa-mesa-party.jpg"
   url: "https://wayfare.ticketleap.com/wayfare-goodbye-hello-party-costa-mesa-location/"
-- image: "assets/images/location-fullerton-party.jpg"
+- image: "/assets/images/location-fullerton-party.jpg"
   url: "https://wayfare.ticketleap.com/wayfare-goodbye-hello-party-fullerton/"
 ---
 
