@@ -8,9 +8,11 @@ hero:
   title: Goodbye Wayfare
   subtitle: Hello New Name
 locations:
-- image: "/assets/images/location-costa-mesa-party.jpg"
+- location: "Costa Mesa"
+  image: "/assets/images/location-costa-mesa-party.jpg"
   url: "https://wayfare.ticketleap.com/wayfare-goodbye-hello-party-costa-mesa-location/"
-- image: "/assets/images/location-fullerton-party.jpg"
+- location: "Fullerton"
+  image: "/assets/images/location-fullerton-party.jpg"
   url: "https://wayfare.ticketleap.com/wayfare-goodbye-hello-party-fullerton/"
 ---
 

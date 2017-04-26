@@ -28,9 +28,12 @@ layout: site
   <div class="row justify-content-center my-4 px-0">
     {% for location in page.locations %}
       <div class="col-12 col-sm-6 col-md-5 py-2">
-          <a href="{{ location.url }}" class="_no-underline">
-            <img src="{{ location.image }}" data-rjs="2" class="img-fluid">
-          </a>
+        <a href="{{ location.url }}" class="_no-underline">
+          <img src="{{ location.image }}" data-rjs="2" class="img-fluid pb-3">
+          <div class="btn btn-primary btn-block col-sm-8 offset-sm-2 text-uppercase">
+            RSVP to <strong>{{ location.location }}</strong>
+          </div>
+        </a>
       </div>
     {% endfor %}
   </div>
