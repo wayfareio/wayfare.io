@@ -20,4 +20,18 @@ layout: site
       </div>
     </div>
   </div>
+  <div class="row playfair-display lead justify-content-center">
+    <div class="col-12 col-md-8 text-center">
+      {{ content }}
+    </div>
+  </div>
+  <div class="row justify-content-center">
+    <div class="col-12 col-sm-5 col-md-4">
+      {% for location in page.locations %}
+        <a href="{{ location.url }}" class="_no-underline">
+          <img src="{{ location.image }}" data-rjs="2">
+        </a>
+      {% endfor %}
+    </div>
+  </div>
 </div>
