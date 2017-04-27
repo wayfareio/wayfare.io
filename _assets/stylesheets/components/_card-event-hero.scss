@@ -3,38 +3,42 @@
     > .card-block {
       background-color: transparent; padding: .25rem;
       > .card-title, .card-subtitle { color: #231F20; font-family: 'Playfair Display'; font-weight: 600; letter-spacing: 3px; text-transform: none; }
-      .card-subtitle {
-        font-weight: 600; font-family: 'League Spartan'; text-transform: uppercase; letter-spacing: 4px; display: inline;
-      }
+      .card-subtitle { font-weight: 600; font-family: 'League Spartan'; text-transform: uppercase; letter-spacing: 4px; display: inline; }
+      .card-date { font-family: 'Playfair Display'; color: #231F20; }
       div.shout-marks-left  { content: url(../images/shout-marks-left.svg); display: inline; height: 80px; padding-right: 20px; }
       div.shout-marks-right { content: url(../images/shout-marks-right.svg); display: inline; height: 80px; padding-left: 20px; }
       @include media-breakpoint-only(xl) {
-        .card-title { font-size: 5rem; }
+        .card-title { font-size: 4.5rem; }
         .card-subtitle { font-size: 1.25rem; line-height: 3rem; }
+        .card-date { margin-top: 15px; }
       }
       @include media-breakpoint-only(lg) {
-        .card-title { font-size: 4.5rem; }
+        .card-title { font-size: 4rem; }
         .card-subtitle { font-size: 1rem; }
+        .card-date { margin-top: 12px; }
         div.shout-marks-left { height: 60px; }
         div.shout-marks-right { height: 60px; }
       }
       @include media-breakpoint-only(md) {
-        .card-title { font-size: 4rem; }
+        .card-title { font-size: 3.5rem; margin-bottom: 6px; }
         .card-subtitle { font-size: .875rem; }
-        div.shout-marks-left { height: 50px; }
-        div.shout-marks-right { height: 50px; }
+        .card-date { font-size: 1.5rem; margin-top: 15px; }
+        div.shout-marks-left { height: 50px; padding-right: 12px; }
+        div.shout-marks-right { height: 50px; padding-left: 12px; }
       }
       @include media-breakpoint-only(sm) {
         min-width: 80%;
-        .card-title { font-size: 3rem; }
+        .card-title { font-size: 2.6rem; margin-bottom: 0; }
         .card-subtitle { font-size: .75rem; }
-        div.shout-marks-left { height: 50px; }
-        div.shout-marks-right { height: 50px; }
+        .card-date { font-size: 1.2rem; margin-top: 10px; }
+        div.shout-marks-left { height: 46px; padding-right: 12px; }
+        div.shout-marks-right { height: 46px; padding-left: 12px; }
       }
       @include media-breakpoint-only(xs) {
         min-width: 80%;
-        .card-title { font-size: 2rem; margin-bottom: 0; }
+        .card-title { font-size: 1.8rem; margin-bottom: 0; }
         .card-subtitle { font-size: .6rem; }
+        .card-date { font-size: 1.2rem; margin-top: 8px; }
         div.shout-marks-left { height: 40px; padding-right: 10px; }
         div.shout-marks-right { height: 40px; padding-left: 10px; }
       }
