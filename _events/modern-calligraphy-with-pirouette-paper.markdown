@@ -16,6 +16,7 @@ dates:
   end_date: 2017-05-20 12:00:00 Z
 urls:
   ticket_url: http://www.pirouettepaper.com/workshops-2/may-20-modern-calligraphy
+location: Costa Mesa
 ---
 
 In this beginner friendly Modern Calligraphy class, you will learn the basic strokes and shapes for using a nib dipped in ink and get one-on-one instruction for proper technique and practice.
