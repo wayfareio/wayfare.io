@@ -31,5 +31,8 @@
     "retinajs": "^2.1.0",
     "fotorama": "^4.6.4",
     "smooch": "^3.13.1"
+  },
+  "resolutions": {
+    "lodash": "^4.15.0"
   }
 }
