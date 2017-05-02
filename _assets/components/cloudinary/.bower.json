@@ -1,6 +1,6 @@
 {
   "name": "cloudinary",
-  "version": "2.1.9",
+  "version": "2.3.0",
   "title": "Cloudinary jQuery Plugin",
   "authors": [
     {
@@ -65,11 +65,11 @@
     "js/jquery.iframe-transport.js",
     "js/jquery.ui.widget.js"
   ],
-  "_release": "2.1.9",
+  "_release": "2.3.0",
   "_resolution": {
     "type": "version",
-    "tag": "2.1.9",
-    "commit": "85f6d98576fe1efa793e66c018bcdb4ed0ebd415"
+    "tag": "2.3.0",
+    "commit": "eac2684f111dc42775d9c97ab8c1c27ef55e97b1"
   },
   "_source": "https://github.com/cloudinary/cloudinary_js.git",
   "_target": "^2.1.3",

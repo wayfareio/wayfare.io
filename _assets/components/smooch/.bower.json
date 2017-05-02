@@ -1,6 +1,6 @@
 {
   "name": "smooch",
-  "version": "3.13.1",
+  "version": "3.14.4",
   "authors": [
     "Andrew Lavers <andrew@smooch.io>",
     "Marc-Antoine Lemieux <marc@smooch.io>",
@@ -16,14 +16,13 @@
   "license": "http://smooch.io/terms.html",
   "homepage": "http://smooch.io",
   "private": false,
-  "_release": "3.13.1",
+  "_release": "3.14.4",
   "_resolution": {
     "type": "version",
-    "tag": "3.13.1",
-    "commit": "9f92ccd6a8f2593fb5a09908c4cb11fefd26ec1f"
+    "tag": "3.14.4",
+    "commit": "6df2425b5ae3be1744731b0bb016718c95aec509"
   },
   "_source": "https://github.com/smooch/smooch-js.git",
   "_target": "^3.13.1",
-  "_originalSource": "smooch",
-  "_direct": true
+  "_originalSource": "smooch"
 }
