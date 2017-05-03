@@ -1,6 +1,7 @@
 ---
 title: General Assembly
 date: 2017-04-17 21:08:00 Z
+published: false
 headline: 'General Assembly: Career Lab'
 images:
   splash_image: "/uploads/careerlab.jpg"
