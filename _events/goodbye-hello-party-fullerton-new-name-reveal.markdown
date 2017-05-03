@@ -13,4 +13,5 @@ urls:
 location: Fullerton
 ---
 
+One party, two locations.
 We’re saying “goodbye” to Wayfare and “hello” to our new name. We’d love for you to join us at our Goodbye, Hello party on Thursday, May 18th in either of our locations. Have lunch with us as we reveal the new name and why we chose it! It’s free and we’re providing lunch so RSVP and let us know at which location you’ll be joining us!
