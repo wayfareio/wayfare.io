@@ -14,8 +14,6 @@ hero:
   buttons:
   - url: https://wayfare.ticketleap.com/idea-weekend/
     title: Buy Your Ticket
-  - url: https://wayfare.io/startups/idea-weekend-contest/
-    title: Win A Ticket!
 tickets:
   url: https://wayfare.ticketleap.com/idea-weekend/
   text: Buy Your <strong>Ticket</strong>
