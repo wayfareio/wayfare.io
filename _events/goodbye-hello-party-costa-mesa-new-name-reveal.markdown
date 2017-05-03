@@ -8,6 +8,9 @@ images:
 dates:
   start_date: 2017-05-18 00:00:00 Z
   end_date: 2017-05-18 13:00:00 Z
+urls:
+  info_url: https://wayfare.ticketleap.com/wayfare-goodbye-hello-party-costa-mesa-location/
+location: Costa Mesa
 ---
 
 One party, two locations.
