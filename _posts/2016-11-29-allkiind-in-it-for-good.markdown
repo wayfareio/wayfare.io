@@ -26,11 +26,11 @@ image: "/uploads/all-kiind.jpg"
 ---
 
 In the middle of the hot summer of 2016 in a garage in Fullerton, CA, a few friends got together and dreamed. It may be cliché, but they wanted to create the best business they could imagine: an excellent brand with a pure heart. They wanted to do something truly good and make the world brighter. 
-They talked and bonded and rallied around certain indispensable values. We brainstormed 50 possible names and wrote them on a whiteboard. We lived on iced coffee from Starbucks and Del Taco burritos (and they still have hundreds of hot sauce packets).<!-- more --> 
+They talked and bonded and rallied around certain indispensable values. We brainstormed 50 possible names and wrote them on a whiteboard. We lived on iced coffee from Starbucks and Del Taco burritos (and they still have hundreds of hot sauce packets).<!-- more -->
 
-> “[We] talked about our sincere desire to make the world better. We started with our values and built a business that would embody them”, said Luke Laubhan, Co-Founder & Co-CEO, “We knew we valued inclusiveness, and agreed that unity, positivity (the opposite of cynicism) and honesty are building blocks for a better reality. We aspired to be global. We liked the idea of 'mankind,' something that represents all of our infinite potential. [And] finally, Allkiind clicked.” 
+> “[We] talked about our sincere desire to make the world better. We started with our values and built a business that would embody them”, said Luke Laubhan, Co-Founder & Co-CEO, “We knew we valued inclusiveness, and agreed that unity, positivity (the opposite of cynicism) and honesty are building blocks for a better reality. We aspired to be global. We liked the idea of 'mankind,' something that represents all of our infinite potential. [And] finally, Allkiind clicked.”
 
-Somewhere in the midst of brainstorming and burritos on another 90 degree day, it all took shape. The dream materialized, and Allkiind was born. **Allkiind is a social enterprise that makes lifestyle products, speaks boldly into people and everyday culture, and financially supports a variety of causes and non-profits… all for the common good.** 
+Somewhere in the midst of brainstorming and burritos on another 90 degree day, it all took shape. The dream materialized, and Allkiind was born. **Allkiind is a social enterprise that makes lifestyle products, speaks boldly into people and everyday culture, and financially supports a variety of causes and non-profits… all for the common good.**
 
 Allkiind’s chief cause is to truly do good, across every aspect of the company, broadly and openly. Specifically, they’ve focused on three main areas:
 
@@ -46,4 +46,4 @@ Allkiind is just a little over three months old (they launched in August '16), a
 
 We’re inspired by the team at AllKiind team and the beautiful way they are pursuing work & the common good. They are a living example of “a small group of thoughtful, committed citizens [that] can change the world”, and they have.
 
-We’re excited to have them a part of [Spread Joy](wayfare.ticketleap.com/spread-joy) Market this Saturday at Wayfare Costa Mesa! Stop by THIS Saturday from 11 AM - 4PM to shop Allkiind products, meet the team, and enjoy a Neat Coffee or one of many incredible local food vendors! Click to learn more about Spread Joy or enter our door prize giveaway!
+We’re excited to have them a part of [Spread Joy](https://wayfare.ticketleap.com/spread-joy) Market this Saturday at FLDWRK Costa Mesa! Stop by THIS Saturday from 11 AM - 4PM to shop Allkiind products, meet the team, and enjoy a Neat Coffee or one of many incredible local food vendors! Click to learn more about Spread Joy or enter our door prize giveaway!

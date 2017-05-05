@@ -54,9 +54,9 @@ One of the biggest challenge I face as an entrepreneur is myself. I create more 
 
 Another challenge is having to educate people on what I do, since it's a bit of a new field. Getting people up to speed on what "social impact" is is half the battle. My advice on that is: be an evangelist. If you have to educate, be sure to inspire. 
 
-**Why did you decide to work out of Wayfare?**
+**Why did you decide to work out of FLDWRK?**
 
-I LOVED how the other businesses had a social good component and people understood me so easily. I also just really liked the vibe - it was an instinct thing. The way the leadership there cultivates people is also something I am inspired by. You can clearly see that anyone sitting somewhere within the Wayfare walls wants success for everyone around them. From an institutional level, they are very organized and make things easy (this is so key!) and while it feels like you're surrounded by family, they also let you do yo' work thang. 
+I LOVED how the other businesses had a social good component and people understood me so easily. I also just really liked the vibe - it was an instinct thing. The way the leadership there cultivates people is also something I am inspired by. You can clearly see that anyone sitting somewhere within the FLDWRK walls wants success for everyone around them. From an institutional level, they are very organized and make things easy (this is so key!) and while it feels like you're surrounded by family, they also let you do yo' work thang. 
 
 **What are some ways (if any) we can support you and get involved with your work?**
 

@@ -71,8 +71,8 @@ Everything I do has to fit into one of the above time slots.
 
 My suggestions to others who are having similar challenges is to determine what your full day is going to look like. Is it 9 to 5 or sunrise to sunset? My schedule is 5:00AM to 11:00PM - that's a pretty full day but you'd be surprised how much you can get done if you prioritize every hour and cut out the nonsense. I don't feel stressed or overworked and wake up everyday energized and ready to tackle anything that comes my way. 
 
-**Why did you decide to work out of Wayfare?**
+**Why did you decide to work out of FLDWRK?**
 
-I had looked at other shared workspaces but after a visit and meeting the some of the people working here it felt like home. It's a very creative environment and sitting alongside other entrepreneurs makes Wayfare a great place to work and meet some great people!
+I had looked at other shared workspaces but after a visit and meeting the some of the people working here it felt like home. It's a very creative environment and sitting alongside other entrepreneurs makes FLDWRK a great place to work and meet some great people!
 
 Check out [Vipe](http://instagram.com/vipedesai) & [HDX Mix](http://hdxmix.com) online & on social media [here!](http://instagram.com/hdxmix) 

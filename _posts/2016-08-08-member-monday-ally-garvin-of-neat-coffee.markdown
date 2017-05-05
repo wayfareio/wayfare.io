@@ -57,7 +57,7 @@ Day to day, you can mostly find me slinging lattes, running errands, creating ne
 
 **How do you stay inspired? Productive?**
 
-I stay inspired by hearing other people's stories and visiting other coffee shops. On my admin days, I enjoy placing orders and working out my profit margins from the comfort of Wayfare's lounge chairs and couches.
+I stay inspired by hearing other people's stories and visiting other coffee shops. On my admin days, I enjoy placing orders and working out my profit margins from the comfort of FLDWRK's lounge chairs and couches.
 
 **What's your favorite part of your work?**
 
@@ -69,17 +69,17 @@ The people I get to see everyday, working with other local businesses and dreami
 
 Besides the nitty gritty of working out profit margins, and knowing who and when to hire, it's hard to stay focused and to know what to say yes or no to as a new business owner. Create a vision/philosophy for your business based on your morals, values and goals and then let that guide your decisions. I would also suggest meeting on a regular basis with another business owner or someone smarter than you. Ask for help. Write down all of your ideas. Make tangible to-do lists and then create check points for yourself. It's important to look back at even a month ago to see what you've accomplished and then decide what you want/need to do next.
 
-**Why did you decide to work out of Wayfare?**
+**Why did you decide to work out of FLDWRK?**
 
-Originally Keri Fox gave me the idea! I wanted a space where I could start out small, keep a low overhead and gain momentum while looking for a larger location. Wayfare has been the absolute ideal spot to start up shop and I don't think I'll ever leave. Neat and Wayfare are both based around a model of community and it turns out that we're pretty complimentary to each other :)
+Originally Keri Fox gave me the idea! I wanted a space where I could start out small, keep a low overhead and gain momentum while looking for a larger location. FLDWRK has been the absolute ideal spot to start up shop and I don't think I'll ever leave. Neat and FLDWRK are both based around a model of community and it turns out that we're pretty complimentary to each other :)
 
 **What are some ways (if any) we can support you and get involved with your work?**
 
-The Wayfare community has already done so much for Neat. Thanks for being so encouraging and supportive!
+The FLDWRK community has already done so much for Neat. Thanks for being so encouraging and supportive!
 
 Visit Neat [online](http://neat.coffee) & on [social media](http://instagram.com/neat.coffee), and stop by to enjoy a tasty honey cinnamon or lavender latte during Neat's open hours:
 
 **Mondays-Fridays: 7am-4pm  
 & Saturdays: 8am-noon**
 
-Located inside Wayfare at the corner of Baker & Redhill at [270 Baker St E, Ste 200, Costa Mesa, CA 92626](https://goo.gl/maps/PH8TPTV6rKN2).
+Located inside FLDWRK at the corner of Baker & Redhill at [270 Baker St E, Ste 200, Costa Mesa, CA 92626](https://goo.gl/maps/PH8TPTV6rKN2).

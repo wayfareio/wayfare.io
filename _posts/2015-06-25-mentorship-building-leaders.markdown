@@ -9,7 +9,7 @@ redirect_from: "/2015/06/25/mentorship-building-leaders/"
 ---
 
 ######**Mentoring Leaders in Low-Income Neighborhoods**
-In April, [Wayfare](wayfare.io) chose Community Development as our monthly focus and we chose [Mika Community Development Corporation](mikacdc.org) in Costa Mesa as our main  partner for this focus. It was a joy to see people from all over Costa Mesa and Orange County gather as [Wayfare's coworking space](wayfare.io/workspace) transformed into a Taco Tuesday fundraiser for this awesome organization in collaboration with the 
+In April, [FLDWRK](fldwrk.io) chose Community Development as our monthly focus and we chose [Mika Community Development Corporation](mikacdc.org) in Costa Mesa as our main  partner for this focus. It was a joy to see people from all over Costa Mesa and Orange County gather as [FLDWRK's coworking space](fldwrk.io/workspace) transformed into a Taco Tuesday fundraiser for this awesome organization in collaboration with the 
 [Orange County Community Foundation's Giving Day Fundraiser](http://www.oc-cf.org). The fundraiser was a great success, but funds are just one portion of the greater picture in terms of supporting Mika.  **Relationships are the core of what Mika is about, and mentorship is a key part of the mission of this awesome non-profit organization.** 
 
 <!-- more -->

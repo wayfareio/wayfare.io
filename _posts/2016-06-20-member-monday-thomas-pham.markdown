@@ -50,7 +50,7 @@ My favorite part of work is seeing that our clients are happy with our services 
 
 Some of the biggest challenges that I've been working on and overcoming is how to delegate. As a business owner, you're only one person. Its important to learn to delegate and build a team around you that you trust that can execute. Putting processes in place is important. Someone once told me "Thomas, could you build your company if you were never able to leave your house?" The answer is yes! With the right processes in place, and the right people surrounding you, you can absolutely build a restaurant or a business without ever going out your front door. If anyone has questions about this, I'm happy to share more! 
 
-**Why did you decide to work out of Wayfare?**
+**Why did you decide to work out of FLDWRK?**
 
 I wanted to work around like-minded individuals in a cool work environment. I get the most done being away from my Team. Its worked out, and I've gotten to meet so many cool individuals. I'm always busy, but if I haven't met you yet, tap me on the shoulder, because it would be my pleasure to get to know more of my neighbors. 
 

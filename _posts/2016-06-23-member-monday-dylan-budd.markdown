@@ -52,13 +52,13 @@ Ministering the gospel through preaching and counseling. I get to show people Je
 
 The greatest challenge is working through the deception of my own heart. The greatest fight in my life is inward. So my advice for minsters of the gospel would be: the gospel you preach is the gospel you desperately need. Love it 
 
-**Why did you decide to work out of Wayfare?**
+**Why did you decide to work out of FLDWRK?**
 
-I needed a space that could accommodate both vocations. Wayfare was a perfect fit and location for me. 
+I needed a space that could accommodate both vocations. FLDWRK was a perfect fit and location for me. 
 
 **What are some ways (if any) we can support you and get involved with your work?**
 
-The culture at Wayfare encourages members to partner together for the good of our city. That has already happened in many practical ways! 
+The culture at FLDWRK encourages members to partner together for the good of our city. That has already happened in many practical ways! 
 
 <!-- more --> 
 

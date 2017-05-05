@@ -50,7 +50,7 @@ _Yes!_ We require everyone to purchase [Special Event Liability Insurance](https
 
 ##### Is furniture is included in the event rental?
 
-We have 24 large wooden desks that are great for banquet tables! We just ask that you cover them with plastic table covering and then put linens over them. We also have two beautiful (and comfortable) soft-seated lounge areas (one in the front of the space and one in the back). Along with this, Wayfare has a handful of white, rolling desks that can be used for decorations, food, etc. Chairs are included for certain events.
+We have 24 large wooden desks that are great for banquet tables! We just ask that you cover them with plastic table covering and then put linens over them. We also have two beautiful (and comfortable) soft-seated lounge areas (one in the front of the space and one in the back). Along with this, FLDWRK has a handful of white, rolling desks that can be used for decorations, food, etc. Chairs are included for certain events.
 
 ##### Will Neat Coffee be open at my event?
 

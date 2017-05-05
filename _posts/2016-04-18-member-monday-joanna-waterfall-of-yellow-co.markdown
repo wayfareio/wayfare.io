@@ -24,7 +24,7 @@ Legally Blonde, duh.
 
 **What's your favorite local restaurant?**
 
-I live in LA, sooo I really don't know the local restaurants well! Anyone want to take me to dinner? 
+I live in LA, sooo I really don't know the local restaurants well! Anyone want to take me to dinner?
 
 **How would you spend your ideal day off?**
 
@@ -51,9 +51,9 @@ I can't choose. I love so much of it. I love learning, I love growing, I love be
 
 There's a ton of challenges. The ones that come to mind are the finances and just making money in general. I tend not to prioritize money, but it's essential when you're running a business. Being intentional and having a plan is key. Money is a tool, that's all it is. The better you manage it, the better you'll be able to use the tool. If your body tenses up when you hear the word budget, I'd encourage you dig deep and think about what the real reason you're not wanting to dig into that is. If you know what stops you, you can pinpoint it and move past it. And maybe treat yourself to ice cream after you tackle it :) I'm all about rewarding yourself for the small victories!
 
-**Why did you decide to work out of Wayfare?**
+**Why did you decide to work out of FLDWRK?**
 
-Wayfare is far for me. Like 1.5 hours far. So I really LOVE the peeps to come so far for them! There's a few reasons I chose Wayfare. 1- Values. Their values align directly with mine, which is SO important to me. 2- [Wayfare Labs](http://wayfarelabs.org). I mean, I really come to Wayfare for Labs, and what I've learned about business, life and my faith from these guys is knowledge and wisdom I'll take with me throughout my entire life. 3- Attitude. These people are super talented and have amazing stuff happening, but they do it all without egos. Like, none. It's so rare to find people like that and when I find them I want to surround myself with them! 
+FLDWRK is far for me. Like 1.5 hours far. So I really LOVE the peeps to come so far for them! There's a few reasons I chose FLDWRK. 1- Values. Their values align directly with mine, which is SO important to me. 2- [Startup programs](http://fldwrk.io/startups). I mean, I really come to FLDWRK for the startup programs, and what I've learned about business, life and my faith from these guys is knowledge and wisdom I'll take with me throughout my entire life. 3- Attitude. These people are super talented and have amazing stuff happening, but they do it all without egos. Like, none. It's so rare to find people like that and when I find them I want to surround myself with them!
 
 **What are some ways (if any) we can support you and get involved with your work?**
 

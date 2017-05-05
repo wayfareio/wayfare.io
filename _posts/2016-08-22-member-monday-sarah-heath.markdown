@@ -58,9 +58,9 @@ I love getting to be with people in their biggest moments and I love creating th
 
 Time management is the hardest part of my job currently. From being a project manager for a big re-build project, to managing volunteers and creating weekly talks my time is filled with good things but I could work 24 hours everyday. I think the best thing I can do is create a team that help me take some of these things off of my desk. I think building a team is always one of the most important things about being a change maker!
 
-**Why did you decide to work out of Wayfare?**
+**Why did you decide to work out of FLDWRK?**
 
-During the construction of our facility they took down the office space, not only that but someone kept stealing the cooper wire and so we didn't even have electricity for a month. Just when I thought slow wifi was a stressor having no power caused us to have to get creative! I could have worked from home but being surrounded by change makers was always a goal for us. Working at Wayfare was an intentional choice for me to be in contact with those who were doing some really important and creative things in Costa Mesa that the church community can partner with and enact some crazy goodness in the world!
+During the construction of our facility they took down the office space, not only that but someone kept stealing the cooper wire and so we didn't even have electricity for a month. Just when I thought slow wifi was a stressor having no power caused us to have to get creative! I could have worked from home but being surrounded by change makers was always a goal for us. Working at FLDWRK was an intentional choice for me to be in contact with those who were doing some really important and creative things in Costa Mesa that the church community can partner with and enact some crazy goodness in the world!
 
 **What are some ways (if any) we can support you and get involved with your work?**
 

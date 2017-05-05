@@ -20,11 +20,11 @@ Amy Logan
 
 **The best movie of all time is clearly....**
 
-Hmm..that's a tough one! I'd probably have to say Space Jam and She's the Man :) 
+Hmm..that's a tough one! I'd probably have to say Space Jam and She's the Man :)
 
 **What's your favorite local restaurant?**
 
-I just recently went to The Deck on Laguna Beach and it was amazing! Yummy burgers and a sunset view while sitting on the beach? Pretty sure it doesn't get much better than that! 
+I just recently went to The Deck on Laguna Beach and it was amazing! Yummy burgers and a sunset view while sitting on the beach? Pretty sure it doesn't get much better than that!
 
 **How would you spend your ideal day off?**
 
@@ -44,15 +44,15 @@ Much of what motivates me is the fact that my work is making a difference in the
 
 **What's your favorite part of your work?**
 
-I never imagined I’d be running a business so honestly I just love the excitement of it all. One day I’m working on marketing strategies and the next day I’m hunting fabric stores in downtown LA for the perfect lining for a new tote style. Every day is filled with different experiences and challenges and I love that I’m able to just be fearless in trying new things. 
+I never imagined I’d be running a business so honestly I just love the excitement of it all. One day I’m working on marketing strategies and the next day I’m hunting fabric stores in downtown LA for the perfect lining for a new tote style. Every day is filled with different experiences and challenges and I love that I’m able to just be fearless in trying new things.
 
 **What are some of the biggest challenges of your work and what advice would you give to someone experiencing similar challenges?**
 
-Sometimes when I dream about all that I hope JOJI to become and realize all that needs to be done to get there, it can be quite overwhelming. I’m sure others can relate to the feeling that there is always something that I could be working on and always more that I could be doing. It’s easy to get swept away in thinking about the future and all that I should or should not be doing, but honestly it just comes down to focusing on one task at a time. Because I have so much flexibility in choosing what I work on during a normal day, it’s easy to focus on the fun stuff and put the mundane stuff on the backburner. But I’ve learned to prioritize and crack down on finishing the tough stuff right at the beginning of my morning. I’m always most productive in the first few hours, so most of the time I’ll wake up and go straight to my computer to get them out of the way before I do anything else that day. I’m a huge “to do” list kind of girl, so those help me over the course of the day to determine what is the biggest priority. 
+Sometimes when I dream about all that I hope JOJI to become and realize all that needs to be done to get there, it can be quite overwhelming. I’m sure others can relate to the feeling that there is always something that I could be working on and always more that I could be doing. It’s easy to get swept away in thinking about the future and all that I should or should not be doing, but honestly it just comes down to focusing on one task at a time. Because I have so much flexibility in choosing what I work on during a normal day, it’s easy to focus on the fun stuff and put the mundane stuff on the back burner. But I’ve learned to prioritize and crack down on finishing the tough stuff right at the beginning of my morning. I’m always most productive in the first few hours, so most of the time I’ll wake up and go straight to my computer to get them out of the way before I do anything else that day. I’m a huge “to do” list kind of girl, so those help me over the course of the day to determine what is the biggest priority.
 
-**Why did you decide to work out of Wayfare?**
+**Why did you decide to work out of FLDWRK?**
 
-I loved everything about wayfare immediately after visiting – the environment, the good vibes, the community, and of course, the coffee! I love being surrounded by people that are working towards making the world a better place however that might mean to them. And let’s be real, working from home just never works the way you want it to. 
+I loved everything about FLDWRK immediately after visiting – the environment, the good vibes, the community, and of course, the coffee! I love being surrounded by people that are working towards making the world a better place however that might mean to them. And let’s be real, working from home just never works the way you want it to.
 
 **What are some ways we can support you and get involved with your work?**
 

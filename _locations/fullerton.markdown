@@ -21,7 +21,7 @@ contact:
   manager-last: Fierro
   phone: "(888) 608-6461"
   sms: "(888) 608-6461"
-  email: hi@wayfare.io
+  email: hi@fldwrk.io
 gather:
   id: wv3ebo4n
 ---

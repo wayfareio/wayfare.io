@@ -45,7 +45,7 @@ I'm a lifestyle photographer...the core of my business is currently focused on w
 
 **How do you stay inspired? Productive?**
 
-Working around other inspiring and creative people. Not to turn this into a plug for Wayfare, but since coming to work here I have found my productivity and creativity has exponentially improved! Quality conversations with other people who are entrepreneurs inspires me to do better work and do it more consistently. Also, the coffee...the coffee is great.
+Working around other inspiring and creative people. Not to turn this into a plug for FLDWRK, but since coming to work here I have found my productivity and creativity has exponentially improved! Quality conversations with other people who are entrepreneurs inspires me to do better work and do it more consistently. Also, the coffee...the coffee is great.
 
 **What's your favorite part of your work?**
 
@@ -55,7 +55,7 @@ Providing my clients/friends with a tangible takeaway from some of the biggest d
 
 The comparison game is a huge challenge in the creative realm. It's so easy to focus on what everyone else is doing and tell yourself the lies that you will never do as good, be as good, or create enough to compete or make an impact. Truth is, you have a unique product that is perfect for the right client...no one can do "you" and no one can create exactly what you do. As soon as you stop trying to copy others success or work you can start to create what is right for you and explore new levels that you didn't know were possible.
 
-**Why did you decide to work out of Wayfare?**
+**Why did you decide to work out of FLDWRK?**
 
 Previously I was working from home, but I found that it was far to easy to get distracted from my work. I'm such a people person and I'm a little ADD, so having other productive people around me to have short conversations with as well as the music and beautiful environment...that all seems to focus my attention on the work at hand. I honestly could not imagine a better place to work at.
 

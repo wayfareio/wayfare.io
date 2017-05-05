@@ -49,7 +49,7 @@ My favorite thing about work is getting to learn from everyone on the team. Gett
 
 One of the biggest challenges is working in a company that's dispersed, because communication can be hard when there's no face-to-face interaction. My advice is to never underestimate the power of chit-chat. We have a check-in round each morning where we talk about things that are non work-related, which makes communication about work-related issues throughout the day much easier. It opens those channels right from the get go.
 
-**Why did you decide to work out of Wayfare?**
+**Why did you decide to work out of FLDWRK?**
 
 I really like getting up in the morning with somewhere to go. It gives my day a lot more intention than just walking from my bedroom to my kitchen table and sitting down to work. What I realized after I started working here was that I also really missed having a sense of community. There's something about surrounding yourself with like-minded people all working towards something that can't be reproduced. 
 

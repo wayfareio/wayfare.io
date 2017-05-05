@@ -10,13 +10,12 @@ nav:
 
 ## Events FAQ
 
-##### Can I host a meeting at Wayfare?
+##### Can I host a meeting at FLDWRK?
 
 _Yes!_ We have three meeting rooms (ranging from 4-8 people) in Costa Mesa and one meeting room (for 8 people) in Fullerton that you can rent by the hour. If your group is larger than 8 people, please [contact us](https://wayfare.typeform.com/to/vn3h2H) about reserving the main space in either location.
 
 ##### What kinds of events do you host?
-
-Wayfare is ideally suited for workshops, non-profit gatherings, business events & celebratory gatherings; but we would love to learn about whatever your occasion may be! View our [locations](/workspaces) pages for event details and to submit your event inquiry.
+ FLDWRK is ideally suited for workshops, non-profit gatherings, business events & celebratory gatherings; but we would love to learn about whatever your occasion may be! View our [locations](/workspaces) pages for event details and to submit your event inquiry.
 
 ##### Do you offer non-profit discounts?
 
@@ -30,7 +29,7 @@ If you plan to serve alcohol at your event, we require you to use our preferred 
 
 ##### What is your catering policy?
 
-You are welcome to select your own licensed & insured caterer or bring in your own food (Costco platters, pre-cooked meals, etc). Please keep in mind that our kitchens in both locations are for last minute food prep only, and do not allow for cooking or refrigerated food storage. Any caterers and/or outside vendors must provide a copy of their certificate of insurance and catering license to Wayfare, naming Wayfare as stated, and will be delivered at least one month prior to the event or upon booking if event is to occur less than one months time.
+You are welcome to select your own licensed & insured caterer or bring in your own food (Costco platters, pre-cooked meals, etc). Please keep in mind that our kitchens in both locations are for last minute food prep only, and do not allow for cooking or refrigerated food storage. Any caterers and/or outside vendors must provide a copy of their certificate of insurance and catering license to FLDWRK, naming FLDWRK as stated, and will be delivered at least one month prior to the event or upon booking if event is to occur less than one months time.
 
 ##### Do I need event insurance? Where do I get it?
 

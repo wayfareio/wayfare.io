@@ -1,7 +1,7 @@
 ---
 title: Jeff Tanner
 date: 2016-09-20 20:57:00 Z
-company_name: Wayfare
+company_name: FLDWRK
 job_title: Chief Strategy Officer
 bio_image: "/assets/images/jeff-tanner.jpg"
 ---

@@ -8,7 +8,7 @@ redirect_from: "/2016/01/21/traveling-tips-for-the-new-year/"
 
 #### 1. Bring Something New
 
-When you are traveling, it is always a good idea to bring something new. This is for kids and adults alike. For kids, a new book or a new set of stickers will do wonders in curing boredom. I'm being honest, bringing a new book or even a new item of clothing helps me feel excited about the trip I'm taking.  As we embark on a new year, this might mean developing a new habit or practice, visiting a new location, trying a new hobby, or starting a new business. This could mean changing where you work or how you work by joining a new workspace and being a part of a new community of people. Perhaps a local awesome coworking community. See what I did there? Wayfare loves new members!
+When you are traveling, it is always a good idea to bring something new. This is for kids and adults alike. For kids, a new book or a new set of stickers will do wonders in curing boredom. I'm being honest, bringing a new book or even a new item of clothing helps me feel excited about the trip I'm taking.  As we embark on a new year, this might mean developing a new habit or practice, visiting a new location, trying a new hobby, or starting a new business. This could mean changing where you work or how you work by joining a new workspace and being a part of a new community of people. Perhaps a local awesome coworking community. See what I did there? FLDWRK loves new members!
 
 <!-- more -->
 
@@ -28,7 +28,7 @@ When we decided to go cliff jumping and hiking with small children in such swelt
 
 When traveling, our family needs a plan. We need to pack for where we are going and we need to know the last place we can get fuel for 200 miles. We need to purchase airline tickets and get passports. When I travel somewhere new, I nearly always ask around my circle of friends if someone has been to where I am going and what tips they have for me.
 
-I consult my friends similarly in life. One thing I love about being part of a community of Wayfarers is that we can seek advice and help each other develop more solid plans than what we could come up with on our own. This is especially true when we ask for input from people who have traveled a similar path and may be a few steps ahead of us on the journey.
+I consult my friends similarly in life. One thing I love about being part of the community at FLDWRK is that we can seek advice and help each other develop more solid plans than what we could come up with on our own. This is especially true when we ask for input from people who have traveled a similar path and may be a few steps ahead of us on the journey.
 
 #### 6. Change the Plan
 

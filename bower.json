@@ -1,15 +1,15 @@
 {
-  "name": "wayfare.io",
+  "name": "fldwrk.io",
   "authors": [
-    "Brandon Arbini <b@wayfare.io>"
+    "Brandon Arbini <b@fldwrk.io>"
   ],
-  "description": "Wayfare",
+  "description": "FLDWRK",
   "main": "",
   "moduleType": [
     "globals"
   ],
   "license": "MIT",
-  "homepage": "wayfare.io",
+  "homepage": "fldwrk.io",
   "private": true,
   "ignore": [
     "**/.*",

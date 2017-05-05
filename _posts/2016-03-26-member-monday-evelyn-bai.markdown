@@ -51,7 +51,7 @@ The creativity aspect. Looking at a client's website and seeing all the ways it 
 
 Some of my biggest challenges in LIFE, not just work, are that I'm a hopeless idealist. I hate that my ideas are impractical because of the nature of humans, or gravity, or money, or some other annoying, limiting thing. But I know in my heart that heeding these ideas and having the courage to do something with them is the only way we will advance anything good on this planet, and I admire those people who stand up to adversity -- and ridicule -- to make stuff happen. I hope to be one of them.
 
-**Why did you decide to work out of Wayfare?**
+**Why did you decide to work out of FLDWRK?**
 
 Well, my last job was an 8-minute commute, and this one is a 40 minute commute, so it wasn't something I was super excited about at first! However, this environment is ideal for a small company like ours, because if we were in an office by ourselves we'd probably drive each other crazy! I love the energy, the people, the decor, the tunes, and the silver lining to the drive time is that I can listen to podcasts and have my alone time, which is something that we introverts crave. My apologies if you hear me drive into the parking lot with my car thumping. Sometimes Led Zeppelin is necessary in the morning. :) 
 

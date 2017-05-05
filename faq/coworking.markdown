@@ -12,13 +12,12 @@ nav:
 
 ##### What are your open coworking hours?
 
-Both Wayfare locations are open for coworking Monday-Friday from 9am to 5pm. Wayfare members receive exclusive access to extended hours (24/7 for dedicated desk & office members and 7am to 7pm for all other coworking plans — barring any special events).
+Both FLDWRK locations are open for coworking Monday-Friday from 9am to 5pm. FLDWRK members receive exclusive access to extended hours (24/7 for dedicated desk & office members and 7am to 7pm for all other coworking plans — barring any special events).
 
-##### Can I work at Wayfare on the weekends?
+##### Can I work at FLDWRK on the weekends?
+ FLDWRK is closed on the weekends for coworking, but dedicated members have keys to access their offices on the weekends.
 
-Wayfare is closed on the weekends for coworking, but dedicated members have keys to access their offices on the weekends.
-
-Occasionally we host fun weekend events and we’d love for you to join us! Subscribe to our newsletter to join the Wayfare community & get to know others in your city.
+Occasionally we host fun weekend events and we’d love for you to join us! Subscribe to our newsletter to join the FLDWRK community & get to know others in your city.
 
 ##### Can I bring friends, team members, or clients to work alongside me?
 
@@ -36,7 +35,7 @@ In case you aren't up to speed (see what we did there) on what this means, in la
 
 ##### Do coworking packages come with discounts on meeting rooms?
 
-_Yes!_ All Wayfare memberships come with tiered meeting room discounts to use on meeting rooms each month.
+_Yes!_ All FLDWRK memberships come with tiered meeting room discounts to use on meeting rooms each month.
 
 ##### How do meeting room bookings work?
 
@@ -60,8 +59,8 @@ _Of course!_ We believe coffee is fundamental to world change. Every morning the
 
 ##### Can I bring my dog?
 
-It hurts us to say this, but unfortunately we do not allow dogs at Wayfare. While most of us here are total dog-lovers, we are a growing community of humans...and more humans means more dogs. While this seems like a dream to some, it doesn't always make for a productive coworking environment. So please leave your dogs at home and show us your puppy photos often.
+It hurts us to say this, but unfortunately we do not allow dogs at FLDWRK. While most of us here are total dog-lovers, we are a growing community of humans...and more humans means more dogs. While this seems like a dream to some, it doesn't always make for a productive coworking environment. So please leave your dogs at home and show us your puppy photos often.
 
 ##### Is there parking, and does it cost extra?
 
-We have plenty of parking at both locations, and yes---it’s free! Wayfare Costa Mesa has a large parking lot right out front, and our Fullerton location is seated right next to a parking garage with free timed parking.
+We have plenty of parking at both locations, and yes---it’s free! FLDWRK Costa Mesa has a large parking lot right out front, and our Fullerton location is seated right next to a parking garage with free timed parking.

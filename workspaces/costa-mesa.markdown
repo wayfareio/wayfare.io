@@ -28,7 +28,7 @@ redirect_from: "/locations/costa-mesa"
 
 ## About this Space
 
-Wayfare Costa Mesa is a 6,300 sq/ft industrial chic warehouse located in Costa Mesa, California between the John Wayne Airport and the thriving SOBECA district. It is conveniently seated near 3 major Orange County freeways (55, 73, & 405), and it's proximity to Irvine, Santa Ana and Newport Beach make this location ideal for client meetings, staff retreats, conferences and fundraisers, and much more.
+FLDWRK Costa Mesa is a 6,300 sq/ft industrial chic warehouse located in Costa Mesa, California between the John Wayne Airport and the thriving SOBECA district. It is conveniently seated near 3 major Orange County freeways (55, 73, & 405), and it's proximity to Irvine, Santa Ana and Newport Beach make this location ideal for client meetings, staff retreats, conferences and fundraisers, and much more.
 
 Open, airy, and golden-hued, this design-savvy industrial space is home to startups, churches, non-profits, software engineers, real estate agents and everyone in between. It is also home to Neat Coffee, Costa Mesa's favorite local coffee shop. One step into this space and you'll see why it is such a popular hotspot for coffee-lovers, entrepreneurs, and adventurers alike.
 

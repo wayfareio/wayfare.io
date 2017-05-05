@@ -19,4 +19,4 @@ If you're on the fence about interning this semester, we say: go for it!<!-- mor
 4. **Résumé-building.** Let's be honest, most of our college résumés were less than impressive. Part time here, babysitting there... internships add some meat to the bones of your resume. They tell your future employers that you went out of your way to seek experience and assure them that you would add concrete value to their company.
 5. **Take your career on a test-run.** It's like like playing house---you get to try something out without the burden of a long term commitment. You discover your strengths, your weaknesses, what you love about work, and what you can't stand. You learn what type of people you work well with and what type of people you clash with. You find out what gives you life and what drains you. Internships are key to personal and professional development.
 
-Want to intern at Wayfare? Head to **[wayfare.io/internships](/internships)** to apply + find out more, we can't wait to meet you!
+Want to intern at FLDWRK? Head to **[fldwrk.io/internships](/internships)** to apply + find out more, we can't wait to meet you!

@@ -48,7 +48,7 @@ features:
   text: As a member, your perks extend beyond the work place and into the Fullerton
     community. You will have free access to member-exclusive events like Forum, where
     you will learn from social good pioneers right here in Fullerton. Members also
-    enjoy discounts on select, ticketed Wayfare events and workshops.
+    enjoy discounts on select, ticketed FLDWRK events and workshops.
 - title: Shared Resources
   image: "/assets/images/workspaces/costa-mesa/features/shared-resources.jpg"
   text: Enjoy all the amenities of Staples right in your backyard. Each member has

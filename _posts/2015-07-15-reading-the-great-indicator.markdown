@@ -8,7 +8,7 @@ image: "/uploads/School-Supplies.PNG"
 redirect_from: "/2015/07/15/learning/"
 ---
 
-At Wayfare, we believe in the world's best future and this month we are focusing on and supporting education in our community.
+At FLDWRK, we believe in the world's best future and this month we are focusing on and supporting education in our community.
 
 ####Education
 
@@ -41,7 +41,7 @@ Here is what they have to say:
 **Staff**: Crates of Care & Appreciation Breakfasts/Lunches   
 **Parents**: Free Classes in English, Computer Applications, 
 Community Development, & Parenting Training
-**Students**: Literacy support (during/after school) & [Mentorship](http://blog.wayfare.io/2015/06/22/mentorship/)
+**Students**: Literacy support (during/after school) & [Mentorship](http://blog.fldwrk.io/2015/06/22/mentorship/)
 
 ####Get Involved
 
@@ -49,7 +49,7 @@ Community Development, & Parenting Training
 
 ####School Supply Drive
 
-From now until August 28th, we are accepting donations at Wayfare that will be contributed to the Community Resource Drive hosted by [Trellis](http://www.wearetrellis.com) on August 29, from 9am-2pm.  While you are shopping for school supplies, it would be fantastic if you'd consider purchasing a few extra items for kids who aren't able to do so and dropping them by [Wayfare](http://www.wayfare.io) or attending the event on August 29th.  
+From now until August 28th, we are accepting donations at FLDWRK that will be contributed to the Community Resource Drive hosted by [Trellis](http://www.wearetrellis.com) on August 29, from 9am-2pm.  While you are shopping for school supplies, it would be fantastic if you'd consider purchasing a few extra items for kids who aren't able to do so and dropping them by [FLDWRK](http://www.fldwrk.io) or attending the event on August 29th.  
 
 
 Sources:

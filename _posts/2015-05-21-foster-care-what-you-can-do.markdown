@@ -10,7 +10,7 @@ redirect_from: "/2015/05/21/foster-care/"
 
 #### Monthly Focus
 
-[Wayfare](wayfare.io) exists to provide resources and support for people and organizations as they pursue the world's best future.  We do this through celebrating what's good in the world and working to do what we can restore the broken. As part of this restorative action, every month we have a focus with the intention of raising awareness and prompting action around a specific cause.
+[FLDWRK](fldwrk.io) exists to provide resources and support for people and organizations as they pursue the world's best future.  We do this through celebrating what's good in the world and working to do what we can restore the broken. As part of this restorative action, every month we have a focus with the intention of raising awareness and prompting action around a specific cause.
 
 <!-- more --> 
 
@@ -28,7 +28,7 @@ Some great organizations that are helping address the various needs of vulnerabl
 
 It isn't uncommon for older siblings as young as 18 to be tasked with the care of their younger siblings in an effort to keep them together and out of the foster care system.  In many cases, these caregivers are struggling to keep their family together and provide sufficiently for themselves and the kids in their care.  This is a very obvious example of how simple donations can make a significant impact on the caregivers. [Ezrah's Hands](http://ezrahshands.org) is an organization that helps support these kinship caregivers (people who are taking care of children who are related to them in some way). 
 
-Therefore, we will also be accepting items for donation to [Ezrah's Hand](http://ezrahshands.org) at [Wayfare](wayfare.io) throughout the month of May. The following items can be dropped by Wayfare at any time M-F 9-5 or brought to our [Film Screening and Discussion Panel on May 30th](http://wayfare.ticketleap.com/removed-and-remember-film-screening-and-panel): Shampoo/Conditioner, Toilet paper, Paper towels, Deodorant, Soap/Body Wash, Toothpaste, Toothbrushes, Dish soap, Canned Pinto Beans, White Rice, Cereal, and Gift Cards to El Super, Albertsons, Payless, Walmart, Target and Gas cards. 
+Therefore, we will also be accepting items for donation to [Ezrah's Hand](http://ezrahshands.org) at [FLDWRK](fldwrk.io) throughout the month of May. The following items can be dropped by FLDWRK at any time M-F 9-5 or brought to our [Film Screening and Discussion Panel on May 30th](http://wayfare.ticketleap.com/removed-and-remember-film-screening-and-panel): Shampoo/Conditioner, Toilet paper, Paper towels, Deodorant, Soap/Body Wash, Toothpaste, Toothbrushes, Dish soap, Canned Pinto Beans, White Rice, Cereal, and Gift Cards to El Super, Albertsons, Payless, Walmart, Target and Gas cards. 
 
 #### Film Screening and Discussion Panel
 
@@ -36,4 +36,4 @@ Please join us on [Saturday, May 30th at 7:30PM for a film screening of ReMoved 
 
 [Get a glimpse of the films here](https://vimeo.com/107861975)
 
-We'd love for you to spread the word about this event via social media and personal invitations. See those handy icons at the top of this post? Super easy way to spread the word. [Contact us](https://wayfare.io/contact) if you'd like more information on how you can help foster children and their families in our area. 
+We'd love for you to spread the word about this event via social media and personal invitations. See those handy icons at the top of this post? Super easy way to spread the word. [Contact us](https://fldwrk.io/contact) if you'd like more information on how you can help foster children and their families in our area. 

@@ -67,9 +67,9 @@ Our mission and our people. Nuru places a huge emphasis on our values and cultur
 
 As part of a start-up or nonprofit, there are often limited resources and the work can seem unending. My advice is to prioritize, prioritize, prioritize. Ask yourself "What must happen today, what can wait until tomorrow, what can be accomplished next week?" I start every day with prioritizing, which also helps with achieving better work-life balance. This is a huge passion of mine. Our staff work so hard that work-life balance is often neglected. It's so important to close the laptop, take a break, rest, let off some steam, get rejuvenated, or explore the latest new Skype Mojis. A 3pm outdoor coffee break should be on everyone's work calendar.
 
-**Why did you decide to work out of Wayfare?**
+**Why did you decide to work out of FLDWRK?**
 
-The people! The location! The coffee! (Huge shout-out to [Neat Coffee](http://neat.coffee), the best cup of happiness around.) Traditionally at Nuru, our 25 staff members have all worked-remote. We're now seeing the need for more and better collaboration. Sometimes there is nothing like working with actual humans in-person! Having a space at Wayfare for our Southern CA team has allowed for that in-person collaboration and has been life-changing for me (as the Skype Mojis have been. Have I established that point yet? :))
+The people! The location! The coffee! (Huge shout-out to [Neat Coffee](http://neat.coffee), the best cup of happiness around.) Traditionally at Nuru, our 25 staff members have all worked-remote. We're now seeing the need for more and better collaboration. Sometimes there is nothing like working with actual humans in-person! Having a space at FLDWRK for our Southern CA team has allowed for that in-person collaboration and has been life-changing for me (as the Skype Mojis have been. Have I established that point yet? :))
 
 ![Emily McLaughlin](/uploads/member-monday-emily-mclaughlin-4.jpg)
 

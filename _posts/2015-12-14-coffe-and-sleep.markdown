@@ -8,7 +8,7 @@ image: "/uploads/coffee.jpg"
 redirect_from: "/2015/12/30/coffee-and-sleep/"
 ---
 
-The greatest thing about working for Wayfare is that we get to help people help others. The not so great part is that when we want to sleep, our brains still want to work. It's obvious, but without sleep none of those incredible projects are going to get done.
+The greatest thing about working for FLDWRK is that we get to help people help others. The not so great part is that when we want to sleep, our brains still want to work. It's obvious, but without sleep none of those incredible projects are going to get done.
 
 So why aren't we sleeping? The exciting projects, of course. And coffee. You smiled a little when you read that word, huh? Then you were angry that I implied a correlation between that sweet cup of happiness and your run in with insomnia. Just hang tight a bit before you throw your laptop at me.
 

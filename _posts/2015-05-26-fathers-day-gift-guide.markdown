@@ -8,7 +8,7 @@ image: "/uploads/abi-q-for-artifact-uprising-1.jpg"
 redirect_from: "/2015/05/26/fathers-day-gift-guide/"
 ---
 
-Father’s day is right around the corner, and that means it’s time to honor and celebrate that special dad in your life. He’s hardworking, never thinks of himself, and is more than likely also the world’s hardest person to shop for…. until now. We’ve put together a list of some [gift ideas](https://www.wayfare.io/gift-directory) your dad will love, show him how much you care, but also make a difference in the world we live in by empowering others - just as he’s empowered you.
+Father’s day is right around the corner, and that means it’s time to honor and celebrate that special dad in your life. He’s hardworking, never thinks of himself, and is more than likely also the world’s hardest person to shop for…. until now. We’ve put together a list of some [gift ideas](https://www.fldwrk.io/gift-directory) your dad will love, show him how much you care, but also make a difference in the world we live in by empowering others - just as he’s empowered you.
 <!-- more -->
 
 **For the Classic Dad**
@@ -29,12 +29,12 @@ All of [Parker Clay](www.parkerclay.com)’s products help lift women out of the
 
 **For Dad the Coffee Addict**
 
-This dad loves his morning coffee ritual. He wakes up before the sun to enjoy the quiet while he slowly and meticulously brews his daily cup. This simple time is what anchors and propels him into his day, and few rituals are as important or consistent as coffee in the morning. Father’s Day is a great opportunity to join dad in his ritual, learn more about the art of coffee, help him spice up his morning routine, and even start enjoying a new hobby together. On Saturday, June 13 (the weekend before Father’s Day), Wayfare is partnering with [Bear Coast Coffee](http://bearcoastcoffee.com) to bring you and your dad a [Coffee Education & Tasting Workshop](http://wayfare.ticketleap.com/bear-coast-coffee-workshop-with-jeff-clinard/). Surprise your dad with a Saturday morning out together enjoying your coffee and learning about it too - from new brewing methods to cold brew and cafe tonics. You can sign up [here](http://wayfare.ticketleap.com/bear-coast-coffee-workshop-with-jeff-clinard/) and print out the ticket for his Father's Day Card!
+This dad loves his morning coffee ritual. He wakes up before the sun to enjoy the quiet while he slowly and meticulously brews his daily cup. This simple time is what anchors and propels him into his day, and few rituals are as important or consistent as coffee in the morning. Father’s Day is a great opportunity to join dad in his ritual, learn more about the art of coffee, help him spice up his morning routine, and even start enjoying a new hobby together. On Saturday, June 13 (the weekend before Father’s Day), FLDWRK is partnering with [Bear Coast Coffee](http://bearcoastcoffee.com) to bring you and your dad a [Coffee Education & Tasting Workshop](http://wayfare.ticketleap.com/bear-coast-coffee-workshop-with-jeff-clinard/). Surprise your dad with a Saturday morning out together enjoying your coffee and learning about it too - from new brewing methods to cold brew and cafe tonics. You can sign up [here](http://wayfare.ticketleap.com/bear-coast-coffee-workshop-with-jeff-clinard/) and print out the ticket for his Father's Day Card!
 
 **For Dad the Foodie**
 
 What better way to show your dad you love him than with food? We love trying out new local eats and supporting local businesses, so we’ve come up with a list of places we think dad would love. For the 21+ father/son or daughter duo, try some new beers and board games (yes, board games) at the new [Barley Forge Brewery](http://barleyforge.com) in Costa Mesa. For the barbecue lovers, head over to [Smoqued BBQ](http://www.smoquedbbq.com) in Orange for tri-tip and fried pickles. For the All-American burger-loving Dad, go out for some gourmet burgers and salted pistachio shakes at the delicious [Crow Burger](www.crowburgerkitchen.com) in Newport Beach, or some honey cinnamon sweet potato fries & cowboy burgers at [Eureka! Burger](http://www.eurekarestaurantgroup.com/eat.html) in Huntington. And last but certainly not least, you can never go wrong with some good old-fashioned beer and waffles at the [Iron Press](www.theironpress.com)  (locations in Costa Mesa & Anaheim).
 
-For more gift ideas & a complete list of our favorite world-changing brands, head on over to our [Difference Maker's Gift Guide](http://wayfare.io/gift-directory).
+For more gift ideas & a complete list of our favorite world-changing brands, head on over to our [Difference Maker's Gift Guide](http://fldwrk.io/gift-directory).
 
 Happy Father's Day!

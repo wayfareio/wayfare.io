@@ -19,7 +19,7 @@ features:
 - title: Quality, thoughtful design
   image: "/assets/images/workspaces/costa-mesa/features/quality-design.jpg"
   text: Lit by wide open skylights, brushed with neutral earth tones, and decked with
-    intentional detail, Wayfare Costa Mesa falls somewhere between warehouse chic
+    intentional detail, FLDWRK Costa Mesa falls somewhere between warehouse chic
     and simple elegance. Designed to limit distraction and encourage collaboration,
     we've curated this space to be a perfect fit for the young, motivated startup,
     the experienced CEO, and everyone in between.
@@ -56,7 +56,7 @@ features:
   text: As a member, your perks extend beyond the work place and into the Costa Mesa
     community. You will have free access to member-exclusive events like Forum where
     you will learn from social good pioneers right here at our Costa Mesa location.
-    Members also enjoy discounts on select, ticketed Wayfare events and workshops.
+    Members also enjoy discounts on select, ticketed FLDWRK events and workshops.
 - title: Shared Resources
   image: "/assets/images/workspaces/costa-mesa/features/shared-resources.jpg"
   text: Enjoy all the amenities of Staples right in your backyard. Each member has
@@ -74,7 +74,7 @@ features:
 - title: Mail Service
   image: "/assets/images/workspaces/costa-mesa/features/mail-service.jpg"
   text: Add mail service to skip the clutter at home and have your work-mail delivered
-    directly to Wayfare! Mail is collected and sorted daily into our mail locker,
+    directly to FLDWRK! Mail is collected and sorted daily into our mail locker,
     so that you can store and pick up at your convenience.
 redirect_from: "/locations/costa-mesa/space-features"
 ---

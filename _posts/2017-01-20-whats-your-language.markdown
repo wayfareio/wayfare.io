@@ -12,7 +12,7 @@ author: Anna Kennedy
 image: "/uploads/mika-language-learning.jpg"
 ---
 
-**Today we're hearing from Anna Kennedy from [Mika CDC](mikacdc.org) whose mission is to build whole relationships in Costa Mesa.  One way they're doing this is through Language Learning Nights hosted by Wayfare Costa Mesa.**
+**Today we're hearing from Anna Kennedy from [Mika CDC](mikacdc.org) whose mission is to build whole relationships in Costa Mesa.  One way they're doing this is through Language Learning Nights hosted by FLDWRK Costa Mesa.**
 
 If you’re anything like me, you talk about practicing your Spanish more than you actually find time to do it. For many people, it’s been since high school, which, is getting further and further away. Our lives are busy and sometimes it’s hard to figure out a time to practice a foreign language.
 
@@ -26,4 +26,4 @@ Darren, one of the native English participants says this of his experience, “T
 
 As a native Spanish speaker, Loly has said this: “My experience at the Language Learning Night was amazing. This class is very important for me, not only because I have to learn English, but because is part of my daily lifestyle. Due to the way we practice a foreign language, it helps build my confidence with communicating with more people around me.”
 
-We all want to hear and be heard; to learn and share what we’ve learned. Are you ready to share your language and make some new friends? This is a free night of learning and relationship building hosted at [Wayfare Costa Mesa](https://wayfare.io). Contact me at [anna@mikacdc.org](mailto:anna@mikacdc.org) if you're interested in more details!
+We all want to hear and be heard; to learn and share what we’ve learned. Are you ready to share your language and make some new friends? This is a free night of learning and relationship building hosted at [FLDWRK Costa Mesa](https://fldwrk.io). Contact me at [anna@mikacdc.org](mailto:anna@mikacdc.org) if you're interested in more details!

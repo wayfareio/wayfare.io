@@ -34,4 +34,4 @@ The dinners [Siestas for Fiestas](http://www.siestasforfiestas.com) provides are
 
 Through their mission, [Siestas for Fiestas](http://www.siestasforfiestas.com) is bridging the gap for everyday consumers to be a part of something bigger. Each blanket provides a meal for an entire family, and their customers have the opportunity to buy a blanket and directly bless a family across the world on Christmas day. In the next year, [Siestas for Fiestas](http://www.siestasforfiestas.com) will be working closely with their church in Cancun on new projects that create opportunities for those living in poverty so they may provide for themselves and their families to end poverty in the areas surrounding Cancun, Mexico. 
 
-Join them in their mission by buying a blanket at [Spread Joy Market](https://wayfare.ticketleap.com/spread-joy/) here at Wayfare Costa Mesa on Saturday, December 3rd from 11AM-4PM. 
+Join them in their mission by buying a blanket at [Spread Joy Market](https://wayfare.ticketleap.com/spread-joy/) here at FLDWRK Costa Mesa on Saturday, December 3rd from 11AM-4PM. 

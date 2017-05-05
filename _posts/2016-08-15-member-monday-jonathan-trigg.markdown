@@ -13,7 +13,7 @@ excerpt: I am currently developing the business model for The Integrated which e
   media (because I have an awesome intern team and intern director!). The Integrated
   started about 2 years ago when I decided I wanted to mentor a few college students
   because it is such a vital and crucial developmental time for them. Gandolf, aka
-  Jeff Tanner (co-founder of Wayfare), planted the seed that my ideas could turn into
+  Jeff Tanner (co-founder of FLDWRK), planted the seed that my ideas could turn into
   a non-profit... so here I am today.
 redirect_from: "/2016/08/15/member-monday-jonathan-trigg/"
 image: "/uploads/member-monday-jonathan-trigg.jpg"
@@ -47,7 +47,7 @@ Ireland, to have a glass of irish whiskey with an Irish man.
 
 **What do you do for work? Tell us a little bit about how you got to where you are today.**
 
-I am currently developing the business model for The Integrated which essentially supports emerging adults, age 18-26, transition into adulthood. I am writing the curriculum and developing the website as well as doing everything, except social media (because I have an awesome intern team and intern director!). The Integrated started about 2 years ago when I decided I wanted to mentor a few college students because it is such a vital and crucial developmental time for them. Gandolf, aka Jeff Tanner (co-founder of Wayfare), planted the seed that my ideas could turn into a non-profit... so here I am today.
+I am currently developing the business model for The Integrated which essentially supports emerging adults, age 18-26, transition into adulthood. I am writing the curriculum and developing the website as well as doing everything, except social media (because I have an awesome intern team and intern director!). The Integrated started about 2 years ago when I decided I wanted to mentor a few college students because it is such a vital and crucial developmental time for them. Gandolf, aka Jeff Tanner (co-founder of FLDWRK), planted the seed that my ideas could turn into a non-profit... so here I am today.
 
 Because the Integrated is a startup and I needed some form of income, I also work at Sidecar Doughnuts & Coffee as a Manager.
 
@@ -65,15 +65,15 @@ But seriously, I love sharing the mission and vision and seeing others get excit
 
 The unknown and the fear of making mistakes. Something I keep running into is that I miss 100% of the shots I don't take. Yep, that's from Wayne Gretzky, but it so true. Keep taking risks and every failure means knowledge and growth for pushing your business forward or just growing personally in all aspects.
 
-**Why did you decide to work out of Wayfare?**
+**Why did you decide to work out of FLDWRK?**
 
 Gandalf (Jeff Tanner) told me to. Whatever Gandolf says, you do.
 
-I started because I was and still am so new the the business and startup world and Wayfare is such a great support for me spiritually, practically, and emotionally as I press on into the wilderness of starting a business. There is also such a rad network of other entrepreneurs doing amazing things to advance the common good in different ways that makes working here so much fun to connect with, partner with, and collaborate with other like-minded folk.
+I started because I was and still am so new the the business and startup world and FLDWRK is such a great support for me spiritually, practically, and emotionally as I press on into the wilderness of starting a business. There is also such a rad network of other entrepreneurs doing amazing things to advance the common good in different ways that makes working here so much fun to connect with, partner with, and collaborate with other like-minded folk.
 
 **What are some ways (if any) we can support you and get involved with your work?**
 
-It's difficult to say at the moment as the Wayfare community has and still supports me in every way I can imagine right now!
+It's difficult to say at the moment as the FLDWRK community has and still supports me in every way I can imagine right now!
 
 One thing we are doing right now with the Integrated is collecting stories for our blog from adults that have experience & wisdom to share with young 20-somethings emerging into adulthood. We'd love to have you share the things you wish you would have heard when you were younger and the wisdom you've gleaned along the way. If you would like to share your story with us, please email me at **jonathan@theintegrated.life**.
 

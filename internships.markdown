@@ -17,23 +17,19 @@ Spring Semester 2017 (Currently Accepting Applications for Summer 2017 & Fall 20
 **Weekly schedule:**
 5-10 hours/week
 
-## About Wayfare
+## About FLDWRK
+**What is FLDWRK?**
+ FLDWRK is a coworking, gathering & event space, and startup incubator for people & organizations who aspire to advance the common good.
 
-**What is Wayfare?**
+**What is the mission of FLDWRK?**
+ FLDWRK exists to unite and propel creators, founders and adventurers for the common good (the most good for all people). Our community consists of people who actively pursue the common good through their work and lives, and desire to work together and support each other in their various endeavors. This consists primarily of social enterprises, non-profits, or those have a give back model built into their business. We are focused and committed to growing  a community and culture of people who are committed to the world's best future.
 
-Wayfare is a coworking, gathering & event space, and startup incubator for people & organizations who aspire to advance the common good. 
-
-**What is the mission of Wayfare?**
-
-Wayfare exists to unite and propel creators, founders and adventurers for the common good (the most good for all people). Our community consists of people who actively pursue the common good through their work and lives, and desire to work together and support each other in their various endeavors. This consists primarily of social enterprises, non-profits, or those have a give back model built into their business. We are focused and committed to growing  a community and culture of people who are committed to the world's best future.
-
-## Interning at Wayfare
-
-**What does it mean to be an intern at Wayfare?**
+## Interning at FLDWRK
+**What does it mean to be an intern at FLDWRK?**
 
 We value our interns and go the extra mile to make sure they are involved in our staff and community life and receive a learning experience that fits their career goals. We are interested in their unique gifts, passions, & career goals; and do  our best to help them put their skills to practice and gain valuable hands-on experience in their field.
 
-**Interning at Wayfare is a unique opportunity to:**
+**Interning at FLDWRK is a unique opportunity to:**
 
 * Work at a fast paced, fun, social good startup
 * Freedom to execute your ideas with a motivated and passionate team around you
@@ -53,10 +49,10 @@ We value our interns and go the extra mile to make sure they are involved in our
 
 **What is the compensation and are there any perks?**
 
-This internship is unpaid, however, all interns will receive the following Wayfare benefits:
+This internship is unpaid, however, all interns will receive the following FLDWRK benefits:
 
-* Access to Wayfare Member Perks & Discounts, including our professional member directory
-* A Wayfare membership during their internship (up to 10 hours/week)
+* Access to FLDWRK Member Perks & Discounts, including our professional member directory
+* A FLDWRK membership during their internship (up to 10 hours/week)
 * Credit hours towards your major
 * And of course, meals & fun events throughout the program!
 
@@ -87,14 +83,13 @@ Jill Arbini, Marketing Coordinator and Intern Supervisor
 
 **What you will do:**
 
-* Build and refine the Wayfare social media strategy
+* Build and refine the FLDWRK social media strategy
 * Update Facebook, Twitter and Instagram account on a regular basis & in a timely manner
-* Respond to posts or comments to bring value to user's interactions with Wayfare
-* Schedule and execute posts in online marketing software
+* Respond to posts or comments to bring value to user's interactions with FLDWRK * Schedule and execute posts in online marketing software
 * Perform research to find articles, stories, resources, or other content that is relevant to our clearly defined follower base
 * Manage, execute, and distribute a consistent weekly newsletter of relevant and valuable articles
 * Create supplemental content such as emails, social media messages, and blog posts as assigned
-* Identify opportunities for content partnerships (Wayfare Gift Guide, perks system, etc.)
+* Identify opportunities for content partnerships (FLDWRK Gift Guide, perks system, etc.)
 * Prepare analytical reports to understand effectiveness of various marketing campaigns
 
 **Skills required:**
@@ -115,6 +110,6 @@ Jill Arbini, Marketing Coordinator and Intern Supervisor
 
 ## Apply
 
-Ready to join the team at Wayfare and work toward the world's best future?
+Ready to join the team at FLDWRK and work toward the world's best future?
 
 <p><a href="https://wayfare.typeform.com/to/xPJDH2" class="btn btn-primary btn-lg">Apply now</a></p>

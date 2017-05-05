@@ -1,5 +1,5 @@
 ---
-title: 'Meet the Founders in Wayfare''s Launch Program: Batch 2'
+title: 'Meet the Founders in FLDWRK''s Launch Program: Batch 2'
 date: 2016-01-12 22:42:00 Z
 categories:
 - Community
@@ -7,9 +7,9 @@ author: Jay Sherer
 redirect_from: "/2016/01/12/meet-the-founders-and-startups-in-wayfare-labs-batch-2/"
 ---
 
-Four new startups have been accepted into Wayfare Labs’ second batch (Batch 2). We’re excited to see them launch their movements and begin forming their institutions. Let’s take a look at these missional organizations and their intrepid founders.
+Four new startups have been accepted into FLDWRK’s second Launch program (Batch 2). We’re excited to see them launch their movements and begin forming their institutions. Let’s take a look at these missional organizations and their intrepid founders.
 
-<!-- more --> 
+<!-- more -->
 
 ##The Yellow Conference
 Founder: Joanna Waterfall and Sally Kim
@@ -38,7 +38,7 @@ The Reclamation Society exists to reclaim and recycle modern-day storytelling by
 ##Writer's Room Productions
 Founder: Amber Q. Robins
 
-Writer's Room Productions is all about inspiring students through creative writing. They help students become leaders, encourage them to build strong coping skills, and help children think outside the box. They exist to ignite and inspire the next generation through a variety of assembly and workshop programs (even expanding their program to children who are living in long-term hospital care or home situations). Writer's Room Productions strives to promote healing and confidence building experience in the communities where they operate. 
+Writer's Room Productions is all about inspiring students through creative writing. They help students become leaders, encourage them to build strong coping skills, and help children think outside the box. They exist to ignite and inspire the next generation through a variety of assembly and workshop programs (even expanding their program to children who are living in long-term hospital care or home situations). Writer's Room Productions strives to promote healing and confidence building experience in the communities where they operate.
 
 ##Batch 2 Starts THIS WEEK!
 

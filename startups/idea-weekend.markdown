@@ -60,11 +60,11 @@ guides:
 - first_name: Jeff
   last_name: Tanner
   image: "/assets/images/jeff-tanner.jpg"
-  title: Cofounder of Wayfare
+  title: Cofounder of FLDWRK
   company: Speaker and Startup Coach
   text: For Jeff, a life of adventure is exploring both new lands and new ideas. It’s
     envisioning the future of communities, of work, of play. And it’s about starting
-    and building. As cofounder of Wayfare's coworking community and startup programs,
+    and building. As cofounder of FLDWRK's coworking community and startup programs,
     Jeff serves as a guide for numerous startup founders who are launching their ideas
     into viable, scalable movements for the common good.
 - first_name: Elisha
@@ -72,7 +72,7 @@ guides:
   image: "/assets/images/elisha-avne.jpg"
   title: Integration Guide
   company: Weekend Facilitator
-  text: Elisha Avne is the Program Development Manager at Wayfare and an Integration
+  text: Elisha Avne is the Program Development Manager at FLDWRK and an Integration
     guide for our startup programs, where she has helped guide many organizations
     as they build their organizations from MVP to sustainability. She loves helping
     entrepreneurs, founders, and teams build and develop their organizations to reach
@@ -83,13 +83,13 @@ guides:
 - first_name: Brandon
   last_name: Arbini
   image: "/assets/images/brandon-arbini.jpg"
-  title: Cofounder of Wayfare
+  title: Co-founder of FLDWRK
   company: Startup Coach
   text: Brandon is a software engineer by trade who thrives on developing systemized
     solutions to meet specific needs. As a founding partner or early stage employee
-    in over 10 different startups and a board member of 2 non-profits,  Brandon has
+    in over 10 different startups and a board member of 2 non-profits, Brandon has
     intricate knowledge of the startup process in both the for-profit and non-profit
-    sectors. As cofounder of Wayfare, Brandon is currently immersed in a world he
+    sectors. As cofounder of FLDWRK, Brandon is currently immersed in a world he
     loves…helping others take purposeful action on their meaningful ideas.
 guides-text: More guides/speakers coming soon!
 testimonials:
@@ -100,13 +100,13 @@ testimonials:
   company: Whilst Magazine
   text: I knew I wanted to take Whilst farther, to really dive into what the magazine
     stood for and how I could create a career out of this growing passion. I frequently
-    found myself on the Wayfare website, and it was during Idea Weekend that I learned
+    found myself on the FLDWRK website, and it was during Idea Weekend that I learned
     how to articulate what Whilst really is and how it could change lives. That’s
     when I knew I wanted to be a part of a community that exists to change the world
     for good and create beauty in whatever life stage we are journeying through. The
     next step, then, was to continue to press into what my vision was for Whilst—how
     far could this concept of being present in the midst really go? Through sitting
-    down and talking it out with the Wayfare coaches and other entrepreneurs, I found
+    down and talking it out with the FLDWRK coaches and other entrepreneurs, I found
     my dreams were bigger than I had imagined.
 - first_name: Keturah
   last_name: Kennedy
@@ -131,9 +131,9 @@ layout: custom/startups/idea-weekend
 The top two things we hear from people who want to take action on a new idea are:
 
 1. "I don't know where to start."
-2. "I don't know the next steps to take." 
+2. "I don't know the next steps to take."
 
-We've found it's all too common to start five steps ahead of where you should, spend countless hours googling conflicting advice, or not start at all. So we've developed with a solution to help you take *purposeful* action on the *right* things. **Idea Weekend is an intensive hands-on community experience that equips you to take intentional action on your idea.** This unique gathering includes informative talks and feedback from startup guides, hands-on application of key learnings, personalized coaching, and support from others just like you. Plus there will be lots of great food, conversations, and coffee. 
+We've found it's all too common to start five steps ahead of where you should, spend countless hours googling conflicting advice, or not start at all. So we've developed with a solution to help you take *purposeful* action on the *right* things. **Idea Weekend is an intensive hands-on community experience that equips you to take intentional action on your idea.** This unique gathering includes informative talks and feedback from startup guides, hands-on application of key learnings, personalized coaching, and support from others just like you. Plus there will be lots of great food, conversations, and coffee.
 
-If you have an idea, we'd love to support you – so we're giving away a free spot! 
-[Tell us about your idea](https://wayfare.io/startups/idea-weekend-contest/) for a chance to receive a free ticket.
+If you have an idea, we'd love to support you – so we're giving away a free spot!
+[Tell us about your idea](https://fldwrk.io/startups/idea-weekend-contest/) for a chance to receive a free ticket.
