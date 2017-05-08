@@ -2,8 +2,13 @@
 title: Internships
 position: 7
 redirect_from: "/interns"
-hero_image: "/assets/images/wayfare-interns.jpg"
-layout: page/hero-image
+hero:
+  image: "/assets/images/banner-internship.jpg"
+  title: FLDWRK Internships
+  subtitle: Help us create the world's best future
+  buttons:
+  - url: https://wayfare.typeform.com/to/xPJDH2
+    title: Apply Now
 ---
 
 ## Official program details & dates
@@ -112,4 +117,4 @@ Jill Arbini, Marketing Coordinator and Intern Supervisor
 
 Ready to join the team at FLDWRK and work toward the world's best future?
 
-<p><a href="https://wayfare.typeform.com/to/xPJDH2" class="btn btn-primary btn-lg">Apply now</a></p>
+<p><a href="https://wayfare.typeform.com/to/xPJDH2" class="btn btn-primary btn-lg text-uppercase">Apply <strong>Now</strong></a></p>

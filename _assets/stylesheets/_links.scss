@@ -1,14 +1,14 @@
 .content {
   a {
     cursor: pointer; border-bottom: 2px dotted $gray-light; display: inline-block;
-    &.active, &:hover { border-bottom: 2px solid $brand-tertiary; }
+    &.active, &:hover { border-bottom: 3px solid $brand-primary; }
     &.btn {
       border-bottom: 0;
       &.active, &:hover { border-bottom: 0; }
     }
   }
   .lead a {
-    border-bottom-color: $brand-tertiary; border-bottom-style: solid;
+    border-bottom-color: $brand-primary; border-bottom-style: solid;
   }
 }
 

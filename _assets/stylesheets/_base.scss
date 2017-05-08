@@ -1,21 +1,22 @@
 @import "tether/dist/css/tether";
 
 $enable-transitions: true;
-$brand-primary: #76B5D0;
-$brand-secondary: #A4D2CE;
-$brand-tertiary: #F0D119;
+$brand-primary: #E3DFD1;
+$brand-secondary: #C9A526;
+$brand-tertiary: #224288;
+$brand-black: #231F20;
 $gray-light: #C2C8CD;
 $gray-dark: #565D65;
-$btn-secondary-color: #fff !default;
+$btn-secondary-color: $brand-black !default;
 $btn-secondary-bg: $brand-secondary !default;
 $btn-secondary-border: $brand-secondary !default;
-$link-color: $brand-primary;
+$link-color: $brand-black;
 $link-hover-color: $link-color;
 $link-hover-decoration: none;
 $border-radius: 2px;
 $border-radius-lg: 2px;
 $border-radius-sm: 2px;
-$headings-font-family: "brandon-grotesque", sans-serif;
+$headings-font-family: "Playfair Display", sans-serif;
 @import "bootstrap/scss/bootstrap";
 
 $fa-font-path: "/assets/fonts";

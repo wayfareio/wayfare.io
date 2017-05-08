@@ -12,7 +12,7 @@ layout: site
             <h4 class="card-title">{{ page.hero.title }}</h4>
             <h5 class="card-subtitle">{{ page.hero.subtitle | lowercase }}</h5>
             {% for button in page.hero.buttons %}
-              <a href="{{ button.url }}" class="btn btn-primary">{{ button.title }}</a>
+              <a href="{{ button.url }}" class="btn btn-primary text-uppercase">{{ button.title }}</a>
             {% endfor %}
           </div>
         </div>

@@ -4,7 +4,7 @@
       background-color: transparent; padding: .25rem;
       > .card-title, .card-subtitle { color: #231F20; font-family: 'Playfair Display'; font-weight: 600; letter-spacing: 3px; text-transform: none; }
       .card-subtitle { font-family: 'soleil', sans-serif; font-weight: 600; text-transform: uppercase; letter-spacing: 3px; display: inline; }
-      .card-date { font-family: 'Playfair Display'; color: #231F20; }
+      .card-date { font-family: 'Playfair Display'; color: $brand-black; }
       div.shout-marks-left  { content: url(../images/shout-marks-left.svg); display: inline; height: 80px; padding-right: 20px; }
       div.shout-marks-right { content: url(../images/shout-marks-right.svg); display: inline; height: 80px; padding-left: 20px; }
       @include media-breakpoint-only(xl) {

@@ -4,8 +4,8 @@
     display: flex; align-items: center; justify-content: center;
     > .card-block {
       background-color: transparentize(#fff, 0.10); text-align: center; min-width: 70%; flex: none;
-      > .card-title { font-size: 2.625rem; color: $brand-primary; font-weight: 900; text-transform: uppercase; margin-bottom: 1rem; }
-      > .card-subtitle { font-size: 1.6rem; color: $gray-dark; font-weight: 300; text-transform: uppercase; margin-bottom: 1rem; }
+      > .card-title { font-size: 2.625rem; color: $brand-primary; margin-bottom: 1rem; }
+      > .card-subtitle { font-size: 1.6rem; color: $gray-dark; font-weight: 600; text-transform: uppercase; margin-bottom: 1rem; }
     }
     @include media-breakpoint-only(xs) {
       padding: 0;
