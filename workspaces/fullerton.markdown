@@ -22,6 +22,17 @@ nav:
 redirect_from: "/locations/fullerton"
 ---
 
+<div class="row pb-4">
+  <div class="col-12 col-md-4 col-lg-4 pb-3 justify-content-center">
+    <img class="rounded-circle img-fluid" src="/assets/images/mitch-fierro.jpg" alt="" data-rjs="2">
+  </div>
+  <div class="col-12 col-md-8 col-lg-8 my-auto">
+    <h2 class="h1 script">hi! I'm Mitch Fierro</h2>
+    <p>I’m the Community Manager at Wayfare Fullerton. Bringing people together is one of my greatest joys in life; especially when it's in Fullerton. I’d love to invite into our workspace community here in Fullerton and help your find your place.</p>
+    {% button url:"https://wayfare.typeform.com/to/vn3h2H" text:"Contact Mitch" target:"blank" %}
+  </div>
+</div>
+
 ## About this Space
 
 Located in the heart of downtown, Wayfare's Fullerton space is located on the ground floor of the historic Chapman Bank Building---a five story structure built in 1923 in the stylistic vein of the Chicago School of architecture. This space features private offices on the upstairs mezzanine, and coworking, lounges, meeting rooms, and a coffee bar on the ground level. Buzzing with the life of downtown, Wayfare Fullerton is walking distance from endless amounts of food and retail. Less than an hour from LAX, this location is the ideal space for client meetings, conferences, fundraisers, and much more.
