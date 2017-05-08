@@ -23,8 +23,21 @@ nav:
   side:
     id: costa-mesa
     highlight: whq-about
+team:
+- Allison Tash
 redirect_from: "/locations/costa-mesa"
 ---
+
+<div class="row pb-4">
+  <div class="col-12 col-md-4 col-lg-4 pb-3 justify-content-center">
+    <img class="rounded-circle img-fluid" src="/assets/images/allison-tash.jpg" alt="" data-rjs="2">
+  </div>
+  <div class="col-12 col-md-8 col-lg-8 my-auto">
+    <h2 class="h1 script">hey there, I'm Allison</h2>
+    <p>I am the Community Manager in Costa Mesa. I love people and seeing how their work contributes to seeing communities thrive. My hope is that our workspace is a welcoming and inspiring space for people to connect, play and work. I would love to chat and hear all about what you're working on and how we can support you.</p>
+    {% button url:"https://wayfare.typeform.com/to/vn3h2H" text:"Contact Allison" target:"blank" %}
+  </div>
+</div>
 
 ## About this Space
 

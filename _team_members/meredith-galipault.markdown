@@ -1,7 +1,7 @@
 ---
 title: Meredith Galipault
 position: 11
-job_title: Community Assistant
+job_title: Community Coordinator
 fun_title: Chief Artsy-Fartsy
 bio_image: "/assets/images/meredith-galipault.jpg"
 ---
