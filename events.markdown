@@ -2,8 +2,8 @@
 title: Events
 position: 2
 lead:
-  line1: GETTING TOGETHER
-  line2: is **IMPORTANT**
+  line1: Getting Together
+  line2: is **Important**
   content: 'Whatever journey you''re on, we all need a little inspiration to keep
     us going. FLDWRK events are all about gathering people around celebration, learning,
     creativity, and a passion for social good. Whether you want to host your own gathering

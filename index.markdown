@@ -9,7 +9,7 @@ keywords: coworking, costa mesa, fullerton, orange county, california, social en
   common good, social good, startups, incubator, collaborative workspace, co-working,
   social enterprise, mission, missional enterprise, kingdom, impact
 hero:
-  image: "/assets/images/workspaces/costa-mesa/hero-bg.jpg"
+  image: "/assets/images/banner-wiggles.jpg"
   title: Join a Community of
   subtitle: World Changers
   buttons:
@@ -47,4 +47,3 @@ sections:
   - url: "/workspaces"
     title: Find a **Workspace**
 ---
-

@@ -1,14 +1,11 @@
-<div class="nav-site-social">
-  {% include list-social.html style="hidden-sm-down float-right" %}
-</div>
 <nav class="navbar navbar-toggleable-sm navbar-light nav-site" role="navigation">
   <button type="button" class="navbar-toggler navbar-toggler-right">
     <small>MENU</small> &#9776;
   </button>
   <a class="navbar-brand _no-underline" href="{{page.logo_link | default:'/'}}">
-    <img src="/assets/images/wayfare-logo.svg" alt="{{ site.title }}">
+    <img src="/assets/images/fldwrk-logo.svg" alt="{{ site.title }}">
   </a>
-  <ul class="nav navbar-nav float-sm-right mr-3">
+  <ul class="nav navbar-nav ml-auto my-auto mr-3">
     {% for site_page in site.data.nav-site %}
       <li class="nav-item{% if site_page.id == page.nav.site.highlight %} active{% endif %}">
         <a href="{{ site_page.url | prepend: site.baseurl }}" class="nav-link">

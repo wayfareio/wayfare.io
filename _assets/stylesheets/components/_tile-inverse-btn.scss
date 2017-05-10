@@ -3,7 +3,7 @@
   img { border-top-left-radius: 2px; border-top-right-radius: 2px; }
   .tile-content { position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%); }
   .card-title { text-transform: uppercase; font-size: 3rem; color: white; }
-  .card-subtitle { text-transform: lowercase; font-size: 3rem; color: white; font-family: "SocietyEditor"; }
+  .card-subtitle { text-transform: lowercase; font-size: 3rem; color: white; font-family: $font-family-serif; }
   @include media-breakpoint-only(lg) {
     .card-title { font-size: 2.8rem; }
     .card-subtitle { font-size: 2.8rem; }

@@ -2,21 +2,30 @@
 
 $enable-transitions: true;
 $brand-primary: #E3DFD1;
+$brand-primary-dark: #D0BF95;
 $brand-secondary: #C9A526;
 $brand-tertiary: #224288;
 $brand-black: #231F20;
 $gray-light: #C2C8CD;
-$gray-dark: #565D65;
-$btn-secondary-color: $brand-black !default;
-$btn-secondary-bg: $brand-secondary !default;
-$btn-secondary-border: $brand-secondary !default;
+$gray-dark: #7F7D7E;
+$btn-primary-color:     $brand-black;
+$btn-primary-bg:        $brand-primary;
+$btn-primary-border:    $btn-primary-bg;
+$btn-secondary-color:   $brand-black;
+$btn-secondary-bg:      #FFFFFF;
+$btn-secondary-border:  $brand-black;
+$body-color: $brand-black;
 $link-color: $brand-black;
 $link-hover-color: $link-color;
 $link-hover-decoration: none;
 $border-radius: 2px;
 $border-radius-lg: 2px;
 $border-radius-sm: 2px;
-$headings-font-family: "Playfair Display", sans-serif;
+$font-family-sans-serif: "soleil", -apple-system, system-ui, BlinkMacSystemFont, Roboto, "Helvetica Neue", Arial, sans-serif;
+$font-family-serif: "Playfair Display", Georgia, "Times New Roman", Times, serif;
+$font-family-base: $font-family-serif;
+$headings-font-family: $font-family-serif;
+$headings-line-height:   1.3;
 @import "bootstrap/scss/bootstrap";
 
 $fa-font-path: "/assets/fonts";

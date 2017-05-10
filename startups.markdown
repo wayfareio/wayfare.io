@@ -2,8 +2,8 @@
 title: Startups
 position: 3
 lead:
-  line1: STARTUP PROGRAMS
-  line2: for **SOCIAL ENTREPRENEURS**
+  line1: Startup Programs
+  line2: for **Social Entrepreneurs**
   content: FLDWRK's startup incubator provides programs tailored to the unique needs
     of social good startups. In the startup incubator, you receive the space and support
     you need so you can turn your ideas into reality and guide your organization from
@@ -64,4 +64,3 @@ gallery:
   - "/assets/images/gallery-06.jpg"
 layout: custom/startups
 ---
-

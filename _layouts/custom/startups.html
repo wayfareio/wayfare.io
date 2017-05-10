@@ -22,7 +22,7 @@ layout: site
   <div class="container">
     <div class="row">
       <div class="col col-md-8 offset-md-2 pb-3">
-        <h3 class="text-uppercase text-center">Let's Get Started</h3>
+        <h2 class="text-center">Let's Get Started</h2>
         <p class="text-center">You can pick the program that's the best fit for you depending on whatever stage you are currently in. We’ve intentionally designed each program in the startup incubator to transition into the next program should you desire to continue to receive support and guidance as you continue to grow. If you aren’t sure where you fit, <a href="https://wayfare.typeform.com/to/dFUr0x">contact us</a> and we’ll help get you on the right path to changing the world. </p>
       </div>
     </div>
@@ -32,20 +32,20 @@ layout: site
           {% for program in page.programs %}
             <div class="card">
               <div class="card-header text-center">
-                <a href="{{ program.url }}" class="text-white _no-underline">
+                <a href="{{ program.url }}" class="tk-soleil _no-underline">
                   {{ program.banner }}
                 </a>
               </div>
               <div class="card-block">
                 {% include icon.html name=program.icon classes="icon-xl icon-block icon-center" %}
-                <h5 class="card-title text-center text-uppercase mt-4 mb-3">
+                <h3 class="card-title text-center mt-4 mb-3">
                   {{ program.title | markdownify | remove:'<p>' | remove:'</p>' }}
-                </h5>
+                </h3>
                 <div class="card-text text-center">
                   {{ program.description | markdownify }}
-                  <p class="mb-0"><strong>WHO</strong></p>
+                  <p class="tk-soleil mb-0"><strong>WHO</strong></p>
                   {{ program.who | markdownify }}
-                  <p class="mb-0"><strong>STAGE</strong></p>
+                  <p class="tk-soleil mb-0"><strong>STAGE</strong></p>
                   {{ program.stage | markdownify }}
                 </div>
               </div>

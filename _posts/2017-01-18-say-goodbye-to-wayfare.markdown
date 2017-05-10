@@ -19,9 +19,13 @@ It's a new year and we have big news. We started dreaming about what FLDWRK woul
 
 As we were forming the organization, we decided on the name FLDWRK because it captured the heart behind our vision. The word FLDWRK has a double meaning. It means the act of journeying. It also means provisions for the journey. This word clearly encompassed the community we envisioned—a community of creators, doers, and adventurers aspiring to pursue the common good and support each other in the journey.
 <!-- more -->
+<<<<<<< HEAD
 Around the same time that we decided to name our company FLDWRK, another company with a different mission (they sell furniture) called Wayfair was on the rise. They sell furniture at "way fair" prices and made news as they received hundreds of millions in capital investment that year. As we became aware of their company, we explored the potential of any conflict associated with our names sounding the same. We didn't see any conflict, and our lawyers agreed.
+=======
+Around the same time that we decided to name our company Wayfare, another company with a different mission and a similar name was on the rise. They made news as they received hundreds of millions in capital investment that year. As we became aware of their company, we explored the potential of any conflict associated with similar names. We didn't see any conflict, and our lawyers agreed.
+>>>>>>> master
 
-Recently however, their lawyers did not. We appreciate great furniture as much as anyone, and we even have a few items procured through our very own orders from wayfair.com itself. However, we are faced with a decision. We must decide how much time, energy, and money we want to spend in legal fees (the quick answer is zero...nobody wants to pay legal fees) to continue down the path of fighting to keep our name. We've chosen a different path.
+Recently however, their lawyers did not. So we are faced with a decision. We must decide how much time, energy, and money we want to spend in legal fees (the quick answer is zero...nobody wants to pay legal fees) to continue down the path of fighting to keep our name. We've chosen a different path.
 
 In our startup programs, we advise organizations to quickly assess environmental changes and the big picture when experiencing challenges – to make sense of the situation and rapidly adjust. So we've taken our own advice and have decided to change our name while staying true to who we are…who you are. We're going to redirect our energy and steward our resources in a positive direction to rename this community, and we want you, the community, included in the process.
 

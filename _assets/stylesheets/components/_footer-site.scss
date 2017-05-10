@@ -1,6 +1,6 @@
 .footer-site {
-  background: $gray-lightest; padding: 1rem 0; margin-top: 2rem;
-  h1, h2, h3, h4, h5, h6 { color: $gray; text-transform: uppercase; }
+  background: #F7F7F7; padding: 1rem 0; margin-top: 2rem;
+  h1, h2, h3, h4, h5, h6 { color: $brand-black; text-transform: uppercase; font-family: "soleil", sans-serif; letter-spacing: 1px; }
   .nav-link { padding: 0; }
   .list-social {
     &.list-social-buttons {

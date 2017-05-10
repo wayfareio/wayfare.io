@@ -1,5 +1,6 @@
 .card-deck-4 .card {
-  .card-header { padding: .5rem .65rem; background-color: $brand-secondary; font-size: .9rem; font-weight: 500; letter-spacing: .6px; color: #FFFFFF; border-bottom: none; }
+  border: 1px solid $brand-primary;
+  .card-header { padding: .5rem .65rem; background-color: $brand-primary; font-size: .9rem; letter-spacing: .6px; color: $brand-black; border-bottom: none; }
   .card-footer { background-color: transparent; border-top: none; }
 }
 @include media-breakpoint-only(lg) {

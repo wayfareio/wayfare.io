@@ -6,18 +6,18 @@
       margin-right: $list-inline-padding;
     }
     > .list-social-link {
-      width: 1.5rem; border-bottom: 0;
-      &:hover [fill='#000'] { fill: $brand-primary; }
+      width: 1rem; border-bottom: 0;
+      &:hover [fill='#000'] { fill: $brand-black; }
     }
   }
 
   &.list-social-buttons {
     > .list-social-item {
       > .list-social-link {
-        background: $brand-primary; width: 2.5rem; height: 2.5rem; border-radius: $border-radius;
+        background: $brand-black; width: 2.5rem; height: 2.5rem; border-radius: $border-radius;
         display: flex; justify-content: center; align-items: center;
         [fill='#000'] { fill: #fff; }
-        &:hover { background: darken($brand-primary,8%); }
+        &:hover { background: darken($brand-black,8%); }
       }
     }
   }

@@ -1,10 +1,10 @@
 .nav-site {
-  margin-bottom: 20px; padding: 0.5rem; padding-left: 1rem; padding-right: 0;
+  margin-top: .875rem; margin-bottom: .875rem; padding: 0.5rem; padding-left: 1rem; padding-right: 0;
   @include media-breakpoint-down(sm) {
     padding-left: 0;
   }
   > .navbar-brand img {
-    position: relative; top: 10px;
+    position: relative;
     @include media-breakpoint-only(xs) {
       width: 100px; height: 63px;
     }
@@ -12,13 +12,13 @@
       width: 120px; height: 76px;
     }
     @include media-breakpoint-only(md) {
-      width: 120px; height: 76px;
+      width: 120px; height: 70px;
     }
     @include media-breakpoint-only(lg) {
-      width: 160px; height: 101px;
+      width: 180px; height: 35px;
     }
     @include media-breakpoint-only(xl) {
-      width: 200px; height: 127px;
+      width: 200px; height: 40px;
     }
   }
   > .navbar-nav {
@@ -28,15 +28,6 @@
     }
     @include media-breakpoint-only(sm) {
       display: none;
-    }
-    @include media-breakpoint-only(md) {
-      top: 20px;
-    }
-    @include media-breakpoint-only(lg) {
-      top: 16px;
-    }
-    @include media-breakpoint-only(xl) {
-      top: 26px;
     }
   }
   > .navbar-nav .nav-item {
@@ -64,7 +55,7 @@
     }
   }
   > .navbar-nav .nav-link {
-    font-family: "brandon-grotesque", sans-serif; text-transform: uppercase;
+    font-family: "Playfair Display", serif; color: #7F7D7E;
     @include media-breakpoint-only(sm) {
       font-size: 0.6rem;
     }
@@ -91,11 +82,10 @@
 }
 
 .nav-site-social .list-social {
-  border: 1.5px dotted $gray-light; border-radius: 2px;
-  padding: 1.5rem .5rem .2rem;
+  padding: 1.75rem .5rem .2rem;
   margin-top: -1rem; margin-right: 0rem;
   > .list-social-item {
-    margin-bottom: 0; padding-right: 3px;
+    margin-bottom: 0; padding-right: 5px;
     .list-social-link {
       [fill='#000'] { fill: darken($gray-light, 10%); }
       &:hover [fill='#000'] { fill: $brand-primary; }
