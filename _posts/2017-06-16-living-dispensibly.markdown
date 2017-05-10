@@ -1,6 +1,11 @@
 ---
 title: Living Dispensibly
-date: 2017-05-10 04:01:00 Z
+date: 2017-06-16 04:01:00 Z
+categories:
+- Life
+tags:
+- work life balance
+- priorities
 author: Sally Kim
 image: "/uploads/SallyRaeKim%20Headshot%20resized.jpg"
 ---
