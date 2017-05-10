@@ -5,7 +5,7 @@ author: Jill Arbini
 image: "/uploads/annie-spratt-197448.jpg"
 ---
 
-The majority of my job is writing. I like to write and I like to read. So you'd think I'd be all about managing a blog, getting guest submissions, and writing posts. But lately I've let this blog to the side as I've been focusing on other writing projects for the new name reveal and for our startup programs. The truth is there is I'm feeling a really big case of writer's block lately. I have a whole lot of thoughts in my head and ideas of what to write, but when I go to put pen to paper (or fingers to the keyboard) I feel stuck. <!-- more -->
+The majority of my job is writing and editing. I like to write and I like to read. So you'd think I'd be all about managing a blog, getting guest submissions, and writing posts. But lately I've let this blog go to the side as I've been focusing on other writing projects for the [new name reveal] and for our [startup programs]. The truth is I'm feeling a really big case of writer's block lately. I have a whole lot of thoughts in my head and ideas of what to write, but when I go to put pen to paper (or fingers to the keyboard) I feel stuck. <!-- more -->
 
 I was having an impromptu lunch with one of our members recently and we were catching up on life. Joanna Waterfall and she's the founder of Yellow Co., a company she started to bring together and equip creative entrepreneurial women to use their gifts and talents to be agents of good in the world through the Yellow Conference and the Yellow Collective, as well as amazing blog content in the Yellow Room. 
 
