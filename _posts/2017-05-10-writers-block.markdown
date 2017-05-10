@@ -22,5 +22,5 @@ Once you've gotten it out there, step away. Go do something else. Grab coffee, g
 ## 3. Talk to someone
 In taking to Joanna and my husband about my frustrations, they not only had some good and simple advice, but they were very encouraging. Never underestimate the value of others speaking into your experience, both practically and emotionally. Talking it out helped me articulate exactly what I was experiencing and also allowed others to give me a perspective outside my own. 
 
-So there you have it. A few tips on what to do when you just don't think you can do it. Obviously writer's block isn't even close to among the most pressing problems in the world. But I think these principles can apply to so many more situations. When we work to bring goodness to the world, we'll naturally face resistance in many forms. So keep doing something, take time to step away, talk to others, and then come back to it. 
+So there you have it. A few tips on what to do when you just don't think you can do it. Obviously writer's block isn't even close to among the most pressing problems in the world. But I think these principles can apply to so many more situations. When we work to bring goodness to the world, we'll naturally face resistance in many forms. So keep doing something, take time to step away, talk to others, and then come back to it.
  
