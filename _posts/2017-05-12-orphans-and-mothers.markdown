@@ -32,14 +32,14 @@ This month, let’s get creative. Let’s be awkward and ask questions of how to
 
 How do we do something?  I recommend these organizations who are doing good work. They are changing the world and they need more people to join them. Will you be one of them? 
 
-[Teen Leadership Foundation](http://teenleadershipfoundation.com/)
+[**Teen Leadership Foundation**](http://teenleadershipfoundation.com/)
 Teen Leadership Foundation works directly with the most vulnerable in our county by offering sustainable housing and empowering mentorships for foster youth that have aged out of the system’s support (usually at 18 years old). 
 
-[Ezrah’s Hands](http://ezrahshands.org/introducing-ezrahs-hands/) 
+[**Ezrah’s Hands**](http://ezrahshands.org/introducing-ezrahs-hands/) 
 Ezrah’s Hands assists kinship families (relatives or family friends that step in to provide stable loving homes for children whose parents are no longer able to care for them). Often times kinship families face additional hardships without any financial or community support by the system; these are the foster children and families that fall through the cracks. 
 
-[Home4Good](http://www.home4good.com/)
+[**Home4Good**](http://www.home4good.com/)
 If you’re looking to buy or sell a house, this team of realtors lowers their own commission to fund adoptions and support foster families. 
 
-[Safe Families](http://safe-families.org/about/)
+[**Safe Families**](http://safe-families.org/about/)
 Safe Families connects vulnerable children with temporary host families, preventing the need for foster care. They create extended-family–like supports for desperate families through a community of devoted volunteers to keep families together. 
