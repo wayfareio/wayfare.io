@@ -1,14 +1,13 @@
 ---
 title: Mon Voir Week Night
 date: 2017-04-11 22:08:00 Z
-published: false
 headline: Mon Voir  Floral Watercolor Workshop
 images:
-  splash_image: "/uploads/wayfare%20WC%20april%2026.jpg"
-  thumb_image: "/uploads/wayfare%20WC%20april%2026.jpg"
+  splash_image: "/uploads/wayfare%20WC%20may%2024.jpg"
+  thumb_image: "/uploads/wayfare%20WC%20may%2024.jpg"
 dates:
-  start_date: 2017-04-26 18:00:00 Z
-  end_date: 2017-04-26 21:00:00 Z
+  start_date: 2017-05-24 18:00:00 Z
+  end_date: 2017-05-24 21:00:00 Z
 urls:
   ticket_url: http://www.monvoir.com/register/wayfare-fullerton-april-26-floral-watercolor-workshop
 location: Fullerton
