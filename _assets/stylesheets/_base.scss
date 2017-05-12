@@ -1,23 +1,43 @@
 @import "tether/dist/css/tether";
 
 $enable-transitions: true;
-$brand-primary: #E3DFD1;
-$brand-primary-dark: #D0BF95;
-$brand-secondary: #C9A526;
-$brand-tertiary: #224288;
+// COLORS
+$brand-primary: #f2f0ea;
+$brand-primary-dark: #dbd8cf;
+$brand-secondary: #1414e7;
+$brand-tertiary: #cba725;
+$brand-success: #cba725;
+$brand-info: $brand-primary-dark;
+$brand-warning: #f4ec09;
+$brand-yellow: #f4ec09;
 $brand-black: #231F20;
+$black: $brand-black;
 $gray-light: #C2C8CD;
 $gray-dark: #7F7D7E;
 $body-color: $brand-black;
+// BUTTONS
+$btn-primary-bg: $brand-black;
+$btn-primary-border: $btn-primary-bg;
+$btn-secondary-color: white;
+$btn-secondary-bg: $brand-secondary;
+$btn-secondary-border: $btn-secondary-bg;
+$btn-warning-color: $brand-black;
+$border-radius: 0;
+$border-radius-lg: 0;
+$border-radius-sm: 26px;
+$border-width: 4px;
+// TYPOGRAPHY
+$font-family-serif: "Playfair Display";
+$headings-font-family: $font-family-serif;
+$headings-lg-font-family: $headings-font-family;
+$headings-sm-font-family: "soleil", sans-serif;
+$headings-line-height: 1.3;
+$btn-font-family: "soleil";
 $link-color: $brand-black;
 $link-hover-color: $link-color;
 $link-hover-decoration: none;
-$border-radius: 2px;
-$border-radius-lg: 2px;
-$border-radius-sm: 2px;
-$font-family-serif: "Playfair Display", Georgia, "Times New Roman", Times, serif;
-$headings-font-family: $font-family-serif;
-$headings-line-height: 1.3;
+// ALERTS
+$state-warning-bg: $brand-yellow;
 @import "bootstrap/scss/bootstrap";
 
 $fa-font-path: "/assets/fonts";

@@ -1,6 +1,7 @@
 .btn {
-  font-family: "soleil", sans-serif;
+  font-family: $btn-font-family, sans-serif;
   text-transform: uppercase;
+  letter-spacing: 1px;
   &.btn-white { background: white; }
   &.btn-primary:focus { color: white; }
 }
@@ -8,10 +9,3 @@
   color: white;
   &:hover { color: white; }
 }
-$btn-primary-color:        $black;
-$btn-primary-bg:           $brand-black;
-$btn-primary-border:       $btn-primary-bg;
-
-$btn-secondary-color:      $brand-black;
-$btn-secondary-bg:         $brand-primary;
-$btn-secondary-border:     $btn-secondary-bg;
