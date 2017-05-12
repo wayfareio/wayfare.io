@@ -1,0 +1,19 @@
+body {
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  @include media-breakpoint-only(xl) {
+    background-image: url("/assets/images/header-bg-xl.svg");
+  }
+  @include media-breakpoint-only(lg) {
+    background-image: url("/assets/images/header-bg-lg.svg");
+  }
+  @include media-breakpoint-only(md) {
+    background-image: url("/assets/images/header-bg-md.svg");
+  }
+  @include media-breakpoint-only(sm) {
+    background-image: url("/assets/images/header-bg-sm.svg");
+  }
+  @include media-breakpoint-only(xs) {
+    background-image: url("/assets/images/header-bg-xs.svg");
+  }
+}

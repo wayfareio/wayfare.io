@@ -15,19 +15,15 @@ $link-hover-decoration: none;
 $border-radius: 2px;
 $border-radius-lg: 2px;
 $border-radius-sm: 2px;
-$font-family-sans-serif: "soleil", -apple-system, system-ui, BlinkMacSystemFont, Roboto, "Helvetica Neue", Arial, sans-serif;
 $font-family-serif: "Playfair Display", Georgia, "Times New Roman", Times, serif;
-$font-family-base: $font-family-serif;
 $headings-font-family: $font-family-serif;
-$headings-line-height:   1.3;
+$headings-line-height: 1.3;
 @import "bootstrap/scss/bootstrap";
 
 $fa-font-path: "/assets/fonts";
 @import "font-awesome/css/font-awesome";
-
 @import "select2/dist/css/select2";
 @import "fotorama/fotorama";
-
 @import "fixes";
 @import "buttons";
 @import "fonts";

@@ -1,9 +1,9 @@
 - id: membership
   title: Membership
   url: /membership
-- id: workspaces
-  title: Workspaces
-  url: /workspaces
+- id: spaces
+  title: Spaces
+  url: /spaces
 - id: startups
   title: Startups
   url: /startups
