@@ -1,16 +1,38 @@
 .content {
   a {
-    cursor: pointer; border-bottom: 2px dotted $brand-primary; display: inline-block; font-weight: 500;
-    &.active, &:hover { border-bottom: 2px solid $brand-primary; }
+    cursor: pointer;
+    border-bottom: 2px dotted $brand-primary;
+    display: inline-block;
+    font-weight: 500;
+
+    &.active,
+    &:hover {
+      border-bottom: 2px solid $brand-primary;
+    }
+
     &.btn {
-      border-bottom: 0;
-      &.active, &:hover { border-bottom: 0; }
+      border-bottom-style: solid;
+      border-bottom-color: inherit;
+
+      &.active,
+      &:hover {
+        border-bottom-style: solid;
+        border-bottom-color: inherit;
+      }
     }
   }
+
   .lead a {
-    border-bottom-color: 2px dotted $brand-primary; font-weight: 500;
-    &.active, &:hover { border-bottom: 2px solid $brand-primary; }
+    border-bottom-color: 2px dotted $brand-primary;
+    font-weight: 500;
+
+    &.active,
+    &:hover {
+      border-bottom: 2px solid $brand-primary;
+    }
   }
 }
 
-[data-href] { cursor: pointer; }
+[data-href] {
+  cursor: pointer;
+}
