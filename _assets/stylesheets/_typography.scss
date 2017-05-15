@@ -14,4 +14,6 @@ h3, h4, h5, h6, .h3, .h4, .h5, .h6, {
   }
 }
 .script { font-family: 'SocietyEditor'; }
-.playfair { font-family: "Playfair Display", serif; }
+.playfair { font-family: $font-family-serif, serif; }
+blockquote p { font-family: $font-family-serif, serif; }
+dl dt { font-family: $font-family-sans-serif; }
